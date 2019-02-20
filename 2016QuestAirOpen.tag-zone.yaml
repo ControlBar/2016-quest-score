@@ -1,0 +1,3592 @@
+timing:
+- zonesSum:
+  - 39
+  - 39
+  - 38
+  - 31
+  - 19
+  - 16
+  zonesFirst:
+  - 2016-05-07T16:40:09Z
+  - 2016-05-07T17:48:07Z
+  - 2016-05-07T18:14:35Z
+  - 2016-05-07T18:58:56Z
+  - 2016-05-07T20:03:46Z
+  - 2016-05-07T21:18:02Z
+  zonesLast:
+  - 2016-05-07T17:51:19Z
+  - 2016-05-07T18:30:16Z
+  - 2016-05-07T18:58:48Z
+  - 2016-05-07T20:09:42Z
+  - 2016-05-07T20:52:12Z
+  - 2016-05-07T21:56:09Z
+  zonesRankTime:
+  - - 2016-05-07T16:40:09Z
+    - 2016-05-07T16:44:18Z
+    - 2016-05-07T16:45:13Z
+    - 2016-05-07T16:46:02Z
+    - 2016-05-07T16:49:10Z
+    - 2016-05-07T16:50:57Z
+    - 2016-05-07T16:51:54Z
+    - 2016-05-07T16:54:53Z
+    - 2016-05-07T16:56:28Z
+    - 2016-05-07T16:57:46Z
+    - 2016-05-07T16:59:42Z
+    - 2016-05-07T17:00:53Z
+    - 2016-05-07T17:01:56Z
+    - 2016-05-07T17:05:08Z
+    - 2016-05-07T17:06:07Z
+    - 2016-05-07T17:06:59Z
+    - 2016-05-07T17:08:15Z
+    - 2016-05-07T17:10:18Z
+    - 2016-05-07T17:11:22Z
+    - 2016-05-07T17:12:42Z
+    - 2016-05-07T17:13:55Z
+    - 2016-05-07T17:14:59Z
+    - 2016-05-07T17:16:10Z
+    - 2016-05-07T17:19:48Z
+    - 2016-05-07T17:20:37Z
+    - 2016-05-07T17:21:30Z
+    - 2016-05-07T17:22:11Z
+    - 2016-05-07T17:23:05Z
+    - 2016-05-07T17:23:50Z
+    - 2016-05-07T17:27:12Z
+    - 2016-05-07T17:28:10Z
+    - 2016-05-07T17:29:03Z
+    - 2016-05-07T17:30:30Z
+    - 2016-05-07T17:31:34Z
+    - 2016-05-07T17:33:26Z
+    - 2016-05-07T17:34:34Z
+    - 2016-05-07T17:36:45Z
+    - 2016-05-07T17:38:02Z
+    - 2016-05-07T17:51:19Z
+  - - 2016-05-07T17:48:07Z
+    - 2016-05-07T17:48:16Z
+    - 2016-05-07T17:48:18Z
+    - 2016-05-07T17:48:24Z
+    - 2016-05-07T17:48:38Z
+    - 2016-05-07T17:48:57Z
+    - 2016-05-07T17:49:46Z
+    - 2016-05-07T17:49:59Z
+    - 2016-05-07T17:50:01Z
+    - 2016-05-07T17:50:03Z
+    - 2016-05-07T17:50:11Z
+    - 2016-05-07T17:50:12Z
+    - 2016-05-07T17:50:12Z
+    - 2016-05-07T17:50:17Z
+    - 2016-05-07T17:50:18Z
+    - 2016-05-07T17:50:18Z
+    - 2016-05-07T17:50:20Z
+    - 2016-05-07T17:50:22Z
+    - 2016-05-07T17:50:22Z
+    - 2016-05-07T17:50:22Z
+    - 2016-05-07T17:50:23Z
+    - 2016-05-07T17:50:25Z
+    - 2016-05-07T17:50:31Z
+    - 2016-05-07T17:50:33Z
+    - 2016-05-07T17:50:36Z
+    - 2016-05-07T17:51:25Z
+    - 2016-05-07T17:53:05Z
+    - 2016-05-07T17:53:37Z
+    - 2016-05-07T17:54:41Z
+    - 2016-05-07T17:54:59Z
+    - 2016-05-07T17:57:04Z
+    - 2016-05-07T17:58:16Z
+    - 2016-05-07T17:59:34Z
+    - 2016-05-07T17:59:54Z
+    - 2016-05-07T17:59:56Z
+    - 2016-05-07T18:00:05Z
+    - 2016-05-07T18:01:57Z
+    - 2016-05-07T18:05:33Z
+    - 2016-05-07T18:30:16Z
+  - - 2016-05-07T18:14:35Z
+    - 2016-05-07T18:14:53Z
+    - 2016-05-07T18:14:59Z
+    - 2016-05-07T18:16:48Z
+    - 2016-05-07T18:16:56Z
+    - 2016-05-07T18:17:04Z
+    - 2016-05-07T18:17:06Z
+    - 2016-05-07T18:17:16Z
+    - 2016-05-07T18:17:25Z
+    - 2016-05-07T18:17:25Z
+    - 2016-05-07T18:17:26Z
+    - 2016-05-07T18:17:29Z
+    - 2016-05-07T18:17:37Z
+    - 2016-05-07T18:17:41Z
+    - 2016-05-07T18:17:45Z
+    - 2016-05-07T18:17:54Z
+    - 2016-05-07T18:18:08Z
+    - 2016-05-07T18:18:10Z
+    - 2016-05-07T18:18:11Z
+    - 2016-05-07T18:18:14Z
+    - 2016-05-07T18:18:16Z
+    - 2016-05-07T18:18:43Z
+    - 2016-05-07T18:21:48Z
+    - 2016-05-07T18:22:27Z
+    - 2016-05-07T18:22:58Z
+    - 2016-05-07T18:24:06Z
+    - 2016-05-07T18:25:32Z
+    - 2016-05-07T18:25:44Z
+    - 2016-05-07T18:26:20Z
+    - 2016-05-07T18:27:27Z
+    - 2016-05-07T18:28:33Z
+    - 2016-05-07T18:32:17Z
+    - 2016-05-07T18:35:03Z
+    - 2016-05-07T18:37:22Z
+    - 2016-05-07T18:38:28Z
+    - 2016-05-07T18:42:25Z
+    - 2016-05-07T18:43:33Z
+    - 2016-05-07T18:58:48Z
+  - - 2016-05-07T18:58:56Z
+    - 2016-05-07T18:59:08Z
+    - 2016-05-07T18:59:10Z
+    - 2016-05-07T19:03:33Z
+    - 2016-05-07T19:04:46Z
+    - 2016-05-07T19:06:36Z
+    - 2016-05-07T19:07:04Z
+    - 2016-05-07T19:07:05Z
+    - 2016-05-07T19:07:24Z
+    - 2016-05-07T19:08:01Z
+    - 2016-05-07T19:08:03Z
+    - 2016-05-07T19:08:32Z
+    - 2016-05-07T19:10:16Z
+    - 2016-05-07T19:10:27Z
+    - 2016-05-07T19:11:05Z
+    - 2016-05-07T19:12:24Z
+    - 2016-05-07T19:12:27Z
+    - 2016-05-07T19:13:21Z
+    - 2016-05-07T19:18:23Z
+    - 2016-05-07T19:18:42Z
+    - 2016-05-07T19:19:04Z
+    - 2016-05-07T19:19:23Z
+    - 2016-05-07T19:35:23Z
+    - 2016-05-07T19:35:40Z
+    - 2016-05-07T19:35:55Z
+    - 2016-05-07T19:36:59Z
+    - 2016-05-07T19:38:12Z
+    - 2016-05-07T19:39:32Z
+    - 2016-05-07T19:44:37Z
+    - 2016-05-07T19:45:26Z
+    - 2016-05-07T20:09:42Z
+  - - 2016-05-07T20:03:46Z
+    - 2016-05-07T20:03:47Z
+    - 2016-05-07T20:03:49Z
+    - 2016-05-07T20:07:06Z
+    - 2016-05-07T20:08:06Z
+    - 2016-05-07T20:14:19Z
+    - 2016-05-07T20:14:25Z
+    - 2016-05-07T20:14:30Z
+    - 2016-05-07T20:14:38Z
+    - 2016-05-07T20:15:05Z
+    - 2016-05-07T20:20:20Z
+    - 2016-05-07T20:21:04Z
+    - 2016-05-07T20:21:46Z
+    - 2016-05-07T20:22:01Z
+    - 2016-05-07T20:22:10Z
+    - 2016-05-07T20:24:17Z
+    - 2016-05-07T20:32:43Z
+    - 2016-05-07T20:34:06Z
+    - 2016-05-07T20:52:12Z
+  - - 2016-05-07T21:18:02Z
+    - 2016-05-07T21:29:26Z
+    - 2016-05-07T21:32:00Z
+    - 2016-05-07T21:32:20Z
+    - 2016-05-07T21:32:27Z
+    - 2016-05-07T21:32:43Z
+    - 2016-05-07T21:36:55Z
+    - 2016-05-07T21:37:20Z
+    - 2016-05-07T21:37:40Z
+    - 2016-05-07T21:39:04Z
+    - 2016-05-07T21:39:40Z
+    - 2016-05-07T21:40:13Z
+    - 2016-05-07T21:46:55Z
+    - 2016-05-07T21:53:05Z
+    - 2016-05-07T21:54:12Z
+    - 2016-05-07T21:56:09Z
+  zonesRankPilot:
+  - - - '110'
+      - Cory Barnwell
+    - - '123'
+      - JD Guillemette
+    - - '142'
+      - John Simon
+    - - '102'
+      - Richard lovelace
+    - - '108'
+      - Raul Guerra
+    - - '131'
+      - Robin Hamilton
+    - - '101'
+      - Davis Straub
+    - - '132'
+      - James Stinnett
+    - - '143'
+      - Anna Eppink
+    - - '125'
+      - Larry Bunner
+    - - '107'
+      - Malcolm Brown
+    - - '113'
+      - Olav Opsanger
+    - - '121'
+      - Oleg Bondarchuk
+    - - '138'
+      - Jonny Durand
+    - - '115'
+      - Andrew Hollidge
+    - - '127'
+      - Gerry Pesavento
+    - - '106'
+      - Fabiano Nahoum
+    - - '139'
+      - Tullio Gervasoni
+    - - '137'
+      - Yoko Isomoto
+    - - '116'
+      - Jeffery Bohl
+    - - '124'
+      - Patrick Pannese
+    - - '103'
+      - Matt Christensen
+    - - '120'
+      - Mike Glennon
+    - - '114'
+      - Mick Howard
+    - - '144'
+      - Tom Lanning
+    - - '126'
+      - Jeff Kannard
+    - - '119'
+      - Bart Weghorst
+    - - '118'
+      - Ingo Heilmann
+    - - '117'
+      - Robert Dallas
+    - - '141'
+      - Patrick Halfhill
+    - - '140'
+      - Bill Vickery
+    - - '109'
+      - Michael Williams
+    - - '104'
+      - Christian Pollet
+    - - '150'
+      - Claudia Mejia
+    - - '133'
+      - Olav Olsen
+    - - '146'
+      - Peter Kelley
+    - - '134'
+      - Kinsley Sykes
+    - - '112'
+      - Sergey Kataev
+    - - '129'
+      - Mike Jefferson
+  - - - '108'
+      - Raul Guerra
+    - - '120'
+      - Mike Glennon
+    - - '106'
+      - Fabiano Nahoum
+    - - '103'
+      - Matt Christensen
+    - - '118'
+      - Ingo Heilmann
+    - - '102'
+      - Richard lovelace
+    - - '110'
+      - Cory Barnwell
+    - - '142'
+      - John Simon
+    - - '124'
+      - Patrick Pannese
+    - - '131'
+      - Robin Hamilton
+    - - '116'
+      - Jeffery Bohl
+    - - '138'
+      - Jonny Durand
+    - - '139'
+      - Tullio Gervasoni
+    - - '123'
+      - JD Guillemette
+    - - '115'
+      - Andrew Hollidge
+    - - '125'
+      - Larry Bunner
+    - - '101'
+      - Davis Straub
+    - - '127'
+      - Gerry Pesavento
+    - - '132'
+      - James Stinnett
+    - - '126'
+      - Jeff Kannard
+    - - '119'
+      - Bart Weghorst
+    - - '143'
+      - Anna Eppink
+    - - '107'
+      - Malcolm Brown
+    - - '113'
+      - Olav Opsanger
+    - - '121'
+      - Oleg Bondarchuk
+    - - '114'
+      - Mick Howard
+    - - '137'
+      - Yoko Isomoto
+    - - '109'
+      - Michael Williams
+    - - '117'
+      - Robert Dallas
+    - - '144'
+      - Tom Lanning
+    - - '141'
+      - Patrick Halfhill
+    - - '140'
+      - Bill Vickery
+    - - '150'
+      - Claudia Mejia
+    - - '146'
+      - Peter Kelley
+    - - '133'
+      - Olav Olsen
+    - - '134'
+      - Kinsley Sykes
+    - - '104'
+      - Christian Pollet
+    - - '112'
+      - Sergey Kataev
+    - - '129'
+      - Mike Jefferson
+  - - - '138'
+      - Jonny Durand
+    - - '131'
+      - Robin Hamilton
+    - - '139'
+      - Tullio Gervasoni
+    - - '125'
+      - Larry Bunner
+    - - '119'
+      - Bart Weghorst
+    - - '126'
+      - Jeff Kannard
+    - - '121'
+      - Oleg Bondarchuk
+    - - '107'
+      - Malcolm Brown
+    - - '123'
+      - JD Guillemette
+    - - '113'
+      - Olav Opsanger
+    - - '109'
+      - Michael Williams
+    - - '101'
+      - Davis Straub
+    - - '102'
+      - Richard lovelace
+    - - '132'
+      - James Stinnett
+    - - '108'
+      - Raul Guerra
+    - - '127'
+      - Gerry Pesavento
+    - - '143'
+      - Anna Eppink
+    - - '114'
+      - Mick Howard
+    - - '115'
+      - Andrew Hollidge
+    - - '118'
+      - Ingo Heilmann
+    - - '120'
+      - Mike Glennon
+    - - '124'
+      - Patrick Pannese
+    - - '133'
+      - Olav Olsen
+    - - '116'
+      - Jeffery Bohl
+    - - '134'
+      - Kinsley Sykes
+    - - '106'
+      - Fabiano Nahoum
+    - - '150'
+      - Claudia Mejia
+    - - '142'
+      - John Simon
+    - - '110'
+      - Cory Barnwell
+    - - '146'
+      - Peter Kelley
+    - - '117'
+      - Robert Dallas
+    - - '137'
+      - Yoko Isomoto
+    - - '103'
+      - Matt Christensen
+    - - '140'
+      - Bill Vickery
+    - - '141'
+      - Patrick Halfhill
+    - - '104'
+      - Christian Pollet
+    - - '112'
+      - Sergey Kataev
+    - - '129'
+      - Mike Jefferson
+  - - - '138'
+      - Jonny Durand
+    - - '131'
+      - Robin Hamilton
+    - - '139'
+      - Tullio Gervasoni
+    - - '109'
+      - Michael Williams
+    - - '121'
+      - Oleg Bondarchuk
+    - - '119'
+      - Bart Weghorst
+    - - '107'
+      - Malcolm Brown
+    - - '113'
+      - Olav Opsanger
+    - - '102'
+      - Richard lovelace
+    - - '120'
+      - Mike Glennon
+    - - '108'
+      - Raul Guerra
+    - - '124'
+      - Patrick Pannese
+    - - '115'
+      - Andrew Hollidge
+    - - '125'
+      - Larry Bunner
+    - - '127'
+      - Gerry Pesavento
+    - - '114'
+      - Mick Howard
+    - - '142'
+      - John Simon
+    - - '132'
+      - James Stinnett
+    - - '143'
+      - Anna Eppink
+    - - '106'
+      - Fabiano Nahoum
+    - - '133'
+      - Olav Olsen
+    - - '123'
+      - JD Guillemette
+    - - '116'
+      - Jeffery Bohl
+    - - '146'
+      - Peter Kelley
+    - - '117'
+      - Robert Dallas
+    - - '150'
+      - Claudia Mejia
+    - - '104'
+      - Christian Pollet
+    - - '140'
+      - Bill Vickery
+    - - '141'
+      - Patrick Halfhill
+    - - '103'
+      - Matt Christensen
+    - - '110'
+      - Cory Barnwell
+  - - - '138'
+      - Jonny Durand
+    - - '131'
+      - Robin Hamilton
+    - - '139'
+      - Tullio Gervasoni
+    - - '121'
+      - Oleg Bondarchuk
+    - - '132'
+      - James Stinnett
+    - - '125'
+      - Larry Bunner
+    - - '113'
+      - Olav Opsanger
+    - - '107'
+      - Malcolm Brown
+    - - '115'
+      - Andrew Hollidge
+    - - '142'
+      - John Simon
+    - - '114'
+      - Mick Howard
+    - - '119'
+      - Bart Weghorst
+    - - '133'
+      - Olav Olsen
+    - - '120'
+      - Mike Glennon
+    - - '127'
+      - Gerry Pesavento
+    - - '106'
+      - Fabiano Nahoum
+    - - '109'
+      - Michael Williams
+    - - '143'
+      - Anna Eppink
+    - - '146'
+      - Peter Kelley
+  - - - '138'
+      - Jonny Durand
+    - - '121'
+      - Oleg Bondarchuk
+    - - '113'
+      - Olav Opsanger
+    - - '139'
+      - Tullio Gervasoni
+    - - '131'
+      - Robin Hamilton
+    - - '115'
+      - Andrew Hollidge
+    - - '125'
+      - Larry Bunner
+    - - '107'
+      - Malcolm Brown
+    - - '132'
+      - James Stinnett
+    - - '142'
+      - John Simon
+    - - '133'
+      - Olav Olsen
+    - - '119'
+      - Bart Weghorst
+    - - '106'
+      - Fabiano Nahoum
+    - - '127'
+      - Gerry Pesavento
+    - - '114'
+      - Mick Howard
+    - - '109'
+      - Michael Williams
+  lastLanding: 2016-05-08T21:00:34Z
+- zonesSum:
+  - 4
+  - 4
+  - 4
+  - 3
+  - 1
+  - 1
+  zonesFirst:
+  - 2016-05-08T16:34:06Z
+  - 2016-05-08T17:31:14Z
+  - 2016-05-08T18:23:44Z
+  - 2016-05-08T19:49:57Z
+  - 2016-05-08T21:13:27Z
+  - 2016-05-08T21:32:07Z
+  zonesLast:
+  - 2016-05-08T17:20:34Z
+  - 2016-05-08T17:38:15Z
+  - 2016-05-08T18:49:05Z
+  - 2016-05-08T20:20:35Z
+  - 2016-05-08T21:13:27Z
+  - 2016-05-08T21:32:07Z
+  zonesRankTime:
+  - - 2016-05-08T16:34:06Z
+    - 2016-05-08T16:44:16Z
+    - 2016-05-08T17:07:04Z
+    - 2016-05-08T17:20:34Z
+  - - 2016-05-08T17:31:14Z
+    - 2016-05-08T17:31:56Z
+    - 2016-05-08T17:32:14Z
+    - 2016-05-08T17:38:15Z
+  - - 2016-05-08T18:23:44Z
+    - 2016-05-08T18:37:30Z
+    - 2016-05-08T18:45:39Z
+    - 2016-05-08T18:49:05Z
+  - - 2016-05-08T19:49:57Z
+    - 2016-05-08T20:12:22Z
+    - 2016-05-08T20:20:35Z
+  - - 2016-05-08T21:13:27Z
+  - - 2016-05-08T21:32:07Z
+  zonesRankPilot:
+  - - - '150'
+      - Claudia Mejia
+    - - '103'
+      - Matt Christensen
+    - - '121'
+      - Oleg Bondarchuk
+    - - '112'
+      - Sergey Kataev
+  - - - '121'
+      - Oleg Bondarchuk
+    - - '150'
+      - Claudia Mejia
+    - - '103'
+      - Matt Christensen
+    - - '112'
+      - Sergey Kataev
+  - - - '121'
+      - Oleg Bondarchuk
+    - - '150'
+      - Claudia Mejia
+    - - '103'
+      - Matt Christensen
+    - - '112'
+      - Sergey Kataev
+  - - - '121'
+      - Oleg Bondarchuk
+    - - '150'
+      - Claudia Mejia
+    - - '103'
+      - Matt Christensen
+  - - - '121'
+      - Oleg Bondarchuk
+  - - - '121'
+      - Oleg Bondarchuk
+  lastLanding: 2016-05-08T22:36:39Z
+- zonesSum:
+  - 3
+  - 3
+  - 3
+  - 2
+  - 1
+  - 1
+  zonesFirst:
+  - 2016-05-09T17:54:13Z
+  - 2016-05-09T18:29:47Z
+  - 2016-05-09T19:08:53Z
+  - 2016-05-09T20:15:03Z
+  - 2016-05-09T20:41:43Z
+  - 2016-05-09T21:34:03Z
+  zonesLast:
+  - 2016-05-21T18:08:06Z
+  - 2016-05-25T18:29:25Z
+  - 2016-06-09T19:17:04Z
+  - 2016-05-09T20:48:35Z
+  - 2016-05-09T20:41:43Z
+  - 2016-05-09T21:34:03Z
+  zonesRankTime:
+  - - 2016-05-09T17:54:13Z
+    - 2016-05-09T18:13:03Z
+    - 2016-05-21T18:08:06Z
+  - - 2016-05-09T18:29:47Z
+    - 2016-05-09T18:32:33Z
+    - 2016-05-25T18:29:25Z
+  - - 2016-05-09T19:08:53Z
+    - 2016-05-09T19:18:01Z
+    - 2016-06-09T19:17:04Z
+  - - 2016-05-09T20:15:03Z
+    - 2016-05-09T20:48:35Z
+  - - 2016-05-09T20:41:43Z
+  - - 2016-05-09T21:34:03Z
+  zonesRankPilot:
+  - - - '121'
+      - Oleg Bondarchuk
+    - - '112'
+      - Sergey Kataev
+    - - '103'
+      - Matt Christensen
+  - - - '112'
+      - Sergey Kataev
+    - - '121'
+      - Oleg Bondarchuk
+    - - '103'
+      - Matt Christensen
+  - - - '121'
+      - Oleg Bondarchuk
+    - - '112'
+      - Sergey Kataev
+    - - '103'
+      - Matt Christensen
+  - - - '121'
+      - Oleg Bondarchuk
+    - - '112'
+      - Sergey Kataev
+  - - - '121'
+      - Oleg Bondarchuk
+  - - - '121'
+      - Oleg Bondarchuk
+  lastLanding: 2016-06-15T19:49:21Z
+- zonesSum:
+  - 4
+  - 4
+  - 3
+  - 3
+  - 1
+  zonesFirst:
+  - 2016-05-10T17:26:37Z
+  - 2016-05-10T18:20:01Z
+  - 2016-05-10T19:07:47Z
+  - 2016-05-10T20:10:57Z
+  - 2016-05-10T21:59:12Z
+  zonesLast:
+  - 2016-05-16T17:48:35Z
+  - 2016-05-16T18:20:09Z
+  - 2016-05-10T19:35:59Z
+  - 2016-05-10T21:28:56Z
+  - 2016-05-10T21:59:12Z
+  zonesRankTime:
+  - - 2016-05-10T17:26:37Z
+    - 2016-05-10T17:58:56Z
+    - 2016-05-10T18:11:35Z
+    - 2016-05-16T17:48:35Z
+  - - 2016-05-10T18:20:01Z
+    - 2016-05-10T18:20:17Z
+    - 2016-05-10T18:38:21Z
+    - 2016-05-16T18:20:09Z
+  - - 2016-05-10T19:07:47Z
+    - 2016-05-10T19:18:53Z
+    - 2016-05-10T19:35:59Z
+  - - 2016-05-10T20:10:57Z
+    - 2016-05-10T21:14:06Z
+    - 2016-05-10T21:28:56Z
+  - - 2016-05-10T21:59:12Z
+  zonesRankPilot:
+  - - - '121'
+      - Oleg Bondarchuk
+    - - '150'
+      - Claudia Mejia
+    - - '112'
+      - Sergey Kataev
+    - - '137'
+      - Yoko Isomoto
+  - - - '150'
+      - Claudia Mejia
+    - - '121'
+      - Oleg Bondarchuk
+    - - '112'
+      - Sergey Kataev
+    - - '137'
+      - Yoko Isomoto
+  - - - '121'
+      - Oleg Bondarchuk
+    - - '150'
+      - Claudia Mejia
+    - - '112'
+      - Sergey Kataev
+  - - - '121'
+      - Oleg Bondarchuk
+    - - '150'
+      - Claudia Mejia
+    - - '112'
+      - Sergey Kataev
+  - - - '150'
+      - Claudia Mejia
+  lastLanding: 2016-05-19T18:56:49Z
+- zonesSum:
+  - 3
+  - 4
+  - 3
+  - 3
+  - 3
+  zonesFirst:
+  - 2016-05-11T17:02:58Z
+  - 2016-05-11T18:25:15Z
+  - 2016-05-11T18:54:25Z
+  - 2016-05-11T20:22:20Z
+  - 2016-05-11T21:20:20Z
+  zonesLast:
+  - 2016-05-11T17:53:41Z
+  - 2016-08-27T19:53:11Z
+  - 2016-05-11T19:04:39Z
+  - 2016-05-11T21:03:32Z
+  - 2016-05-11T22:21:09Z
+  zonesRankTime:
+  - - 2016-05-11T17:02:58Z
+    - 2016-05-11T17:29:50Z
+    - 2016-05-11T17:53:41Z
+  - - 2016-05-11T18:25:15Z
+    - 2016-05-11T18:28:57Z
+    - 2016-05-11T18:42:10Z
+    - 2016-08-27T19:53:11Z
+  - - 2016-05-11T18:54:25Z
+    - 2016-05-11T19:04:30Z
+    - 2016-05-11T19:04:39Z
+  - - 2016-05-11T20:22:20Z
+    - 2016-05-11T20:44:54Z
+    - 2016-05-11T21:03:32Z
+  - - 2016-05-11T21:20:20Z
+    - 2016-05-11T22:09:43Z
+    - 2016-05-11T22:21:09Z
+  zonesRankPilot:
+  - - - '150'
+      - Claudia Mejia
+    - - '121'
+      - Oleg Bondarchuk
+    - - '112'
+      - Sergey Kataev
+  - - - '150'
+      - Claudia Mejia
+    - - '112'
+      - Sergey Kataev
+    - - '121'
+      - Oleg Bondarchuk
+    - - '145'
+      - Roger Irby
+  - - - '150'
+      - Claudia Mejia
+    - - '121'
+      - Oleg Bondarchuk
+    - - '112'
+      - Sergey Kataev
+  - - - '121'
+      - Oleg Bondarchuk
+    - - '150'
+      - Claudia Mejia
+    - - '112'
+      - Sergey Kataev
+  - - - '121'
+      - Oleg Bondarchuk
+    - - '112'
+      - Sergey Kataev
+    - - '150'
+      - Claudia Mejia
+  lastLanding: 2016-08-29T20:06:30Z
+- zonesSum:
+  - 5
+  - 5
+  - 5
+  - 0
+  zonesFirst:
+  - 2016-05-12T18:41:54Z
+  - 2016-05-12T19:29:58Z
+  - 2016-05-12T20:12:54Z
+  - null
+  zonesLast:
+  - 2016-05-12T19:04:38Z
+  - 2016-05-12T19:31:32Z
+  - 2016-05-12T20:46:42Z
+  - null
+  zonesRankTime:
+  - - 2016-05-12T18:41:54Z
+    - 2016-05-12T18:47:21Z
+    - 2016-05-12T18:50:52Z
+    - 2016-05-12T19:00:57Z
+    - 2016-05-12T19:04:38Z
+  - - 2016-05-12T19:29:58Z
+    - 2016-05-12T19:30:08Z
+    - 2016-05-12T19:30:42Z
+    - 2016-05-12T19:30:44Z
+    - 2016-05-12T19:31:32Z
+  - - 2016-05-12T20:12:54Z
+    - 2016-05-12T20:14:02Z
+    - 2016-05-12T20:39:27Z
+    - 2016-05-12T20:45:40Z
+    - 2016-05-12T20:46:42Z
+  - []
+  zonesRankPilot:
+  - - - '121'
+      - Oleg Bondarchuk
+    - - '123'
+      - JD Guillemette
+    - - '115'
+      - Andrew Hollidge
+    - - '103'
+      - Matt Christensen
+    - - '112'
+      - Sergey Kataev
+  - - - '123'
+      - JD Guillemette
+    - - '112'
+      - Sergey Kataev
+    - - '115'
+      - Andrew Hollidge
+    - - '121'
+      - Oleg Bondarchuk
+    - - '103'
+      - Matt Christensen
+  - - - '121'
+      - Oleg Bondarchuk
+    - - '115'
+      - Andrew Hollidge
+    - - '112'
+      - Sergey Kataev
+    - - '103'
+      - Matt Christensen
+    - - '123'
+      - JD Guillemette
+  - []
+  lastLanding: 2016-05-12T21:36:17Z
+- zonesSum:
+  - 0
+  - 23
+  - 24
+  - 21
+  - 18
+  zonesFirst:
+  - null
+  - 2016-05-13T17:58:40Z
+  - 2016-05-13T18:49:20Z
+  - 2016-05-13T19:27:56Z
+  - 2016-05-13T19:56:47Z
+  zonesLast:
+  - null
+  - 2016-05-13T18:54:38Z
+  - 2016-05-13T19:52:12Z
+  - 2016-05-13T20:34:33Z
+  - 2016-05-13T21:26:56Z
+  zonesRankTime:
+  - []
+  - - 2016-05-13T17:58:40Z
+    - 2016-05-13T17:58:42Z
+    - 2016-05-13T18:00:12Z
+    - 2016-05-13T18:00:12Z
+    - 2016-05-13T18:00:13Z
+    - 2016-05-13T18:00:14Z
+    - 2016-05-13T18:00:22Z
+    - 2016-05-13T18:00:24Z
+    - 2016-05-13T18:00:46Z
+    - 2016-05-13T18:00:59Z
+    - 2016-05-13T18:02:40Z
+    - 2016-05-13T18:03:12Z
+    - 2016-05-13T18:04:57Z
+    - 2016-05-13T18:05:34Z
+    - 2016-05-13T18:20:22Z
+    - 2016-05-13T18:22:00Z
+    - 2016-05-13T18:22:04Z
+    - 2016-05-13T18:24:02Z
+    - 2016-05-13T18:24:26Z
+    - 2016-05-13T18:24:26Z
+    - 2016-05-13T18:24:27Z
+    - 2016-05-13T18:24:38Z
+    - 2016-05-13T18:54:38Z
+  - - 2016-05-13T18:49:20Z
+    - 2016-05-13T18:49:24Z
+    - 2016-05-13T18:49:28Z
+    - 2016-05-13T18:53:58Z
+    - 2016-05-13T18:57:08Z
+    - 2016-05-13T18:57:14Z
+    - 2016-05-13T19:03:50Z
+    - 2016-05-13T19:05:13Z
+    - 2016-05-13T19:05:13Z
+    - 2016-05-13T19:05:15Z
+    - 2016-05-13T19:05:38Z
+    - 2016-05-13T19:07:05Z
+    - 2016-05-13T19:07:26Z
+    - 2016-05-13T19:07:41Z
+    - 2016-05-13T19:07:59Z
+    - 2016-05-13T19:10:59Z
+    - 2016-05-13T19:11:13Z
+    - 2016-05-13T19:11:47Z
+    - 2016-05-13T19:15:14Z
+    - 2016-05-13T19:18:20Z
+    - 2016-05-13T19:18:35Z
+    - 2016-05-13T19:29:47Z
+    - 2016-05-13T19:36:16Z
+    - 2016-05-13T19:52:12Z
+  - - 2016-05-13T19:27:56Z
+    - 2016-05-13T19:30:59Z
+    - 2016-05-13T19:34:04Z
+    - 2016-05-13T19:36:36Z
+    - 2016-05-13T19:41:19Z
+    - 2016-05-13T19:41:49Z
+    - 2016-05-13T19:42:28Z
+    - 2016-05-13T19:42:54Z
+    - 2016-05-13T19:42:58Z
+    - 2016-05-13T19:43:15Z
+    - 2016-05-13T19:44:14Z
+    - 2016-05-13T19:47:30Z
+    - 2016-05-13T19:51:02Z
+    - 2016-05-13T19:54:21Z
+    - 2016-05-13T19:54:24Z
+    - 2016-05-13T19:54:40Z
+    - 2016-05-13T19:55:09Z
+    - 2016-05-13T19:59:46Z
+    - 2016-05-13T20:01:33Z
+    - 2016-05-13T20:12:47Z
+    - 2016-05-13T20:34:33Z
+  - - 2016-05-13T19:56:47Z
+    - 2016-05-13T20:01:48Z
+    - 2016-05-13T20:02:34Z
+    - 2016-05-13T20:07:21Z
+    - 2016-05-13T20:09:23Z
+    - 2016-05-13T20:10:04Z
+    - 2016-05-13T20:20:39Z
+    - 2016-05-13T20:21:10Z
+    - 2016-05-13T20:23:38Z
+    - 2016-05-13T20:29:27Z
+    - 2016-05-13T20:32:22Z
+    - 2016-05-13T20:34:19Z
+    - 2016-05-13T20:40:45Z
+    - 2016-05-13T20:45:36Z
+    - 2016-05-13T20:46:17Z
+    - 2016-05-13T20:53:23Z
+    - 2016-05-13T20:59:28Z
+    - 2016-05-13T21:26:56Z
+  zonesRankPilot:
+  - []
+  - - - '133'
+      - Olav Olsen
+    - - '124'
+      - Patrick Pannese
+    - - '108'
+      - Raul Guerra
+    - - '139'
+      - Tullio Gervasoni
+    - - '125'
+      - Larry Bunner
+    - - '104'
+      - Christian Pollet
+    - - '103'
+      - Matt Christensen
+    - - '121'
+      - Oleg Bondarchuk
+    - - '127'
+      - Gerry Pesavento
+    - - '144'
+      - Tom Lanning
+    - - '131'
+      - Robin Hamilton
+    - - '112'
+      - Sergey Kataev
+    - - '150'
+      - Claudia Mejia
+    - - '129'
+      - Mike Jefferson
+    - - '102'
+      - Richard lovelace
+    - - '114'
+      - Mick Howard
+    - - '132'
+      - James Stinnett
+    - - '138'
+      - Jonny Durand
+    - - '142'
+      - John Simon
+    - - '113'
+      - Olav Opsanger
+    - - '106'
+      - Fabiano Nahoum
+    - - '123'
+      - JD Guillemette
+    - - '143'
+      - Anna Eppink
+  - - - '104'
+      - Christian Pollet
+    - - '103'
+      - Matt Christensen
+    - - '120'
+      - Mike Glennon
+    - - '110'
+      - Cory Barnwell
+    - - '131'
+      - Robin Hamilton
+    - - '121'
+      - Oleg Bondarchuk
+    - - '108'
+      - Raul Guerra
+    - - '138'
+      - Jonny Durand
+    - - '124'
+      - Patrick Pannese
+    - - '139'
+      - Tullio Gervasoni
+    - - '127'
+      - Gerry Pesavento
+    - - '142'
+      - John Simon
+    - - '113'
+      - Olav Opsanger
+    - - '144'
+      - Tom Lanning
+    - - '150'
+      - Claudia Mejia
+    - - '106'
+      - Fabiano Nahoum
+    - - '133'
+      - Olav Olsen
+    - - '114'
+      - Mick Howard
+    - - '132'
+      - James Stinnett
+    - - '102'
+      - Richard lovelace
+    - - '123'
+      - JD Guillemette
+    - - '129'
+      - Mike Jefferson
+    - - '112'
+      - Sergey Kataev
+    - - '143'
+      - Anna Eppink
+  - - - '138'
+      - Jonny Durand
+    - - '142'
+      - John Simon
+    - - '121'
+      - Oleg Bondarchuk
+    - - '104'
+      - Christian Pollet
+    - - '131'
+      - Robin Hamilton
+    - - '124'
+      - Patrick Pannese
+    - - '110'
+      - Cory Barnwell
+    - - '132'
+      - James Stinnett
+    - - '120'
+      - Mike Glennon
+    - - '103'
+      - Matt Christensen
+    - - '133'
+      - Olav Olsen
+    - - '106'
+      - Fabiano Nahoum
+    - - '127'
+      - Gerry Pesavento
+    - - '139'
+      - Tullio Gervasoni
+    - - '113'
+      - Olav Opsanger
+    - - '144'
+      - Tom Lanning
+    - - '102'
+      - Richard lovelace
+    - - '150'
+      - Claudia Mejia
+    - - '123'
+      - JD Guillemette
+    - - '114'
+      - Mick Howard
+    - - '112'
+      - Sergey Kataev
+  - - - '138'
+      - Jonny Durand
+    - - '142'
+      - John Simon
+    - - '121'
+      - Oleg Bondarchuk
+    - - '104'
+      - Christian Pollet
+    - - '131'
+      - Robin Hamilton
+    - - '132'
+      - James Stinnett
+    - - '120'
+      - Mike Glennon
+    - - '124'
+      - Patrick Pannese
+    - - '103'
+      - Matt Christensen
+    - - '110'
+      - Cory Barnwell
+    - - '127'
+      - Gerry Pesavento
+    - - '106'
+      - Fabiano Nahoum
+    - - '102'
+      - Richard lovelace
+    - - '150'
+      - Claudia Mejia
+    - - '113'
+      - Olav Opsanger
+    - - '123'
+      - JD Guillemette
+    - - '114'
+      - Mick Howard
+    - - '133'
+      - Olav Olsen
+  lastLanding: 2016-05-13T21:30:39Z
+tagging:
+- - - - '115'
+      - Andrew Hollidge
+    - zonesTag:
+      - fix: 11
+        time: 2016-05-07T17:06:07Z
+        lat: 28.53591667
+        lng: -81.84776667
+      - fix: 542
+        time: 2016-05-07T17:50:18Z
+        lat: 28.44553333
+        lng: -81.82656667
+      - fix: 877
+        time: 2016-05-07T18:18:11Z
+        lat: 28.2567
+        lng: -81.82155
+      - fix: 1503
+        time: 2016-05-07T19:10:16Z
+        lat: 27.95901667
+        lng: -81.60481667
+      - fix: 2276
+        time: 2016-05-07T20:14:38Z
+        lat: 27.59201667
+        lng: -81.53086667
+      - fix: 3214
+        time: 2016-05-07T21:32:43Z
+        lat: 27.20911667
+        lng: -81.77706667
+  - - - '143'
+      - Anna Eppink
+    - zonesTag:
+      - fix: 11
+        time: 2016-05-07T16:56:28Z
+        lat: 28.53633333
+        lng: -81.84725
+      - fix: 643
+        time: 2016-05-07T17:50:25Z
+        lat: 28.44593333
+        lng: -81.82555
+      - fix: 968
+        time: 2016-05-07T18:18:08Z
+        lat: 28.26095
+        lng: -81.82208333
+      - fix: 1680
+        time: 2016-05-07T19:18:23Z
+        lat: 27.95681667
+        lng: -81.60556667
+      - fix: 2581
+        time: 2016-05-07T20:34:06Z
+        lat: 27.59488333
+        lng: -81.52465
+      - null
+  - - - '119'
+      - Bart Weghorst
+    - zonesTag:
+      - fix: 13
+        time: 2016-05-07T17:22:11Z
+        lat: 28.53628333
+        lng: -81.84716667
+      - fix: 346
+        time: 2016-05-07T17:50:23Z
+        lat: 28.44546667
+        lng: -81.8274
+      - fix: 658
+        time: 2016-05-07T18:16:56Z
+        lat: 28.262
+        lng: -81.82441667
+      - fix: 1245
+        time: 2016-05-07T19:06:36Z
+        lat: 27.95588333
+        lng: -81.60538333
+      - fix: 2131
+        time: 2016-05-07T20:21:04Z
+        lat: 27.59353333
+        lng: -81.53045
+      - fix: 3071
+        time: 2016-05-07T21:40:13Z
+        lat: 27.20883333
+        lng: -81.7783
+  - - - '140'
+      - Bill Vickery
+    - zonesTag:
+      - fix: 17
+        time: 2016-05-07T17:28:10Z
+        lat: 28.53628333
+        lng: -81.84771667
+      - fix: 920
+        time: 2016-05-07T17:58:16Z
+        lat: 28.44591667
+        lng: -81.82393333
+      - fix: 2093
+        time: 2016-05-07T18:37:22Z
+        lat: 28.25565
+        lng: -81.82281667
+      - fix: 3958
+        time: 2016-05-07T19:39:32Z
+        lat: 27.95691667
+        lng: -81.60561667
+      - null
+      - null
+  - - - '104'
+      - Christian Pollet
+    - zonesTag:
+      - fix: 42
+        time: 2016-05-07T17:30:30Z
+        lat: 28.53611667
+        lng: -81.84845
+      - fix: 981
+        time: 2016-05-07T18:01:57Z
+        lat: 28.4464
+        lng: -81.8225
+      - fix: 2188
+        time: 2016-05-07T18:42:25Z
+        lat: 28.26176667
+        lng: -81.8234
+      - fix: 3854
+        time: 2016-05-07T19:38:12Z
+        lat: 27.95825
+        lng: -81.60531667
+      - null
+      - null
+  - - - '150'
+      - Claudia Mejia
+    - zonesTag:
+      - fix: 31
+        time: 2016-05-07T17:31:34Z
+        lat: 28.53653333
+        lng: -81.8463
+      - fix: 1671
+        time: 2016-05-07T17:59:34Z
+        lat: 28.44586667
+        lng: -81.82403333
+      - fix: 2186
+        time: 2016-05-07T18:25:32Z
+        lat: 28.25971667
+        lng: -81.82115
+      - fix: 3586
+        time: 2016-05-07T19:36:59Z
+        lat: 27.95941667
+        lng: -81.6045
+      - null
+      - null
+  - - - '110'
+      - Cory Barnwell
+    - zonesTag:
+      - fix: 8
+        time: 2016-05-07T16:40:09Z
+        lat: 28.53628333
+        lng: -81.84826667
+      - fix: 1373
+        time: 2016-05-07T17:49:46Z
+        lat: 28.44545
+        lng: -81.82775
+      - fix: 2089
+        time: 2016-05-07T18:26:20Z
+        lat: 28.25715
+        lng: -81.82131667
+      - fix: 4126
+        time: 2016-05-07T20:09:42Z
+        lat: 27.9536
+        lng: -81.60263333
+      - null
+      - null
+  - - - '101'
+      - Davis Straub
+    - zonesTag:
+      - fix: 14
+        time: 2016-05-07T16:51:54Z
+        lat: 28.53608333
+        lng: -81.8477
+      - fix: 701
+        time: 2016-05-07T17:50:20Z
+        lat: 28.44566667
+        lng: -81.82636667
+      - fix: 1020
+        time: 2016-05-07T18:17:29Z
+        lat: 28.25963333
+        lng: -81.82116667
+      - null
+      - null
+      - null
+  - - - '106'
+      - Fabiano Nahoum
+    - zonesTag:
+      - fix: 11
+        time: 2016-05-07T17:08:15Z
+        lat: 28.53625
+        lng: -81.84673333
+      - fix: 247
+        time: 2016-05-07T17:48:18Z
+        lat: 28.44616667
+        lng: -81.82408333
+      - fix: 457
+        time: 2016-05-07T18:24:06Z
+        lat: 28.2552
+        lng: -81.8234
+      - fix: 781
+        time: 2016-05-07T19:18:42Z
+        lat: 27.95725
+        lng: -81.60556667
+      - fix: 1172
+        time: 2016-05-07T20:24:17Z
+        lat: 27.59395
+        lng: -81.53013333
+      - fix: 1663
+        time: 2016-05-07T21:46:55Z
+        lat: 27.20886667
+        lng: -81.77803333
+  - - - '127'
+      - Gerry Pesavento
+    - zonesTag:
+      - fix: 12
+        time: 2016-05-07T17:06:59Z
+        lat: 28.53598333
+        lng: -81.84775
+      - fix: 524
+        time: 2016-05-07T17:50:22Z
+        lat: 28.44563333
+        lng: -81.82571667
+      - fix: 847
+        time: 2016-05-07T18:17:54Z
+        lat: 28.2614
+        lng: -81.82278333
+      - fix: 1477
+        time: 2016-05-07T19:11:05Z
+        lat: 27.95855
+        lng: -81.60511667
+      - fix: 2323
+        time: 2016-05-07T20:22:10Z
+        lat: 27.59513333
+        lng: -81.52843333
+      - fix: 3403
+        time: 2016-05-07T21:53:05Z
+        lat: 27.209
+        lng: -81.77806667
+  - - - '118'
+      - Ingo Heilmann
+    - zonesTag:
+      - fix: 61
+        time: 2016-05-07T17:23:05Z
+        lat: 28.53636667
+        lng: -81.84795
+      - fix: 1589
+        time: 2016-05-07T17:48:38Z
+        lat: 28.44738333
+        lng: -81.8176
+      - fix: 3361
+        time: 2016-05-07T18:18:14Z
+        lat: 28.26093333
+        lng: -81.82218333
+      - null
+      - null
+      - null
+  - - - '123'
+      - JD Guillemette
+    - zonesTag:
+      - fix: 11
+        time: 2016-05-07T16:44:18Z
+        lat: 28.53601667
+        lng: -81.84643333
+      - fix: 788
+        time: 2016-05-07T17:50:17Z
+        lat: 28.44588333
+        lng: -81.8249
+      - fix: 1107
+        time: 2016-05-07T18:17:25Z
+        lat: 28.26165
+        lng: -81.8232
+      - fix: 1837
+        time: 2016-05-07T19:19:23Z
+        lat: 27.95778333
+        lng: -81.60548333
+      - null
+      - null
+  - - - '132'
+      - James Stinnett
+    - zonesTag:
+      - fix: 9
+        time: 2016-05-07T16:54:53Z
+        lat: 28.53621667
+        lng: -81.84668333
+      - fix: 338
+        time: 2016-05-07T17:50:22Z
+        lat: 28.4457
+        lng: -81.8287
+      - fix: 499
+        time: 2016-05-07T18:17:41Z
+        lat: 28.26186667
+        lng: -81.82501667
+      - fix: 830
+        time: 2016-05-07T19:13:21Z
+        lat: 27.95863333
+        lng: -81.6051
+      - fix: 1156
+        time: 2016-05-07T20:08:06Z
+        lat: 27.59271667
+        lng: -81.53075
+      - fix: 1687
+        time: 2016-05-07T21:37:40Z
+        lat: 27.20871667
+        lng: -81.77538333
+  - - - '126'
+      - Jeff Kannard
+    - zonesTag:
+      - fix: 17
+        time: 2016-05-07T17:21:30Z
+        lat: 28.53405
+        lng: -81.8504
+      - fix: 583
+        time: 2016-05-07T17:50:22Z
+        lat: 28.44536667
+        lng: -81.82671667
+      - fix: 1105
+        time: 2016-05-07T18:17:04Z
+        lat: 28.25983333
+        lng: -81.82126667
+      - null
+      - null
+      - null
+  - - - '116'
+      - Jeffery Bohl
+    - zonesTag:
+      - fix: 17
+        time: 2016-05-07T17:12:42Z
+        lat: 28.53616667
+        lng: -81.84711667
+      - fix: 751
+        time: 2016-05-07T17:50:11Z
+        lat: 28.44558333
+        lng: -81.82643333
+      - fix: 1382
+        time: 2016-05-07T18:22:27Z
+        lat: 28.25595
+        lng: -81.82208333
+      - fix: 2821
+        time: 2016-05-07T19:35:23Z
+        lat: 27.95705
+        lng: -81.60553333
+      - null
+      - null
+  - - - '142'
+      - John Simon
+    - zonesTag:
+      - fix: 63
+        time: 2016-05-07T16:45:13Z
+        lat: 28.53575
+        lng: -81.84813333
+      - fix: 1611
+        time: 2016-05-07T17:49:59Z
+        lat: 28.44548333
+        lng: -81.82575
+      - fix: 2328
+        time: 2016-05-07T18:25:44Z
+        lat: 28.25656667
+        lng: -81.82233333
+      - fix: 3197
+        time: 2016-05-07T19:12:27Z
+        lat: 27.95773333
+        lng: -81.6048
+      - fix: 4607
+        time: 2016-05-07T20:15:05Z
+        lat: 27.59131667
+        lng: -81.53038333
+      - fix: 6297
+        time: 2016-05-07T21:39:04Z
+        lat: 27.20881667
+        lng: -81.77883333
+  - - - '138'
+      - Jonny Durand
+    - zonesTag:
+      - fix: 31
+        time: 2016-05-07T17:05:08Z
+        lat: 28.53553333
+        lng: -81.84731667
+      - fix: 304
+        time: 2016-05-07T17:50:12Z
+        lat: 28.44618333
+        lng: -81.82311667
+      - fix: 451
+        time: 2016-05-07T18:14:35Z
+        lat: 28.26106667
+        lng: -81.8222
+      - fix: 718
+        time: 2016-05-07T18:58:56Z
+        lat: 27.95735
+        lng: -81.6056
+      - fix: 1108
+        time: 2016-05-07T20:03:46Z
+        lat: 27.59376667
+        lng: -81.53013333
+      - fix: 1555
+        time: 2016-05-07T21:18:02Z
+        lat: 27.20898333
+        lng: -81.77745
+  - - - '134'
+      - Kinsley Sykes
+    - zonesTag:
+      - fix: 15
+        time: 2016-05-07T17:36:45Z
+        lat: 28.53618333
+        lng: -81.84788333
+      - fix: 358
+        time: 2016-05-07T18:00:05Z
+        lat: 28.44593333
+        lng: -81.82368333
+      - fix: 694
+        time: 2016-05-07T18:22:58Z
+        lat: 28.26055
+        lng: -81.82171667
+      - null
+      - null
+      - null
+  - - - '125'
+      - Larry Bunner
+    - zonesTag:
+      - fix: 10
+        time: 2016-05-07T16:57:46Z
+        lat: 28.5357
+        lng: -81.84625
+      - fix: 320
+        time: 2016-05-07T17:50:18Z
+        lat: 28.44675
+        lng: -81.82201667
+      - fix: 479
+        time: 2016-05-07T18:16:48Z
+        lat: 28.26108333
+        lng: -81.82246667
+      - fix: 802
+        time: 2016-05-07T19:10:27Z
+        lat: 27.95816667
+        lng: -81.60543333
+      - fix: 1186
+        time: 2016-05-07T20:14:19Z
+        lat: 27.59151667
+        lng: -81.5308
+      - fix: 1683
+        time: 2016-05-07T21:36:55Z
+        lat: 27.20895
+        lng: -81.77611667
+  - - - '107'
+      - Malcolm Brown
+    - zonesTag:
+      - fix: 8
+        time: 2016-05-07T16:59:42Z
+        lat: 28.53371667
+        lng: -81.8462
+      - fix: 305
+        time: 2016-05-07T17:50:31Z
+        lat: 28.44548333
+        lng: -81.8262
+      - fix: 462
+        time: 2016-05-07T18:17:16Z
+        lat: 28.26078333
+        lng: -81.82186667
+      - fix: 757
+        time: 2016-05-07T19:07:04Z
+        lat: 27.95761667
+        lng: -81.60553333
+      - fix: 1159
+        time: 2016-05-07T20:14:30Z
+        lat: 27.58845
+        lng: -81.52805
+      - fix: 1650
+        time: 2016-05-07T21:37:20Z
+        lat: 27.20905
+        lng: -81.77685
+  - - - '103'
+      - Matt Christensen
+    - zonesTag:
+      - fix: 11
+        time: 2016-05-07T17:14:59Z
+        lat: 28.53633333
+        lng: -81.84793333
+      - fix: 679
+        time: 2016-05-07T17:48:24Z
+        lat: 28.44591667
+        lng: -81.82346667
+      - fix: 1611
+        time: 2016-05-07T18:35:03Z
+        lat: 28.25516667
+        lng: -81.82336667
+      - fix: 3020
+        time: 2016-05-07T19:45:26Z
+        lat: 27.95766667
+        lng: -81.60551667
+      - null
+      - null
+  - - - '109'
+      - Michael Williams
+    - zonesTag:
+      - fix: 9
+        time: 2016-05-07T17:29:03Z
+        lat: 28.53628333
+        lng: -81.84795
+      - fix: 153
+        time: 2016-05-07T17:53:37Z
+        lat: 28.44771667
+        lng: -81.8233
+      - fix: 293
+        time: 2016-05-07T18:17:26Z
+        lat: 28.2595
+        lng: -81.82116667
+      - fix: 566
+        time: 2016-05-07T19:03:33Z
+        lat: 27.95781667
+        lng: -81.6055
+      - fix: 1098
+        time: 2016-05-07T20:32:43Z
+        lat: 27.59313333
+        lng: -81.52308333
+      - fix: 1594
+        time: 2016-05-07T21:56:09Z
+        lat: 27.20883333
+        lng: -81.77566667
+  - - - '114'
+      - Mick Howard
+    - zonesTag:
+      - fix: 11
+        time: 2016-05-07T17:19:48Z
+        lat: 28.53651667
+        lng: -81.84743333
+      - fix: 938
+        time: 2016-05-07T17:51:25Z
+        lat: 28.44563333
+        lng: -81.82541667
+      - fix: 1721
+        time: 2016-05-07T18:18:10Z
+        lat: 28.25933333
+        lng: -81.82108333
+      - fix: 3322
+        time: 2016-05-07T19:12:24Z
+        lat: 27.96013333
+        lng: -81.60355
+      - fix: 5338
+        time: 2016-05-07T20:20:20Z
+        lat: 27.59391667
+        lng: -81.52368333
+      - fix: 8118
+        time: 2016-05-07T21:54:12Z
+        lat: 27.20891667
+        lng: -81.77608333
+  - - - '120'
+      - Mike Glennon
+    - zonesTag:
+      - fix: 37
+        time: 2016-05-07T17:16:10Z
+        lat: 28.53641667
+        lng: -81.84638333
+      - fix: 681
+        time: 2016-05-07T17:48:16Z
+        lat: 28.4461
+        lng: -81.8228
+      - fix: 1281
+        time: 2016-05-07T18:18:16Z
+        lat: 28.25863333
+        lng: -81.82095
+      - fix: 2275
+        time: 2016-05-07T19:08:01Z
+        lat: 27.95565
+        lng: -81.60525
+      - fix: 3753
+        time: 2016-05-07T20:22:01Z
+        lat: 27.59515
+        lng: -81.52856667
+      - null
+  - - - '129'
+      - Mike Jefferson
+    - zonesTag:
+      - fix: 10
+        time: 2016-05-07T17:51:19Z
+        lat: 28.5363
+        lng: -81.84683333
+      - fix: 238
+        time: 2016-05-07T18:30:16Z
+        lat: 28.44506667
+        lng: -81.83395
+      - fix: 405
+        time: 2016-05-07T18:58:48Z
+        lat: 28.26146667
+        lng: -81.82283333
+      - null
+      - null
+      - null
+  - - - '135'
+      - Misael Rosalez
+    - null
+  - - - '133'
+      - Olav Olsen
+    - zonesTag:
+      - fix: 40
+        time: 2016-05-07T17:33:26Z
+        lat: 28.53635
+        lng: -81.84733333
+      - fix: 569
+        time: 2016-05-07T17:59:56Z
+        lat: 28.4466
+        lng: -81.82223333
+      - fix: 1006
+        time: 2016-05-07T18:21:48Z
+        lat: 28.2616
+        lng: -81.82346667
+      - fix: 2151
+        time: 2016-05-07T19:19:04Z
+        lat: 27.9585
+        lng: -81.60531667
+      - fix: 3404
+        time: 2016-05-07T20:21:46Z
+        lat: 27.5952
+        lng: -81.52808333
+      - fix: 4961
+        time: 2016-05-07T21:39:40Z
+        lat: 27.20893333
+        lng: -81.77685
+  - - - '113'
+      - Olav Opsanger
+    - zonesTag:
+      - fix: 14
+        time: 2016-05-07T17:00:53Z
+        lat: 28.5362
+        lng: -81.84751667
+      - fix: 611
+        time: 2016-05-07T17:50:33Z
+        lat: 28.4458
+        lng: -81.82443333
+      - fix: 933
+        time: 2016-05-07T18:17:25Z
+        lat: 28.26043333
+        lng: -81.82163333
+      - fix: 1530
+        time: 2016-05-07T19:07:05Z
+        lat: 27.95571667
+        lng: -81.6054
+      - fix: 2339
+        time: 2016-05-07T20:14:25Z
+        lat: 27.59101667
+        lng: -81.53071667
+      - fix: 3271
+        time: 2016-05-07T21:32:00Z
+        lat: 27.20881667
+        lng: -81.77563333
+  - - - '121'
+      - Oleg Bondarchuk
+    - zonesTag:
+      - fix: 48
+        time: 2016-05-07T17:01:56Z
+        lat: 28.53565
+        lng: -81.8467
+      - fix: 340
+        time: 2016-05-07T17:50:36Z
+        lat: 28.44705
+        lng: -81.82455
+      - fix: 499
+        time: 2016-05-07T18:17:06Z
+        lat: 28.26026667
+        lng: -81.82238333
+      - fix: 785
+        time: 2016-05-07T19:04:46Z
+        lat: 27.95536667
+        lng: -81.60458333
+      - fix: 1159
+        time: 2016-05-07T20:07:06Z
+        lat: 27.59201667
+        lng: -81.53011667
+      - fix: 1653
+        time: 2016-05-07T21:29:26Z
+        lat: 27.20823333
+        lng: -81.77728333
+  - - - '141'
+      - Patrick Halfhill
+    - zonesTag:
+      - fix: 15
+        time: 2016-05-07T17:27:12Z
+        lat: 28.53641667
+        lng: -81.84636667
+      - fix: 613
+        time: 2016-05-07T17:57:04Z
+        lat: 28.44491667
+        lng: -81.8308
+      - fix: 1440
+        time: 2016-05-07T18:38:28Z
+        lat: 28.25543333
+        lng: -81.82285
+      - fix: 2762
+        time: 2016-05-07T19:44:37Z
+        lat: 27.95986667
+        lng: -81.60396667
+      - null
+      - null
+  - - - '111'
+      - Patrick Kruse
+    - null
+  - - - '124'
+      - Patrick Pannese
+    - zonesTag:
+      - fix: 18
+        time: 2016-05-07T17:13:55Z
+        lat: 28.53578333
+        lng: -81.84923333
+      - fix: 1078
+        time: 2016-05-07T17:50:01Z
+        lat: 28.44556667
+        lng: -81.82525
+      - fix: 1920
+        time: 2016-05-07T18:18:43Z
+        lat: 28.2578
+        lng: -81.82098333
+      - fix: 3391
+        time: 2016-05-07T19:08:32Z
+        lat: 27.9545
+        lng: -81.60448333
+      - null
+      - null
+  - - - '146'
+      - Peter Kelley
+    - zonesTag:
+      - fix: 38
+        time: 2016-05-07T17:34:34Z
+        lat: 28.53641667
+        lng: -81.84731667
+      - fix: 544
+        time: 2016-05-07T17:59:54Z
+        lat: 28.44615
+        lng: -81.82261667
+      - fix: 1095
+        time: 2016-05-07T18:27:27Z
+        lat: 28.26148333
+        lng: -81.82295
+      - fix: 2458
+        time: 2016-05-07T19:35:40Z
+        lat: 27.95853333
+        lng: -81.6052
+      - fix: 3988
+        time: 2016-05-07T20:52:12Z
+        lat: 27.59408333
+        lng: -81.52365
+      - null
+  - - - '108'
+      - Raul Guerra
+    - zonesTag:
+      - fix: 32
+        time: 2016-05-07T16:49:10Z
+        lat: 28.53586667
+        lng: -81.8472
+      - fix: 386
+        time: 2016-05-07T17:48:07Z
+        lat: 28.44603333
+        lng: -81.82331667
+      - fix: 563
+        time: 2016-05-07T18:17:45Z
+        lat: 28.26031667
+        lng: -81.82166667
+      - fix: 865
+        time: 2016-05-07T19:08:03Z
+        lat: 27.9559
+        lng: -81.60546667
+      - null
+      - null
+  - - - '102'
+      - Richard lovelace
+    - zonesTag:
+      - fix: 9
+        time: 2016-05-07T16:46:02Z
+        lat: 28.5357
+        lng: -81.84741667
+      - fix: 380
+        time: 2016-05-07T17:48:57Z
+        lat: 28.44628333
+        lng: -81.82758333
+      - fix: 551
+        time: 2016-05-07T18:17:37Z
+        lat: 28.25945
+        lng: -81.8211
+      - fix: 846
+        time: 2016-05-07T19:07:24Z
+        lat: 27.95765
+        lng: -81.60553333
+      - null
+      - null
+  - - - '117'
+      - Robert Dallas
+    - zonesTag:
+      - fix: 16
+        time: 2016-05-07T17:23:50Z
+        lat: 28.53645
+        lng: -81.8466
+      - fix: 920
+        time: 2016-05-07T17:54:41Z
+        lat: 28.44526667
+        lng: -81.82711667
+      - fix: 1911
+        time: 2016-05-07T18:28:33Z
+        lat: 28.25661667
+        lng: -81.82151667
+      - fix: 3893
+        time: 2016-05-07T19:35:55Z
+        lat: 27.95855
+        lng: -81.60523333
+      - null
+      - null
+  - - - '131'
+      - Robin Hamilton
+    - zonesTag:
+      - fix: 7
+        time: 2016-05-07T16:50:57Z
+        lat: 28.53611667
+        lng: -81.84825
+      - fix: 1749
+        time: 2016-05-07T17:50:03Z
+        lat: 28.44596667
+        lng: -81.82343333
+      - fix: 2478
+        time: 2016-05-07T18:14:53Z
+        lat: 28.26108333
+        lng: -81.8223
+      - fix: 3783
+        time: 2016-05-07T18:59:08Z
+        lat: 27.95823333
+        lng: -81.60526667
+      - fix: 5703
+        time: 2016-05-07T20:03:47Z
+        lat: 27.59401667
+        lng: -81.5299
+      - fix: 8324
+        time: 2016-05-07T21:32:27Z
+        lat: 27.20898333
+        lng: -81.7767
+  - - - '145'
+      - Roger Irby
+    - null
+  - - - '112'
+      - Sergey Kataev
+    - zonesTag:
+      - fix: 39
+        time: 2016-05-07T17:38:02Z
+        lat: 28.53648333
+        lng: -81.84655
+      - fix: 585
+        time: 2016-05-07T18:05:33Z
+        lat: 28.44673333
+        lng: -81.8212
+      - fix: 1339
+        time: 2016-05-07T18:43:33Z
+        lat: 28.26185
+        lng: -81.82586667
+      - null
+      - null
+      - null
+  - - - '144'
+      - Tom Lanning
+    - zonesTag:
+      - fix: 15
+        time: 2016-05-07T17:20:37Z
+        lat: 28.53635
+        lng: -81.84761667
+      - fix: 520
+        time: 2016-05-07T17:54:59Z
+        lat: 28.4441
+        lng: -81.8369
+      - null
+      - null
+      - null
+      - null
+  - - - '139'
+      - Tullio Gervasoni
+    - zonesTag:
+      - fix: 8
+        time: 2016-05-07T17:10:18Z
+        lat: 28.53318333
+        lng: -81.84536667
+      - fix: 247
+        time: 2016-05-07T17:50:12Z
+        lat: 28.4462
+        lng: -81.82643333
+      - fix: 396
+        time: 2016-05-07T18:14:59Z
+        lat: 28.2611
+        lng: -81.82223333
+      - fix: 662
+        time: 2016-05-07T18:59:10Z
+        lat: 27.95591667
+        lng: -81.60536667
+      - fix: 1050
+        time: 2016-05-07T20:03:49Z
+        lat: 27.59375
+        lng: -81.53023333
+      - fix: 1581
+        time: 2016-05-07T21:32:20Z
+        lat: 27.2088
+        lng: -81.77606667
+  - - - '137'
+      - Yoko Isomoto
+    - zonesTag:
+      - fix: 8
+        time: 2016-05-07T17:11:22Z
+        lat: 28.53391667
+        lng: -81.84568333
+      - fix: 496
+        time: 2016-05-07T17:53:05Z
+        lat: 28.44586667
+        lng: -81.82436667
+      - fix: 959
+        time: 2016-05-07T18:32:17Z
+        lat: 28.2569
+        lng: -81.8214
+      - null
+      - null
+      - null
+  - - - '128'
+      - Zac Majors
+    - null
+- - - - '115'
+      - Andrew Hollidge
+    - null
+  - - - '143'
+      - Anna Eppink
+    - null
+  - - - '119'
+      - Bart Weghorst
+    - null
+  - - - '140'
+      - Bill Vickery
+    - null
+  - - - '104'
+      - Christian Pollet
+    - null
+  - - - '150'
+      - Claudia Mejia
+    - zonesTag:
+      - fix: 34
+        time: 2016-05-08T16:34:06Z
+        lat: 28.53046667
+        lng: -81.84405
+      - fix: 3422
+        time: 2016-05-08T17:31:56Z
+        lat: 28.54706667
+        lng: -81.89491667
+      - fix: 4707
+        time: 2016-05-08T18:37:30Z
+        lat: 28.63391667
+        lng: -82.19123333
+      - fix: 6565
+        time: 2016-05-08T20:12:22Z
+        lat: 28.7179
+        lng: -81.89928333
+      - null
+      - null
+  - - - '110'
+      - Cory Barnwell
+    - null
+  - - - '101'
+      - Davis Straub
+    - null
+  - - - '106'
+      - Fabiano Nahoum
+    - null
+  - - - '127'
+      - Gerry Pesavento
+    - null
+  - - - '118'
+      - Ingo Heilmann
+    - null
+  - - - '123'
+      - JD Guillemette
+    - null
+  - - - '132'
+      - James Stinnett
+    - null
+  - - - '126'
+      - Jeff Kannard
+    - null
+  - - - '116'
+      - Jeffery Bohl
+    - null
+  - - - '142'
+      - John Simon
+    - null
+  - - - '138'
+      - Jonny Durand
+    - null
+  - - - '134'
+      - Kinsley Sykes
+    - null
+  - - - '125'
+      - Larry Bunner
+    - null
+  - - - '107'
+      - Malcolm Brown
+    - null
+  - - - '103'
+      - Matt Christensen
+    - zonesTag:
+      - fix: 11
+        time: 2016-05-08T16:44:16Z
+        lat: 28.53041667
+        lng: -81.84406667
+      - fix: 970
+        time: 2016-05-08T17:32:14Z
+        lat: 28.54758333
+        lng: -81.8947
+      - fix: 2437
+        time: 2016-05-08T18:45:39Z
+        lat: 28.64705
+        lng: -82.18833333
+      - fix: 4334
+        time: 2016-05-08T20:20:35Z
+        lat: 28.7125
+        lng: -81.89946667
+      - null
+      - null
+  - - - '109'
+      - Michael Williams
+    - null
+  - - - '114'
+      - Mick Howard
+    - null
+  - - - '120'
+      - Mike Glennon
+    - null
+  - - - '129'
+      - Mike Jefferson
+    - null
+  - - - '135'
+      - Misael Rosalez
+    - null
+  - - - '133'
+      - Olav Olsen
+    - null
+  - - - '113'
+      - Olav Opsanger
+    - null
+  - - - '121'
+      - Oleg Bondarchuk
+    - zonesTag:
+      - fix: 35
+        time: 2016-05-08T17:07:04Z
+        lat: 28.53058333
+        lng: -81.84455
+      - fix: 180
+        time: 2016-05-08T17:31:14Z
+        lat: 28.5472
+        lng: -81.8947
+      - fix: 495
+        time: 2016-05-08T18:23:44Z
+        lat: 28.64505
+        lng: -82.18818333
+      - fix: 1012
+        time: 2016-05-08T19:49:57Z
+        lat: 28.71478333
+        lng: -81.9002
+      - fix: 1513
+        time: 2016-05-08T21:13:27Z
+        lat: 28.40008333
+        lng: -81.83738333
+      - fix: 1625
+        time: 2016-05-08T21:32:07Z
+        lat: 28.53031667
+        lng: -81.84578333
+  - - - '141'
+      - Patrick Halfhill
+    - null
+  - - - '111'
+      - Patrick Kruse
+    - null
+  - - - '124'
+      - Patrick Pannese
+    - null
+  - - - '146'
+      - Peter Kelley
+    - null
+  - - - '108'
+      - Raul Guerra
+    - null
+  - - - '102'
+      - Richard lovelace
+    - null
+  - - - '117'
+      - Robert Dallas
+    - null
+  - - - '131'
+      - Robin Hamilton
+    - null
+  - - - '145'
+      - Roger Irby
+    - null
+  - - - '112'
+      - Sergey Kataev
+    - zonesTag:
+      - fix: 39
+        time: 2016-05-08T17:20:34Z
+        lat: 28.53015
+        lng: -81.84513333
+      - fix: 391
+        time: 2016-05-08T17:38:15Z
+        lat: 28.53846667
+        lng: -81.89678333
+      - fix: 1796
+        time: 2016-05-08T18:49:05Z
+        lat: 28.64668333
+        lng: -82.18815
+      - null
+      - null
+      - null
+  - - - '144'
+      - Tom Lanning
+    - null
+  - - - '139'
+      - Tullio Gervasoni
+    - null
+  - - - '137'
+      - Yoko Isomoto
+    - null
+  - - - '128'
+      - Zac Majors
+    - null
+- - - - '115'
+      - Andrew Hollidge
+    - null
+  - - - '143'
+      - Anna Eppink
+    - null
+  - - - '119'
+      - Bart Weghorst
+    - null
+  - - - '140'
+      - Bill Vickery
+    - null
+  - - - '104'
+      - Christian Pollet
+    - null
+  - - - '150'
+      - Claudia Mejia
+    - null
+  - - - '110'
+      - Cory Barnwell
+    - null
+  - - - '101'
+      - Davis Straub
+    - null
+  - - - '106'
+      - Fabiano Nahoum
+    - null
+  - - - '127'
+      - Gerry Pesavento
+    - null
+  - - - '118'
+      - Ingo Heilmann
+    - null
+  - - - '123'
+      - JD Guillemette
+    - null
+  - - - '132'
+      - James Stinnett
+    - null
+  - - - '126'
+      - Jeff Kannard
+    - null
+  - - - '116'
+      - Jeffery Bohl
+    - null
+  - - - '142'
+      - John Simon
+    - null
+  - - - '138'
+      - Jonny Durand
+    - null
+  - - - '134'
+      - Kinsley Sykes
+    - null
+  - - - '125'
+      - Larry Bunner
+    - null
+  - - - '107'
+      - Malcolm Brown
+    - null
+  - - - '103'
+      - Matt Christensen
+    - zonesTag:
+      - fix: 1852
+        time: 2016-05-21T18:08:06Z
+        lat: 28.53155
+        lng: -81.84296667
+      - fix: 3106
+        time: 2016-05-25T18:29:25Z
+        lat: 28.54851667
+        lng: -81.89431667
+      - fix: 5919
+        time: 2016-06-09T19:17:04Z
+        lat: 28.62368333
+        lng: -82.11008333
+      - null
+      - null
+      - null
+  - - - '114'
+      - Mick Howard
+    - null
+  - - - '120'
+      - Mike Glennon
+    - null
+  - - - '129'
+      - Mike Jefferson
+    - null
+  - - - '135'
+      - Misael Rosalez
+    - null
+  - - - '133'
+      - Olav Olsen
+    - null
+  - - - '113'
+      - Olav Opsanger
+    - null
+  - - - '121'
+      - Oleg Bondarchuk
+    - zonesTag:
+      - fix: 42
+        time: 2016-05-09T17:54:13Z
+        lat: 28.5301
+        lng: -81.84523333
+      - fix: 272
+        time: 2016-05-09T18:32:33Z
+        lat: 28.56718333
+        lng: -81.8795
+      - fix: 490
+        time: 2016-05-09T19:08:53Z
+        lat: 28.61818333
+        lng: -82.10726667
+      - fix: 887
+        time: 2016-05-09T20:15:03Z
+        lat: 28.7993
+        lng: -81.9387
+      - fix: 1047
+        time: 2016-05-09T20:41:43Z
+        lat: 28.77285
+        lng: -82.12936667
+      - fix: 1361
+        time: 2016-05-09T21:34:03Z
+        lat: 28.6719
+        lng: -82.09008333
+  - - - '141'
+      - Patrick Halfhill
+    - null
+  - - - '111'
+      - Patrick Kruse
+    - null
+  - - - '124'
+      - Patrick Pannese
+    - null
+  - - - '146'
+      - Peter Kelley
+    - null
+  - - - '108'
+      - Raul Guerra
+    - null
+  - - - '102'
+      - Richard lovelace
+    - null
+  - - - '117'
+      - Robert Dallas
+    - null
+  - - - '131'
+      - Robin Hamilton
+    - null
+  - - - '145'
+      - Roger Irby
+    - null
+  - - - '112'
+      - Sergey Kataev
+    - zonesTag:
+      - fix: 42
+        time: 2016-05-09T18:13:03Z
+        lat: 28.53066667
+        lng: -81.84386667
+      - fix: 374
+        time: 2016-05-09T18:29:47Z
+        lat: 28.565
+        lng: -81.88211667
+      - fix: 1332
+        time: 2016-05-09T19:18:01Z
+        lat: 28.62446667
+        lng: -82.11098333
+      - fix: 3130
+        time: 2016-05-09T20:48:35Z
+        lat: 28.80433333
+        lng: -81.9381
+      - null
+      - null
+  - - - '144'
+      - Tom Lanning
+    - null
+  - - - '139'
+      - Tullio Gervasoni
+    - null
+  - - - '137'
+      - Yoko Isomoto
+    - null
+  - - - '128'
+      - Zac Majors
+    - null
+- - - - '115'
+      - Andrew Hollidge
+    - null
+  - - - '143'
+      - Anna Eppink
+    - null
+  - - - '119'
+      - Bart Weghorst
+    - null
+  - - - '140'
+      - Bill Vickery
+    - null
+  - - - '104'
+      - Christian Pollet
+    - null
+  - - - '150'
+      - Claudia Mejia
+    - zonesTag:
+      - fix: 39
+        time: 2016-05-10T17:58:56Z
+        lat: 28.52968333
+        lng: -81.84585
+      - fix: 1269
+        time: 2016-05-10T18:20:01Z
+        lat: 28.56751667
+        lng: -81.87896667
+      - fix: 2425
+        time: 2016-05-10T19:18:53Z
+        lat: 28.64311667
+        lng: -82.21605
+      - fix: 4675
+        time: 2016-05-10T21:14:06Z
+        lat: 28.71753333
+        lng: -81.89978333
+      - fix: 5807
+        time: 2016-05-10T21:59:12Z
+        lat: 28.53653333
+        lng: -81.84698333
+  - - - '110'
+      - Cory Barnwell
+    - null
+  - - - '101'
+      - Davis Straub
+    - null
+  - - - '106'
+      - Fabiano Nahoum
+    - null
+  - - - '127'
+      - Gerry Pesavento
+    - null
+  - - - '118'
+      - Ingo Heilmann
+    - null
+  - - - '123'
+      - JD Guillemette
+    - null
+  - - - '132'
+      - James Stinnett
+    - null
+  - - - '126'
+      - Jeff Kannard
+    - null
+  - - - '116'
+      - Jeffery Bohl
+    - null
+  - - - '142'
+      - John Simon
+    - null
+  - - - '138'
+      - Jonny Durand
+    - null
+  - - - '134'
+      - Kinsley Sykes
+    - null
+  - - - '125'
+      - Larry Bunner
+    - null
+  - - - '103'
+      - Matt Christensen
+    - null
+  - - - '114'
+      - Mick Howard
+    - null
+  - - - '120'
+      - Mike Glennon
+    - null
+  - - - '129'
+      - Mike Jefferson
+    - null
+  - - - '135'
+      - Misael Rosalez
+    - null
+  - - - '133'
+      - Olav Olsen
+    - null
+  - - - '113'
+      - Olav Opsanger
+    - null
+  - - - '121'
+      - Oleg Bondarchuk
+    - zonesTag:
+      - fix: 54
+        time: 2016-05-10T17:26:37Z
+        lat: 28.52975
+        lng: -81.84526667
+      - fix: 376
+        time: 2016-05-10T18:20:17Z
+        lat: 28.56121667
+        lng: -81.88463333
+      - fix: 661
+        time: 2016-05-10T19:07:47Z
+        lat: 28.64533333
+        lng: -82.21618333
+      - fix: 1040
+        time: 2016-05-10T20:10:57Z
+        lat: 28.71808333
+        lng: -81.89498333
+      - null
+  - - - '141'
+      - Patrick Halfhill
+    - null
+  - - - '111'
+      - Patrick Kruse
+    - null
+  - - - '124'
+      - Patrick Pannese
+    - null
+  - - - '146'
+      - Peter Kelley
+    - null
+  - - - '108'
+      - Raul Guerra
+    - null
+  - - - '102'
+      - Richard lovelace
+    - null
+  - - - '117'
+      - Robert Dallas
+    - null
+  - - - '131'
+      - Robin Hamilton
+    - null
+  - - - '145'
+      - Roger Irby
+    - null
+  - - - '112'
+      - Sergey Kataev
+    - zonesTag:
+      - fix: 38
+        time: 2016-05-10T18:11:35Z
+        lat: 28.52986667
+        lng: -81.84566667
+      - fix: 569
+        time: 2016-05-10T18:38:21Z
+        lat: 28.56741667
+        lng: -81.87891667
+      - fix: 1713
+        time: 2016-05-10T19:35:59Z
+        lat: 28.64293333
+        lng: -82.21638333
+      - fix: 3955
+        time: 2016-05-10T21:28:56Z
+        lat: 28.71261667
+        lng: -81.89955
+      - null
+  - - - '144'
+      - Tom Lanning
+    - null
+  - - - '139'
+      - Tullio Gervasoni
+    - null
+  - - - '137'
+      - Yoko Isomoto
+    - zonesTag:
+      - fix: 361
+        time: 2016-05-16T17:48:35Z
+        lat: 28.53526667
+        lng: -81.84673333
+      - fix: 1976
+        time: 2016-05-16T18:20:09Z
+        lat: 28.55603333
+        lng: -81.8877
+      - null
+      - null
+      - null
+  - - - '128'
+      - Zac Majors
+    - null
+- - - - '115'
+      - Andrew Hollidge
+    - null
+  - - - '143'
+      - Anna Eppink
+    - null
+  - - - '119'
+      - Bart Weghorst
+    - null
+  - - - '140'
+      - Bill Vickery
+    - null
+  - - - '104'
+      - Christian Pollet
+    - null
+  - - - '150'
+      - Claudia Mejia
+    - zonesTag:
+      - fix: 42
+        time: 2016-05-11T17:02:58Z
+        lat: 28.53085
+        lng: -81.84346667
+      - fix: 4416
+        time: 2016-05-11T18:25:15Z
+        lat: 28.56518333
+        lng: -81.88206667
+      - fix: 4992
+        time: 2016-05-11T18:54:25Z
+        lat: 28.71161667
+        lng: -81.89718333
+      - fix: 7153
+        time: 2016-05-11T20:44:54Z
+        lat: 28.26093333
+        lng: -81.82795
+      - fix: 9036
+        time: 2016-05-11T22:21:09Z
+        lat: 28.52986667
+        lng: -81.84521667
+  - - - '110'
+      - Cory Barnwell
+    - null
+  - - - '101'
+      - Davis Straub
+    - null
+  - - - '106'
+      - Fabiano Nahoum
+    - null
+  - - - '127'
+      - Gerry Pesavento
+    - null
+  - - - '118'
+      - Ingo Heilmann
+    - null
+  - - - '123'
+      - JD Guillemette
+    - null
+  - - - '132'
+      - James Stinnett
+    - null
+  - - - '126'
+      - Jeff Kannard
+    - null
+  - - - '116'
+      - Jeffery Bohl
+    - null
+  - - - '142'
+      - John Simon
+    - null
+  - - - '138'
+      - Jonny Durand
+    - null
+  - - - '134'
+      - Kinsley Sykes
+    - null
+  - - - '125'
+      - Larry Bunner
+    - null
+  - - - '103'
+      - Matt Christensen
+    - null
+  - - - '109'
+      - Michael Williams
+    - null
+  - - - '114'
+      - Mick Howard
+    - null
+  - - - '120'
+      - Mike Glennon
+    - null
+  - - - '129'
+      - Mike Jefferson
+    - null
+  - - - '135'
+      - Misael Rosalez
+    - null
+  - - - '133'
+      - Olav Olsen
+    - null
+  - - - '113'
+      - Olav Opsanger
+    - null
+  - - - '121'
+      - Oleg Bondarchuk
+    - zonesTag:
+      - fix: 43
+        time: 2016-05-11T17:29:50Z
+        lat: 28.53005
+        lng: -81.8448
+      - fix: 477
+        time: 2016-05-11T18:42:10Z
+        lat: 28.57193333
+        lng: -81.87101667
+      - fix: 611
+        time: 2016-05-11T19:04:30Z
+        lat: 28.71221667
+        lng: -81.89655
+      - fix: 1078
+        time: 2016-05-11T20:22:20Z
+        lat: 28.25766667
+        lng: -81.82781667
+      - fix: 1426
+        time: 2016-05-11T21:20:20Z
+        lat: 28.53121667
+        lng: -81.8472
+  - - - '141'
+      - Patrick Halfhill
+    - null
+  - - - '111'
+      - Patrick Kruse
+    - null
+  - - - '124'
+      - Patrick Pannese
+    - null
+  - - - '146'
+      - Peter Kelley
+    - null
+  - - - '108'
+      - Raul Guerra
+    - null
+  - - - '102'
+      - Richard lovelace
+    - null
+  - - - '117'
+      - Robert Dallas
+    - null
+  - - - '131'
+      - Robin Hamilton
+    - null
+  - - - '145'
+      - Roger Irby
+    - zonesTag:
+      - null
+      - fix: 9165
+        time: 2016-08-27T19:53:11Z
+        lat: 28.56341667
+        lng: -81.884
+      - null
+      - null
+      - null
+  - - - '112'
+      - Sergey Kataev
+    - zonesTag:
+      - fix: 38
+        time: 2016-05-11T17:53:41Z
+        lat: 28.53008333
+        lng: -81.84511667
+      - fix: 739
+        time: 2016-05-11T18:28:57Z
+        lat: 28.56148333
+        lng: -81.88588333
+      - fix: 1447
+        time: 2016-05-11T19:04:39Z
+        lat: 28.71161667
+        lng: -81.89703333
+      - fix: 3806
+        time: 2016-05-11T21:03:32Z
+        lat: 28.25701667
+        lng: -81.82875
+      - fix: 5121
+        time: 2016-05-11T22:09:43Z
+        lat: 28.52956667
+        lng: -81.84686667
+  - - - '144'
+      - Tom Lanning
+    - null
+  - - - '139'
+      - Tullio Gervasoni
+    - null
+  - - - '128'
+      - Zac Majors
+    - null
+- - - - '115'
+      - Andrew Hollidge
+    - zonesTag:
+      - fix: 12
+        time: 2016-05-12T18:50:52Z
+        lat: 28.53015
+        lng: -81.8447
+      - fix: 491
+        time: 2016-05-12T19:30:42Z
+        lat: 28.48896667
+        lng: -81.8434
+      - fix: 1011
+        time: 2016-05-12T20:14:02Z
+        lat: 28.262
+        lng: -81.82436667
+      - null
+  - - - '143'
+      - Anna Eppink
+    - null
+  - - - '119'
+      - Bart Weghorst
+    - null
+  - - - '140'
+      - Bill Vickery
+    - null
+  - - - '104'
+      - Christian Pollet
+    - null
+  - - - '150'
+      - Claudia Mejia
+    - null
+  - - - '110'
+      - Cory Barnwell
+    - null
+  - - - '101'
+      - Davis Straub
+    - null
+  - - - '106'
+      - Fabiano Nahoum
+    - null
+  - - - '127'
+      - Gerry Pesavento
+    - null
+  - - - '118'
+      - Ingo Heilmann
+    - null
+  - - - '123'
+      - JD Guillemette
+    - zonesTag:
+      - fix: 69
+        time: 2016-05-12T18:47:21Z
+        lat: 28.53208333
+        lng: -81.84281667
+      - fix: 1145
+        time: 2016-05-12T19:29:58Z
+        lat: 28.48845
+        lng: -81.84641667
+      - fix: 3092
+        time: 2016-05-12T20:46:42Z
+        lat: 28.26028333
+        lng: -81.82151667
+      - null
+  - - - '132'
+      - James Stinnett
+    - null
+  - - - '126'
+      - Jeff Kannard
+    - null
+  - - - '116'
+      - Jeffery Bohl
+    - null
+  - - - '142'
+      - John Simon
+    - null
+  - - - '138'
+      - Jonny Durand
+    - null
+  - - - '134'
+      - Kinsley Sykes
+    - null
+  - - - '125'
+      - Larry Bunner
+    - null
+  - - - '103'
+      - Matt Christensen
+    - zonesTag:
+      - fix: 19
+        time: 2016-05-12T19:00:57Z
+        lat: 28.52968333
+        lng: -81.84683333
+      - fix: 630
+        time: 2016-05-12T19:31:32Z
+        lat: 28.48833333
+        lng: -81.84476667
+      - fix: 2112
+        time: 2016-05-12T20:45:40Z
+        lat: 28.26201667
+        lng: -81.82495
+      - null
+  - - - '109'
+      - Michael Williams
+    - null
+  - - - '114'
+      - Mick Howard
+    - null
+  - - - '120'
+      - Mike Glennon
+    - null
+  - - - '129'
+      - Mike Jefferson
+    - null
+  - - - '135'
+      - Misael Rosalez
+    - null
+  - - - '133'
+      - Olav Olsen
+    - null
+  - - - '113'
+      - Olav Opsanger
+    - null
+  - - - '121'
+      - Oleg Bondarchuk
+    - zonesTag:
+      - fix: 52
+        time: 2016-05-12T18:41:54Z
+        lat: 28.52998333
+        lng: -81.84795
+      - fix: 345
+        time: 2016-05-12T19:30:44Z
+        lat: 28.48968333
+        lng: -81.84173333
+      - fix: 598
+        time: 2016-05-12T20:12:54Z
+        lat: 28.2615
+        lng: -81.82505
+      - null
+  - - - '141'
+      - Patrick Halfhill
+    - null
+  - - - '111'
+      - Patrick Kruse
+    - null
+  - - - '124'
+      - Patrick Pannese
+    - null
+  - - - '146'
+      - Peter Kelley
+    - null
+  - - - '108'
+      - Raul Guerra
+    - null
+  - - - '102'
+      - Richard lovelace
+    - null
+  - - - '117'
+      - Robert Dallas
+    - null
+  - - - '131'
+      - Robin Hamilton
+    - null
+  - - - '145'
+      - Roger Irby
+    - null
+  - - - '112'
+      - Sergey Kataev
+    - zonesTag:
+      - fix: 39
+        time: 2016-05-12T19:04:38Z
+        lat: 28.52996667
+        lng: -81.8453
+      - fix: 546
+        time: 2016-05-12T19:30:08Z
+        lat: 28.48906667
+        lng: -81.83916667
+      - fix: 1921
+        time: 2016-05-12T20:39:27Z
+        lat: 28.26173333
+        lng: -81.82393333
+      - null
+  - - - '144'
+      - Tom Lanning
+    - null
+  - - - '139'
+      - Tullio Gervasoni
+    - null
+  - - - '128'
+      - Zac Majors
+    - null
+- - - - '115'
+      - Andrew Hollidge
+    - null
+  - - - '143'
+      - Anna Eppink
+    - zonesTag:
+      - null
+      - fix: 803
+        time: 2016-05-13T18:54:38Z
+        lat: 28.51761667
+        lng: -81.82468333
+      - fix: 1480
+        time: 2016-05-13T19:52:12Z
+        lat: 28.25641667
+        lng: -81.68633333
+      - null
+      - null
+  - - - '119'
+      - Bart Weghorst
+    - null
+  - - - '140'
+      - Bill Vickery
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '104'
+      - Christian Pollet
+    - zonesTag:
+      - null
+      - fix: 746
+        time: 2016-05-13T18:00:14Z
+        lat: 28.52255
+        lng: -81.80991667
+      - fix: 2213
+        time: 2016-05-13T18:49:20Z
+        lat: 28.2542
+        lng: -81.68936667
+      - fix: 3628
+        time: 2016-05-13T19:36:36Z
+        lat: 28.0828
+        lng: -81.64648333
+      - fix: 4548
+        time: 2016-05-13T20:07:21Z
+        lat: 28.24968333
+        lng: -81.68466667
+  - - - '150'
+      - Claudia Mejia
+    - zonesTag:
+      - null
+      - fix: 2872
+        time: 2016-05-13T18:04:57Z
+        lat: 28.51258333
+        lng: -81.83861667
+      - fix: 3409
+        time: 2016-05-13T19:07:59Z
+        lat: 28.2503
+        lng: -81.68805
+      - fix: 3849
+        time: 2016-05-13T19:59:46Z
+        lat: 28.08215
+        lng: -81.646
+      - fix: 4236
+        time: 2016-05-13T20:45:36Z
+        lat: 28.2495
+        lng: -81.68555
+  - - - '110'
+      - Cory Barnwell
+    - zonesTag:
+      - null
+      - null
+      - fix: 1337
+        time: 2016-05-13T18:53:58Z
+        lat: 28.25405
+        lng: -81.68168333
+      - fix: 2289
+        time: 2016-05-13T19:42:28Z
+        lat: 28.08385
+        lng: -81.6476
+      - fix: 3213
+        time: 2016-05-13T20:29:27Z
+        lat: 28.25065
+        lng: -81.68241667
+  - - - '101'
+      - Davis Straub
+    - null
+  - - - '106'
+      - Fabiano Nahoum
+    - zonesTag:
+      - null
+      - fix: 413
+        time: 2016-05-13T18:24:27Z
+        lat: 28.5082
+        lng: -81.8731
+      - fix: 685
+        time: 2016-05-13T19:10:59Z
+        lat: 28.25616667
+        lng: -81.68721667
+      - fix: 899
+        time: 2016-05-13T19:47:30Z
+        lat: 28.08431667
+        lng: -81.65028333
+      - fix: 1176
+        time: 2016-05-13T20:34:19Z
+        lat: 28.25101667
+        lng: -81.68213333
+  - - - '127'
+      - Gerry Pesavento
+    - zonesTag:
+      - null
+      - fix: 511
+        time: 2016-05-13T18:00:46Z
+        lat: 28.51013333
+        lng: -81.85058333
+      - fix: 1274
+        time: 2016-05-13T19:05:38Z
+        lat: 28.25646667
+        lng: -81.68623333
+      - fix: 1809
+        time: 2016-05-13T19:51:02Z
+        lat: 28.0818
+        lng: -81.64595
+      - fix: 2298
+        time: 2016-05-13T20:32:22Z
+        lat: 28.25006667
+        lng: -81.68373333
+  - - - '118'
+      - Ingo Heilmann
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '123'
+      - JD Guillemette
+    - zonesTag:
+      - null
+      - fix: 2166
+        time: 2016-05-13T18:24:38Z
+        lat: 28.50766667
+        lng: -81.87013333
+      - fix: 3521
+        time: 2016-05-13T19:18:35Z
+        lat: 28.25618333
+        lng: -81.6852
+      - fix: 4617
+        time: 2016-05-13T20:01:33Z
+        lat: 28.0837
+        lng: -81.64731667
+      - fix: 5941
+        time: 2016-05-13T20:53:23Z
+        lat: 28.2518
+        lng: -81.6819
+  - - - '132'
+      - James Stinnett
+    - zonesTag:
+      - null
+      - fix: 363
+        time: 2016-05-13T18:22:04Z
+        lat: 28.52415
+        lng: -81.80755
+      - fix: 675
+        time: 2016-05-13T19:15:14Z
+        lat: 28.25518333
+        lng: -81.68855
+      - fix: 839
+        time: 2016-05-13T19:42:54Z
+        lat: 28.08361667
+        lng: -81.64725
+      - fix: 1000
+        time: 2016-05-13T20:10:04Z
+        lat: 28.24956667
+        lng: -81.685
+  - - - '126'
+      - Jeff Kannard
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '116'
+      - Jeffery Bohl
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '142'
+      - John Simon
+    - zonesTag:
+      - null
+      - fix: 517
+        time: 2016-05-13T18:24:26Z
+        lat: 28.50825
+        lng: -81.87176667
+      - fix: 836
+        time: 2016-05-13T19:07:05Z
+        lat: 28.25498333
+        lng: -81.68881667
+      - fix: 1016
+        time: 2016-05-13T19:30:59Z
+        lat: 28.08423333
+        lng: -81.64986667
+      - fix: 1248
+        time: 2016-05-13T20:01:48Z
+        lat: 28.2502
+        lng: -81.6831
+  - - - '138'
+      - Jonny Durand
+    - zonesTag:
+      - null
+      - fix: 362
+        time: 2016-05-13T18:24:02Z
+        lat: 28.50858333
+        lng: -81.87361667
+      - fix: 609
+        time: 2016-05-13T19:05:13Z
+        lat: 28.25598333
+        lng: -81.68778333
+      - fix: 748
+        time: 2016-05-13T19:27:56Z
+        lat: 28.08433333
+        lng: -81.649
+      - fix: 922
+        time: 2016-05-13T19:56:47Z
+        lat: 28.24986667
+        lng: -81.68403333
+  - - - '134'
+      - Kinsley Sykes
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '125'
+      - Larry Bunner
+    - zonesTag:
+      - null
+      - fix: 243
+        time: 2016-05-13T18:00:13Z
+        lat: 28.52531667
+        lng: -81.80538333
+      - null
+      - null
+      - null
+  - - - '103'
+      - Matt Christensen
+    - zonesTag:
+      - null
+      - fix: 400
+        time: 2016-05-13T18:00:22Z
+        lat: 28.52228333
+        lng: -81.81048333
+      - fix: 1381
+        time: 2016-05-13T18:49:24Z
+        lat: 28.25595
+        lng: -81.68321667
+      - fix: 2458
+        time: 2016-05-13T19:43:15Z
+        lat: 28.08356667
+        lng: -81.6473
+      - fix: 3266
+        time: 2016-05-13T20:23:38Z
+        lat: 28.25111667
+        lng: -81.68216667
+  - - - '114'
+      - Mick Howard
+    - zonesTag:
+      - null
+      - fix: 1232
+        time: 2016-05-13T18:22:00Z
+        lat: 28.52361667
+        lng: -81.80795
+      - fix: 2688
+        time: 2016-05-13T19:11:47Z
+        lat: 28.25656667
+        lng: -81.68561667
+      - fix: 4694
+        time: 2016-05-13T20:12:47Z
+        lat: 28.08331667
+        lng: -81.6469
+      - fix: 6067
+        time: 2016-05-13T20:59:28Z
+        lat: 28.25218333
+        lng: -81.6816
+  - - - '120'
+      - Mike Glennon
+    - zonesTag:
+      - null
+      - null
+      - fix: 1428
+        time: 2016-05-13T18:49:28Z
+        lat: 28.25418333
+        lng: -81.68928333
+      - fix: 2495
+        time: 2016-05-13T19:42:58Z
+        lat: 28.08401667
+        lng: -81.64805
+      - fix: 3246
+        time: 2016-05-13T20:20:39Z
+        lat: 28.251
+        lng: -81.6821
+  - - - '129'
+      - Mike Jefferson
+    - zonesTag:
+      - null
+      - fix: 308
+        time: 2016-05-13T18:05:34Z
+        lat: 28.51175
+        lng: -81.84223333
+      - fix: 801
+        time: 2016-05-13T19:29:47Z
+        lat: 28.25328333
+        lng: -81.68946667
+      - null
+      - null
+  - - - '135'
+      - Misael Rosalez
+    - null
+  - - - '133'
+      - Olav Olsen
+    - zonesTag:
+      - null
+      - fix: 447
+        time: 2016-05-13T17:58:40Z
+        lat: 28.5219
+        lng: -81.81126667
+      - fix: 1897
+        time: 2016-05-13T19:11:13Z
+        lat: 28.25498333
+        lng: -81.68236667
+      - fix: 2558
+        time: 2016-05-13T19:44:14Z
+        lat: 28.08415
+        lng: -81.6509
+      - fix: 4610
+        time: 2016-05-13T21:26:56Z
+        lat: 28.25201667
+        lng: -81.68168333
+  - - - '113'
+      - Olav Opsanger
+    - zonesTag:
+      - null
+      - fix: 744
+        time: 2016-05-13T18:24:26Z
+        lat: 28.50798333
+        lng: -81.86985
+      - fix: 1260
+        time: 2016-05-13T19:07:26Z
+        lat: 28.25428333
+        lng: -81.6893
+      - fix: 1824
+        time: 2016-05-13T19:54:24Z
+        lat: 28.08331667
+        lng: -81.6474
+      - fix: 2448
+        time: 2016-05-13T20:46:17Z
+        lat: 28.24961667
+        lng: -81.68481667
+  - - - '121'
+      - Oleg Bondarchuk
+    - zonesTag:
+      - null
+      - fix: 250
+        time: 2016-05-13T18:00:24Z
+        lat: 28.50783333
+        lng: -81.87381667
+      - fix: 591
+        time: 2016-05-13T18:57:14Z
+        lat: 28.25156667
+        lng: -81.68898333
+      - fix: 812
+        time: 2016-05-13T19:34:04Z
+        lat: 28.08346667
+        lng: -81.64945
+      - fix: 983
+        time: 2016-05-13T20:02:34Z
+        lat: 28.25191667
+        lng: -81.6835
+  - - - '141'
+      - Patrick Halfhill
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '111'
+      - Patrick Kruse
+    - null
+  - - - '124'
+      - Patrick Pannese
+    - zonesTag:
+      - null
+      - fix: 495
+        time: 2016-05-13T17:58:42Z
+        lat: 28.5221
+        lng: -81.81076667
+      - fix: 2439
+        time: 2016-05-13T19:05:13Z
+        lat: 28.25585
+        lng: -81.68306667
+      - fix: 3511
+        time: 2016-05-13T19:41:49Z
+        lat: 28.08271667
+        lng: -81.64636667
+      - fix: 4671
+        time: 2016-05-13T20:21:10Z
+        lat: 28.2499
+        lng: -81.68343333
+  - - - '146'
+      - Peter Kelley
+    - zonesTag:
+      - null
+      - null
+      - null
+      - null
+      - null
+  - - - '108'
+      - Raul Guerra
+    - zonesTag:
+      - null
+      - fix: 207
+        time: 2016-05-13T18:00:12Z
+        lat: 28.52256667
+        lng: -81.81068333
+      - fix: 588
+        time: 2016-05-13T19:03:50Z
+        lat: 28.25621667
+        lng: -81.68713333
+      - null
+      - null
+  - - - '102'
+      - Richard lovelace
+    - zonesTag:
+      - null
+      - fix: 412
+        time: 2016-05-13T18:20:22Z
+        lat: 28.51853333
+        lng: -81.8232
+      - fix: 750
+        time: 2016-05-13T19:18:20Z
+        lat: 28.2562
+        lng: -81.68693333
+      - fix: 966
+        time: 2016-05-13T19:55:09Z
+        lat: 28.084
+        lng: -81.64806667
+      - fix: 1235
+        time: 2016-05-13T20:40:45Z
+        lat: 28.2494
+        lng: -81.68531667
+  - - - '117'
+      - Robert Dallas
+    - null
+  - - - '131'
+      - Robin Hamilton
+    - zonesTag:
+      - null
+      - fix: 1061
+        time: 2016-05-13T18:02:40Z
+        lat: 28.51008333
+        lng: -81.8498
+      - fix: 2658
+        time: 2016-05-13T18:57:08Z
+        lat: 28.2535
+        lng: -81.68936667
+      - fix: 3959
+        time: 2016-05-13T19:41:19Z
+        lat: 28.08316667
+        lng: -81.64675
+      - fix: 4785
+        time: 2016-05-13T20:09:23Z
+        lat: 28.24946667
+        lng: -81.6849
+  - - - '145'
+      - Roger Irby
+    - null
+  - - - '112'
+      - Sergey Kataev
+    - zonesTag:
+      - null
+      - fix: 361
+        time: 2016-05-13T18:03:12Z
+        lat: 28.5242
+        lng: -81.80643333
+      - fix: 2208
+        time: 2016-05-13T19:36:16Z
+        lat: 28.2565
+        lng: -81.68623333
+      - fix: 3365
+        time: 2016-05-13T20:34:33Z
+        lat: 28.08435
+        lng: -81.6491
+      - null
+  - - - '144'
+      - Tom Lanning
+    - zonesTag:
+      - null
+      - fix: 266
+        time: 2016-05-13T18:00:59Z
+        lat: 28.5192
+        lng: -81.81778333
+      - fix: 1241
+        time: 2016-05-13T19:07:41Z
+        lat: 28.25645
+        lng: -81.68461667
+      - fix: 1931
+        time: 2016-05-13T19:54:40Z
+        lat: 28.08293333
+        lng: -81.64648333
+      - null
+  - - - '139'
+      - Tullio Gervasoni
+    - zonesTag:
+      - null
+      - fix: 188
+        time: 2016-05-13T18:00:12Z
+        lat: 28.52321667
+        lng: -81.80916667
+      - fix: 578
+        time: 2016-05-13T19:05:15Z
+        lat: 28.25548333
+        lng: -81.68813333
+      - fix: 873
+        time: 2016-05-13T19:54:21Z
+        lat: 28.08333333
+        lng: -81.6481
+      - null
+  - - - '128'
+      - Zac Majors
+    - null

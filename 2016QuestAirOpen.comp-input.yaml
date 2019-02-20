@@ -1,0 +1,1607 @@
+comp:
+  compName: QuestAir Open
+  discipline: hg
+  earthMath: Haversines
+  location: Groveland, Florida, USA
+  from: 2016-05-07
+  to: 2016-05-13
+  civilId: '0'
+  utcOffset:
+    timeZoneMinutes: -240
+  scoreBack: 900.000 s
+  give:
+    giveFraction: 5.0e-3
+    giveDistance: null
+  earth:
+    sphere:
+      radius: 6371000.0 m
+nominal:
+  launch: 1
+  goal: 0.2
+  distance: 60.0 km
+  free: 5.0 km
+  time: 2.000000 h
+compTweak:
+  arrivalWeightScaling: null
+  leadingWeightScaling: null
+tasks:
+- taskName: QUEST-ELLSWR
+  zones:
+    raw:
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 400.0 m
+      give: 398.0 m
+      alt: 37.000 m
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 10000.0 m
+      give: 9950.0 m
+      alt: 37.000 m
+    - zoneName: T33DS
+      lat: 28.25847
+      lng: -81.825
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    - zoneName: SUZANE
+      lat: 27.95703
+      lng: -81.60162
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    - zoneName: AVONPK
+      lat: 27.5919
+      lng: -81.52687
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    - zoneName: ELLSWR
+      lat: 27.20555
+      lng: -81.77722
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 10000.0 m
+      - cylinder:
+          center:
+          - 28.25847000 deg
+          - -81.82500000 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 27.95703000 deg
+          - -81.60162000 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 27.59190000 deg
+          - -81.52687000 deg
+          radius: 400.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 27.20555000 deg
+          - -81.77722000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 6
+  zoneTimes:
+  - open: 2016-05-07T16:30:00Z
+    close: 2016-05-08T00:00:00Z
+  - open: 2016-05-07T17:30:00Z
+    close: 2016-05-08T00:00:00Z
+  - open: 2016-05-07T17:30:00Z
+    close: 2016-05-08T00:00:00Z
+  - open: 2016-05-07T17:30:00Z
+    close: 2016-05-08T00:00:00Z
+  - open: 2016-05-07T17:30:00Z
+    close: 2016-05-08T00:00:00Z
+  - open: 2016-05-07T17:30:00Z
+    close: 2016-05-08T00:00:00Z
+  startGates:
+  - 2016-05-07T17:30:00Z
+  - 2016-05-07T17:50:00Z
+  - 2016-05-07T18:10:00Z
+  - 2016-05-07T18:30:00Z
+  stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
+  penals: []
+- taskName: QUEST-QUEST
+  zones:
+    raw:
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 400.0 m
+      give: 398.0 m
+      alt: 37.000 m
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 5000.0 m
+      give: 4975.0 m
+      alt: 37.000 m
+    - zoneName: GROSS
+      lat: 28.64555
+      lng: -82.21898
+      radius: 3000.0 m
+      give: 3015.0 m
+      alt: 37.000 m
+    - zoneName: TURN33
+      lat: 28.71518
+      lng: -81.8967
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    - zoneName: T47433
+      lat: 28.3764
+      lng: -81.8233
+      radius: 3000.0 m
+      give: 3015.0 m
+      alt: 37.000 m
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 5000.0 m
+      - cylinder:
+          center:
+          - 28.64555000 deg
+          - -82.21898000 deg
+          radius: 3000.0 m
+      - cylinder:
+          center:
+          - 28.71518000 deg
+          - -81.89670000 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 28.37640000 deg
+          - -81.82330000 deg
+          radius: 3000.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 6
+  zoneTimes:
+  - open: 2016-05-08T16:30:00Z
+    close: 2016-05-09T00:00:00Z
+  - open: 2016-05-08T17:30:00Z
+    close: 2016-05-09T00:00:00Z
+  - open: 2016-05-08T17:30:00Z
+    close: 2016-05-09T00:00:00Z
+  - open: 2016-05-08T17:30:00Z
+    close: 2016-05-09T00:00:00Z
+  - open: 2016-05-08T17:30:00Z
+    close: 2016-05-09T00:00:00Z
+  - open: 2016-05-08T17:30:00Z
+    close: 2016-05-09T00:00:00Z
+  startGates:
+  - 2016-05-08T17:30:00Z
+  - 2016-05-08T17:50:00Z
+  - 2016-05-08T18:10:00Z
+  - 2016-05-08T18:30:00Z
+  stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
+  penals: []
+- taskName: QUEST-CHERYL
+  zones:
+    raw:
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 400.0 m
+      give: 398.0 m
+      alt: 37.000 m
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 5000.0 m
+      give: 4975.0 m
+      alt: 37.000 m
+    - zoneName: KOKEE
+      lat: 28.595
+      lng: -82.1498
+      radius: 5000.0 m
+      give: 5025.0 m
+      alt: 37.000 m
+    - zoneName: BARON
+      lat: 28.80142
+      lng: -81.93573
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    - zoneName: PANOLK
+      lat: 28.77283
+      lng: -82.13307
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    - zoneName: CHERYL
+      lat: 28.67143
+      lng: -82.08718
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 5000.0 m
+      - cylinder:
+          center:
+          - 28.59500000 deg
+          - -82.14980000 deg
+          radius: 5000.0 m
+      - cylinder:
+          center:
+          - 28.80142000 deg
+          - -81.93573000 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 28.77283000 deg
+          - -82.13307000 deg
+          radius: 400.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 28.67143000 deg
+          - -82.08718000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 6
+  zoneTimes:
+  - open: 2016-05-09T17:30:00Z
+    close: 2016-05-10T00:00:00Z
+  - open: 2016-05-09T18:30:00Z
+    close: 2016-05-10T00:00:00Z
+  - open: 2016-05-09T18:30:00Z
+    close: 2016-05-10T00:00:00Z
+  - open: 2016-05-09T18:30:00Z
+    close: 2016-05-10T00:00:00Z
+  - open: 2016-05-09T18:30:00Z
+    close: 2016-05-10T00:00:00Z
+  - open: 2016-05-09T18:30:00Z
+    close: 2016-05-10T00:00:00Z
+  startGates:
+  - 2016-05-09T18:30:00Z
+  - 2016-05-09T18:50:00Z
+  - 2016-05-09T19:10:00Z
+  - 2016-05-09T19:30:00Z
+  stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
+  penals: []
+- taskName: QUEST-QUEST
+  zones:
+    raw:
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 400.0 m
+      give: 398.0 m
+      alt: 37.000 m
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 5000.0 m
+      give: 4975.0 m
+      alt: 37.000 m
+    - zoneName: GROSS
+      lat: 28.64555
+      lng: -82.21898
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    - zoneName: TURN33
+      lat: 28.71518
+      lng: -81.8967
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 5000.0 m
+      - cylinder:
+          center:
+          - 28.64555000 deg
+          - -82.21898000 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 28.71518000 deg
+          - -81.89670000 deg
+          radius: 400.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 5
+  zoneTimes:
+  - open: 2016-05-10T17:00:00Z
+    close: 2016-05-11T00:00:00Z
+  - open: 2016-05-10T18:00:00Z
+    close: 2016-05-11T00:00:00Z
+  - open: 2016-05-10T18:00:00Z
+    close: 2016-05-11T00:00:00Z
+  - open: 2016-05-10T18:00:00Z
+    close: 2016-05-11T00:00:00Z
+  - open: 2016-05-10T18:00:00Z
+    close: 2016-05-11T00:00:00Z
+  startGates:
+  - 2016-05-10T18:00:00Z
+  - 2016-05-10T18:20:00Z
+  - 2016-05-10T18:40:00Z
+  - 2016-05-10T19:00:00Z
+  stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
+  penals: []
+- taskName: QUEST-QUEST
+  zones:
+    raw:
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 400.0 m
+      give: 398.0 m
+      alt: 37.000 m
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 5000.0 m
+      give: 4975.0 m
+      alt: 37.000 m
+    - zoneName: TURN33
+      lat: 28.71518
+      lng: -81.8967
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    - zoneName: T33DS
+      lat: 28.25847
+      lng: -81.825
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 5000.0 m
+      - cylinder:
+          center:
+          - 28.71518000 deg
+          - -81.89670000 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 28.25847000 deg
+          - -81.82500000 deg
+          radius: 400.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 5
+  zoneTimes:
+  - open: 2016-05-11T17:00:00Z
+    close: 2016-05-12T00:00:00Z
+  - open: 2016-05-11T18:20:00Z
+    close: 2016-05-12T00:00:00Z
+  - open: 2016-05-11T18:20:00Z
+    close: 2016-05-12T00:00:00Z
+  - open: 2016-05-11T18:20:00Z
+    close: 2016-05-12T00:00:00Z
+  - open: 2016-05-11T18:20:00Z
+    close: 2016-05-12T00:00:00Z
+  startGates:
+  - 2016-05-11T18:20:00Z
+  - 2016-05-11T18:40:00Z
+  - 2016-05-11T19:00:00Z
+  - 2016-05-11T19:20:00Z
+  stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
+  penals: []
+- taskName: QUEST-QUEST
+  zones:
+    raw:
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 400.0 m
+      give: 398.0 m
+      alt: 37.000 m
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 5000.0 m
+      give: 4975.0 m
+      alt: 37.000 m
+    - zoneName: T33DS
+      lat: 28.25847
+      lng: -81.825
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    - zoneName: QUEST
+      lat: 28.53303
+      lng: -81.84667
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 400.0 m
+      race:
+      - cylinder:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 5000.0 m
+      - cylinder:
+          center:
+          - 28.25847000 deg
+          - -81.82500000 deg
+          radius: 400.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 28.53303000 deg
+          - -81.84667000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 4
+  zoneTimes:
+  - open: 2016-05-12T18:30:00Z
+    close: 2016-05-13T00:00:00Z
+  - open: 2016-05-12T19:30:00Z
+    close: 2016-05-13T00:00:00Z
+  - open: 2016-05-12T19:30:00Z
+    close: 2016-05-13T00:00:00Z
+  - open: 2016-05-12T19:30:00Z
+    close: 2016-05-13T00:00:00Z
+  startGates:
+  - 2016-05-12T19:30:00Z
+  - 2016-05-12T19:50:00Z
+  - 2016-05-12T20:10:00Z
+  - 2016-05-12T20:30:00Z
+  stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
+  penals: []
+- taskName: T7 GRASSO-WALABY
+  zones:
+    raw:
+    - zoneName: GRASSO
+      lat: 28.64147
+      lng: -81.88063
+      radius: 15000.0 m
+      give: 14925.0 m
+      alt: 30.000 m
+    - zoneName: GRASSO
+      lat: 28.64147
+      lng: -81.88063
+      radius: 15000.0 m
+      give: 14925.0 m
+      alt: 30.000 m
+    - zoneName: WALABY
+      lat: 28.25298
+      lng: -81.68552
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    - zoneName: T27544
+      lat: 28.08083
+      lng: -81.6497
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    - zoneName: WALABY
+      lat: 28.25298
+      lng: -81.68552
+      radius: 400.0 m
+      give: 402.0 m
+      alt: 37.000 m
+    raceKind:
+      prolog:
+      - cylinder:
+          center:
+          - 28.64147000 deg
+          - -81.88063000 deg
+          radius: 15000.0 m
+      race:
+      - cylinder:
+          center:
+          - 28.64147000 deg
+          - -81.88063000 deg
+          radius: 15000.0 m
+      - cylinder:
+          center:
+          - 28.25298000 deg
+          - -81.68552000 deg
+          radius: 400.0 m
+      - cylinder:
+          center:
+          - 28.08083000 deg
+          - -81.64970000 deg
+          radius: 400.0 m
+      race-ess-is-goal:
+        circle:
+          center:
+          - 28.25298000 deg
+          - -81.68552000 deg
+          radius: 400.0 m
+    openKind: null
+  speedSection:
+  - 2
+  - 5
+  zoneTimes:
+  - open: 2016-05-13T17:00:00Z
+    close: 2016-05-14T00:00:00Z
+  - open: 2016-05-13T18:00:00Z
+    close: 2016-05-14T00:00:00Z
+  - open: 2016-05-13T18:00:00Z
+    close: 2016-05-14T00:00:00Z
+  - open: 2016-05-13T18:00:00Z
+    close: 2016-05-14T00:00:00Z
+  - open: 2016-05-13T18:00:00Z
+    close: 2016-05-14T00:00:00Z
+  startGates:
+  - 2016-05-13T18:00:00Z
+  - 2016-05-13T18:20:00Z
+  - 2016-05-13T18:40:00Z
+  - 2016-05-13T19:00:00Z
+  stopped: null
+  taskTweak:
+    arrivalWeightScaling: null
+    leadingWeightScaling: null
+  penals:
+  - - - '115'
+      - Andrew Hollidge
+    - - penalty-points: 16
+    - FS would not process file correctly.
+taskFolders:
+- - flights
+  - QAtask1
+- - flights
+  - QAtask2
+- - flights
+  - QAtask3
+- - flights
+  - QAtask4
+- - flights
+  - QAtask5
+- - flights
+  - QAtask6
+- - flights
+  - QAtask7
+pilots:
+- - - - '115'
+      - Andrew Hollidge
+    - t1.hollidge.115.igc
+  - - - '143'
+      - Anna Eppink
+    - T1.Eppink.143.igc
+  - - - '119'
+      - Bart Weghorst
+    - T1.Weghorst.119.IGC
+  - - - '140'
+      - Bill Vickery
+    - t1.vickery.140.igc
+  - - - '104'
+      - Christian Pollet
+    - T1.pollet.104.IGC
+  - - - '150'
+      - Claudia Mejia
+    - T1.LaNube.150.igc
+  - - - '110'
+      - Cory Barnwell
+    - T1.barnwell.110.IGC
+  - - - '101'
+      - Davis Straub
+    - t1.straub.101.IGC
+  - - - '106'
+      - Fabiano Nahoum
+    - T1.Nahoum.106.igc
+  - - - '127'
+      - Gerry Pesavento
+    - t1.pesavento.127.igc
+  - - - '118'
+      - Ingo Heilmann
+    - T1.Heilmann.118.IGC
+  - - - '123'
+      - JD Guillemette
+    - T1.guillemette.123.IGC
+  - - - '132'
+      - James Stinnett
+    - T1.stinnett.132.IGC
+  - - - '126'
+      - Jeff Kannard
+    - t1.kanard.126.IGC
+  - - - '116'
+      - Jeffery Bohl
+    - T1.bohl.116.IGC
+  - - - '142'
+      - John Simon
+    - T1.Simon.142.igc
+  - - - '138'
+      - Jonny Durand
+    - t1.durand.138.igc
+  - - - '134'
+      - Kinsley Sykes
+    - T1.sykes.134.IGC
+  - - - '125'
+      - Larry Bunner
+    - T1.bunner.125.igc
+  - - - '107'
+      - Malcolm Brown
+    - t1.brown.107.igc
+  - - - '103'
+      - Matt Christensen
+    - T1.christensen.103.IGC
+  - - - '109'
+      - Michael Williams
+    - T1.williams.109.IGC
+  - - - '114'
+      - Mick Howard
+    - T1.howard.114.IGC
+  - - - '120'
+      - Mike Glennon
+    - T1.Glennon.120.igc
+  - - - '129'
+      - Mike Jefferson
+    - T1.Jefferson.129.IGC
+  - - - '135'
+      - Misael Rosalez
+    - t1.rosalez.135.igc
+  - - - '133'
+      - Olav Olsen
+    - T1.olsen.133.igc
+  - - - '113'
+      - Olav Opsanger
+    - T1.opsanger.113.igc
+  - - - '121'
+      - Oleg Bondarchuk
+    - t1.bondarchuk.121.igc
+  - - - '141'
+      - Patrick Halfhill
+    - t1.halfhill.141.IGC
+  - - - '111'
+      - Patrick Kruse
+    - T1.kruse.111.IGC
+  - - - '124'
+      - Patrick Pannese
+    - T1.Pannese.124.IGC
+  - - - '146'
+      - Peter Kelley
+    - t1.kelley.146.igc
+  - - - '108'
+      - Raul Guerra
+    - T1.Guerra.108.igc
+  - - - '102'
+      - Richard lovelace
+    - t1.lovelace.102.igc
+  - - - '117'
+      - Robert Dallas
+    - T1.dallas.117.IGC
+  - - - '131'
+      - Robin Hamilton
+    - t1.hamilton.131.igc
+  - - - '145'
+      - Roger Irby
+    - t1.irbyg.145.igc
+  - - - '112'
+      - Sergey Kataev
+    - T1.Kataev.112.igc
+  - - - '144'
+      - Tom Lanning
+    - T1.lanning.144.igc
+  - - - '139'
+      - Tullio Gervasoni
+    - T1.gervasoni.139.igc
+  - - - '137'
+      - Yoko Isomoto
+    - t1.Isamoto.137.igc
+  - - - '128'
+      - Zac Majors
+    - T1.majors.128.IGC
+- - - - '115'
+      - Andrew Hollidge
+    - t2.hollidge.115.igc
+  - - - '143'
+      - Anna Eppink
+    - t2.eppink.143.IGC
+  - - - '119'
+      - Bart Weghorst
+    - T2.weghorst.119.IGC
+  - - - '140'
+      - Bill Vickery
+    - T2.vickery.140.igc
+  - - - '104'
+      - Christian Pollet
+    - t2.polet.104.igc
+  - - - '150'
+      - Claudia Mejia
+    - t2.lanuve.150.igc
+  - - - '110'
+      - Cory Barnwell
+    - T2.barnwell.110.igc
+  - - - '101'
+      - Davis Straub
+    - t2.straub.101.IGC
+  - - - '106'
+      - Fabiano Nahoum
+    - T2.Nahoum.106.igc
+  - - - '127'
+      - Gerry Pesavento
+    - t2.pesavento.127.IGC
+  - - - '118'
+      - Ingo Heilmann
+    - T2.Heilmann.118.IGC
+  - - - '123'
+      - JD Guillemette
+    - T2.guillemette.123.IGC
+  - - - '132'
+      - James Stinnett
+    - T2.Stinnett.132.IGC
+  - - - '126'
+      - Jeff Kannard
+    - t2.kannard.126.IGC
+  - - - '116'
+      - Jeffery Bohl
+    - t2.bohl.116.IGC
+  - - - '142'
+      - John Simon
+    - T2.Simon.142.igc
+  - - - '138'
+      - Jonny Durand
+    - t2.durand.138.igc
+  - - - '134'
+      - Kinsley Sykes
+    - T2.sykes.134.IGC
+  - - - '125'
+      - Larry Bunner
+    - T2.Bunner.125.igc
+  - - - '107'
+      - Malcolm Brown
+    - T2.Brown.107.igc
+  - - - '103'
+      - Matt Christensen
+    - T2.christensen.103.IGC
+  - - - '109'
+      - Michael Williams
+    - T2.williams.109.IGC
+  - - - '114'
+      - Mick Howard
+    - T2.howard.114.IGC
+  - - - '120'
+      - Mike Glennon
+    - t2.glennon.120.igc
+  - - - '129'
+      - Mike Jefferson
+    - t2.jefferson.129.igc
+  - - - '135'
+      - Misael Rosalez
+    - t2.rosalesz.135.igc
+  - - - '133'
+      - Olav Olsen
+    - T2.olsen.133.igc
+  - - - '113'
+      - Olav Opsanger
+    - T2.opsanger.113.igc
+  - - - '121'
+      - Oleg Bondarchuk
+    - t2.bondarchuk.121.igc
+  - - - '141'
+      - Patrick Halfhill
+    - t2.halfhill.141.IGC
+  - - - '111'
+      - Patrick Kruse
+    - t2.kruse.111.igc
+  - - - '124'
+      - Patrick Pannese
+    - T2.Pannese.124.IGC
+  - - - '146'
+      - Peter Kelley
+    - t2.kelley.146.igc
+  - - - '108'
+      - Raul Guerra
+    - t2.guerra.108.igc
+  - - - '102'
+      - Richard lovelace
+    - t2.lovelace.102.igc
+  - - - '117'
+      - Robert Dallas
+    - T2.dallas.117.IGC
+  - - - '131'
+      - Robin Hamilton
+    - T2.HAMILTON.131.IGC
+  - - - '145'
+      - Roger Irby
+    - T2.irby.145.igc
+  - - - '112'
+      - Sergey Kataev
+    - t2.kataev.112.igc
+  - - - '144'
+      - Tom Lanning
+    - T2.lanning.144.igc
+  - - - '139'
+      - Tullio Gervasoni
+    - t2.gervasoni.139.igc
+  - - - '137'
+      - Yoko Isomoto
+    - t2.isomoto.137.igc
+  - - - '128'
+      - Zac Majors
+    - T2.majors.128.IGC
+- - - - '115'
+      - Andrew Hollidge
+    - t3.hollidge.115.igc
+  - - - '143'
+      - Anna Eppink
+    - t3.eppink.143.IGC
+  - - - '119'
+      - Bart Weghorst
+    - T3.Weghorst.119.IGC
+  - - - '140'
+      - Bill Vickery
+    - T3.vickery.140.igc
+  - - - '104'
+      - Christian Pollet
+    - t3.polet.104.igc
+  - - - '150'
+      - Claudia Mejia
+    - T3.LaNubenew.150.igc
+  - - - '110'
+      - Cory Barnwell
+    - T3.barnwell.110.IGC
+  - - - '101'
+      - Davis Straub
+    - t3.straub.101.IGC
+  - - - '106'
+      - Fabiano Nahoum
+    - T3.Nahoum.106.igc
+  - - - '127'
+      - Gerry Pesavento
+    - t3.pesavento.127.IGC
+  - - - '118'
+      - Ingo Heilmann
+    - T3.Heilmann.118.IGC
+  - - - '123'
+      - JD Guillemette
+    - T3.guillemette.123.IGC
+  - - - '132'
+      - James Stinnett
+    - t3.stinnett.132.IGC
+  - - - '126'
+      - Jeff Kannard
+    - T3.kannard.126.IGC
+  - - - '116'
+      - Jeffery Bohl
+    - T3.Bohl.116.IGC
+  - - - '142'
+      - John Simon
+    - T3.Simon.142.igc
+  - - - '138'
+      - Jonny Durand
+    - t3.durand.138.igc
+  - - - '134'
+      - Kinsley Sykes
+    - T3.sykes.134.IGC
+  - - - '125'
+      - Larry Bunner
+    - T3.Bunner.125.igc
+  - - - '107'
+      - Malcolm Brown
+    - t3.brown.107.igc
+  - - - '103'
+      - Matt Christensen
+    - t3.christensen.103.igc
+  - - - '114'
+      - Mick Howard
+    - T3.Howard.114.IGC
+  - - - '120'
+      - Mike Glennon
+    - T3.Glennon.120.igc
+  - - - '129'
+      - Mike Jefferson
+    - t3.jefferson.129.igc
+  - - - '135'
+      - Misael Rosalez
+    - t3.rosalez.135.igc
+  - - - '133'
+      - Olav Olsen
+    - T3.olsen.133.igc
+  - - - '113'
+      - Olav Opsanger
+    - T3.opsanger.113.igc
+  - - - '121'
+      - Oleg Bondarchuk
+    - t3.bondarchuk.121.igc
+  - - - '141'
+      - Patrick Halfhill
+    - t3.halfhill.141.IGC
+  - - - '111'
+      - Patrick Kruse
+    - t3.kruse.111.IGC
+  - - - '124'
+      - Patrick Pannese
+    - T3.Pannese.124.IGC
+  - - - '146'
+      - Peter Kelley
+    - t3.kelley.146.igc
+  - - - '108'
+      - Raul Guerra
+    - T3.Guerra.108.igc
+  - - - '102'
+      - Richard lovelace
+    - t3.lovelace.102.igc
+  - - - '117'
+      - Robert Dallas
+    - T3.dallas.117.IGC
+  - - - '131'
+      - Robin Hamilton
+    - t3.hamilton.131.igc
+  - - - '145'
+      - Roger Irby
+    - t3.irby.145.igc
+  - - - '112'
+      - Sergey Kataev
+    - t3.kataev.112.igc
+  - - - '144'
+      - Tom Lanning
+    - T3.lanning.144.igc
+  - - - '139'
+      - Tullio Gervasoni
+    - t3.gervasoni.139.igc
+  - - - '137'
+      - Yoko Isomoto
+    - t3.isomoto.137.igc
+  - - - '128'
+      - Zac Majors
+    - T3.majors.128.IGC
+- - - - '115'
+      - Andrew Hollidge
+    - t4.hollidge.115.igc
+  - - - '143'
+      - Anna Eppink
+    - t4.eppink.143.IGC
+  - - - '119'
+      - Bart Weghorst
+    - T4.Weghorst.119.IGC
+  - - - '140'
+      - Bill Vickery
+    - T4.vickery.140.igc
+  - - - '104'
+      - Christian Pollet
+    - t4.polet.104.igc
+  - - - '150'
+      - Claudia Mejia
+    - t4.lanube.150.igc
+  - - - '110'
+      - Cory Barnwell
+    - T4.Barnwell.110.IGC
+  - - - '101'
+      - Davis Straub
+    - t4.straub.101.IGC
+  - - - '106'
+      - Fabiano Nahoum
+    - T4.Nahoum.106.igc
+  - - - '127'
+      - Gerry Pesavento
+    - t4.pesavento.127.IGC
+  - - - '118'
+      - Ingo Heilmann
+    - T4.Heilmann.118.IGC
+  - - - '123'
+      - JD Guillemette
+    - T4.guillemette.123.IGC
+  - - - '132'
+      - James Stinnett
+    - T4.Stinnett.132.IGC
+  - - - '126'
+      - Jeff Kannard
+    - t4.kannard.126.IGC
+  - - - '116'
+      - Jeffery Bohl
+    - T4.Bohl.116.IGC
+  - - - '142'
+      - John Simon
+    - T4.Simon.142.igc
+  - - - '138'
+      - Jonny Durand
+    - t4.durand.138.igc
+  - - - '134'
+      - Kinsley Sykes
+    - T4.sykes.134.IGC
+  - - - '125'
+      - Larry Bunner
+    - T4.Bunner.125.igc
+  - - - '103'
+      - Matt Christensen
+    - T4.christensen.103.IGC
+  - - - '114'
+      - Mick Howard
+    - T4.Howard.114.IGC
+  - - - '120'
+      - Mike Glennon
+    - T4.Glennon.120.igc
+  - - - '129'
+      - Mike Jefferson
+    - T4.Jefferson.129.IGC
+  - - - '135'
+      - Misael Rosalez
+    - t4.rosalez.135.igc
+  - - - '133'
+      - Olav Olsen
+    - T4.olsen.133.igc
+  - - - '113'
+      - Olav Opsanger
+    - T4.opsanger.113.igc
+  - - - '121'
+      - Oleg Bondarchuk
+    - t4.bondarchuk.121.igc
+  - - - '141'
+      - Patrick Halfhill
+    - t4.halfhill.141.IGC
+  - - - '111'
+      - Patrick Kruse
+    - t4.kruse.111.IGC
+  - - - '124'
+      - Patrick Pannese
+    - T4.Pannese.124.IGC
+  - - - '146'
+      - Peter Kelley
+    - t4.kelley.146.igc
+  - - - '108'
+      - Raul Guerra
+    - t4.guerra.108.igc
+  - - - '102'
+      - Richard lovelace
+    - t4.lovelace.102.igc
+  - - - '117'
+      - Robert Dallas
+    - T4.Dallas.117.IGC
+  - - - '131'
+      - Robin Hamilton
+    - t4.HAMILTON.131.igc
+  - - - '145'
+      - Roger Irby
+    - t4.irby.145.igc
+  - - - '112'
+      - Sergey Kataev
+    - t4.kataev.112.igc
+  - - - '144'
+      - Tom Lanning
+    - T4.lanning.144.igc
+  - - - '139'
+      - Tullio Gervasoni
+    - t4.gervasoni.139.igc
+  - - - '137'
+      - Yoko Isomoto
+    - Yoko Isomoto.20160510-170000.137.igc
+  - - - '128'
+      - Zac Majors
+    - T4.majors.128.IGC
+- - - - '115'
+      - Andrew Hollidge
+    - t5.hollidge.115.igc
+  - - - '143'
+      - Anna Eppink
+    - t5.eppink.143.IGC
+  - - - '119'
+      - Bart Weghorst
+    - T5.Weghorse.119.IGC
+  - - - '140'
+      - Bill Vickery
+    - T5.vickery.140.igc
+  - - - '104'
+      - Christian Pollet
+    - t5.polet.104.igc
+  - - - '150'
+      - Claudia Mejia
+    - t5.lanube.150.igc
+  - - - '110'
+      - Cory Barnwell
+    - T5.Barnwell.110.IGC
+  - - - '101'
+      - Davis Straub
+    - t5.straub.101.IGC
+  - - - '106'
+      - Fabiano Nahoum
+    - T5.Nahoum.106.igc
+  - - - '127'
+      - Gerry Pesavento
+    - t5.pesavento.127.IGC
+  - - - '118'
+      - Ingo Heilmann
+    - T5.Heilmann.118.IGC
+  - - - '123'
+      - JD Guillemette
+    - T5.guillemette.123.igc
+  - - - '132'
+      - James Stinnett
+    - t5.stinnett.132.igc
+  - - - '126'
+      - Jeff Kannard
+    - t5.kannard.126.IGC
+  - - - '116'
+      - Jeffery Bohl
+    - T5.Bohl.116.IGC
+  - - - '142'
+      - John Simon
+    - T5.Simon.142.igc
+  - - - '138'
+      - Jonny Durand
+    - t5.durand.138.igc
+  - - - '134'
+      - Kinsley Sykes
+    - T5.sykes.134.IGC
+  - - - '125'
+      - Larry Bunner
+    - T5.Bunner.125.igc
+  - - - '103'
+      - Matt Christensen
+    - T5.christensen.103.IGC
+  - - - '109'
+      - Michael Williams
+    - T5.williams.109.IGC
+  - - - '114'
+      - Mick Howard
+    - T5.Howard.114.IGC
+  - - - '120'
+      - Mike Glennon
+    - T5.Glennon.120.igc
+  - - - '129'
+      - Mike Jefferson
+    - T5.Jefferson.129.igc
+  - - - '135'
+      - Misael Rosalez
+    - t5.rosalez.135.igc
+  - - - '133'
+      - Olav Olsen
+    - T5.olsen.133.igc
+  - - - '113'
+      - Olav Opsanger
+    - T5.opsanger.113.igc
+  - - - '121'
+      - Oleg Bondarchuk
+    - t5.bondarchuk.121.igc
+  - - - '141'
+      - Patrick Halfhill
+    - t5.halfhill.141.IGC
+  - - - '111'
+      - Patrick Kruse
+    - t5.kruse.111.IGC
+  - - - '124'
+      - Patrick Pannese
+    - T5.Pannese.124.IGC
+  - - - '146'
+      - Peter Kelley
+    - T5.Kelley.146.igc
+  - - - '108'
+      - Raul Guerra
+    - t5.guerra.108.igc
+  - - - '102'
+      - Richard lovelace
+    - t5.lovelace.102.igc
+  - - - '117'
+      - Robert Dallas
+    - T5.dallas.117.IGC
+  - - - '131'
+      - Robin Hamilton
+    - t5.hamilton.131.igc
+  - - - '145'
+      - Roger Irby
+    - Roger Irby.20160511-170000.145.igc
+  - - - '112'
+      - Sergey Kataev
+    - t5.kataev.112.igc
+  - - - '144'
+      - Tom Lanning
+    - T5.lanning.144.igc
+  - - - '139'
+      - Tullio Gervasoni
+    - t5.gervasione.139.igc
+  - - - '128'
+      - Zac Majors
+    - T5.majors.128.IGC
+- - - - '115'
+      - Andrew Hollidge
+    - t6.hollidge.115.igc
+  - - - '143'
+      - Anna Eppink
+    - t6.eppink.143.IGC
+  - - - '119'
+      - Bart Weghorst
+    - T6.Weghorst.119.IGC
+  - - - '140'
+      - Bill Vickery
+    - T6.vickery.140.igc
+  - - - '104'
+      - Christian Pollet
+    - t6.pollet.104.igc
+  - - - '150'
+      - Claudia Mejia
+    - t6.lanube.150.igc
+  - - - '110'
+      - Cory Barnwell
+    - T6.Barnwell.110.IGC
+  - - - '101'
+      - Davis Straub
+    - t6.straub.101.IGC
+  - - - '106'
+      - Fabiano Nahoum
+    - T6.Nahoum.106.igc
+  - - - '127'
+      - Gerry Pesavento
+    - t6.pesavento.127.IGC
+  - - - '118'
+      - Ingo Heilmann
+    - T6.Heilmann.118.IGC
+  - - - '123'
+      - JD Guillemette
+    - T6.guillemette.123.igc
+  - - - '132'
+      - James Stinnett
+    - t6.stinnett.132.igc
+  - - - '126'
+      - Jeff Kannard
+    - t6.kannard.126.IGC
+  - - - '116'
+      - Jeffery Bohl
+    - T6.Bohl.116.IGC
+  - - - '142'
+      - John Simon
+    - T6.Simon.142.igc
+  - - - '138'
+      - Jonny Durand
+    - t6.durand.138.igc
+  - - - '134'
+      - Kinsley Sykes
+    - T6.Sykes.134.IGC
+  - - - '125'
+      - Larry Bunner
+    - T6.Bunner.125.igc
+  - - - '103'
+      - Matt Christensen
+    - T6.christensen.103.IGC
+  - - - '109'
+      - Michael Williams
+    - T6.williams.109.IGC
+  - - - '114'
+      - Mick Howard
+    - T6.Howard.114.IGC
+  - - - '120'
+      - Mike Glennon
+    - T6.Glennon.120.igc
+  - - - '129'
+      - Mike Jefferson
+    - T6.Jefferson.129.igc
+  - - - '135'
+      - Misael Rosalez
+    - t6.rosalez.135.igc
+  - - - '133'
+      - Olav Olsen
+    - T6.olsen.133.igc
+  - - - '113'
+      - Olav Opsanger
+    - T6.opsanger.113.igc
+  - - - '121'
+      - Oleg Bondarchuk
+    - t6.bondarchuk.121.igc
+  - - - '141'
+      - Patrick Halfhill
+    - t6.halfhill.141.IGC
+  - - - '111'
+      - Patrick Kruse
+    - t6.kruse.111.IGC
+  - - - '124'
+      - Patrick Pannese
+    - T6.Pannese.124.IGC
+  - - - '146'
+      - Peter Kelley
+    - t6.kelley.146.igc
+  - - - '108'
+      - Raul Guerra
+    - T6.Guerra.108.igc
+  - - - '102'
+      - Richard lovelace
+    - t6.lovelace.102.igc
+  - - - '117'
+      - Robert Dallas
+    - T6.dallas.117.IGC
+  - - - '131'
+      - Robin Hamilton
+    - t6.hamilton.131.IGC
+  - - - '145'
+      - Roger Irby
+    - T6.irby.145.igc
+  - - - '112'
+      - Sergey Kataev
+    - t6.Kataev.112.igc
+  - - - '144'
+      - Tom Lanning
+    - T6.lanning.144.igc
+  - - - '139'
+      - Tullio Gervasoni
+    - t6.gervasoni.139.igc
+  - - - '128'
+      - Zac Majors
+    - T6.majors.128.IGC
+- - - - '115'
+      - Andrew Hollidge
+    - null
+  - - - '143'
+      - Anna Eppink
+    - t7.eppink.143.IGC
+  - - - '119'
+      - Bart Weghorst
+    - T7.Weghorst.119.IGC
+  - - - '140'
+      - Bill Vickery
+    - T7.vickery.140.igc
+  - - - '104'
+      - Christian Pollet
+    - t7.pollet.104.igc
+  - - - '150'
+      - Claudia Mejia
+    - T7.LaNube.150.igc
+  - - - '110'
+      - Cory Barnwell
+    - T7.Barnwell.110.IGC
+  - - - '101'
+      - Davis Straub
+    - t7.straub.101.IGC
+  - - - '106'
+      - Fabiano Nahoum
+    - T7.Nahoum.106.igc
+  - - - '127'
+      - Gerry Pesavento
+    - t7.pesavento.127.IGC
+  - - - '118'
+      - Ingo Heilmann
+    - T7.Heilmann.118.IGC
+  - - - '123'
+      - JD Guillemette
+    - T7.guillemette.123.igc
+  - - - '132'
+      - James Stinnett
+    - T7.Stinnett.132.igc
+  - - - '126'
+      - Jeff Kannard
+    - t7.kannard.126.IGC
+  - - - '116'
+      - Jeffery Bohl
+    - T7.Bohl.116.IGC
+  - - - '142'
+      - John Simon
+    - T7.Simon.142.igc
+  - - - '138'
+      - Jonny Durand
+    - t7.durand.138.igc
+  - - - '134'
+      - Kinsley Sykes
+    - T7.sykes.134.IGC
+  - - - '125'
+      - Larry Bunner
+    - T7.Bunner.125.igc
+  - - - '103'
+      - Matt Christensen
+    - T7.christensen.103.IGC
+  - - - '114'
+      - Mick Howard
+    - T7.Howard.114.IGC
+  - - - '120'
+      - Mike Glennon
+    - T7.Glennon.120.igc
+  - - - '129'
+      - Mike Jefferson
+    - T7.Jefferson.129.IGC
+  - - - '135'
+      - Misael Rosalez
+    - t7.rosalez.135.igc
+  - - - '133'
+      - Olav Olsen
+    - T7.olsen.133.igc
+  - - - '113'
+      - Olav Opsanger
+    - T7.opsanger.113.igc
+  - - - '121'
+      - Oleg Bondarchuk
+    - t7.bondarchuk.121.igc
+  - - - '141'
+      - Patrick Halfhill
+    - t7.halfhill.141.IGC
+  - - - '111'
+      - Patrick Kruse
+    - t7.kruse.111.IGC
+  - - - '124'
+      - Patrick Pannese
+    - T7.Pannese.124.IGC
+  - - - '146'
+      - Peter Kelley
+    - T7.Kelley.146.igc
+  - - - '108'
+      - Raul Guerra
+    - T7.Guerra.108.igc
+  - - - '102'
+      - Richard lovelace
+    - T7.Lovelace.102.igc
+  - - - '117'
+      - Robert Dallas
+    - t7.dallas.117.igc
+  - - - '131'
+      - Robin Hamilton
+    - t7.hamilton.131.igc
+  - - - '145'
+      - Roger Irby
+    - t7.irby.145.igc
+  - - - '112'
+      - Sergey Kataev
+    - t7.kataev.112.igc
+  - - - '144'
+      - Tom Lanning
+    - T7.lanning.144.igc
+  - - - '139'
+      - Tullio Gervasoni
+    - T7.Gervasoni.139.igc
+  - - - '128'
+      - Zac Majors
+    - T7.majors.128.IGC
+pilotGroups:
+- absent: []
+  didFlyNoTracklog: []
+  dnf: []
+- absent: []
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
+  - - '109'
+    - Michael Williams
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
+  - - '107'
+    - Malcolm Brown
+  - - '109'
+    - Michael Williams
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
+  - - '107'
+    - Malcolm Brown
+  - - '137'
+    - Yoko Isomoto
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
+  - - '107'
+    - Malcolm Brown
+  - - '137'
+    - Yoko Isomoto
+  didFlyNoTracklog: []
+  dnf: []
+- absent:
+  - - '107'
+    - Malcolm Brown
+  - - '109'
+    - Michael Williams
+  - - '137'
+    - Yoko Isomoto
+  didFlyNoTracklog:
+  - pilot:
+    - '115'
+    - Andrew Hollidge
+    awardedReach:
+      awardedMade: 73.349000 km
+      awardedTask: 73.348000 km
+      awardedFrac: 1.000013633636909
+    awardedVelocity:
+      ss: 2016-05-13T18:00:00Z
+      es: 2016-05-13T20:19:21Z
+  dnf: []
