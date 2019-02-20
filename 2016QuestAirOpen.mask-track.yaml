@@ -1,11 +1,11 @@
 pilotsAtEss:
-- 16
-- 1
-- 1
-- 1
-- 3
-- 0
+- 18
 - 17
+- 22
+- 13
+- 17
+- 4
+- 23
 raceTime:
 - openTask: 2016-05-07T17:30:00Z
   closeTask: 2016-05-08T00:00:00Z
@@ -19,54 +19,54 @@ raceTime:
   tickClose: 22313
 - openTask: 2016-05-08T17:30:00Z
   closeTask: 2016-05-09T00:00:00Z
-  firstStart: 2016-05-08T17:31:14Z
-  firstLead: 2016-05-08T17:31:14Z
-  lastArrival: 2016-05-08T21:32:07Z
-  leadAllDown: 18325
-  leadArrival: 14453
-  leadClose: 23326
+  firstStart: 2016-05-08T17:29:18Z
+  firstLead: 2016-05-08T17:29:18Z
+  lastArrival: 2016-05-09T21:13:09Z
+  leadAllDown: 99878
+  leadArrival: 99831
+  leadClose: 23442
   openClose: 23400
-  tickClose: 23326
+  tickClose: 23442
 - openTask: 2016-05-09T18:30:00Z
   closeTask: 2016-05-10T00:00:00Z
-  firstStart: 2016-05-09T18:29:47Z
-  firstLead: 2016-05-09T18:29:47Z
-  lastArrival: 2016-05-09T21:34:03Z
-  leadAllDown: 3201574
-  leadArrival: 11056
-  leadClose: 19813
+  firstStart: 2016-05-09T18:28:42Z
+  firstLead: 2016-05-09T18:28:42Z
+  lastArrival: 2016-05-09T21:52:12Z
+  leadAllDown: 3201639
+  leadArrival: 12210
+  leadClose: 19878
   openClose: 19800
-  tickClose: 19813
+  tickClose: 19878
 - openTask: 2016-05-10T18:00:00Z
   closeTask: 2016-05-11T00:00:00Z
-  firstStart: 2016-05-10T18:20:01Z
-  firstLead: 2016-05-10T18:20:01Z
+  firstStart: 2016-05-09T18:28:42Z
+  firstLead: 2016-05-09T18:28:42Z
   lastArrival: 2016-05-10T21:59:12Z
-  leadAllDown: 779808
-  leadArrival: 13151
-  leadClose: 20399
+  leadAllDown: 865687
+  leadArrival: 99030
+  leadClose: 106278
   openClose: 21600
-  tickClose: 20399
+  tickClose: 106278
 - openTask: 2016-05-11T18:20:00Z
   closeTask: 2016-05-12T00:00:00Z
-  firstStart: 2016-05-11T18:25:15Z
-  firstLead: 2016-05-11T18:25:15Z
-  lastArrival: 2016-05-11T22:21:09Z
-  leadAllDown: 9510075
-  leadArrival: 14154
-  leadClose: 20085
+  firstStart: 2016-05-11T18:01:53Z
+  firstLead: 2016-05-11T18:01:53Z
+  lastArrival: 2016-05-11T22:21:40Z
+  leadAllDown: 9511477
+  leadArrival: 15587
+  leadClose: 21487
   openClose: 20400
-  tickClose: 20085
+  tickClose: 21487
 - openTask: 2016-05-12T19:30:00Z
   closeTask: 2016-05-13T00:00:00Z
-  firstStart: 2016-05-12T19:29:58Z
-  firstLead: 2016-05-12T19:29:58Z
-  lastArrival: null
-  leadAllDown: 7579
-  leadArrival: null
-  leadClose: 16202
+  firstStart: 2016-05-12T19:29:49Z
+  firstLead: 2016-05-12T19:29:49Z
+  lastArrival: 2016-05-12T21:57:47Z
+  leadAllDown: 8997
+  leadArrival: 8878
+  leadClose: 16211
   openClose: 16200
-  tickClose: 16202
+  tickClose: 16211
 - openTask: 2016-05-13T18:00:00Z
   closeTask: 2016-05-14T00:00:00Z
   firstStart: 2016-05-13T17:58:40Z
@@ -79,19 +79,19 @@ raceTime:
   tickClose: 21680
 ssBestTime:
 - 3.463889 h
-- 4.014722 h
-- 3.025000 h
-- 3.653056 h
-- 2.636111 h
-- null
+- 3.845278 h
+- 2.290000 h
+- 3.057222 h
+- 2.434444 h
+- 2.413333 h
 - 1.545833 h
 gsBestTime:
 - 3.467222 h
-- 4.035278 h
-- 3.067500 h
-- 3.653333 h
-- 2.672222 h
-- null
+- 3.869167 h
+- 2.293333 h
+- 3.065556 h
+- 2.438333 h
+- 2.421944 h
 - 1.613056 h
 taskDistance:
 - 160.046613 km
@@ -115,16 +115,16 @@ bestDistance:
 - 82.503669 km
 - 89.526710 km
 - 100.304288 km
-- 52.745662 km
+- 59.606662 km
 - 69.860891 km
 sumDistance:
-- 4192.010907 km
-- 324.263728 km
-- 177.088007 km
-- 239.145840 km
-- 297.673152 km
-- 206.743310 km
-- 1408.093166 km
+- 4645.331746 km
+- 3466.673144 km
+- 2816.265429 km
+- 2625.010110 km
+- 2981.557808 km
+- 1499.337142 km
+- 1797.258512 km
 leadScaling:
 - 2.454498e-8
 - 4.674235e-8
@@ -135,12 +135,12 @@ leadScaling:
 - 3.9141167e-7
 leadCoefMin:
 - 1.92154169
-- 2.31340774
-- 1.57779475
-- 1.59058354
-- 1.93345768
-- 0.90217464
-- 1.39875958
+- 1.52821275
+- 1.60820419
+- 26.7902646
+- 2.59244067
+- 0.9042078
+- 1.22140266
 lead:
 - - - - '138'
       - Jonny Durand
@@ -154,6 +154,10 @@ lead:
       - Tullio Gervasoni
     - coef: 1.96577514
       frac: 0.89939553
+  - - - '128'
+      - Zac Majors
+    - coef: 2.06108186
+      frac: 0.78360383
   - - - '121'
       - Oleg Bondarchuk
     - coef: 2.07125256
@@ -186,6 +190,10 @@ lead:
       - Michael Williams
     - coef: 2.17605643
       frac: 0.67695822
+  - - - '111'
+      - Patrick Kruse
+    - coef: 2.1810459
+      frac: 0.67274998
   - - - '142'
       - John Simon
     - coef: 2.19900544
@@ -206,6 +214,10 @@ lead:
       - Fabiano Nahoum
     - coef: 2.296114
       frac: 0.58203442
+  - - - '135'
+      - Misael Rosalez
+    - coef: 2.31668917
+      frac: 0.5668654
   - - - '143'
       - Anna Eppink
     - coef: 2.37521077
@@ -298,162 +310,930 @@ lead:
       - Jeffery Bohl
     - coef: 9.42552345
       frac: 0
-- - - - '121'
-      - Oleg Bondarchuk
-    - coef: 2.31340774
+- - - - '128'
+      - Zac Majors
+    - coef: 1.52821275
       frac: 1
-  - - - '150'
-      - Claudia Mejia
-    - coef: 2.91389763
-      frac: 0.46182968
-  - - - '103'
-      - Matt Christensen
-    - coef: 3.15951442
-      frac: 0.32360661
-  - - - '112'
-      - Sergey Kataev
-    - coef: 3.56750306
-      frac: 0.12070156
-- - - - '121'
+  - - - '113'
+      - Olav Opsanger
+    - coef: 2.36794946
+      frac: 0.22725865
+  - - - '121'
       - Oleg Bondarchuk
-    - coef: 1.57779475
-      frac: 1
-  - - - '112'
-      - Sergey Kataev
-    - coef: 1.94193681
-      frac: 0.56197685
-  - - - '103'
-      - Matt Christensen
-    - coef: 481.04077304
-      frac: 0
-- - - - '121'
-      - Oleg Bondarchuk
-    - coef: 1.59058354
-      frac: 1
-  - - - '150'
-      - Claudia Mejia
-    - coef: 1.87340883
-      frac: 0.63088644
-  - - - '112'
-      - Sergey Kataev
-    - coef: 2.36610905
-      frac: 0.27687747
-  - - - '137'
-      - Yoko Isomoto
-    - coef: 218.29343341
-      frac: 0
-- - - - '121'
-      - Oleg Bondarchuk
-    - coef: 1.93345768
-      frac: 1
-  - - - '150'
-      - Claudia Mejia
-    - coef: 2.16434186
-      frac: 0.69789965
-  - - - '112'
-      - Sergey Kataev
-    - coef: 2.22542219
-      frac: 0.6467286
-- - - - '121'
-      - Oleg Bondarchuk
-    - coef: 0.90217464
-      frac: 1
-  - - - '115'
-      - Andrew Hollidge
-    - coef: 1.07832249
-      frac: 0.67479688
+    - coef: 2.37257546
+      frac: 0.22442329
+  - - - '139'
+      - Tullio Gervasoni
+    - coef: 2.38506191
+      frac: 0.21679586
+  - - - '138'
+      - Jonny Durand
+    - coef: 2.40147494
+      frac: 0.20682595
+  - - - '125'
+      - Larry Bunner
+    - coef: 2.41264334
+      frac: 0.20007753
+  - - - '142'
+      - John Simon
+    - coef: 2.45039158
+      frac: 0.17747553
+  - - - '132'
+      - James Stinnett
+    - coef: 2.46811847
+      frac: 0.16696818
+  - - - '131'
+      - Robin Hamilton
+    - coef: 2.46907677
+      frac: 0.16640206
+  - - - '119'
+      - Bart Weghorst
+    - coef: 2.47409494
+      frac: 0.16344065
+  - - - '106'
+      - Fabiano Nahoum
+    - coef: 2.47655191
+      frac: 0.16199261
+  - - - '111'
+      - Patrick Kruse
+    - coef: 2.49431939
+      frac: 0.15155811
+  - - - '120'
+      - Mike Glennon
+    - coef: 2.50743628
+      frac: 0.14389582
+  - - - '143'
+      - Anna Eppink
+    - coef: 2.52793243
+      frac: 0.13199101
   - - - '123'
       - JD Guillemette
-    - coef: 1.21969375
-      frac: 0.51832988
+    - coef: 2.52920704
+      frac: 0.13125338
+  - - - '127'
+      - Gerry Pesavento
+    - coef: 2.56368017
+      frac: 0.11142037
+  - - - '144'
+      - Tom Lanning
+    - coef: 2.64527567
+      frac: 6.533248e-2
+  - - - '107'
+      - Malcolm Brown
+    - coef: 3.53101359
+      frac: 0
+  - - - '137'
+      - Yoko Isomoto
+    - coef: 3.6311641
+      frac: 0
+  - - - '116'
+      - Jeffery Bohl
+    - coef: 3.77452715
+      frac: 0
   - - - '103'
       - Matt Christensen
-    - coef: 1.24431878
-      frac: 0.49373737
+    - coef: 3.99591916
+      frac: 0
+  - - - '110'
+      - Cory Barnwell
+    - coef: 4.03746937
+      frac: 0
+  - - - '101'
+      - Davis Straub
+    - coef: 4.12136956
+      frac: 0
+  - - - '108'
+      - Raul Guerra
+    - coef: 4.4963394
+      frac: 0
+  - - - '117'
+      - Robert Dallas
+    - coef: 5.74302801
+      frac: 0
+  - - - '135'
+      - Misael Rosalez
+    - coef: 7.37720726
+      frac: 0
+  - - - '102'
+      - Richard lovelace
+    - coef: 7.5742534
+      frac: 0
+  - - - '150'
+      - Claudia Mejia
+    - coef: 7.81024795
+      frac: 0
+  - - - '124'
+      - Patrick Pannese
+    - coef: 8.05751423
+      frac: 0
+  - - - '145'
+      - Roger Irby
+    - coef: 8.49560772
+      frac: 0
+  - - - '126'
+      - Jeff Kannard
+    - coef: 9.06366694
+      frac: 0
+  - - - '115'
+      - Andrew Hollidge
+    - coef: 9.53063682
+      frac: 0
+  - - - '133'
+      - Olav Olsen
+    - coef: 14.4248005
+      frac: 0
   - - - '112'
       - Sergey Kataev
-    - coef: 1.25414194
-      frac: 0.48409309
-- - - - '104'
+    - coef: 16.40958281
+      frac: 0
+  - - - '134'
+      - Kinsley Sykes
+    - coef: 17.07909294
+      frac: 0
+  - - - '109'
+      - Michael Williams
+    - coef: 17.16486222
+      frac: 0
+  - - - '140'
+      - Bill Vickery
+    - coef: 18.42640347
+      frac: 0
+  - - - '141'
+      - Patrick Halfhill
+    - coef: 18.51342672
+      frac: 0
+  - - - '146'
+      - Peter Kelley
+    - coef: 19.24846676
+      frac: 0
+  - - - '129'
+      - Mike Jefferson
+    - coef: 25.26119476
+      frac: 0
+  - - - '114'
+      - Mick Howard
+    - coef: 36.71424845
+      frac: 0
+  - - - '104'
+      - Christian Pollet
+    - coef: 37.39025519
+      frac: 0
+- - - - '132'
+      - James Stinnett
+    - coef: 1.60820419
+      frac: 1
+  - - - '121'
+      - Oleg Bondarchuk
+    - coef: 1.61021353
+      frac: 0.98640885
+  - - - '102'
+      - Richard lovelace
+    - coef: 1.61545488
+      frac: 0.96802532
+  - - - '131'
+      - Robin Hamilton
+    - coef: 1.62186894
+      frac: 0.95121487
+  - - - '139'
+      - Tullio Gervasoni
+    - coef: 1.62504324
+      frac: 0.94392559
+  - - - '106'
+      - Fabiano Nahoum
+    - coef: 1.62859678
+      frac: 0.93629093
+  - - - '101'
+      - Davis Straub
+    - coef: 1.63352606
+      frac: 0.92639903
+  - - - '127'
+      - Gerry Pesavento
+    - coef: 1.65631831
+      frac: 0.88708942
+  - - - '107'
+      - Malcolm Brown
+    - coef: 1.66238566
+      frac: 0.87778623
+  - - - '115'
+      - Andrew Hollidge
+    - coef: 1.66381978
+      frac: 0.87563906
+  - - - '133'
+      - Olav Olsen
+    - coef: 1.70997806
+      frac: 0.81394394
+  - - - '108'
+      - Raul Guerra
+    - coef: 1.719853
+      frac: 0.80209549
+  - - - '137'
+      - Yoko Isomoto
+    - coef: 1.73687837
+      frac: 0.78245595
+  - - - '124'
+      - Patrick Pannese
+    - coef: 1.73941853
+      frac: 0.77960225
+  - - - '104'
+      - Christian Pollet
+    - coef: 1.75607103
+      frac: 0.76132873
+  - - - '144'
+      - Tom Lanning
+    - coef: 1.75880521
+      frac: 0.75839558
+  - - - '143'
+      - Anna Eppink
+    - coef: 1.76758827
+      frac: 0.749091
+  - - - '120'
+      - Mike Glennon
+    - coef: 1.76971044
+      frac: 0.74686871
+  - - - '119'
+      - Bart Weghorst
+    - coef: 1.78010512
+      frac: 0.73612084
+  - - - '135'
+      - Misael Rosalez
+    - coef: 1.78092409
+      frac: 0.73528339
+  - - - '126'
+      - Jeff Kannard
+    - coef: 1.8480498
+      frac: 0.67051109
+  - - - '138'
+      - Jonny Durand
+    - coef: 1.87983945
+      frac: 0.64200494
+  - - - '142'
+      - John Simon
+    - coef: 1.89533366
+      frac: 0.6285177
+  - - - '116'
+      - Jeffery Bohl
+    - coef: 1.92308606
+      frac: 0.60495063
+  - - - '141'
+      - Patrick Halfhill
+    - coef: 1.92715224
+      frac: 0.60155697
+  - - - '117'
+      - Robert Dallas
+    - coef: 1.92915097
+      frac: 0.5998941
+  - - - '118'
+      - Ingo Heilmann
+    - coef: 1.96090884
+      frac: 0.57391747
+  - - - '112'
+      - Sergey Kataev
+    - coef: 1.98706348
+      frac: 0.55310561
+  - - - '129'
+      - Mike Jefferson
+    - coef: 2.05757838
+      frac: 0.49924531
+  - - - '134'
+      - Kinsley Sykes
+    - coef: 2.17348428
+      frac: 0.41647151
+  - - - '140'
+      - Bill Vickery
+    - coef: 2.20372264
+      frac: 0.39584308
+  - - - '123'
+      - JD Guillemette
+    - coef: 2.30055318
+      frac: 0.33201048
+  - - - '128'
+      - Zac Majors
+    - coef: 2.38243807
+      frac: 0.28032836
+  - - - '145'
+      - Roger Irby
+    - coef: 2.42343842
+      frac: 0.25514019
+  - - - '125'
+      - Larry Bunner
+    - coef: 2.48974898
+      frac: 0.21527794
+  - - - '113'
+      - Olav Opsanger
+    - coef: 2.51167668
+      frac: 0.20231842
+  - - - '111'
+      - Patrick Kruse
+    - coef: 2.58994984
+      frac: 0.15688737
+  - - - '114'
+      - Mick Howard
+    - coef: 3.21032896
+      frac: 0
+  - - - '110'
+      - Cory Barnwell
+    - coef: 3.44138275
+      frac: 0
+  - - - '146'
+      - Peter Kelley
+    - coef: 3.4592292
+      frac: 0
+  - - - '103'
+      - Matt Christensen
+    - coef: 481.05081025
+      frac: 0
+- - - - '126'
+      - Jeff Kannard
+    - coef: 26.7902646
+      frac: 1
+  - - - '116'
+      - Jeffery Bohl
+    - coef: 37.75570946
+      frac: 0
+  - - - '131'
+      - Robin Hamilton
+    - coef: 43.50683179
+      frac: 0
+  - - - '128'
+      - Zac Majors
+    - coef: 43.55077271
+      frac: 0
+  - - - '139'
+      - Tullio Gervasoni
+    - coef: 43.68654792
+      frac: 0
+  - - - '115'
+      - Andrew Hollidge
+    - coef: 43.75128127
+      frac: 0
+  - - - '138'
+      - Jonny Durand
+    - coef: 43.75656603
+      frac: 0
+  - - - '106'
+      - Fabiano Nahoum
+    - coef: 43.78615345
+      frac: 0
+  - - - '133'
+      - Olav Olsen
+    - coef: 43.88420096
+      frac: 0
+  - - - '110'
+      - Cory Barnwell
+    - coef: 43.90490877
+      frac: 0
+  - - - '120'
+      - Mike Glennon
+    - coef: 44.10081047
+      frac: 0
+  - - - '113'
+      - Olav Opsanger
+    - coef: 44.14577055
+      frac: 0
+  - - - '127'
+      - Gerry Pesavento
+    - coef: 44.15988719
+      frac: 0
+  - - - '121'
+      - Oleg Bondarchuk
+    - coef: 44.24088487
+      frac: 0
+  - - - '111'
+      - Patrick Kruse
+    - coef: 44.48145157
+      frac: 0
+  - - - '135'
+      - Misael Rosalez
+    - coef: 44.74026237
+      frac: 0
+  - - - '125'
+      - Larry Bunner
+    - coef: 44.75877406
+      frac: 0
+  - - - '108'
+      - Raul Guerra
+    - coef: 44.79623163
+      frac: 0
+  - - - '119'
+      - Bart Weghorst
+    - coef: 44.84494697
+      frac: 0
+  - - - '143'
+      - Anna Eppink
+    - coef: 44.85556328
+      frac: 0
+  - - - '101'
+      - Davis Straub
+    - coef: 44.92259807
+      frac: 0
+  - - - '114'
+      - Mick Howard
+    - coef: 44.93105277
+      frac: 0
+  - - - '132'
+      - James Stinnett
+    - coef: 44.9943167
+      frac: 0
+  - - - '102'
+      - Richard lovelace
+    - coef: 45.09330839
+      frac: 0
+  - - - '142'
+      - John Simon
+    - coef: 45.10164609
+      frac: 0
+  - - - '118'
+      - Ingo Heilmann
+    - coef: 45.14143613
+      frac: 0
+  - - - '103'
+      - Matt Christensen
+    - coef: 45.18081196
+      frac: 0
+  - - - '144'
+      - Tom Lanning
+    - coef: 45.27422297
+      frac: 0
+  - - - '124'
+      - Patrick Pannese
+    - coef: 45.45885055
+      frac: 0
+  - - - '141'
+      - Patrick Halfhill
+    - coef: 45.49949536
+      frac: 0
+  - - - '129'
+      - Mike Jefferson
+    - coef: 45.5163725
+      frac: 0
+  - - - '150'
+      - Claudia Mejia
+    - coef: 45.68434761
+      frac: 0
+  - - - '134'
+      - Kinsley Sykes
+    - coef: 45.71172157
+      frac: 0
+  - - - '104'
+      - Christian Pollet
+    - coef: 45.8017367
+      frac: 0
+  - - - '145'
+      - Roger Irby
+    - coef: 45.82463013
+      frac: 0
+  - - - '117'
+      - Robert Dallas
+    - coef: 45.856447
+      frac: 0
+  - - - '112'
+      - Sergey Kataev
+    - coef: 46.22915232
+      frac: 0
+  - - - '123'
+      - JD Guillemette
+    - coef: 46.37923771
+      frac: 0
+  - - - '146'
+      - Peter Kelley
+    - coef: 47.68682226
+      frac: 0
+  - - - '140'
+      - Bill Vickery
+    - coef: 48.6139137
+      frac: 0
+  - - - '137'
+      - Yoko Isomoto
+    - coef: 245.32920711
+      frac: 0
+- - - - '135'
+      - Misael Rosalez
+    - coef: 2.59244067
+      frac: 1
+  - - - '121'
+      - Oleg Bondarchuk
+    - coef: 2.6497749
+      frac: 0.89176367
+  - - - '128'
+      - Zac Majors
+    - coef: 2.65080543
+      frac: 0.89047056
+  - - - '138'
+      - Jonny Durand
+    - coef: 2.72571394
+      frac: 0.81007049
+  - - - '131'
+      - Robin Hamilton
+    - coef: 2.73500594
+      frac: 0.80134193
+  - - - '126'
+      - Jeff Kannard
+    - coef: 2.77879726
+      frac: 0.76250184
+  - - - '104'
+      - Christian Pollet
+    - coef: 2.78310222
+      frac: 0.75885822
+  - - - '113'
+      - Olav Opsanger
+    - coef: 2.78887581
+      frac: 0.75401431
+  - - - '139'
+      - Tullio Gervasoni
+    - coef: 2.78910913
+      frac: 0.75381956
+  - - - '111'
+      - Patrick Kruse
+    - coef: 2.84102372
+      frac: 0.71220843
+  - - - '120'
+      - Mike Glennon
+    - coef: 2.86309913
+      frac: 0.69541293
+  - - - '108'
+      - Raul Guerra
+    - coef: 2.87618386
+      frac: 0.68567372
+  - - - '150'
+      - Claudia Mejia
+    - coef: 2.88700286
+      frac: 0.67773357
+  - - - '125'
+      - Larry Bunner
+    - coef: 2.91357865
+      frac: 0.6586304
+  - - - '112'
+      - Sergey Kataev
+    - coef: 2.95425962
+      frac: 0.6303779
+  - - - '101'
+      - Davis Straub
+    - coef: 2.95613622
+      frac: 0.62910095
+  - - - '117'
+      - Robert Dallas
+    - coef: 2.96398784
+      frac: 0.62378189
+  - - - '129'
+      - Mike Jefferson
+    - coef: 2.96610659
+      frac: 0.62235299
+  - - - '102'
+      - Richard lovelace
+    - coef: 2.97053865
+      frac: 0.61937267
+  - - - '142'
+      - John Simon
+    - coef: 2.97581983
+      frac: 0.61583653
+  - - - '132'
+      - James Stinnett
+    - coef: 2.97988213
+      frac: 0.61312756
+  - - - '106'
+      - Fabiano Nahoum
+    - coef: 2.98671813
+      frac: 0.6085902
+  - - - '123'
+      - JD Guillemette
+    - coef: 3.02072541
+      frac: 0.5863953
+  - - - '127'
+      - Gerry Pesavento
+    - coef: 3.08356322
+      frac: 0.54686914
+  - - - '115'
+      - Andrew Hollidge
+    - coef: 3.22998547
+      frac: 0.46077395
+  - - - '124'
+      - Patrick Pannese
+    - coef: 3.23967813
+      frac: 0.45532243
+  - - - '114'
+      - Mick Howard
+    - coef: 3.2745376
+      frac: 0.43593677
+  - - - '116'
+      - Jeffery Bohl
+    - coef: 3.31749002
+      frac: 0.41249878
+  - - - '119'
+      - Bart Weghorst
+    - coef: 3.34648367
+      frac: 0.39693915
+  - - - '144'
+      - Tom Lanning
+    - coef: 3.38259549
+      frac: 0.37783556
+  - - - '103'
+      - Matt Christensen
+    - coef: 3.50597841
+      frac: 0.31464636
+  - - - '143'
+      - Anna Eppink
+    - coef: 3.59517112
+      frac: 0.27073306
+  - - - '141'
+      - Patrick Halfhill
+    - coef: 3.68481791
+      frac: 0.22789064
+  - - - '133'
+      - Olav Olsen
+    - coef: 3.75795257
+      frac: 0.19380234
+  - - - '140'
+      - Bill Vickery
+    - coef: 3.77831889
+      frac: 0.18443774
+  - - - '146'
+      - Peter Kelley
+    - coef: 3.9465694
+      frac: 0.10901507
+  - - - '109'
+      - Michael Williams
+    - coef: 4.25264864
+      frac: 0
+  - - - '134'
+      - Kinsley Sykes
+    - coef: 4.87972905
+      frac: 0
+  - - - '118'
+      - Ingo Heilmann
+    - coef: 4.93356456
+      frac: 0
+  - - - '110'
+      - Cory Barnwell
+    - coef: 6.81601652
+      frac: 0
+- - - - '142'
+      - John Simon
+    - coef: 0.9042078
+      frac: 1
+  - - - '138'
+      - Jonny Durand
+    - coef: 0.90814201
+      frac: 0.97422795
+  - - - '121'
+      - Oleg Bondarchuk
+    - coef: 0.92867058
+      frac: 0.91285394
+  - - - '128'
+      - Zac Majors
+    - coef: 0.93901515
+      frac: 0.88975525
+  - - - '106'
+      - Fabiano Nahoum
+    - coef: 1.05540288
+      frac: 0.70650388
+  - - - '104'
+      - Christian Pollet
+    - coef: 1.11816862
+      frac: 0.63005818
+  - - - '131'
+      - Robin Hamilton
+    - coef: 1.12492559
+      frac: 0.62231
+  - - - '139'
+      - Tullio Gervasoni
+    - coef: 1.16082365
+      frac: 0.58239448
+  - - - '119'
+      - Bart Weghorst
+    - coef: 1.16515896
+      frac: 0.57770422
+  - - - '111'
+      - Patrick Kruse
+    - coef: 1.16695696
+      frac: 0.57576665
+  - - - '115'
+      - Andrew Hollidge
+    - coef: 1.16988149
+      frac: 0.57262451
+  - - - '132'
+      - James Stinnett
+    - coef: 1.17104585
+      frac: 0.57137671
+  - - - '113'
+      - Olav Opsanger
+    - coef: 1.18012438
+      frac: 0.5617091
+  - - - '135'
+      - Misael Rosalez
+    - coef: 1.21256934
+      frac: 0.52799052
+  - - - '102'
+      - Richard lovelace
+    - coef: 1.22799531
+      frac: 0.51237723
+  - - - '114'
+      - Mick Howard
+    - coef: 1.23568146
+      frac: 0.50469057
+  - - - '109'
+      - Michael Williams
+    - coef: 1.25601708
+      frac: 0.48463438
+  - - - '103'
+      - Matt Christensen
+    - coef: 1.25808398
+      frac: 0.48261782
+  - - - '123'
+      - JD Guillemette
+    - coef: 1.2583767
+      frac: 0.48233254
+  - - - '118'
+      - Ingo Heilmann
+    - coef: 1.26547335
+      frac: 0.47544027
+  - - - '125'
+      - Larry Bunner
+    - coef: 1.27420808
+      frac: 0.46701873
+  - - - '127'
+      - Gerry Pesavento
+    - coef: 1.29204137
+      frac: 0.45002766
+  - - - '141'
+      - Patrick Halfhill
+    - coef: 1.30281279
+      frac: 0.43989119
+  - - - '112'
+      - Sergey Kataev
+    - coef: 1.30417267
+      frac: 0.438618
+  - - - '116'
+      - Jeffery Bohl
+    - coef: 1.33057865
+      frac: 0.41417363
+  - - - '124'
+      - Patrick Pannese
+    - coef: 1.34302964
+      frac: 0.40282346
+  - - - '133'
+      - Olav Olsen
+    - coef: 1.37497722
+      frac: 0.37418004
+  - - - '117'
+      - Robert Dallas
+    - coef: 1.43895442
+      frac: 0.31869337
+  - - - '150'
+      - Claudia Mejia
+    - coef: 1.45386547
+      frac: 0.30608633
+  - - - '110'
+      - Cory Barnwell
+    - coef: 1.46800087
+      frac: 0.29423995
+  - - - '108'
+      - Raul Guerra
+    - coef: 1.66481622
+      frac: 0.13830944
+  - - - '101'
+      - Davis Straub
+    - coef: 1.69860346
+      frac: 0.11297643
+  - - - '120'
+      - Mike Glennon
+    - coef: 1.81191336
+      frac: 3.051614e-2
+  - - - '144'
+      - Tom Lanning
+    - coef: 1.86969389
+      frac: 0
+  - - - '145'
+      - Roger Irby
+    - coef: 1.93516573
+      frac: 0
+  - - - '146'
+      - Peter Kelley
+    - coef: 2.07922282
+      frac: 0
+  - - - '140'
+      - Bill Vickery
+    - coef: 2.16999416
+      frac: 0
+  - - - '143'
+      - Anna Eppink
+    - coef: 2.17488241
+      frac: 0
+  - - - '129'
+      - Mike Jefferson
+    - coef: 2.35037731
+      frac: 0
+  - - - '134'
+      - Kinsley Sykes
+    - coef: 2.50117509
+      frac: 0
+  - - - '126'
+      - Jeff Kannard
+    - coef: 2.87336734
+      frac: 0
+- - - - '101'
+      - Davis Straub
+    - coef: 1.22140266
+      frac: 1
+  - - - '104'
       - Christian Pollet
     - coef: 1.39875958
-      frac: 1
+      frac: 0.70468933
   - - - '103'
       - Matt Christensen
     - coef: 1.44215321
-      frac: 0.8895829
+      frac: 0.65829742
   - - - '121'
       - Oleg Bondarchuk
     - coef: 1.44741099
-      frac: 0.88083485
+      frac: 0.65289302
+  - - - '135'
+      - Misael Rosalez
+    - coef: 1.44898242
+      frac: 0.65128592
+  - - - '111'
+      - Patrick Kruse
+    - coef: 1.56752175
+      frac: 0.53882678
   - - - '131'
       - Robin Hamilton
     - coef: 1.60726413
-      frac: 0.68559025
+      frac: 0.50416788
   - - - '124'
       - Patrick Pannese
     - coef: 1.63966187
-      frac: 0.65381127
+      frac: 0.47678837
   - - - '127'
       - Gerry Pesavento
     - coef: 1.7696276
-      frac: 0.53843603
+      frac: 0.37335789
   - - - '144'
       - Tom Lanning
     - coef: 1.77352237
-      frac: 0.53521017
+      frac: 0.37039348
   - - - '133'
       - Olav Olsen
     - coef: 1.78089769
-      frac: 0.52913196
+      frac: 0.36479895
   - - - '138'
       - Jonny Durand
     - coef: 1.81872893
-      frac: 0.49854645
+      frac: 0.33647881
   - - - '142'
       - John Simon
     - coef: 1.8589038
-      frac: 0.46705594
+      frac: 0.30705139
   - - - '150'
       - Claudia Mejia
     - coef: 1.91120466
-      frac: 0.42740107
+      frac: 0.26965171
   - - - '139'
       - Tullio Gervasoni
     - coef: 1.92579918
-      frac: 0.41658023
+      frac: 0.25938612
+  - - - '128'
+      - Zac Majors
+    - coef: 1.97477445
+      frac: 0.22544318
   - - - '132'
       - James Stinnett
     - coef: 2.03062012
-      frac: 0.34158487
+      frac: 0.18762376
   - - - '113'
       - Olav Opsanger
     - coef: 2.03987388
-      frac: 0.33517203
+      frac: 0.18144226
   - - - '106'
       - Fabiano Nahoum
     - coef: 2.08031533
-      frac: 0.3074998
+      frac: 0.15469575
+  - - - '119'
+      - Bart Weghorst
+    - coef: 2.10488059
+      frac: 0.13865424
   - - - '102'
       - Richard lovelace
     - coef: 2.1695141
-      frac: 0.24832571
+      frac: 9.714091e-2
   - - - '123'
       - JD Guillemette
     - coef: 2.17872501
-      frac: 0.24234898
+      frac: 9.130282e-2
   - - - '114'
       - Mick Howard
     - coef: 2.18879074
-      frac: 0.23584441
+      frac: 8.494429e-2
+  - - - '117'
+      - Robert Dallas
+    - coef: 2.22420948
+      frac: 6.274327e-2
   - - - '108'
       - Raul Guerra
     - coef: 2.25393406
-      frac: 0.19439504
+      frac: 4.431253e-2
   - - - '112'
       - Sergey Kataev
     - coef: 2.55205936
-      frac: 1.663718e-2
+      frac: 0
   - - - '120'
       - Mike Glennon
     - coef: 2.60230732
@@ -482,156 +1262,455 @@ arrival:
   - - - '121'
       - Oleg Bondarchuk
     - rank: '2'
-      frac: 0.87052124
+      frac: 0.88415381
   - - - '113'
       - Olav Opsanger
     - rank: '3'
-      frac: 0.7559668
+      frac: 0.78018107
   - - - '139'
       - Tullio Gervasoni
     - rank: '4'
-      frac: 0.65540942
+      frac: 0.68743056
   - - - '131'
       - Robin Hamilton
     - rank: '5'
-      frac: 0.56792188
+      frac: 0.60525103
   - - - '115'
       - Andrew Hollidge
     - rank: '6'
-      frac: 0.4925769
+      frac: 0.53299126
+  - - - '128'
+      - Zac Majors
+    - rank: '7'
+      frac: 0.47
   - - - '125'
       - Larry Bunner
-    - rank: '7'
-      frac: 0.42844727
+    - rank: '8'
+      frac: 0.41562603
   - - - '107'
       - Malcolm Brown
-    - rank: '8'
-      frac: 0.37460571
+    - rank: '9'
+      frac: 0.36921811
   - - - '132'
       - James Stinnett
-    - rank: '9'
+    - rank: '10'
       frac: 0.330125
   - - - '142'
       - John Simon
-    - rank: '10'
-      frac: 0.29407788
+    - rank: '11'
+      frac: 0.29769547
   - - - '133'
       - Olav Olsen
-    - rank: '11'
-      frac: 0.26553711
+    - rank: '12'
+      frac: 0.27127829
   - - - '119'
       - Bart Weghorst
-    - rank: '12'
-      frac: 0.24357544
+    - rank: '13'
+      frac: 0.25022222
   - - - '106'
       - Fabiano Nahoum
-    - rank: '13'
-      frac: 0.22726562
+    - rank: '14'
+      frac: 0.23387603
+  - - - '111'
+      - Patrick Kruse
+    - rank: '15'
+      frac: 0.22158848
   - - - '127'
       - Gerry Pesavento
-    - rank: '14'
-      frac: 0.21568042
+    - rank: '16'
+      frac: 0.21270833
   - - - '114'
       - Mick Howard
-    - rank: '15'
-      frac: 0.20789258
+    - rank: '17'
+      frac: 0.20658436
   - - - '109'
       - Michael Williams
-    - rank: '16'
-      frac: 0.20297485
-- - - - '121'
-      - Oleg Bondarchuk
+    - rank: '18'
+      frac: 0.20256533
+- - - - '113'
+      - Olav Opsanger
     - rank: '1'
       frac: 1
-- - - - '121'
-      - Oleg Bondarchuk
-    - rank: '1'
-      frac: 1
-- - - - '150'
-      - Claudia Mejia
-    - rank: '1'
-      frac: 1
-- - - - '121'
-      - Oleg Bondarchuk
-    - rank: '1'
-      frac: 1
-  - - - '112'
-      - Sergey Kataev
-    - rank: '2'
-      frac: 0.47
-  - - - '150'
-      - Claudia Mejia
-    - rank: '3'
-      frac: 0.25022222
-- []
-- - - - '138'
-      - Jonny Durand
-    - rank: '1'
-      frac: 1
-  - - - '142'
-      - John Simon
+  - - - '125'
+      - Larry Bunner
     - rank: '2'
       frac: 0.87771545
-  - - - '121'
-      - Oleg Bondarchuk
+  - - - '139'
+      - Tullio Gervasoni
     - rank: '3'
       frac: 0.76869937
-  - - - '104'
-      - Christian Pollet
+  - - - '121'
+      - Oleg Bondarchuk
     - rank: '4'
       frac: 0.67217871
-  - - - '131'
-      - Robin Hamilton
+  - - - '138'
+      - Jonny Durand
     - rank: '5'
       frac: 0.58738042
-  - - - '132'
-      - James Stinnett
+  - - - '111'
+      - Patrick Kruse
     - rank: '6'
       frac: 0.51353145
-  - - - '115'
-      - Andrew Hollidge
+  - - - '132'
+      - James Stinnett
     - rank: '7'
       frac: 0.44985874
-  - - - '124'
-      - Patrick Pannese
+  - - - '131'
+      - Robin Hamilton
     - rank: '8'
       frac: 0.39558925
-  - - - '103'
-      - Matt Christensen
+  - - - '142'
+      - John Simon
     - rank: '9'
       frac: 0.34994993
-  - - - '127'
-      - Gerry Pesavento
+  - - - '119'
+      - Bart Weghorst
     - rank: '10'
       frac: 0.31216772
   - - - '106'
       - Fabiano Nahoum
     - rank: '11'
       frac: 0.28146957
-  - - - '102'
-      - Richard lovelace
+  - - - '123'
+      - JD Guillemette
     - rank: '12'
       frac: 0.25708243
+  - - - '127'
+      - Gerry Pesavento
+    - rank: '13'
+      frac: 0.23823326
+  - - - '143'
+      - Anna Eppink
+    - rank: '14'
+      frac: 0.22414899
+  - - - '120'
+      - Mike Glennon
+    - rank: '15'
+      frac: 0.21405658
+  - - - '144'
+      - Tom Lanning
+    - rank: '16'
+      frac: 0.20718298
+  - - - '128'
+      - Zac Majors
+    - rank: '17'
+      frac: 0.20275514
+- - - - '138'
+      - Jonny Durand
+    - rank: '1'
+      frac: 1
+  - - - '131'
+      - Robin Hamilton
+    - rank: '2'
+      frac: 0.90431452
+  - - - '106'
+      - Fabiano Nahoum
+    - rank: '3'
+      frac: 0.81665665
+  - - - '115'
+      - Andrew Hollidge
+    - rank: '4'
+      frac: 0.7366697
+  - - - '108'
+      - Raul Guerra
+    - rank: '5'
+      frac: 0.66399699
+  - - - '139'
+      - Tullio Gervasoni
+    - rank: '6'
+      frac: 0.59828184
+  - - - '132'
+      - James Stinnett
+    - rank: '7'
+      frac: 0.53916754
+  - - - '127'
+      - Gerry Pesavento
+    - rank: '8'
+      frac: 0.48629743
+  - - - '142'
+      - John Simon
+    - rank: '9'
+      frac: 0.4393148
+  - - - '101'
+      - Davis Straub
+    - rank: '10'
+      frac: 0.39786298
+  - - - '104'
+      - Christian Pollet
+    - rank: '11'
+      frac: 0.36158527
+  - - - '107'
+      - Malcolm Brown
+    - rank: '12'
+      frac: 0.330125
+  - - - '121'
+      - Oleg Bondarchuk
+    - rank: '13'
+      frac: 0.30312547
+  - - - '128'
+      - Zac Majors
+    - rank: '14'
+      frac: 0.28023
+  - - - '125'
+      - Larry Bunner
+    - rank: '15'
+      frac: 0.26108189
+  - - - '113'
+      - Olav Opsanger
+    - rank: '16'
+      frac: 0.24532447
+  - - - '102'
+      - Richard lovelace
+    - rank: '17'
+      frac: 0.23260105
+  - - - '135'
+      - Misael Rosalez
+    - rank: '18'
+      frac: 0.22255494
+  - - - '133'
+      - Olav Olsen
+    - rank: '19'
+      frac: 0.21482945
+  - - - '144'
+      - Tom Lanning
+    - rank: '20'
+      frac: 0.2090679
+  - - - '120'
+      - Mike Glennon
+    - rank: '21'
+      frac: 0.2049136
+  - - - '137'
+      - Yoko Isomoto
+    - rank: '22'
+      frac: 0.20200986
+- - - - '131'
+      - Robin Hamilton
+    - rank: '1'
+      frac: 1
+  - - - '138'
+      - Jonny Durand
+    - rank: '2'
+      frac: 0.84279472
+  - - - '139'
+      - Tullio Gervasoni
+    - rank: '3'
+      frac: 0.70787255
+  - - - '128'
+      - Zac Majors
+    - rank: '4'
+      frac: 0.59350478
+  - - - '113'
+      - Olav Opsanger
+    - rank: '5'
+      frac: 0.49796268
+  - - - '102'
+      - Richard lovelace
+    - rank: '6'
+      frac: 0.41951752
+  - - - '110'
+      - Cory Barnwell
+    - rank: '7'
+      frac: 0.3564406
+  - - - '117'
+      - Robert Dallas
+    - rank: '8'
+      frac: 0.30700319
+  - - - '115'
+      - Andrew Hollidge
+    - rank: '9'
+      frac: 0.26947656
+  - - - '101'
+      - Davis Straub
+    - rank: '10'
+      frac: 0.242132
+  - - - '123'
+      - JD Guillemette
+    - rank: '11'
+      frac: 0.22324078
+  - - - '108'
+      - Raul Guerra
+    - rank: '12'
+      frac: 0.21107419
   - - - '150'
       - Claudia Mejia
     - rank: '13'
-      frac: 0.23823326
+      frac: 0.2039035
+- - - - '128'
+      - Zac Majors
+    - rank: '1'
+      frac: 1
+  - - - '138'
+      - Jonny Durand
+    - rank: '2'
+      frac: 0.87771545
+  - - - '121'
+      - Oleg Bondarchuk
+    - rank: '3'
+      frac: 0.76869937
+  - - - '102'
+      - Richard lovelace
+    - rank: '4'
+      frac: 0.67217871
+  - - - '131'
+      - Robin Hamilton
+    - rank: '5'
+      frac: 0.58738042
+  - - - '139'
+      - Tullio Gervasoni
+    - rank: '6'
+      frac: 0.51353145
+  - - - '108'
+      - Raul Guerra
+    - rank: '7'
+      frac: 0.44985874
+  - - - '120'
+      - Mike Glennon
+    - rank: '8'
+      frac: 0.39558925
+  - - - '104'
+      - Christian Pollet
+    - rank: '9'
+      frac: 0.34994993
+  - - - '127'
+      - Gerry Pesavento
+    - rank: '10'
+      frac: 0.31216772
+  - - - '132'
+      - James Stinnett
+    - rank: '11'
+      frac: 0.28146957
+  - - - '142'
+      - John Simon
+    - rank: '12'
+      frac: 0.25708243
   - - - '113'
       - Olav Opsanger
+    - rank: '13'
+      frac: 0.23823326
+  - - - '112'
+      - Sergey Kataev
     - rank: '14'
       frac: 0.22414899
   - - - '123'
       - JD Guillemette
     - rank: '15'
       frac: 0.21405658
-  - - - '114'
-      - Mick Howard
+  - - - '150'
+      - Claudia Mejia
     - rank: '16'
       frac: 0.20718298
-  - - - '133'
-      - Olav Olsen
+  - - - '135'
+      - Misael Rosalez
     - rank: '17'
       frac: 0.20275514
+- - - - '104'
+      - Christian Pollet
+    - rank: '1'
+      frac: 1
+  - - - '131'
+      - Robin Hamilton
+    - rank: '2'
+      frac: 0.56792188
+  - - - '139'
+      - Tullio Gervasoni
+    - rank: '3'
+      frac: 0.330125
+  - - - '132'
+      - James Stinnett
+    - rank: '4'
+      frac: 0.22726562
+- - - - '138'
+      - Jonny Durand
+    - rank: '1'
+      frac: 1
+  - - - '101'
+      - Davis Straub
+    - rank: '2'
+      frac: 0.90830525
+  - - - '142'
+      - John Simon
+    - rank: '3'
+      frac: 0.82396943
+  - - - '121'
+      - Oleg Bondarchuk
+    - rank: '4'
+      frac: 0.74668036
+  - - - '104'
+      - Christian Pollet
+    - rank: '5'
+      frac: 0.67612591
+  - - - '131'
+      - Robin Hamilton
+    - rank: '6'
+      frac: 0.61199392
+  - - - '132'
+      - James Stinnett
+    - rank: '7'
+      frac: 0.55397222
+  - - - '111'
+      - Patrick Kruse
+    - rank: '8'
+      frac: 0.50174866
+  - - - '128'
+      - Zac Majors
+    - rank: '9'
+      frac: 0.4550111
+  - - - '115'
+      - Andrew Hollidge
+    - rank: '10'
+      frac: 0.41344736
+  - - - '135'
+      - Misael Rosalez
+    - rank: '11'
+      frac: 0.37674529
+  - - - '124'
+      - Patrick Pannese
+    - rank: '12'
+      frac: 0.34459275
+  - - - '103'
+      - Matt Christensen
+    - rank: '13'
+      frac: 0.31667757
+  - - - '127'
+      - Gerry Pesavento
+    - rank: '14'
+      frac: 0.2926876
+  - - - '106'
+      - Fabiano Nahoum
+    - rank: '15'
+      frac: 0.27231068
+  - - - '102'
+      - Richard lovelace
+    - rank: '16'
+      frac: 0.25523465
+  - - - '150'
+      - Claudia Mejia
+    - rank: '17'
+      frac: 0.24114737
+  - - - '113'
+      - Olav Opsanger
+    - rank: '18'
+      frac: 0.22973666
+  - - - '123'
+      - JD Guillemette
+    - rank: '19'
+      frac: 0.22069039
+  - - - '119'
+      - Bart Weghorst
+    - rank: '20'
+      frac: 0.21369639
+  - - - '114'
+      - Mick Howard
+    - rank: '21'
+      frac: 0.20844251
+  - - - '117'
+      - Robert Dallas
+    - rank: '22'
+      frac: 0.20461659
+  - - - '133'
+      - Olav Olsen
+    - rank: '23'
+      frac: 0.20190647
 ssSpeed:
 - - - - '138'
       - Jonny Durand
@@ -661,6 +1740,10 @@ ssSpeed:
       - Andrew Hollidge
     - time: 3.706944 h
       frac: 0.74259575
+  - - - '128'
+      - Zac Majors
+    - time: 3.756111 h
+      frac: 0.708959
   - - - '125'
       - Larry Bunner
     - time: 3.776944 h
@@ -685,6 +1768,10 @@ ssSpeed:
       - Fabiano Nahoum
     - time: 3.976944 h
       frac: 0.57643349
+  - - - '111'
+      - Patrick Kruse
+    - time: 4.006944 h
+      frac: 0.56007884
   - - - '109'
       - Michael Williams
     - time: 4.042222 h
@@ -697,31 +1784,298 @@ ssSpeed:
       - Mick Howard
     - time: 4.046389 h
       frac: 0.53902649
-- - - - '121'
+- - - - '113'
+      - Olav Opsanger
+    - time: 3.845278 h
+      frac: 1
+  - - - '125'
+      - Larry Bunner
+    - time: 3.884444 h
+      frac: 0.92638463
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.938611 h
+      frac: 0.86866456
+  - - - '121'
       - Oleg Bondarchuk
     - time: 4.014722 h
+      frac: 0.80454701
+  - - - '138'
+      - Jonny Durand
+    - time: 4.044167 h
+      frac: 0.7825141
+  - - - '111'
+      - Patrick Kruse
+    - time: 4.088611 h
+      frac: 0.75121444
+  - - - '132'
+      - James Stinnett
+    - time: 4.121667 h
+      frac: 0.72916519
+  - - - '131'
+      - Robin Hamilton
+    - time: 4.155833 h
+      frac: 0.70728142
+  - - - '142'
+      - John Simon
+    - time: 4.176389 h
+      frac: 0.69450325
+  - - - '119'
+      - Bart Weghorst
+    - time: 4.220000 h
+      frac: 0.66823513
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 4.252222 h
+      frac: 0.64947889
+  - - - '123'
+      - JD Guillemette
+    - time: 4.429444 h
+      frac: 0.55395165
+  - - - '127'
+      - Gerry Pesavento
+    - time: 4.543333 h
+      frac: 0.49771437
+  - - - '143'
+      - Anna Eppink
+    - time: 4.611111 h
+      frac: 0.46570603
+  - - - '120'
+      - Mike Glennon
+    - time: 4.661389 h
+      frac: 0.44257006
+  - - - '144'
+      - Tom Lanning
+    - time: 4.839722 h
+      frac: 0.36406737
+  - - - '128'
+      - Zac Majors
+    - time: 27.383611 h
+      frac: 0
+- - - - '138'
+      - Jonny Durand
+    - time: 2.290000 h
       frac: 1
-- - - - '121'
+  - - - '128'
+      - Zac Majors
+    - time: 2.436111 h
+      frac: 0.7895364
+  - - - '125'
+      - Larry Bunner
+    - time: 2.450556 h
+      frac: 0.77588458
+  - - - '142'
+      - John Simon
+    - time: 2.457222 h
+      frac: 0.76972286
+  - - - '113'
+      - Olav Opsanger
+    - time: 2.476111 h
+      frac: 0.75269302
+  - - - '131'
+      - Robin Hamilton
+    - time: 2.595000 h
+      frac: 0.65624048
+  - - - '115'
+      - Andrew Hollidge
+    - time: 2.610000 h
+      frac: 0.6450601
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 2.649167 h
+      frac: 0.61665878
+  - - - '108'
+      - Raul Guerra
+    - time: 2.667500 h
+      frac: 0.60372244
+  - - - '127'
+      - Gerry Pesavento
+    - time: 2.686111 h
+      frac: 0.59080261
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 2.690278 h
+      frac: 0.58793807
+  - - - '132'
+      - James Stinnett
+    - time: 2.692500 h
+      frac: 0.58641438
+  - - - '104'
+      - Christian Pollet
+    - time: 2.773889 h
+      frac: 0.5323884
+  - - - '101'
+      - Davis Straub
+    - time: 2.804722 h
+      frac: 0.5127295
+  - - - '107'
+      - Malcolm Brown
+    - time: 2.886389 h
+      frac: 0.46246361
+  - - - '121'
       - Oleg Bondarchuk
     - time: 3.025000 h
+      frac: 0.3821073
+  - - - '135'
+      - Misael Rosalez
+    - time: 3.157778 h
+      frac: 0.30976996
+  - - - '102'
+      - Richard lovelace
+    - time: 3.193611 h
+      frac: 0.29089718
+  - - - '133'
+      - Olav Olsen
+    - time: 3.203889 h
+      frac: 0.28553037
+  - - - '144'
+      - Tom Lanning
+    - time: 3.209722 h
+      frac: 0.2824933
+  - - - '120'
+      - Mike Glennon
+    - time: 3.221111 h
+      frac: 0.27658222
+  - - - '137'
+      - Yoko Isomoto
+    - time: 3.318889 h
+      frac: 0.22678461
+- - - - '131'
+      - Robin Hamilton
+    - time: 3.057222 h
       frac: 1
-- - - - '150'
+  - - - '123'
+      - JD Guillemette
+    - time: 3.491944 h
+      frac: 0.60460404
+  - - - '138'
+      - Jonny Durand
+    - time: 3.573889 h
+      frac: 0.55635939
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.579167 h
+      frac: 0.5533433
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.588333 h
+      frac: 0.54812888
+  - - - '128'
+      - Zac Majors
+    - time: 3.593889 h
+      frac: 0.54498322
+  - - - '102'
+      - Richard lovelace
+    - time: 3.615556 h
+      frac: 0.53281735
+  - - - '150'
       - Claudia Mejia
     - time: 3.653056 h
+      frac: 0.51212616
+  - - - '117'
+      - Robert Dallas
+    - time: 3.725000 h
+      frac: 0.47360433
+  - - - '110'
+      - Cory Barnwell
+    - time: 3.754167 h
+      frac: 0.45838614
+  - - - '115'
+      - Andrew Hollidge
+    - time: 3.785556 h
+      frac: 0.44224374
+  - - - '101'
+      - Davis Straub
+    - time: 3.818333 h
+      frac: 0.4256327
+  - - - '108'
+      - Raul Guerra
+    - time: 3.882500 h
+      frac: 0.39378814
+- - - - '128'
+      - Zac Majors
+    - time: 2.434444 h
       frac: 1
-- - - - '121'
+  - - - '138'
+      - Jonny Durand
+    - time: 2.611389 h
+      frac: 0.76570771
+  - - - '121'
       - Oleg Bondarchuk
     - time: 2.636111 h
-      frac: 1
+      frac: 0.74436354
+  - - - '102'
+      - Richard lovelace
+    - time: 3.057222 h
+      frac: 0.4578883
+  - - - '131'
+      - Robin Hamilton
+    - time: 3.099167 h
+      frac: 0.43381263
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.116667 h
+      frac: 0.42391847
+  - - - '132'
+      - James Stinnett
+    - time: 3.291111 h
+      frac: 0.32948584
+  - - - '142'
+      - John Simon
+    - time: 3.405278 h
+      frac: 0.27116398
+  - - - '127'
+      - Gerry Pesavento
+    - time: 3.411667 h
+      frac: 0.26796991
+  - - - '120'
+      - Mike Glennon
+    - time: 3.460278 h
+      frac: 0.2438907
+  - - - '104'
+      - Christian Pollet
+    - time: 3.490556 h
+      frac: 0.22908508
+  - - - '123'
+      - JD Guillemette
+    - time: 3.501111 h
+      frac: 0.22395687
+  - - - '108'
+      - Raul Guerra
+    - time: 3.510000 h
+      frac: 0.21965148
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.607222 h
+      frac: 0.17330776
   - - - '112'
       - Sergey Kataev
     - time: 3.679444 h
-      frac: 0.25533521
+      frac: 0.13970722
   - - - '150'
       - Claudia Mejia
     - time: 3.931667 h
-      frac: 0.13970092
-- []
+      frac: 2.712386e-2
+  - - - '135'
+      - Misael Rosalez
+    - time: 3.994444 h
+      frac: 1.1564e-4
+- - - - '131'
+      - Robin Hamilton
+    - time: 2.413333 h
+      frac: 1
+  - - - '104'
+      - Christian Pollet
+    - time: 2.415556 h
+      frac: 0.98730442
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 2.441111 h
+      frac: 0.9316205
+  - - - '132'
+      - James Stinnett
+    - time: 2.453889 h
+      frac: 0.91199761
 - - - - '138'
       - Jonny Durand
     - time: 1.545833 h
@@ -734,6 +2088,14 @@ ssSpeed:
       - James Stinnett
     - time: 1.800000 h
       frac: 0.65297707
+  - - - '128'
+      - Zac Majors
+    - time: 1.908333 h
+      frac: 0.56030541
+  - - - '101'
+      - Davis Straub
+    - time: 1.994722 h
+      frac: 0.49296452
   - - - '121'
       - Oleg Bondarchuk
     - time: 2.036111 h
@@ -746,6 +2108,10 @@ ssSpeed:
       - Christian Pollet
     - time: 2.118611 h
       frac: 0.40350993
+  - - - '111'
+      - Patrick Kruse
+    - time: 2.157222 h
+      frac: 0.37699604
   - - - '106'
       - Fabiano Nahoum
     - time: 2.164444 h
@@ -758,6 +2124,10 @@ ssSpeed:
       - Richard lovelace
     - time: 2.339722 h
       frac: 0.25848673
+  - - - '135'
+      - Misael Rosalez
+    - time: 2.344167 h
+      frac: 0.25572182
   - - - '113'
       - Olav Opsanger
     - time: 2.364167 h
@@ -786,6 +2156,14 @@ ssSpeed:
       - Claudia Mejia
     - time: 2.677500 h
       frac: 6.079991e-2
+  - - - '119'
+      - Bart Weghorst
+    - time: 2.771944 h
+      frac: 9.24639e-3
+  - - - '117'
+      - Robert Dallas
+    - time: 3.123611 h
+      frac: 0
   - - - '133'
       - Olav Olsen
     - time: 3.471111 h
@@ -815,6 +2193,10 @@ gsSpeed:
       - Andrew Hollidge
     - time: 3.711944 h
       frac: 0.74150327
+  - - - '128'
+      - Zac Majors
+    - time: 3.759444 h
+      frac: 0.7090523
   - - - '125'
       - Larry Bunner
     - time: 3.781944 h
@@ -835,6 +2217,10 @@ gsSpeed:
       - Bart Weghorst
     - time: 3.836944 h
       frac: 0.65965205
+  - - - '111'
+      - Patrick Kruse
+    - time: 4.008056 h
+      frac: 0.56142042
   - - - '127'
       - Gerry Pesavento
     - time: 4.051389 h
@@ -855,31 +2241,298 @@ gsSpeed:
       - Fabiano Nahoum
     - time: 4.281944 h
       frac: 0.42365949
-- - - - '121'
+- - - - '113'
+      - Olav Opsanger
+    - time: 3.869167 h
+      frac: 1
+  - - - '125'
+      - Larry Bunner
+    - time: 3.924444 h
+      frac: 0.90756682
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.957778 h
+      frac: 0.87339438
+  - - - '121'
       - Oleg Bondarchuk
     - time: 4.035278 h
+      frac: 0.80751659
+  - - - '138'
+      - Jonny Durand
+    - time: 4.047500 h
+      frac: 0.79818697
+  - - - '111'
+      - Patrick Kruse
+    - time: 4.128889 h
+      frac: 0.74070135
+  - - - '132'
+      - James Stinnett
+    - time: 4.158889 h
+      frac: 0.72109986
+  - - - '131'
+      - Robin Hamilton
+    - time: 4.173889 h
+      frac: 0.71155461
+  - - - '142'
+      - John Simon
+    - time: 4.183056 h
+      frac: 0.70579855
+  - - - '119'
+      - Bart Weghorst
+    - time: 4.237500 h
+      frac: 0.67269332
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 4.259722 h
+      frac: 0.65965759
+  - - - '123'
+      - JD Guillemette
+    - time: 4.444722 h
+      frac: 0.55925673
+  - - - '127'
+      - Gerry Pesavento
+    - time: 4.579444 h
+      frac: 0.49291627
+  - - - '143'
+      - Anna Eppink
+    - time: 4.627222 h
+      frac: 0.4704241
+  - - - '120'
+      - Mike Glennon
+    - time: 4.682222 h
+      frac: 0.44510902
+  - - - '144'
+      - Tom Lanning
+    - time: 4.833056 h
+      frac: 0.37844604
+  - - - '128'
+      - Zac Majors
+    - time: 27.385833 h
+      frac: 0
+- - - - '138'
+      - Jonny Durand
+    - time: 2.293333 h
       frac: 1
-- - - - '121'
+  - - - '128'
+      - Zac Majors
+    - time: 2.437222 h
+      frac: 0.7917768
+  - - - '125'
+      - Larry Bunner
+    - time: 2.456111 h
+      frac: 0.773931
+  - - - '142'
+      - John Simon
+    - time: 2.469167 h
+      frac: 0.7619992
+  - - - '113'
+      - Olav Opsanger
+    - time: 2.492222 h
+      frac: 0.74162453
+  - - - '131'
+      - Robin Hamilton
+    - time: 2.643056 h
+      frac: 0.62359121
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 2.649722 h
+      frac: 0.61882269
+  - - - '115'
+      - Andrew Hollidge
+    - time: 2.660278 h
+      frac: 0.61133287
+  - - - '108'
+      - Raul Guerra
+    - time: 2.678889 h
+      frac: 0.59829961
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 2.700556 h
+      frac: 0.58338786
+  - - - '132'
+      - James Stinnett
+    - time: 2.706944 h
+      frac: 0.57904171
+  - - - '127'
+      - Gerry Pesavento
+    - time: 2.711389 h
+      frac: 0.57603149
+  - - - '101'
+      - Davis Straub
+    - time: 2.823889 h
+      frac: 0.50302846
+  - - - '104'
+      - Christian Pollet
+    - time: 2.838056 h
+      frac: 0.49422076
+  - - - '107'
+      - Malcolm Brown
+    - time: 2.897778 h
+      frac: 0.45789693
+  - - - '121'
       - Oleg Bondarchuk
     - time: 3.067500 h
+      frac: 0.360657
+  - - - '102'
+      - Richard lovelace
+    - time: 3.199722 h
+      frac: 0.28978912
+  - - - '135'
+      - Misael Rosalez
+    - time: 3.208056 h
+      frac: 0.28544265
+  - - - '133'
+      - Olav Olsen
+    - time: 3.212222 h
+      frac: 0.28327436
+  - - - '144'
+      - Tom Lanning
+    - time: 3.222500 h
+      frac: 0.27793989
+  - - - '120'
+      - Mike Glennon
+    - time: 3.228611 h
+      frac: 0.27477737
+  - - - '137'
+      - Yoko Isomoto
+    - time: 3.370000 h
+      frac: 0.20341562
+- - - - '131'
+      - Robin Hamilton
+    - time: 3.065556 h
       frac: 1
-- - - - '150'
+  - - - '123'
+      - JD Guillemette
+    - time: 3.500833 h
+      frac: 0.60462616
+  - - - '138'
+      - Jonny Durand
+    - time: 3.577222 h
+      frac: 0.55962598
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.584722 h
+      frac: 0.5553331
+  - - - '128'
+      - Zac Majors
+    - time: 3.598889 h
+      frac: 0.54728027
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.600000 h
+      frac: 0.54665171
+  - - - '102'
+      - Richard lovelace
+    - time: 3.627500 h
+      frac: 0.53123067
+  - - - '150'
       - Claudia Mejia
     - time: 3.653333 h
+      frac: 0.51697192
+  - - - '110'
+      - Cory Barnwell
+    - time: 3.761389 h
+      frac: 0.45945263
+  - - - '117'
+      - Robert Dallas
+    - time: 3.778889 h
+      frac: 0.45042713
+  - - - '115'
+      - Andrew Hollidge
+    - time: 3.802778 h
+      frac: 0.43822482
+  - - - '101'
+      - Davis Straub
+    - time: 3.830000 h
+      frac: 0.42447938
+  - - - '108'
+      - Raul Guerra
+    - time: 3.885833 h
+      frac: 0.39678671
+- - - - '128'
+      - Zac Majors
+    - time: 2.438333 h
       frac: 1
-- - - - '121'
+  - - - '138'
+      - Jonny Durand
+    - time: 2.614722 h
+      frac: 0.76632274
+  - - - '121'
       - Oleg Bondarchuk
     - time: 2.672222 h
-      frac: 1
+      frac: 0.7179613
+  - - - '102'
+      - Richard lovelace
+    - time: 3.086111 h
+      frac: 0.4437718
+  - - - '131'
+      - Robin Hamilton
+    - time: 3.104722 h
+      frac: 0.43316829
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.122778 h
+      frac: 0.42297525
+  - - - '132'
+      - James Stinnett
+    - time: 3.356944 h
+      frac: 0.29791434
+  - - - '142'
+      - John Simon
+    - time: 3.432500 h
+      frac: 0.25992607
+  - - - '123'
+      - JD Guillemette
+    - time: 3.531944 h
+      frac: 0.21136221
+  - - - '108'
+      - Raul Guerra
+    - time: 3.586111 h
+      frac: 0.18553171
+  - - - '120'
+      - Mike Glennon
+    - time: 3.608611 h
+      frac: 0.17492211
+  - - - '104'
+      - Christian Pollet
+    - time: 3.648056 h
+      frac: 0.15648512
+  - - - '127'
+      - Gerry Pesavento
+    - time: 3.648611 h
+      frac: 0.15622689
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.766389 h
+      frac: 0.10233739
   - - - '112'
       - Sergey Kataev
     - time: 3.828611 h
-      frac: 0.20607694
+      frac: 7.451363e-2
   - - - '150'
       - Claudia Mejia
     - time: 4.019167 h
-      frac: 0.12109433
-- []
+      frac: 0
+  - - - '135'
+      - Misael Rosalez
+    - time: 4.027778 h
+      frac: 0
+- - - - '104'
+      - Christian Pollet
+    - time: 2.421944 h
+      frac: 1
+  - - - '131'
+      - Robin Hamilton
+    - time: 2.421944 h
+      frac: 1
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 2.447222 h
+      frac: 0.93586361
+  - - - '132'
+      - James Stinnett
+    - time: 2.463056 h
+      frac: 0.91130113
 - - - - '138'
       - Jonny Durand
     - time: 1.613056 h
@@ -892,6 +2545,14 @@ gsSpeed:
       - James Stinnett
     - time: 1.834444 h
       frac: 0.68795245
+  - - - '101'
+      - Davis Straub
+    - time: 1.975278 h
+      frac: 0.56672169
+  - - - '128'
+      - Zac Majors
+    - time: 1.981389 h
+      frac: 0.56186201
   - - - '121'
       - Oleg Bondarchuk
     - time: 2.042778 h
@@ -904,6 +2565,10 @@ gsSpeed:
       - Robin Hamilton
     - time: 2.156389 h
       frac: 0.43224479
+  - - - '111'
+      - Patrick Kruse
+    - time: 2.168611 h
+      frac: 0.42376201
   - - - '106'
       - Fabiano Nahoum
     - time: 2.238611 h
@@ -916,6 +2581,10 @@ gsSpeed:
       - Richard lovelace
     - time: 2.345833 h
       frac: 0.30694917
+  - - - '135'
+      - Misael Rosalez
+    - time: 2.350556 h
+      frac: 0.30397489
   - - - '124'
       - Patrick Pannese
     - time: 2.352778 h
@@ -944,12 +2613,36 @@ gsSpeed:
       - Claudia Mejia
     - time: 2.760000 h
       frac: 6.571693e-2
+  - - - '119'
+      - Bart Weghorst
+    - time: 2.971667 h
+      frac: 0
+  - - - '117'
+      - Robert Dallas
+    - time: 3.174722 h
+      frac: 0
   - - - '133'
       - Olav Olsen
     - time: 3.448889 h
       frac: 0
 nigh:
-- - - - '146'
+- - - - '135'
+      - Misael Rosalez
+    - togo:
+        distance: 11.819028 km
+        flipSum:
+        - 11.819028 km
+        legs:
+        - 11.819028 km
+        legsSum:
+        - 11.819028 km
+        waypoints:
+        - lat: 27.31471667
+          lng: -81.7629
+        - lat: 27.20914021
+          lng: -81.77674221
+      made: 148.227613 km
+  - - - '146'
       - Peter Kelley
     - togo:
         distance: 21.083374 km
@@ -1462,7 +3155,23 @@ nigh:
         - lat: 27.2087043
           lng: -81.77523377
       made: 27.204613 km
-- - - - '103'
+- - - - '107'
+      - Malcolm Brown
+    - togo:
+        distance: 13.168135 km
+        flipSum:
+        - 13.168135 km
+        legs:
+        - 13.168135 km
+        legsSum:
+        - 13.168135 km
+        waypoints:
+        - lat: 28.41128333
+          lng: -81.83706667
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 100.451932 km
+  - - - '103'
       - Matt Christensen
     - togo:
         distance: 14.884987 km
@@ -1483,6 +3192,153 @@ nigh:
         - lat: 28.52942587
           lng: -81.84634713
       made: 98.734932 km
+  - - - '110'
+      - Cory Barnwell
+    - togo:
+        distance: 14.970930 km
+        flipSum:
+        - 14.970930 km
+        - 14.238548 km
+        legs:
+        - 0.732382 km
+        - 14.238548 km
+        legsSum:
+        - 0.732382 km
+        - 14.970930 km
+        waypoints:
+        - lat: 28.4072
+          lng: -81.83831667
+        - lat: 28.4018389
+          lng: -81.83396673
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 98.648932 km
+  - - - '116'
+      - Jeffery Bohl
+    - togo:
+        distance: 15.095163 km
+        flipSum:
+        - 15.095163 km
+        - 14.209866 km
+        legs:
+        - 0.885297 km
+        - 14.209866 km
+        legsSum:
+        - 0.885297 km
+        - 15.095163 km
+        waypoints:
+        - lat: 28.40886667
+          lng: -81.83775
+        - lat: 28.4021877
+          lng: -81.83282332
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 98.524932 km
+  - - - '137'
+      - Yoko Isomoto
+    - togo:
+        distance: 15.897338 km
+        flipSum:
+        - 15.897338 km
+        - 14.150002 km
+        legs:
+        - 1.747336 km
+        - 14.150002 km
+        legsSum:
+        - 1.747336 km
+        - 15.897338 km
+        waypoints:
+        - lat: 28.41851667
+          lng: -81.83201667
+        - lat: 28.40318064
+          lng: -81.82812091
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 97.722932 km
+  - - - '101'
+      - Davis Straub
+    - togo:
+        distance: 21.251781 km
+        flipSum:
+        - 21.251781 km
+        - 14.149022 km
+        legs:
+        - 7.102759 km
+        - 14.149022 km
+        legsSum:
+        - 7.102759 km
+        - 21.251781 km
+        waypoints:
+        - lat: 28.46673333
+          lng: -81.83571667
+        - lat: 28.40332655
+          lng: -81.8269222
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 92.367932 km
+  - - - '108'
+      - Raul Guerra
+    - togo:
+        distance: 19.526701 km
+        flipSum:
+        - 19.526701 km
+        - 14.149022 km
+        legs:
+        - 5.377679 km
+        - 14.149022 km
+        legsSum:
+        - 5.377679 km
+        - 19.526701 km
+        waypoints:
+        - lat: 28.45125
+          lng: -81.83431667
+        - lat: 28.40332655
+          lng: -81.8269222
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 94.092932 km
+  - - - '117'
+      - Robert Dallas
+    - togo:
+        distance: 28.082381 km
+        flipSum:
+        - 28.082381 km
+        - 14.149022 km
+        legs:
+        - 13.933359 km
+        - 14.149022 km
+        legsSum:
+        - 13.933359 km
+        - 28.082381 km
+        waypoints:
+        - lat: 28.52766667
+          lng: -81.84458333
+        - lat: 28.40332655
+          lng: -81.8269222
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 85.537932 km
+  - - - '135'
+      - Misael Rosalez
+    - togo:
+        distance: 34.680825 km
+        flipSum:
+        - 34.680825 km
+        - 14.168812 km
+        legs:
+        - 20.512013 km
+        - 14.168812 km
+        legsSum:
+        - 20.512013 km
+        - 34.680825 km
+        waypoints:
+        - lat: 28.57443333
+          lng: -81.90731667
+        - lat: 28.40276552
+          lng: -81.83049428
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 78.938932 km
   - - - '150'
       - Claudia Mejia
     - togo:
@@ -1504,6 +3360,137 @@ nigh:
         - lat: 28.52943979
           lng: -81.84618632
       made: 77.311932 km
+  - - - '102'
+      - Richard lovelace
+    - togo:
+        distance: 36.146272 km
+        flipSum:
+        - 36.146272 km
+        - 14.156618 km
+        legs:
+        - 21.989654 km
+        - 14.156618 km
+        legsSum:
+        - 21.989654 km
+        - 36.146272 km
+        waypoints:
+        - lat: 28.5911
+          lng: -81.89875
+        - lat: 28.40299342
+          lng: -81.82931218
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 77.473932 km
+  - - - '124'
+      - Patrick Pannese
+    - togo:
+        distance: 37.341051 km
+        flipSum:
+        - 37.341051 km
+        - 14.156618 km
+        legs:
+        - 23.184434 km
+        - 14.156618 km
+        legsSum:
+        - 23.184434 km
+        - 37.341051 km
+        waypoints:
+        - lat: 28.60313333
+          lng: -81.89583333
+        - lat: 28.40299342
+          lng: -81.82931218
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 76.278932 km
+  - - - '145'
+      - Roger Irby
+    - togo:
+        distance: 37.710880 km
+        flipSum:
+        - 37.710880 km
+        - 14.150002 km
+        legs:
+        - 23.560878 km
+        - 14.150002 km
+        legsSum:
+        - 23.560878 km
+        - 37.710880 km
+        waypoints:
+        - lat: 28.60995
+          lng: -81.8808
+        - lat: 28.40318064
+          lng: -81.82812091
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 75.908932 km
+  - - - '126'
+      - Jeff Kannard
+    - togo:
+        distance: 41.818539 km
+        flipSum:
+        - 41.818539 km
+        - 14.156618 km
+        legs:
+        - 27.661921 km
+        - 14.156618 km
+        legsSum:
+        - 27.661921 km
+        - 41.818539 km
+        waypoints:
+        - lat: 28.64258333
+          lng: -81.90551667
+        - lat: 28.40299342
+          lng: -81.82931218
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 71.800932 km
+  - - - '115'
+      - Andrew Hollidge
+    - togo:
+        distance: 42.004628 km
+        flipSum:
+        - 42.004628 km
+        - 14.149022 km
+        legs:
+        - 27.855607 km
+        - 14.149022 km
+        legsSum:
+        - 27.855607 km
+        - 42.004628 km
+        waypoints:
+        - lat: 28.65316667
+          lng: -81.84778333
+        - lat: 28.40332655
+          lng: -81.8269222
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 71.614932 km
+  - - - '133'
+      - Olav Olsen
+    - togo:
+        distance: 55.803856 km
+        flipSum:
+        - 55.803856 km
+        - 49.177258 km
+        - 14.150002 km
+        legs:
+        - 6.626599 km
+        - 35.027255 km
+        - 14.150002 km
+        legsSum:
+        - 6.626599 km
+        - 41.653854 km
+        - 55.803856 km
+        waypoints:
+        - lat: 28.68946667
+          lng: -81.9616
+        - lat: 28.7120257
+          lng: -81.89871419
+        - lat: 28.40318064
+          lng: -81.82812091
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 57.815932 km
   - - - '112'
       - Sergey Kataev
     - togo:
@@ -1530,7 +3517,384 @@ nigh:
         - lat: 28.52943979
           lng: -81.84618632
       made: 54.596932 km
-- - - - '112'
+  - - - '134'
+      - Kinsley Sykes
+    - togo:
+        distance: 59.622860 km
+        flipSum:
+        - 59.622860 km
+        - 49.157673 km
+        - 14.150002 km
+        legs:
+        - 10.465187 km
+        - 35.007671 km
+        - 14.150002 km
+        legsSum:
+        - 10.465187 km
+        - 45.472858 km
+        - 59.622860 km
+        waypoints:
+        - lat: 28.66856667
+          lng: -81.99366667
+        - lat: 28.71189682
+          lng: -81.8984258
+        - lat: 28.40318064
+          lng: -81.82812091
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 53.996932 km
+  - - - '109'
+      - Michael Williams
+    - togo:
+        distance: 60.825065 km
+        flipSum:
+        - 60.825065 km
+        - 49.221983 km
+        - 14.150002 km
+        legs:
+        - 11.603081 km
+        - 35.071981 km
+        - 14.150002 km
+        legsSum:
+        - 11.603081 km
+        - 46.675063 km
+        - 60.825065 km
+        waypoints:
+        - lat: 28.70783333
+          lng: -82.01811667
+        - lat: 28.71234087
+          lng: -81.89925202
+        - lat: 28.40318064
+          lng: -81.82812091
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 52.794932 km
+  - - - '141'
+      - Patrick Halfhill
+    - togo:
+        distance: 62.300511 km
+        flipSum:
+        - 62.300511 km
+        - 49.273159 km
+        - 14.150002 km
+        legs:
+        - 13.027352 km
+        - 35.123157 km
+        - 14.150002 km
+        legsSum:
+        - 13.027352 km
+        - 48.150509 km
+        - 62.300511 km
+        waypoints:
+        - lat: 28.74351667
+          lng: -82.02863333
+        - lat: 28.71272595
+          lng: -81.89972701
+        - lat: 28.40318064
+          lng: -81.82812091
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 51.318932 km
+  - - - '140'
+      - Bill Vickery
+    - togo:
+        distance: 63.688684 km
+        flipSum:
+        - 63.688684 km
+        - 49.157673 km
+        - 14.150002 km
+        legs:
+        - 14.531011 km
+        - 35.007671 km
+        - 14.150002 km
+        legsSum:
+        - 14.531011 km
+        - 49.538682 km
+        - 63.688684 km
+        waypoints:
+        - lat: 28.6522
+          lng: -82.03093333
+        - lat: 28.71189682
+          lng: -81.8984258
+        - lat: 28.40318064
+          lng: -81.82812091
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 49.930932 km
+  - - - '146'
+      - Peter Kelley
+    - togo:
+        distance: 64.624365 km
+        flipSum:
+        - 64.624365 km
+        - 49.198740 km
+        - 14.150002 km
+        legs:
+        - 15.425626 km
+        - 35.048737 km
+        - 14.150002 km
+        legsSum:
+        - 15.425626 km
+        - 50.474363 km
+        - 64.624365 km
+        waypoints:
+        - lat: 28.69046667
+          lng: -82.0552
+        - lat: 28.71217402
+          lng: -81.89899017
+        - lat: 28.40318064
+          lng: -81.82812091
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 48.995932 km
+  - - - '129'
+      - Mike Jefferson
+    - togo:
+        distance: 75.474815 km
+        flipSum:
+        - 75.474815 km
+        - 49.198740 km
+        - 14.150002 km
+        legs:
+        - 26.276075 km
+        - 35.048737 km
+        - 14.150002 km
+        legsSum:
+        - 26.276075 km
+        - 61.324813 km
+        - 75.474815 km
+        waypoints:
+        - lat: 28.65788333
+          lng: -82.16115
+        - lat: 28.71217402
+          lng: -81.89899017
+        - lat: 28.40318064
+          lng: -81.82812091
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 38.144932 km
+  - - - '114'
+      - Mick Howard
+    - togo:
+        distance: 92.239829 km
+        flipSum:
+        - 92.239829 km
+        - 78.390236 km
+        - 49.187770 km
+        - 14.150002 km
+        legs:
+        - 13.849593 km
+        - 29.202466 km
+        - 35.037767 km
+        - 14.150002 km
+        legsSum:
+        - 13.849593 km
+        - 43.052060 km
+        - 78.089827 km
+        - 92.239829 km
+        waypoints:
+        - lat: 28.59918333
+          lng: -82.05593333
+        - lat: 28.644482
+          lng: -82.18810798
+        - lat: 28.71209748
+          lng: -81.89885384
+        - lat: 28.40318064
+          lng: -81.82812091
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 21.379932 km
+  - - - '104'
+      - Christian Pollet
+    - togo:
+        distance: 92.871715 km
+        flipSum:
+        - 92.871715 km
+        - 78.357568 km
+        - 49.187770 km
+        - 14.150002 km
+        legs:
+        - 14.514147 km
+        - 29.169799 km
+        - 35.037767 km
+        - 14.150002 km
+        legsSum:
+        - 14.514147 km
+        - 43.683946 km
+        - 78.721713 km
+        - 92.871715 km
+        waypoints:
+        - lat: 28.61695
+          lng: -82.04298333
+        - lat: 28.6455465
+          lng: -82.18808383
+        - lat: 28.71209748
+          lng: -81.89885384
+        - lat: 28.40318064
+          lng: -81.82812091
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 20.747932 km
+  - - - '118'
+      - Ingo Heilmann
+    - togo:
+        distance: 111.161955 km
+        flipSum:
+        - 111.161955 km
+        - 78.390236 km
+        - 49.187770 km
+        - 14.150002 km
+        legs:
+        - 32.771719 km
+        - 29.202466 km
+        - 35.037767 km
+        - 14.150002 km
+        legsSum:
+        - 32.771719 km
+        - 61.974185 km
+        - 97.011953 km
+        - 111.161955 km
+        waypoints:
+        - lat: 28.55311667
+          lng: -81.86896667
+        - lat: 28.644482
+          lng: -82.18810798
+        - lat: 28.71209748
+          lng: -81.89885384
+        - lat: 28.40318064
+          lng: -81.82812091
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 2.457932 km
+- - - - '124'
+      - Patrick Pannese
+    - togo:
+        distance: 0.614317 km
+        flipSum:
+        - 0.614317 km
+        legs:
+        - 0.614317 km
+        legsSum:
+        - 0.614317 km
+        waypoints:
+        - lat: 28.6796
+          lng: -82.09185
+        - lat: 28.67465122
+          lng: -82.08905067
+      made: 81.889669 km
+  - - - '143'
+      - Anna Eppink
+    - togo:
+        distance: 2.289855 km
+        flipSum:
+        - 2.289855 km
+        legs:
+        - 2.289855 km
+        legsSum:
+        - 2.289855 km
+        waypoints:
+        - lat: 28.67746667
+          lng: -82.1139
+        - lat: 28.67227391
+          lng: -82.09118666
+      made: 80.213669 km
+  - - - '118'
+      - Ingo Heilmann
+    - togo:
+        distance: 3.350684 km
+        flipSum:
+        - 3.350684 km
+        legs:
+        - 3.350684 km
+        legsSum:
+        - 3.350684 km
+        waypoints:
+        - lat: 28.70195
+          lng: -82.1036
+        - lat: 28.67471317
+          lng: -82.08890509
+      made: 79.152669 km
+  - - - '117'
+      - Robert Dallas
+    - togo:
+        distance: 4.278822 km
+        flipSum:
+        - 4.278822 km
+        legs:
+        - 4.278822 km
+        legsSum:
+        - 4.278822 km
+        waypoints:
+        - lat: 28.71321667
+          lng: -82.09298333
+        - lat: 28.67502021
+          lng: -82.08766431
+      made: 78.224669 km
+  - - - '116'
+      - Jeffery Bohl
+    - togo:
+        distance: 4.668102 km
+        flipSum:
+        - 4.668102 km
+        legs:
+        - 4.668102 km
+        legsSum:
+        - 4.668102 km
+        waypoints:
+        - lat: 28.71398333
+          lng: -82.10585
+        - lat: 28.67482181
+          lng: -82.08860618
+      made: 77.835669 km
+  - - - '141'
+      - Patrick Halfhill
+    - togo:
+        distance: 6.405921 km
+        flipSum:
+        - 6.405921 km
+        legs:
+        - 6.405921 km
+        legsSum:
+        - 6.405921 km
+        waypoints:
+        - lat: 28.72901667
+          lng: -82.11088333
+        - lat: 28.67482181
+          lng: -82.08860618
+      made: 76.097669 km
+  - - - '145'
+      - Roger Irby
+    - togo:
+        distance: 6.331392 km
+        flipSum:
+        - 6.331392 km
+        legs:
+        - 6.331392 km
+        legsSum:
+        - 6.331392 km
+        waypoints:
+        - lat: 28.7289
+          lng: -82.10893333
+        - lat: 28.67486832
+          lng: -82.08845331
+      made: 76.172669 km
+  - - - '114'
+      - Mick Howard
+    - togo:
+        distance: 9.843033 km
+        flipSum:
+        - 9.843033 km
+        legs:
+        - 9.843033 km
+        legsSum:
+        - 9.843033 km
+        waypoints:
+        - lat: 28.75815
+          lng: -82.12266667
+        - lat: 28.67482181
+          lng: -82.08860618
+      made: 72.660669 km
+  - - - '112'
       - Sergey Kataev
     - togo:
         distance: 11.925512 km
@@ -1551,6 +3915,158 @@ nigh:
         - lat: 28.67482181
           lng: -82.08860618
       made: 70.577669 km
+  - - - '123'
+      - JD Guillemette
+    - togo:
+        distance: 14.375223 km
+        flipSum:
+        - 14.375223 km
+        - 11.335992 km
+        legs:
+        - 3.039231 km
+        - 11.335992 km
+        legsSum:
+        - 3.039231 km
+        - 14.375223 km
+        waypoints:
+        - lat: 28.75046667
+          lng: -82.10876667
+        - lat: 28.76982402
+          lng: -82.13077857
+        - lat: 28.67482181
+          lng: -82.08860618
+      made: 68.128669 km
+  - - - '119'
+      - Bart Weghorst
+    - togo:
+        distance: 16.559792 km
+        flipSum:
+        - 16.559792 km
+        - 11.463971 km
+        legs:
+        - 5.095821 km
+        - 11.463971 km
+        legsSum:
+        - 5.095821 km
+        - 16.559792 km
+        waypoints:
+        - lat: 28.79281667
+          lng: -82.08286667
+        - lat: 28.77157865
+          lng: -82.12920047
+        - lat: 28.67482181
+          lng: -82.08860618
+      made: 65.943669 km
+  - - - '134'
+      - Kinsley Sykes
+    - togo:
+        distance: 23.558338 km
+        flipSum:
+        - 23.558338 km
+        - 11.429877 km
+        legs:
+        - 12.128461 km
+        - 11.429877 km
+        legsSum:
+        - 12.128461 km
+        - 23.558338 km
+        waypoints:
+        - lat: 28.80131667
+          lng: -82.00978333
+        - lat: 28.77118867
+          lng: -82.12939509
+        - lat: 28.67482181
+          lng: -82.08860618
+      made: 58.945669 km
+  - - - '111'
+      - Patrick Kruse
+    - togo:
+        distance: 26.334837 km
+        flipSum:
+        - 26.334837 km
+        - 11.429877 km
+        legs:
+        - 14.904960 km
+        - 11.429877 km
+        legsSum:
+        - 14.904960 km
+        - 26.334837 km
+        waypoints:
+        - lat: 28.80981667
+          lng: -81.98293333
+        - lat: 28.77118867
+          lng: -82.12939509
+        - lat: 28.67482181
+          lng: -82.08860618
+      made: 56.168669 km
+  - - - '140'
+      - Bill Vickery
+    - togo:
+        distance: 29.829925 km
+        flipSum:
+        - 29.829925 km
+        - 11.419424 km
+        legs:
+        - 18.410501 km
+        - 11.419424 km
+        legsSum:
+        - 18.410501 km
+        - 29.829925 km
+        waypoints:
+        - lat: 28.80665
+          lng: -81.94496667
+        - lat: 28.77106348
+          lng: -82.12947143
+        - lat: 28.67482181
+          lng: -82.08860618
+      made: 52.673669 km
+  - - - '126'
+      - Jeff Kannard
+    - togo:
+        distance: 30.247886 km
+        flipSum:
+        - 30.247886 km
+        - 11.419424 km
+        legs:
+        - 18.828462 km
+        - 11.419424 km
+        legsSum:
+        - 18.828462 km
+        - 30.247886 km
+        waypoints:
+        - lat: 28.803
+          lng: -81.93973333
+        - lat: 28.77106348
+          lng: -82.12947143
+        - lat: 28.67482181
+          lng: -82.08860618
+      made: 52.255669 km
+  - - - '129'
+      - Mike Jefferson
+    - togo:
+        distance: 31.588854 km
+        flipSum:
+        - 31.588854 km
+        - 30.253758 km
+        - 11.419424 km
+        legs:
+        - 1.335096 km
+        - 18.834335 km
+        - 11.419424 km
+        legsSum:
+        - 1.335096 km
+        - 20.169430 km
+        - 31.588854 km
+        waypoints:
+        - lat: 28.8117
+          lng: -81.94863333
+        - lat: 28.80267125
+          lng: -81.93960064
+        - lat: 28.77106348
+          lng: -82.12947143
+        - lat: 28.67482181
+          lng: -82.08860618
+      made: 50.914669 km
   - - - '103'
       - Matt Christensen
     - togo:
@@ -1577,7 +4093,155 @@ nigh:
         - lat: 28.67482181
           lng: -82.08860618
       made: 39.006669 km
-- - - - '112'
+  - - - '110'
+      - Cory Barnwell
+    - togo:
+        distance: 46.451173 km
+        flipSum:
+        - 46.451173 km
+        - 30.210967 km
+        - 11.419424 km
+        legs:
+        - 16.240206 km
+        - 18.791544 km
+        - 11.419424 km
+        legsSum:
+        - 16.240206 km
+        - 35.031749 km
+        - 46.451173 km
+        waypoints:
+        - lat: 28.70506667
+          lng: -82.06616667
+        - lat: 28.7999064
+          lng: -81.93947662
+        - lat: 28.77106348
+          lng: -82.12947143
+        - lat: 28.67482181
+          lng: -82.08860618
+      made: 36.052669 km
+  - - - '146'
+      - Peter Kelley
+    - togo:
+        distance: 49.234071 km
+        flipSum:
+        - 49.234071 km
+        - 30.225918 km
+        - 11.419424 km
+        legs:
+        - 19.008153 km
+        - 18.806495 km
+        - 11.419424 km
+        legsSum:
+        - 19.008153 km
+        - 37.814647 km
+        - 49.234071 km
+        waypoints:
+        - lat: 28.66365
+          lng: -82.05753333
+        - lat: 28.79953101
+          lng: -81.93924763
+        - lat: 28.77106348
+          lng: -82.12947143
+        - lat: 28.67482181
+          lng: -82.08860618
+      made: 33.269669 km
+- - - - '144'
+      - Tom Lanning
+    - togo:
+        distance: 1.147292 km
+        flipSum:
+        - 1.147292 km
+        legs:
+        - 1.147292 km
+        legsSum:
+        - 1.147292 km
+        waypoints:
+        - lat: 28.54606667
+          lng: -81.85226667
+        - lat: 28.53642181
+          lng: -81.8480943
+      made: 88.379710 km
+  - - - '135'
+      - Misael Rosalez
+    - togo:
+        distance: 4.775129 km
+        flipSum:
+        - 4.775129 km
+        legs:
+        - 4.775129 km
+        legsSum:
+        - 4.775129 km
+        waypoints:
+        - lat: 28.55888333
+          lng: -81.89075
+        - lat: 28.5350385
+          lng: -81.85009157
+      made: 84.751710 km
+  - - - '120'
+      - Mike Glennon
+    - togo:
+        distance: 6.017010 km
+        flipSum:
+        - 6.017010 km
+        legs:
+        - 6.017010 km
+        legsSum:
+        - 6.017010 km
+        waypoints:
+        - lat: 28.58638333
+          lng: -81.87176667
+        - lat: 28.53637007
+          lng: -81.84824477
+      made: 83.509710 km
+  - - - '111'
+      - Patrick Kruse
+    - togo:
+        distance: 6.835176 km
+        flipSum:
+        - 6.835176 km
+        legs:
+        - 6.835176 km
+        legsSum:
+        - 6.835176 km
+        waypoints:
+        - lat: 28.58376667
+          lng: -81.89308333
+        - lat: 28.53586911
+          lng: -81.84921762
+      made: 82.691710 km
+  - - - '125'
+      - Larry Bunner
+    - togo:
+        distance: 7.590435 km
+        flipSum:
+        - 7.590435 km
+        legs:
+        - 7.590435 km
+        legsSum:
+        - 7.590435 km
+        waypoints:
+        - lat: 28.59141667
+          lng: -81.8944
+        - lat: 28.5359548
+          lng: -81.84908879
+      made: 81.936710 km
+  - - - '114'
+      - Mick Howard
+    - togo:
+        distance: 9.774920 km
+        flipSum:
+        - 9.774920 km
+        legs:
+        - 9.774920 km
+        legsSum:
+        - 9.774920 km
+        waypoints:
+        - lat: 28.61783333
+          lng: -81.88586667
+        - lat: 28.53637007
+          lng: -81.84824477
+      made: 79.751710 km
+  - - - '112'
       - Sergey Kataev
     - togo:
         distance: 11.944184 km
@@ -1593,6 +4257,38 @@ nigh:
         - lat: 28.53646832
           lng: -81.84794163
       made: 77.582710 km
+  - - - '124'
+      - Patrick Pannese
+    - togo:
+        distance: 13.444162 km
+        flipSum:
+        - 13.444162 km
+        legs:
+        - 13.444162 km
+        legsSum:
+        - 13.444162 km
+        waypoints:
+        - lat: 28.65685
+          lng: -81.8617
+        - lat: 28.53662021
+          lng: -81.84715368
+      made: 76.082710 km
+  - - - '118'
+      - Ingo Heilmann
+    - togo:
+        distance: 18.811133 km
+        flipSum:
+        - 18.811133 km
+        legs:
+        - 18.811133 km
+        legsSum:
+        - 18.811133 km
+        waypoints:
+        - lat: 28.69861667
+          lng: -81.9029
+        - lat: 28.53650953
+          lng: -81.847787
+      made: 70.715710 km
   - - - '121'
       - Oleg Bondarchuk
     - togo:
@@ -1609,6 +4305,300 @@ nigh:
         - lat: 28.53654538
           lng: -81.84763065
       made: 69.902710 km
+  - - - '106'
+      - Fabiano Nahoum
+    - togo:
+        distance: 20.241376 km
+        flipSum:
+        - 20.241376 km
+        legs:
+        - 20.241376 km
+        legsSum:
+        - 20.241376 km
+        waypoints:
+        - lat: 28.71278333
+          lng: -81.89955
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 69.285710 km
+  - - - '141'
+      - Patrick Halfhill
+    - togo:
+        distance: 22.738462 km
+        flipSum:
+        - 22.738462 km
+        - 20.186471 km
+        legs:
+        - 2.551991 km
+        - 20.186471 km
+        legsSum:
+        - 2.551991 km
+        - 22.738462 km
+        waypoints:
+        - lat: 28.71196667
+          lng: -81.92541667
+        - lat: 28.71234087
+          lng: -81.89925202
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 66.788710 km
+  - - - '132'
+      - James Stinnett
+    - togo:
+        distance: 23.013397 km
+        flipSum:
+        - 23.013397 km
+        - 20.082951 km
+        legs:
+        - 2.930446 km
+        - 20.082951 km
+        legsSum:
+        - 2.930446 km
+        - 23.013397 km
+        waypoints:
+        - lat: 28.69373333
+          lng: -81.9198
+        - lat: 28.71170047
+          lng: -81.89781894
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 66.513710 km
+  - - - '133'
+      - Olav Olsen
+    - togo:
+        distance: 24.021574 km
+        flipSum:
+        - 24.021574 km
+        - 20.099757 km
+        legs:
+        - 3.921817 km
+        - 20.099757 km
+        legsSum:
+        - 3.921817 km
+        - 24.021574 km
+        waypoints:
+        - lat: 28.69246667
+          lng: -81.93176667
+        - lat: 28.71178819
+          lng: -81.89812677
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 65.504710 km
+  - - - '129'
+      - Mike Jefferson
+    - togo:
+        distance: 24.569626 km
+        flipSum:
+        - 24.569626 km
+        - 20.128823 km
+        legs:
+        - 4.440803 km
+        - 20.128823 km
+        legsSum:
+        - 4.440803 km
+        - 24.569626 km
+        waypoints:
+        - lat: 28.69628333
+          lng: -81.94045
+        - lat: 28.71195878
+          lng: -81.89857144
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 64.956710 km
+  - - - '127'
+      - Gerry Pesavento
+    - togo:
+        distance: 27.568180 km
+        flipSum:
+        - 27.568180 km
+        - 20.128823 km
+        legs:
+        - 7.439357 km
+        - 20.128823 km
+        legsSum:
+        - 7.439357 km
+        - 27.568180 km
+        waypoints:
+        - lat: 28.68731667
+          lng: -81.96948333
+        - lat: 28.71195878
+          lng: -81.89857144
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 61.958710 km
+  - - - '103'
+      - Matt Christensen
+    - togo:
+        distance: 27.273404 km
+        flipSum:
+        - 27.273404 km
+        - 20.297314 km
+        legs:
+        - 6.976090 km
+        - 20.297314 km
+        legsSum:
+        - 6.976090 km
+        - 27.273404 km
+        waypoints:
+        - lat: 28.75161667
+          lng: -81.95666667
+        - lat: 28.71317145
+          lng: -81.90012746
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 62.253710 km
+  - - - '134'
+      - Kinsley Sykes
+    - togo:
+        distance: 34.142935 km
+        flipSum:
+        - 34.142935 km
+        - 20.118640 km
+        legs:
+        - 14.024295 km
+        - 20.118640 km
+        legsSum:
+        - 14.024295 km
+        - 34.142935 km
+        waypoints:
+        - lat: 28.65713333
+          lng: -82.02793333
+        - lat: 28.71189682
+          lng: -81.8984258
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 55.383710 km
+  - - - '142'
+      - John Simon
+    - togo:
+        distance: 37.849122 km
+        flipSum:
+        - 37.849122 km
+        - 20.150589 km
+        legs:
+        - 17.698534 km
+        - 20.150589 km
+        legsSum:
+        - 17.698534 km
+        - 37.849122 km
+        waypoints:
+        - lat: 28.68315
+          lng: -82.07728333
+        - lat: 28.71209748
+          lng: -81.89885384
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 51.677710 km
+  - - - '119'
+      - Bart Weghorst
+    - togo:
+        distance: 39.426852 km
+        flipSum:
+        - 39.426852 km
+        - 20.139478 km
+        legs:
+        - 19.287374 km
+        - 20.139478 km
+        legsSum:
+        - 19.287374 km
+        - 39.426852 km
+        waypoints:
+        - lat: 28.65711667
+          lng: -82.08626667
+        - lat: 28.7120257
+          lng: -81.89871419
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 50.099710 km
+  - - - '143'
+      - Anna Eppink
+    - togo:
+        distance: 46.750348 km
+        flipSum:
+        - 46.750348 km
+        - 20.139478 km
+        legs:
+        - 26.610870 km
+        - 20.139478 km
+        legsSum:
+        - 26.610870 km
+        - 46.750348 km
+        waypoints:
+        - lat: 28.65028333
+          lng: -82.16226667
+        - lat: 28.7120257
+          lng: -81.89871419
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 42.776710 km
+  - - - '104'
+      - Christian Pollet
+    - togo:
+        distance: 46.575229 km
+        flipSum:
+        - 46.575229 km
+        - 20.139478 km
+        legs:
+        - 26.435751 km
+        - 20.139478 km
+        legsSum:
+        - 26.435751 km
+        - 46.575229 km
+        waypoints:
+        - lat: 28.64648333
+          lng: -82.1592
+        - lat: 28.7120257
+          lng: -81.89871419
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 42.951710 km
+  - - - '145'
+      - Roger Irby
+    - togo:
+        distance: 50.357669 km
+        flipSum:
+        - 50.357669 km
+        - 20.150589 km
+        legs:
+        - 30.207080 km
+        - 20.150589 km
+        legsSum:
+        - 30.207080 km
+        - 50.357669 km
+        waypoints:
+        - lat: 28.64208333
+          lng: -82.19803333
+        - lat: 28.71209748
+          lng: -81.89885384
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 39.168710 km
+  - - - '146'
+      - Peter Kelley
+    - togo:
+        distance: 58.337228 km
+        flipSum:
+        - 58.337228 km
+        - 51.847964 km
+        - 20.150589 km
+        legs:
+        - 6.489264 km
+        - 31.697375 km
+        - 20.150589 km
+        legsSum:
+        - 6.489264 km
+        - 38.186639 km
+        - 58.337228 km
+        waypoints:
+        - lat: 28.67831667
+          lng: -82.1591
+        - lat: 28.64693345
+          lng: -82.21517409
+        - lat: 28.71209748
+          lng: -81.89885384
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 31.189710 km
   - - - '137'
       - Yoko Isomoto
     - togo:
@@ -1635,7 +4625,528 @@ nigh:
         - lat: 28.53654538
           lng: -81.84763065
       made: 22.133710 km
-- - - - '145'
+  - - - '140'
+      - Bill Vickery
+    - togo:
+        distance: 76.374068 km
+        flipSum:
+        - 76.374068 km
+        - 51.850537 km
+        - 20.150589 km
+        legs:
+        - 24.523531 km
+        - 31.699948 km
+        - 20.150589 km
+        legsSum:
+        - 24.523531 km
+        - 56.223479 km
+        - 76.374068 km
+        waypoints:
+        - lat: 28.60588333
+          lng: -81.96773333
+        - lat: 28.64569187
+          lng: -82.21486369
+        - lat: 28.71209748
+          lng: -81.89885384
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 13.152710 km
+  - - - '116'
+      - Jeffery Bohl
+    - togo:
+        distance: 51.855912 km
+        flipSum:
+        - 51.855912 km
+        - 20.150589 km
+        legs:
+        - 31.705323 km
+        - 20.150589 km
+        legsSum:
+        - 31.705323 km
+        - 51.855912 km
+        waypoints:
+        - lat: 28.6458
+          lng: -82.21495
+        - lat: 28.71209748
+          lng: -81.89885384
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 37.670710 km
+  - - - '126'
+      - Jeff Kannard
+    - togo:
+        distance: 62.135868 km
+        flipSum:
+        - 62.135868 km
+        - 51.842847 km
+        - 20.150589 km
+        legs:
+        - 10.293022 km
+        - 31.692258 km
+        - 20.150589 km
+        legsSum:
+        - 10.293022 km
+        - 41.985280 km
+        - 62.135868 km
+        waypoints:
+        - lat: 28.66901667
+          lng: -82.11268333
+        - lat: 28.64639391
+          lng: -82.21497433
+        - lat: 28.71209748
+          lng: -81.89885384
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 27.390710 km
+- - - - '129'
+      - Mike Jefferson
+    - togo:
+        distance: 8.809100 km
+        flipSum:
+        - 8.809100 km
+        legs:
+        - 8.809100 km
+        legsSum:
+        - 8.809100 km
+        waypoints:
+        - lat: 28.45193333
+          lng: -81.82745
+        - lat: 28.5294842
+          lng: -81.84586719
+      made: 91.495288 km
+  - - - '117'
+      - Robert Dallas
+    - togo:
+        distance: 10.629539 km
+        flipSum:
+        - 10.629539 km
+        legs:
+        - 10.629539 km
+        legsSum:
+        - 10.629539 km
+        waypoints:
+        - lat: 28.4343
+          lng: -81.8356
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 89.674288 km
+  - - - '126'
+      - Jeff Kannard
+    - togo:
+        distance: 11.228909 km
+        flipSum:
+        - 11.228909 km
+        legs:
+        - 11.228909 km
+        legsSum:
+        - 11.228909 km
+        waypoints:
+        - lat: 28.42848333
+          lng: -81.8429
+        - lat: 28.52941751
+          lng: -81.84650844
+      made: 89.075288 km
+  - - - '111'
+      - Patrick Kruse
+    - togo:
+        distance: 13.269048 km
+        flipSum:
+        - 13.269048 km
+        legs:
+        - 13.269048 km
+        legsSum:
+        - 13.269048 km
+        waypoints:
+        - lat: 28.41031667
+          lng: -81.83806667
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 87.035288 km
+  - - - '125'
+      - Larry Bunner
+    - togo:
+        distance: 13.074885 km
+        flipSum:
+        - 13.074885 km
+        legs:
+        - 13.074885 km
+        legsSum:
+        - 13.074885 km
+        waypoints:
+        - lat: 28.41215
+          lng: -81.83665
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 87.229288 km
+  - - - '101'
+      - Davis Straub
+    - togo:
+        distance: 17.394418 km
+        flipSum:
+        - 17.394418 km
+        legs:
+        - 17.394418 km
+        legsSum:
+        - 17.394418 km
+        waypoints:
+        - lat: 28.3743
+          lng: -81.82336667
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 82.910288 km
+  - - - '114'
+      - Mick Howard
+    - togo:
+        distance: 19.091546 km
+        flipSum:
+        - 19.091546 km
+        legs:
+        - 19.091546 km
+        legsSum:
+        - 19.091546 km
+        waypoints:
+        - lat: 28.35971667
+          lng: -81.81666667
+        - lat: 28.52945924
+          lng: -81.84602626
+      made: 81.212288 km
+  - - - '124'
+      - Patrick Pannese
+    - togo:
+        distance: 24.618074 km
+        flipSum:
+        - 24.618074 km
+        legs:
+        - 24.618074 km
+        legsSum:
+        - 24.618074 km
+        waypoints:
+        - lat: 28.30825
+          lng: -81.83508333
+        - lat: 28.52941751
+          lng: -81.84650844
+      made: 75.686288 km
+  - - - '144'
+      - Tom Lanning
+    - togo:
+        distance: 31.254347 km
+        flipSum:
+        - 31.254347 km
+        - 29.800768 km
+        legs:
+        - 1.453579 km
+        - 29.800768 km
+        legsSum:
+        - 1.453579 km
+        - 31.254347 km
+        waypoints:
+        - lat: 28.27468333
+          lng: -81.82941667
+        - lat: 28.26204076
+          lng: -81.82564208
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 69.050288 km
+  - - - '115'
+      - Andrew Hollidge
+    - togo:
+        distance: 32.648221 km
+        flipSum:
+        - 32.648221 km
+        - 29.909852 km
+        legs:
+        - 2.738369 km
+        - 29.909852 km
+        legsSum:
+        - 2.738369 km
+        - 32.648221 km
+        waypoints:
+        - lat: 28.26038333
+          lng: -81.85596667
+        - lat: 28.26092402
+          lng: -81.82801398
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 67.656288 km
+  - - - '116'
+      - Jeffery Bohl
+    - togo:
+        distance: 32.865852 km
+        flipSum:
+        - 32.865852 km
+        - 29.921005 km
+        legs:
+        - 2.944847 km
+        - 29.921005 km
+        legsSum:
+        - 2.944847 km
+        - 32.865852 km
+        waypoints:
+        - lat: 28.25726667
+          lng: -81.85791667
+        - lat: 28.2608179
+          lng: -81.82812104
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 67.438288 km
+  - - - '143'
+      - Anna Eppink
+    - togo:
+        distance: 35.470032 km
+        flipSum:
+        - 35.470032 km
+        - 29.909852 km
+        legs:
+        - 5.560180 km
+        - 29.909852 km
+        legsSum:
+        - 5.560180 km
+        - 35.470032 km
+        waypoints:
+        - lat: 28.25966667
+          lng: -81.88476667
+        - lat: 28.26092402
+          lng: -81.82801398
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 64.834288 km
+  - - - '119'
+      - Bart Weghorst
+    - togo:
+        distance: 36.584681 km
+        flipSum:
+        - 36.584681 km
+        - 29.811362 km
+        legs:
+        - 6.773319 km
+        - 29.811362 km
+        legsSum:
+        - 6.773319 km
+        - 36.584681 km
+        waypoints:
+        - lat: 28.31406667
+          lng: -81.862
+        - lat: 28.26190832
+          lng: -81.82626834
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 63.719288 km
+  - - - '106'
+      - Fabiano Nahoum
+    - togo:
+        distance: 36.697942 km
+        flipSum:
+        - 36.697942 km
+        - 29.799675 km
+        legs:
+        - 6.898267 km
+        - 29.799675 km
+        legsSum:
+        - 6.898267 km
+        - 36.697942 km
+        waypoints:
+        - lat: 28.32343333
+          lng: -81.83576667
+        - lat: 28.26206021
+          lng: -81.82548242
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 63.606288 km
+  - - - '103'
+      - Matt Christensen
+    - togo:
+        distance: 37.476828 km
+        flipSum:
+        - 37.476828 km
+        - 29.802486 km
+        legs:
+        - 7.674342 km
+        - 29.802486 km
+        legsSum:
+        - 7.674342 km
+        - 37.476828 km
+        waypoints:
+        - lat: 28.32673333
+          lng: -81.85303333
+        - lat: 28.2620158
+          lng: -81.82580074
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 62.827288 km
+  - - - '141'
+      - Patrick Halfhill
+    - togo:
+        distance: 41.763899 km
+        flipSum:
+        - 41.763899 km
+        - 29.799210 km
+        legs:
+        - 11.964688 km
+        - 29.799210 km
+        legsSum:
+        - 11.964688 km
+        - 41.763899 km
+        waypoints:
+        - lat: 28.3689
+          lng: -81.83996667
+        - lat: 28.26207413
+          lng: -81.82532203
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 58.540288 km
+  - - - '146'
+      - Peter Kelley
+    - togo:
+        distance: 47.895691 km
+        flipSum:
+        - 47.895691 km
+        - 29.800768 km
+        legs:
+        - 18.094923 km
+        - 29.800768 km
+        legsSum:
+        - 18.094923 km
+        - 47.895691 km
+        waypoints:
+        - lat: 28.4213
+          lng: -81.86363333
+        - lat: 28.26204076
+          lng: -81.82564208
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 52.408288 km
+  - - - '133'
+      - Olav Olsen
+    - togo:
+        distance: 56.704966 km
+        flipSum:
+        - 56.704966 km
+        - 29.799374 km
+        legs:
+        - 26.905593 km
+        - 29.799374 km
+        legsSum:
+        - 26.905593 km
+        - 56.704966 km
+        waypoints:
+        - lat: 28.50405
+          lng: -81.82473333
+        - lat: 28.26208249
+          lng: -81.82516114
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 43.599288 km
+  - - - '109'
+      - Michael Williams
+    - togo:
+        distance: 53.734679 km
+        flipSum:
+        - 53.734679 km
+        - 29.799374 km
+        legs:
+        - 23.935305 km
+        - 29.799374 km
+        legsSum:
+        - 23.935305 km
+        - 53.734679 km
+        waypoints:
+        - lat: 28.47725
+          lng: -81.83215
+        - lat: 28.26208249
+          lng: -81.82516114
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 46.569288 km
+  - - - '140'
+      - Bill Vickery
+    - togo:
+        distance: 58.978323 km
+        flipSum:
+        - 58.978323 km
+        - 29.799210 km
+        legs:
+        - 29.179113 km
+        - 29.799210 km
+        legsSum:
+        - 29.179113 km
+        - 58.978323 km
+        waypoints:
+        - lat: 28.5239
+          lng: -81.84528333
+        - lat: 28.26207413
+          lng: -81.82532203
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 41.326288 km
+  - - - '134'
+      - Kinsley Sykes
+    - togo:
+        distance: 66.238104 km
+        flipSum:
+        - 66.238104 km
+        - 29.799675 km
+        legs:
+        - 36.438428 km
+        - 29.799675 km
+        legsSum:
+        - 36.438428 km
+        - 66.238104 km
+        waypoints:
+        - lat: 28.58436667
+          lng: -81.8928
+        - lat: 28.26206021
+          lng: -81.82548242
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 34.066288 km
+  - - - '118'
+      - Ingo Heilmann
+    - togo:
+        distance: 68.960261 km
+        flipSum:
+        - 68.960261 km
+        - 29.799675 km
+        legs:
+        - 39.160586 km
+        - 29.799675 km
+        legsSum:
+        - 39.160586 km
+        - 68.960261 km
+        waypoints:
+        - lat: 28.60926667
+          lng: -81.89255
+        - lat: 28.26206021
+          lng: -81.82548242
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 31.344288 km
+  - - - '110'
+      - Cory Barnwell
+    - togo:
+        distance: 86.984297 km
+        flipSum:
+        - 86.984297 km
+        - 80.260836 km
+        - 29.799675 km
+        legs:
+        - 6.723461 km
+        - 50.461160 km
+        - 29.799675 km
+        legsSum:
+        - 6.723461 km
+        - 57.184621 km
+        - 86.984297 km
+        waypoints:
+        - lat: 28.65136667
+          lng: -81.89005
+        - lat: 28.71158979
+          lng: -81.89621548
+        - lat: 28.26206021
+          lng: -81.82548242
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 13.320288 km
+  - - - '145'
       - Roger Irby
     - togo:
         distance: 83.543770 km
@@ -1661,7 +5172,87 @@ nigh:
         - lat: 28.52942587
           lng: -81.84634713
       made: 16.760288 km
-- - - - '103'
+- - - - '113'
+      - Olav Opsanger
+    - togo:
+        distance: 0.981239 km
+        flipSum:
+        - 0.981239 km
+        legs:
+        - 0.981239 km
+        legsSum:
+        - 0.981239 km
+        waypoints:
+        - lat: 28.5216
+          lng: -81.84108333
+        - lat: 28.52968993
+          lng: -81.84509523
+      made: 58.625662 km
+  - - - '125'
+      - Larry Bunner
+    - togo:
+        distance: 4.871897 km
+        flipSum:
+        - 4.871897 km
+        legs:
+        - 4.871897 km
+        legsSum:
+        - 4.871897 km
+        waypoints:
+        - lat: 28.48848333
+          lng: -81.8652
+        - lat: 28.52963819
+          lng: -81.84809429
+      made: 54.734662 km
+  - - - '117'
+      - Robert Dallas
+    - togo:
+        distance: 5.159669 km
+        flipSum:
+        - 5.159669 km
+        legs:
+        - 5.159669 km
+        legsSum:
+        - 5.159669 km
+        waypoints:
+        - lat: 28.5027
+          lng: -81.89193333
+        - lat: 28.5307918
+          lng: -81.8499016
+      made: 54.446662 km
+  - - - '111'
+      - Patrick Kruse
+    - togo:
+        distance: 6.701347 km
+        flipSum:
+        - 6.701347 km
+        legs:
+        - 6.701347 km
+        legsSum:
+        - 6.701347 km
+        waypoints:
+        - lat: 28.46976667
+          lng: -81.83658333
+        - lat: 28.52945924
+          lng: -81.84602626
+      made: 52.905662 km
+  - - - '110'
+      - Cory Barnwell
+    - togo:
+        distance: 6.567372 km
+        flipSum:
+        - 6.567372 km
+        legs:
+        - 6.567372 km
+        legsSum:
+        - 6.567372 km
+        waypoints:
+        - lat: 28.4708
+          lng: -81.83816667
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 53.039662 km
+  - - - '103'
       - Matt Christensen
     - togo:
         distance: 6.860868 km
@@ -1677,6 +5268,38 @@ nigh:
         - lat: 28.52945924
           lng: -81.84602626
       made: 52.745662 km
+  - - - '118'
+      - Ingo Heilmann
+    - togo:
+        distance: 8.574855 km
+        flipSum:
+        - 8.574855 km
+        legs:
+        - 8.574855 km
+        legsSum:
+        - 8.574855 km
+        waypoints:
+        - lat: 28.45438333
+          lng: -81.82593333
+        - lat: 28.52951462
+          lng: -81.84570935
+      made: 51.031662 km
+  - - - '142'
+      - John Simon
+    - togo:
+        distance: 8.964071 km
+        flipSum:
+        - 8.964071 km
+        legs:
+        - 8.964071 km
+        legsSum:
+        - 8.964071 km
+        waypoints:
+        - lat: 28.44881667
+          lng: -81.8486
+        - lat: 28.52941751
+          lng: -81.84683156
+      made: 50.642662 km
   - - - '121'
       - Oleg Bondarchuk
     - togo:
@@ -1693,6 +5316,38 @@ nigh:
         - lat: 28.52941473
           lng: -81.84667
       made: 49.100662 km
+  - - - '138'
+      - Jonny Durand
+    - togo:
+        distance: 11.176933 km
+        flipSum:
+        - 11.176933 km
+        legs:
+        - 11.176933 km
+        legsSum:
+        - 11.176933 km
+        waypoints:
+        - lat: 28.43
+          lng: -81.82948333
+        - lat: 28.52945924
+          lng: -81.84602626
+      made: 48.429662 km
+  - - - '128'
+      - Zac Majors
+    - togo:
+        distance: 12.139920 km
+        flipSum:
+        - 12.139920 km
+        legs:
+        - 12.139920 km
+        legsSum:
+        - 12.139920 km
+        waypoints:
+        - lat: 28.42028333
+          lng: -81.84303333
+        - lat: 28.52941751
+          lng: -81.84650844
+      made: 47.466662 km
   - - - '123'
       - JD Guillemette
     - togo:
@@ -1709,6 +5364,22 @@ nigh:
         - lat: 28.52942587
           lng: -81.84634713
       made: 46.545662 km
+  - - - '124'
+      - Patrick Pannese
+    - togo:
+        distance: 14.835662 km
+        flipSum:
+        - 14.835662 km
+        legs:
+        - 14.835662 km
+        legsSum:
+        - 14.835662 km
+        waypoints:
+        - lat: 28.39713333
+          lng: -81.82661667
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 44.770662 km
   - - - '112'
       - Sergey Kataev
     - togo:
@@ -1725,6 +5396,166 @@ nigh:
         - lat: 28.52943979
           lng: -81.84618632
       made: 44.545662 km
+  - - - '127'
+      - Gerry Pesavento
+    - togo:
+        distance: 17.066750 km
+        flipSum:
+        - 17.066750 km
+        legs:
+        - 17.066750 km
+        legsSum:
+        - 17.066750 km
+        waypoints:
+        - lat: 28.376
+          lng: -81.84133333
+        - lat: 28.52941751
+          lng: -81.84650844
+      made: 42.539662 km
+  - - - '133'
+      - Olav Olsen
+    - togo:
+        distance: 16.798978 km
+        flipSum:
+        - 16.798978 km
+        legs:
+        - 16.798978 km
+        legsSum:
+        - 16.798978 km
+        waypoints:
+        - lat: 28.37851667
+          lng: -81.83821667
+        - lat: 28.52941751
+          lng: -81.84650844
+      made: 42.807662 km
+  - - - '114'
+      - Mick Howard
+    - togo:
+        distance: 16.647041 km
+        flipSum:
+        - 16.647041 km
+        legs:
+        - 16.647041 km
+        legsSum:
+        - 16.647041 km
+        waypoints:
+        - lat: 28.37983333
+          lng: -81.83951667
+        - lat: 28.52941751
+          lng: -81.84650844
+      made: 42.959662 km
+  - - - '116'
+      - Jeffery Bohl
+    - togo:
+        distance: 16.330352 km
+        flipSum:
+        - 16.330352 km
+        legs:
+        - 16.330352 km
+        legsSum:
+        - 16.330352 km
+        waypoints:
+        - lat: 28.38278333
+          lng: -81.8372
+        - lat: 28.52941751
+          lng: -81.84650844
+      made: 43.276662 km
+  - - - '141'
+      - Patrick Halfhill
+    - togo:
+        distance: 17.014501 km
+        flipSum:
+        - 17.014501 km
+        legs:
+        - 17.014501 km
+        legsSum:
+        - 17.014501 km
+        waypoints:
+        - lat: 28.37648333
+          lng: -81.84085
+        - lat: 28.52941751
+          lng: -81.84650844
+      made: 42.591662 km
+  - - - '106'
+      - Fabiano Nahoum
+    - togo:
+        distance: 17.250362 km
+        flipSum:
+        - 17.250362 km
+        legs:
+        - 17.250362 km
+        legsSum:
+        - 17.250362 km
+        waypoints:
+        - lat: 28.37581667
+          lng: -81.8216
+        - lat: 28.52945924
+          lng: -81.84602626
+      made: 42.356662 km
+  - - - '150'
+      - Claudia Mejia
+    - togo:
+        distance: 17.258345 km
+        flipSum:
+        - 17.258345 km
+        legs:
+        - 17.258345 km
+        legsSum:
+        - 17.258345 km
+        waypoints:
+        - lat: 28.37556667
+          lng: -81.82308333
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 42.348662 km
+  - - - '102'
+      - Richard lovelace
+    - togo:
+        distance: 16.987466 km
+        flipSum:
+        - 16.987466 km
+        legs:
+        - 16.987466 km
+        legsSum:
+        - 16.987466 km
+        waypoints:
+        - lat: 28.37773333
+          lng: -81.8257
+        - lat: 28.52943979
+          lng: -81.84618632
+      made: 42.619662 km
+  - - - '135'
+      - Misael Rosalez
+    - togo:
+        distance: 20.789335 km
+        flipSum:
+        - 20.789335 km
+        legs:
+        - 20.789335 km
+        legsSum:
+        - 20.789335 km
+        waypoints:
+        - lat: 28.34318333
+          lng: -81.8277
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 38.817662 km
+  - - - '119'
+      - Bart Weghorst
+    - togo:
+        distance: 20.800144 km
+        flipSum:
+        - 20.800144 km
+        legs:
+        - 20.800144 km
+        legsSum:
+        - 20.800144 km
+        waypoints:
+        - lat: 28.3431
+          lng: -81.82751667
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 38.806662 km
   - - - '115'
       - Andrew Hollidge
     - togo:
@@ -1741,6 +5572,253 @@ nigh:
         - lat: 28.52942587
           lng: -81.84634713
       made: 38.805662 km
+  - - - '109'
+      - Michael Williams
+    - togo:
+        distance: 21.190595 km
+        flipSum:
+        - 21.190595 km
+        legs:
+        - 21.190595 km
+        legsSum:
+        - 21.190595 km
+        waypoints:
+        - lat: 28.33916667
+          lng: -81.8594
+        - lat: 28.52941751
+          lng: -81.84683156
+      made: 38.415662 km
+  - - - '101'
+      - Davis Straub
+    - togo:
+        distance: 31.368600 km
+        flipSum:
+        - 31.368600 km
+        - 29.801582 km
+        legs:
+        - 1.567017 km
+        - 29.801582 km
+        legsSum:
+        - 1.567017 km
+        - 31.368600 km
+        waypoints:
+        - lat: 28.27608333
+          lng: -81.82301667
+        - lat: 28.26208249
+          lng: -81.82483886
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 28.237662 km
+  - - - '108'
+      - Raul Guerra
+    - togo:
+        distance: 31.300870 km
+        flipSum:
+        - 31.300870 km
+        - 29.800165 km
+        legs:
+        - 1.500705 km
+        - 29.800165 km
+        legsSum:
+        - 1.500705 km
+        - 31.300870 km
+        waypoints:
+        - lat: 28.27556667
+          lng: -81.82428333
+        - lat: 28.26208527
+          lng: -81.825
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 28.305662 km
+  - - - '145'
+      - Roger Irby
+    - togo:
+        distance: 31.805025 km
+        flipSum:
+        - 31.805025 km
+        - 29.799374 km
+        legs:
+        - 2.005651 km
+        - 29.799374 km
+        legsSum:
+        - 2.005651 km
+        - 31.805025 km
+        waypoints:
+        - lat: 28.28011667
+          lng: -81.82478333
+        - lat: 28.26208249
+          lng: -81.82516114
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 27.801662 km
+  - - - '120'
+      - Mike Glennon
+    - togo:
+        distance: 34.217177 km
+        flipSum:
+        - 34.217177 km
+        - 29.799675 km
+        legs:
+        - 4.417502 km
+        - 29.799675 km
+        legsSum:
+        - 4.417502 km
+        - 34.217177 km
+        waypoints:
+        - lat: 28.30136667
+          lng: -81.83203333
+        - lat: 28.26206021
+          lng: -81.82548242
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 25.389662 km
+  - - - '146'
+      - Peter Kelley
+    - togo:
+        distance: 34.829715 km
+        flipSum:
+        - 34.829715 km
+        - 29.801582 km
+        legs:
+        - 5.028133 km
+        - 29.801582 km
+        legsSum:
+        - 5.028133 km
+        - 34.829715 km
+        waypoints:
+        - lat: 28.30685
+          lng: -81.8176
+        - lat: 28.26208249
+          lng: -81.82483886
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 24.776662 km
+  - - - '144'
+      - Tom Lanning
+    - togo:
+        distance: 34.594458 km
+        flipSum:
+        - 34.594458 km
+        - 29.799675 km
+        legs:
+        - 4.794783 km
+        - 29.799675 km
+        legsSum:
+        - 4.794783 km
+        - 34.594458 km
+        waypoints:
+        - lat: 28.30456667
+          lng: -81.83371667
+        - lat: 28.26206021
+          lng: -81.82548242
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 25.012662 km
+  - - - '140'
+      - Bill Vickery
+    - togo:
+        distance: 36.818576 km
+        flipSum:
+        - 36.818576 km
+        - 29.835003 km
+        legs:
+        - 6.983574 km
+        - 29.835003 km
+        legsSum:
+        - 6.983574 km
+        - 36.818576 km
+        waypoints:
+        - lat: 28.30741667
+          lng: -81.77448333
+        - lat: 28.26186181
+          lng: -81.82357938
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 22.787662 km
+  - - - '129'
+      - Mike Jefferson
+    - togo:
+        distance: 38.593273 km
+        flipSum:
+        - 38.593273 km
+        - 29.799374 km
+        legs:
+        - 8.793899 km
+        - 29.799374 km
+        legsSum:
+        - 8.793899 km
+        - 38.593273 km
+        waypoints:
+        - lat: 28.34116667
+          lng: -81.82566667
+        - lat: 28.26208249
+          lng: -81.82516114
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 21.013662 km
+  - - - '143'
+      - Anna Eppink
+    - togo:
+        distance: 37.586006 km
+        flipSum:
+        - 37.586006 km
+        - 29.799210 km
+        legs:
+        - 7.786795 km
+        - 29.799210 km
+        legsSum:
+        - 7.786795 km
+        - 37.586006 km
+        waypoints:
+        - lat: 28.33181667
+          lng: -81.8325
+        - lat: 28.26207413
+          lng: -81.82532203
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 22.020662 km
+  - - - '134'
+      - Kinsley Sykes
+    - togo:
+        distance: 40.122875 km
+        flipSum:
+        - 40.122875 km
+        - 29.799374 km
+        legs:
+        - 10.323502 km
+        - 29.799374 km
+        legsSum:
+        - 10.323502 km
+        - 40.122875 km
+        waypoints:
+        - lat: 28.35491667
+          lng: -81.82648333
+        - lat: 28.26208249
+          lng: -81.82516114
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 19.483662 km
+  - - - '126'
+      - Jeff Kannard
+    - togo:
+        distance: 43.903211 km
+        flipSum:
+        - 43.903211 km
+        - 29.800165 km
+        legs:
+        - 14.103047 km
+        - 29.800165 km
+        legsSum:
+        - 14.103047 km
+        - 43.903211 km
+        waypoints:
+        - lat: 28.38883333
+          lng: -81.81976667
+        - lat: 28.26208527
+          lng: -81.825
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 15.703662 km
 - - - - '144'
       - Tom Lanning
     - togo:
@@ -1921,7 +5999,11 @@ nigh:
           lng: -81.68471931
       made: 24.020891 km
 land:
-- - - - '146'
+- - - - '135'
+      - Misael Rosalez
+    - togo: 12.219809 km
+      made: 147.826804 km
+  - - - '146'
       - Peter Kelley
     - togo: 22.563229 km
       made: 137.483384 km
@@ -2013,62 +6095,542 @@ land:
       - Tom Lanning
     - togo: 133.279486 km
       made: 26.767127 km
-- - - - '103'
+- - - - '107'
+      - Malcolm Brown
+    - togo: 13.639859 km
+      made: 99.980073 km
+  - - - '103'
       - Matt Christensen
     - togo: 14.952448 km
       made: 98.667484 km
+  - - - '110'
+      - Cory Barnwell
+    - togo: 15.051934 km
+      made: 98.567998 km
+  - - - '116'
+      - Jeffery Bohl
+    - togo: 15.105598 km
+      made: 98.514334 km
+  - - - '137'
+      - Yoko Isomoto
+    - togo: 15.897338 km
+      made: 97.722594 km
+  - - - '101'
+      - Davis Straub
+    - togo: 21.347560 km
+      made: 92.272372 km
+  - - - '108'
+      - Raul Guerra
+    - togo: 28.940557 km
+      made: 84.679375 km
+  - - - '117'
+      - Robert Dallas
+    - togo: 28.982298 km
+      made: 84.637634 km
+  - - - '135'
+      - Misael Rosalez
+    - togo: 34.807420 km
+      made: 78.812512 km
   - - - '150'
       - Claudia Mejia
     - togo: 36.544574 km
       made: 77.075358 km
+  - - - '102'
+      - Richard lovelace
+    - togo: 36.562396 km
+      made: 77.057536 km
+  - - - '124'
+      - Patrick Pannese
+    - togo: 37.341052 km
+      made: 76.278880 km
+  - - - '145'
+      - Roger Irby
+    - togo: 37.710911 km
+      made: 75.909021 km
+  - - - '126'
+      - Jeff Kannard
+    - togo: 41.818978 km
+      made: 71.800954 km
+  - - - '115'
+      - Andrew Hollidge
+    - togo: 42.071224 km
+      made: 71.548708 km
+  - - - '133'
+      - Olav Olsen
+    - togo: 56.176811 km
+      made: 57.443121 km
   - - - '112'
       - Sergey Kataev
     - togo: 59.286082 km
       made: 54.333850 km
-- - - - '112'
+  - - - '134'
+      - Kinsley Sykes
+    - togo: 60.049729 km
+      made: 53.570203 km
+  - - - '109'
+      - Michael Williams
+    - togo: 61.858819 km
+      made: 51.761113 km
+  - - - '141'
+      - Patrick Halfhill
+    - togo: 63.149751 km
+      made: 50.470181 km
+  - - - '140'
+      - Bill Vickery
+    - togo: 63.830490 km
+      made: 49.789442 km
+  - - - '146'
+      - Peter Kelley
+    - togo: 64.624074 km
+      made: 48.995858 km
+  - - - '129'
+      - Mike Jefferson
+    - togo: 75.752186 km
+      made: 37.867746 km
+  - - - '114'
+      - Mick Howard
+    - togo: 92.931787 km
+      made: 20.688145 km
+  - - - '104'
+      - Christian Pollet
+    - togo: 93.247366 km
+      made: 20.372566 km
+  - - - '118'
+      - Ingo Heilmann
+    - togo: 113.024944 km
+      made: 0.594988 km
+- - - - '124'
+      - Patrick Pannese
+    - togo: 0.614317 km
+      made: 81.889352 km
+  - - - '143'
+      - Anna Eppink
+    - togo: 2.895830 km
+      made: 79.607839 km
+  - - - '118'
+      - Ingo Heilmann
+    - togo: 3.362072 km
+      made: 79.141597 km
+  - - - '117'
+      - Robert Dallas
+    - togo: 4.278822 km
+      made: 78.224847 km
+  - - - '116'
+      - Jeffery Bohl
+    - togo: 5.139404 km
+      made: 77.364265 km
+  - - - '141'
+      - Patrick Halfhill
+    - togo: 6.408306 km
+      made: 76.095363 km
+  - - - '145'
+      - Roger Irby
+    - togo: 6.411990 km
+      made: 76.091679 km
+  - - - '114'
+      - Mick Howard
+    - togo: 9.842904 km
+      made: 72.660765 km
+  - - - '112'
       - Sergey Kataev
     - togo: 12.381788 km
       made: 70.121881 km
+  - - - '123'
+      - JD Guillemette
+    - togo: 14.977078 km
+      made: 67.526591 km
+  - - - '119'
+      - Bart Weghorst
+    - togo: 16.837894 km
+      made: 65.665775 km
+  - - - '134'
+      - Kinsley Sykes
+    - togo: 23.799001 km
+      made: 58.704668 km
+  - - - '111'
+      - Patrick Kruse
+    - togo: 27.122966 km
+      made: 55.380703 km
+  - - - '140'
+      - Bill Vickery
+    - togo: 30.196770 km
+      made: 52.306899 km
+  - - - '126'
+      - Jeff Kannard
+    - togo: 31.590940 km
+      made: 50.912729 km
+  - - - '129'
+      - Mike Jefferson
+    - togo: 42.622970 km
+      made: 39.880699 km
   - - - '103'
       - Matt Christensen
     - togo: 43.496997 km
       made: 39.006672 km
-- - - - '112'
+  - - - '110'
+      - Cory Barnwell
+    - togo: 46.707845 km
+      made: 35.795824 km
+  - - - '146'
+      - Peter Kelley
+    - togo: 49.250651 km
+      made: 33.253018 km
+- - - - '144'
+      - Tom Lanning
+    - togo: 1.147291 km
+      made: 88.379419 km
+  - - - '135'
+      - Misael Rosalez
+    - togo: 4.775129 km
+      made: 84.751581 km
+  - - - '120'
+      - Mike Glennon
+    - togo: 6.996084 km
+      made: 82.530626 km
+  - - - '111'
+      - Patrick Kruse
+    - togo: 7.106102 km
+      made: 82.420608 km
+  - - - '125'
+      - Larry Bunner
+    - togo: 7.591940 km
+      made: 81.934770 km
+  - - - '114'
+      - Mick Howard
+    - togo: 9.794586 km
+      made: 79.732124 km
+  - - - '112'
       - Sergey Kataev
     - togo: 12.019691 km
       made: 77.507019 km
+  - - - '124'
+      - Patrick Pannese
+    - togo: 13.495220 km
+      made: 76.031490 km
+  - - - '118'
+      - Ingo Heilmann
+    - togo: 18.811133 km
+      made: 70.715577 km
   - - - '121'
       - Oleg Bondarchuk
     - togo: 19.985036 km
       made: 69.541674 km
+  - - - '106'
+      - Fabiano Nahoum
+    - togo: 20.389032 km
+      made: 69.137678 km
+  - - - '141'
+      - Patrick Halfhill
+    - togo: 22.738377 km
+      made: 66.788333 km
+  - - - '132'
+      - James Stinnett
+    - togo: 23.012610 km
+      made: 66.514100 km
+  - - - '133'
+      - Olav Olsen
+    - togo: 24.575074 km
+      made: 64.951636 km
+  - - - '129'
+      - Mike Jefferson
+    - togo: 24.614897 km
+      made: 64.911813 km
+  - - - '127'
+      - Gerry Pesavento
+    - togo: 27.570927 km
+      made: 61.955783 km
+  - - - '103'
+      - Matt Christensen
+    - togo: 27.867402 km
+      made: 61.659308 km
+  - - - '134'
+      - Kinsley Sykes
+    - togo: 34.796464 km
+      made: 54.730246 km
+  - - - '142'
+      - John Simon
+    - togo: 39.436263 km
+      made: 50.090447 km
+  - - - '119'
+      - Bart Weghorst
+    - togo: 40.417351 km
+      made: 49.109359 km
+  - - - '143'
+      - Anna Eppink
+    - togo: 46.749867 km
+      made: 42.776843 km
+  - - - '104'
+      - Christian Pollet
+    - togo: 47.219990 km
+      made: 42.306720 km
+  - - - '145'
+      - Roger Irby
+    - togo: 50.617071 km
+      made: 38.909639 km
+  - - - '146'
+      - Peter Kelley
+    - togo: 58.632401 km
+      made: 30.894309 km
   - - - '137'
       - Yoko Isomoto
     - togo: 67.393212 km
       made: 22.133498 km
-- - - - '145'
+  - - - '140'
+      - Bill Vickery
+    - togo: 76.654398 km
+      made: 12.872312 km
+  - - - '116'
+      - Jeffery Bohl
+    - togo: 83.504054 km
+      made: 6.022656 km
+  - - - '126'
+      - Jeff Kannard
+    - togo: 84.772354 km
+      made: 4.754356 km
+- - - - '129'
+      - Mike Jefferson
+    - togo: 8.809100 km
+      made: 91.495188 km
+  - - - '117'
+      - Robert Dallas
+    - togo: 10.834202 km
+      made: 89.470086 km
+  - - - '126'
+      - Jeff Kannard
+    - togo: 11.953475 km
+      made: 88.350813 km
+  - - - '111'
+      - Patrick Kruse
+    - togo: 13.642056 km
+      made: 86.662232 km
+  - - - '125'
+      - Larry Bunner
+    - togo: 13.655871 km
+      made: 86.648417 km
+  - - - '101'
+      - Davis Straub
+    - togo: 17.394418 km
+      made: 82.909870 km
+  - - - '114'
+      - Mick Howard
+    - togo: 19.450467 km
+      made: 80.853821 km
+  - - - '124'
+      - Patrick Pannese
+    - togo: 24.806983 km
+      made: 75.497305 km
+  - - - '144'
+      - Tom Lanning
+    - togo: 31.376932 km
+      made: 68.927356 km
+  - - - '115'
+      - Andrew Hollidge
+    - togo: 32.800698 km
+      made: 67.503590 km
+  - - - '116'
+      - Jeffery Bohl
+    - togo: 32.865852 km
+      made: 67.438436 km
+  - - - '143'
+      - Anna Eppink
+    - togo: 35.470032 km
+      made: 64.834256 km
+  - - - '119'
+      - Bart Weghorst
+    - togo: 36.887207 km
+      made: 63.417081 km
+  - - - '106'
+      - Fabiano Nahoum
+    - togo: 37.742149 km
+      made: 62.562139 km
+  - - - '103'
+      - Matt Christensen
+    - togo: 37.854613 km
+      made: 62.449675 km
+  - - - '141'
+      - Patrick Halfhill
+    - togo: 42.140648 km
+      made: 58.163640 km
+  - - - '146'
+      - Peter Kelley
+    - togo: 48.221510 km
+      made: 52.082778 km
+  - - - '133'
+      - Olav Olsen
+    - togo: 56.875901 km
+      made: 43.428387 km
+  - - - '109'
+      - Michael Williams
+    - togo: 60.165072 km
+      made: 40.139216 km
+  - - - '140'
+      - Bill Vickery
+    - togo: 60.212226 km
+      made: 40.092062 km
+  - - - '134'
+      - Kinsley Sykes
+    - togo: 66.623471 km
+      made: 33.680817 km
+  - - - '118'
+      - Ingo Heilmann
+    - togo: 71.057618 km
+      made: 29.246670 km
+  - - - '110'
+      - Cory Barnwell
+    - togo: 87.312521 km
+      made: 12.991767 km
+  - - - '145'
       - Roger Irby
     - togo: 102.693466 km
       made: -2.389178 km
-- - - - '103'
+- - - - '113'
+      - Olav Opsanger
+    - togo: 1.370318 km
+      made: 58.236344 km
+  - - - '125'
+      - Larry Bunner
+    - togo: 5.151656 km
+      made: 54.455006 km
+  - - - '117'
+      - Robert Dallas
+    - togo: 5.258360 km
+      made: 54.348302 km
+  - - - '111'
+      - Patrick Kruse
+    - togo: 7.073334 km
+      made: 52.533328 km
+  - - - '110'
+      - Cory Barnwell
+    - togo: 7.093975 km
+      made: 52.512687 km
+  - - - '103'
       - Matt Christensen
     - togo: 7.213442 km
       made: 52.393220 km
+  - - - '118'
+      - Ingo Heilmann
+    - togo: 8.705485 km
+      made: 50.901177 km
+  - - - '142'
+      - John Simon
+    - togo: 9.201212 km
+      made: 50.405450 km
   - - - '121'
       - Oleg Bondarchuk
     - togo: 10.830046 km
       made: 48.776616 km
+  - - - '138'
+      - Jonny Durand
+    - togo: 11.520936 km
+      made: 48.085726 km
+  - - - '128'
+      - Zac Majors
+    - togo: 12.429122 km
+      made: 47.177540 km
   - - - '123'
       - JD Guillemette
     - togo: 13.690540 km
       made: 45.916122 km
+  - - - '124'
+      - Patrick Pannese
+    - togo: 15.416670 km
+      made: 44.189992 km
   - - - '112'
       - Sergey Kataev
     - togo: 15.433173 km
       made: 44.173489 km
+  - - - '127'
+      - Gerry Pesavento
+    - togo: 17.384126 km
+      made: 42.222536 km
+  - - - '133'
+      - Olav Olsen
+    - togo: 17.390525 km
+      made: 42.216137 km
+  - - - '114'
+      - Mick Howard
+    - togo: 17.407702 km
+      made: 42.198960 km
+  - - - '116'
+      - Jeffery Bohl
+    - togo: 17.439530 km
+      made: 42.167132 km
+  - - - '141'
+      - Patrick Halfhill
+    - togo: 17.440720 km
+      made: 42.165942 km
+  - - - '106'
+      - Fabiano Nahoum
+    - togo: 17.551708 km
+      made: 42.054954 km
+  - - - '150'
+      - Claudia Mejia
+    - togo: 17.598287 km
+      made: 42.008375 km
+  - - - '102'
+      - Richard lovelace
+    - togo: 17.598287 km
+      made: 42.008375 km
+  - - - '135'
+      - Misael Rosalez
+    - togo: 20.789334 km
+      made: 38.817328 km
+  - - - '119'
+      - Bart Weghorst
+    - togo: 20.800144 km
+      made: 38.806518 km
   - - - '115'
       - Andrew Hollidge
     - togo: 20.804963 km
       made: 38.801699 km
+  - - - '109'
+      - Michael Williams
+    - togo: 21.448717 km
+      made: 38.157945 km
+  - - - '101'
+      - Davis Straub
+    - togo: 31.468281 km
+      made: 28.138381 km
+  - - - '108'
+      - Raul Guerra
+    - togo: 31.470600 km
+      made: 28.136062 km
+  - - - '145'
+      - Roger Irby
+    - togo: 32.157749 km
+      made: 27.448913 km
+  - - - '120'
+      - Mike Glennon
+    - togo: 34.339140 km
+      made: 25.267522 km
+  - - - '146'
+      - Peter Kelley
+    - togo: 34.831550 km
+      made: 24.775112 km
+  - - - '144'
+      - Tom Lanning
+    - togo: 34.926238 km
+      made: 24.680424 km
+  - - - '140'
+      - Bill Vickery
+    - togo: 36.818576 km
+      made: 22.788086 km
+  - - - '129'
+      - Mike Jefferson
+    - togo: 38.789462 km
+      made: 20.817200 km
+  - - - '143'
+      - Anna Eppink
+    - togo: 38.826225 km
+      made: 20.780437 km
+  - - - '134'
+      - Kinsley Sykes
+    - togo: 43.873040 km
+      made: 15.733622 km
+  - - - '126'
+      - Jeff Kannard
+    - togo: 44.026994 km
+      made: 15.579668 km
 - - - - '115'
       - Andrew Hollidge
     - togo: 0.000000 km
@@ -2137,6 +6699,10 @@ land:
       - Patrick Halfhill
     - togo: 72.656396 km
       made: -2.795505 km
+  - - - '145'
+      - Roger Irby
+    - togo: 72.669310 km
+      made: -2.808419 km
 altStopped:
 - - - - '143'
       - Anna Eppink
@@ -2180,6 +6746,9 @@ altStopped:
   - - - '129'
       - Mike Jefferson
     - 12.000 m
+  - - - '135'
+      - Misael Rosalez
+    - -3.000 m
   - - - '141'
       - Patrick Halfhill
     - 25.000 m
@@ -2207,48 +6776,408 @@ altStopped:
   - - - '137'
       - Yoko Isomoto
     - 22.000 m
-- - - - '150'
+- - - - '115'
+      - Andrew Hollidge
+    - 12.000 m
+  - - - '140'
+      - Bill Vickery
+    - -13.000 m
+  - - - '104'
+      - Christian Pollet
+    - -3.000 m
+  - - - '150'
       - Claudia Mejia
     - 62.000 m
+  - - - '110'
+      - Cory Barnwell
+    - -1.000 m
+  - - - '101'
+      - Davis Straub
+    - -2.000 m
+  - - - '118'
+      - Ingo Heilmann
+    - 577.000 m
+  - - - '126'
+      - Jeff Kannard
+    - -2.000 m
+  - - - '116'
+      - Jeffery Bohl
+    - 14.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - 8.000 m
+  - - - '107'
+      - Malcolm Brown
+    - 6.000 m
   - - - '103'
       - Matt Christensen
     - 30.000 m
+  - - - '109'
+      - Michael Williams
+    - 4.000 m
+  - - - '114'
+      - Mick Howard
+    - -6.000 m
+  - - - '129'
+      - Mike Jefferson
+    - -17.000 m
+  - - - '135'
+      - Misael Rosalez
+    - 0.000 m
+  - - - '133'
+      - Olav Olsen
+    - 2.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - 1.000 m
+  - - - '124'
+      - Patrick Pannese
+    - 4.000 m
+  - - - '146'
+      - Peter Kelley
+    - 3.000 m
+  - - - '108'
+      - Raul Guerra
+    - 11.000 m
+  - - - '102'
+      - Richard lovelace
+    - 17.000 m
+  - - - '117'
+      - Robert Dallas
+    - 1.000 m
+  - - - '145'
+      - Roger Irby
+    - -7.000 m
   - - - '112'
       - Sergey Kataev
     - 59.000 m
-- - - - '103'
+  - - - '137'
+      - Yoko Isomoto
+    - 5.000 m
+- - - - '143'
+      - Anna Eppink
+    - -19.000 m
+  - - - '119'
+      - Bart Weghorst
+    - -27.000 m
+  - - - '140'
+      - Bill Vickery
+    - -32.000 m
+  - - - '110'
+      - Cory Barnwell
+    - -20.000 m
+  - - - '118'
+      - Ingo Heilmann
+    - -22.000 m
+  - - - '123'
+      - JD Guillemette
+    - -5.000 m
+  - - - '126'
+      - Jeff Kannard
+    - -24.000 m
+  - - - '116'
+      - Jeffery Bohl
+    - -7.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - -10.000 m
+  - - - '103'
       - Matt Christensen
     - 0.000 m
+  - - - '114'
+      - Mick Howard
+    - -11.000 m
+  - - - '129'
+      - Mike Jefferson
+    - -28.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - -19.000 m
+  - - - '111'
+      - Patrick Kruse
+    - -139.000 m
+  - - - '124'
+      - Patrick Pannese
+    - -15.000 m
+  - - - '146'
+      - Peter Kelley
+    - -8.000 m
+  - - - '117'
+      - Robert Dallas
+    - -19.000 m
+  - - - '145'
+      - Roger Irby
+    - -35.000 m
   - - - '112'
       - Sergey Kataev
     - 38.000 m
-- - - - '121'
-      - Oleg Bondarchuk
-    - 0.000 m
-  - - - '112'
-      - Sergey Kataev
-    - 126.000 m
-  - - - '137'
-      - Yoko Isomoto
-    - 0.000 m
-- - - - '145'
-      - Roger Irby
-    - 0.000 m
-- - - - '115'
-      - Andrew Hollidge
-    - 8.000 m
-  - - - '123'
-      - JD Guillemette
-    - 19.000 m
+- - - - '143'
+      - Anna Eppink
+    - -50.000 m
+  - - - '119'
+      - Bart Weghorst
+    - -34.000 m
+  - - - '140'
+      - Bill Vickery
+    - -41.000 m
+  - - - '104'
+      - Christian Pollet
+    - -26.000 m
+  - - - '106'
+      - Fabiano Nahoum
+    - -19.000 m
+  - - - '127'
+      - Gerry Pesavento
+    - -16.000 m
+  - - - '118'
+      - Ingo Heilmann
+    - -23.000 m
+  - - - '132'
+      - James Stinnett
+    - -14.000 m
+  - - - '126'
+      - Jeff Kannard
+    - -24.000 m
+  - - - '116'
+      - Jeffery Bohl
+    - -8.000 m
+  - - - '142'
+      - John Simon
+    - -28.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - -19.000 m
+  - - - '125'
+      - Larry Bunner
+    - 6.000 m
   - - - '103'
       - Matt Christensen
-    - 13.000 m
+    - -12.000 m
+  - - - '114'
+      - Mick Howard
+    - -14.000 m
+  - - - '120'
+      - Mike Glennon
+    - 0.000 m
+  - - - '129'
+      - Mike Jefferson
+    - -5.000 m
+  - - - '135'
+      - Misael Rosalez
+    - -33.000 m
+  - - - '133'
+      - Olav Olsen
+    - -4.000 m
   - - - '121'
       - Oleg Bondarchuk
     - 0.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - -24.000 m
+  - - - '111'
+      - Patrick Kruse
+    - -124.000 m
+  - - - '124'
+      - Patrick Pannese
+    - -21.000 m
+  - - - '146'
+      - Peter Kelley
+    - -30.000 m
+  - - - '145'
+      - Roger Irby
+    - -50.000 m
+  - - - '112'
+      - Sergey Kataev
+    - 126.000 m
+  - - - '144'
+      - Tom Lanning
+    - -15.000 m
+  - - - '137'
+      - Yoko Isomoto
+    - 0.000 m
+- - - - '115'
+      - Andrew Hollidge
+    - 0.000 m
+  - - - '143'
+      - Anna Eppink
+    - -15.000 m
+  - - - '119'
+      - Bart Weghorst
+    - -16.000 m
+  - - - '140'
+      - Bill Vickery
+    - -33.000 m
+  - - - '110'
+      - Cory Barnwell
+    - -24.000 m
+  - - - '101'
+      - Davis Straub
+    - -22.000 m
+  - - - '106'
+      - Fabiano Nahoum
+    - -14.000 m
+  - - - '118'
+      - Ingo Heilmann
+    - -26.000 m
+  - - - '126'
+      - Jeff Kannard
+    - -6.000 m
+  - - - '116'
+      - Jeffery Bohl
+    - 0.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - -4.000 m
+  - - - '125'
+      - Larry Bunner
+    - -1.000 m
+  - - - '103'
+      - Matt Christensen
+    - 6.000 m
+  - - - '109'
+      - Michael Williams
+    - -7.000 m
+  - - - '114'
+      - Mick Howard
+    - -6.000 m
+  - - - '129'
+      - Mike Jefferson
+    - -15.000 m
+  - - - '133'
+      - Olav Olsen
+    - -17.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - -13.000 m
+  - - - '111'
+      - Patrick Kruse
+    - -132.000 m
+  - - - '124'
+      - Patrick Pannese
+    - -6.000 m
+  - - - '146'
+      - Peter Kelley
+    - -7.000 m
+  - - - '117'
+      - Robert Dallas
+    - -19.000 m
+  - - - '145'
+      - Roger Irby
+    - 0.000 m
+  - - - '144'
+      - Tom Lanning
+    - -8.000 m
+- - - - '115'
+      - Andrew Hollidge
+    - 8.000 m
+  - - - '143'
+      - Anna Eppink
+    - -12.000 m
+  - - - '119'
+      - Bart Weghorst
+    - -4.000 m
+  - - - '140'
+      - Bill Vickery
+    - -14.000 m
+  - - - '150'
+      - Claudia Mejia
+    - 1.000 m
+  - - - '110'
+      - Cory Barnwell
+    - 6.000 m
+  - - - '101'
+      - Davis Straub
+    - -7.000 m
+  - - - '106'
+      - Fabiano Nahoum
+    - -5.000 m
+  - - - '127'
+      - Gerry Pesavento
+    - 4.000 m
+  - - - '118'
+      - Ingo Heilmann
+    - -4.000 m
+  - - - '123'
+      - JD Guillemette
+    - 19.000 m
+  - - - '126'
+      - Jeff Kannard
+    - 5.000 m
+  - - - '116'
+      - Jeffery Bohl
+    - 7.000 m
+  - - - '142'
+      - John Simon
+    - -1.000 m
+  - - - '138'
+      - Jonny Durand
+    - 9.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - -2.000 m
+  - - - '125'
+      - Larry Bunner
+    - 12.000 m
+  - - - '103'
+      - Matt Christensen
+    - 13.000 m
+  - - - '109'
+      - Michael Williams
+    - 4.000 m
+  - - - '114'
+      - Mick Howard
+    - 5.000 m
+  - - - '120'
+      - Mike Glennon
+    - 5.000 m
+  - - - '129'
+      - Mike Jefferson
+    - -6.000 m
+  - - - '135'
+      - Misael Rosalez
+    - -16.000 m
+  - - - '133'
+      - Olav Olsen
+    - 3.000 m
+  - - - '113'
+      - Olav Opsanger
+    - 6.000 m
+  - - - '121'
+      - Oleg Bondarchuk
+    - 0.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - -1.000 m
+  - - - '111'
+      - Patrick Kruse
+    - -120.000 m
+  - - - '124'
+      - Patrick Pannese
+    - 0.000 m
+  - - - '146'
+      - Peter Kelley
+    - 9.000 m
+  - - - '108'
+      - Raul Guerra
+    - 8.000 m
+  - - - '102'
+      - Richard lovelace
+    - 1.000 m
+  - - - '117'
+      - Robert Dallas
+    - -1.000 m
+  - - - '145'
+      - Roger Irby
+    - -11.000 m
   - - - '112'
       - Sergey Kataev
     - 57.000 m
+  - - - '144'
+      - Tom Lanning
+    - -5.000 m
+  - - - '128'
+      - Zac Majors
+    - -20.000 m
 - - - - '143'
       - Anna Eppink
     - 19.000 m
@@ -2288,6 +7217,9 @@ altStopped:
   - - - '108'
       - Raul Guerra
     - 29.000 m
+  - - - '145'
+      - Roger Irby
+    - 0.000 m
   - - - '112'
       - Sergey Kataev
     - 68.000 m
