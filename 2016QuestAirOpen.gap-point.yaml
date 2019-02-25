@@ -296,16 +296,16 @@ score:
   - - - '121'
       - Oleg Bondarchuk
     - place: '2'
-      total: 888
+      total: 867
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 73.1
+        leading: 70.6
         arrival: 59.7
-        time: 295.4
+        time: 276.4
       velocity:
         ss: 2016-05-07T17:50:36Z
         gs: 2016-05-07T17:50:00Z
@@ -321,16 +321,16 @@ score:
   - - - '139'
       - Tullio Gervasoni
     - place: '3'
-      total: 873
+      total: 850
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 85
+        leading: 83.9
         arrival: 46.4
-        time: 281.9
+        time: 259.8
       velocity:
         ss: 2016-05-07T17:50:12Z
         gs: 2016-05-07T17:50:00Z
@@ -346,16 +346,16 @@ score:
   - - - '131'
       - Robin Hamilton
     - place: '4'
-      total: 868
+      total: 845
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 85.8
+        leading: 84.8
         arrival: 40.8
-        time: 281.4
+        time: 259.2
       velocity:
         ss: 2016-05-07T17:50:03Z
         gs: 2016-05-07T17:50:00Z
@@ -371,16 +371,16 @@ score:
   - - - '113'
       - Olav Opsanger
     - place: '5'
-      total: 865
+      total: 840
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 68.4
+        leading: 65.4
         arrival: 52.6
-        time: 283.4
+        time: 261.7
       velocity:
         ss: 2016-05-07T17:50:33Z
         gs: 2016-05-07T17:50:00Z
@@ -396,16 +396,16 @@ score:
   - - - '115'
       - Andrew Hollidge
     - place: '6'
-      total: 844
+      total: 818
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 67.4
+        leading: 64.3
         arrival: 36
-        time: 280.2
+        time: 257.7
       velocity:
         ss: 2016-05-07T17:50:18Z
         gs: 2016-05-07T17:50:00Z
@@ -421,16 +421,16 @@ score:
   - - - '128'
       - Zac Majors
     - place: '7'
-      total: 834
+      total: 806
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 74
+        leading: 71.7
         arrival: 31.7
-        time: 268
+        time: 242.6
       velocity:
         ss: 2016-05-07T17:50:12Z
         gs: 2016-05-07T17:50:00Z
@@ -446,16 +446,16 @@ score:
   - - - '125'
       - Larry Bunner
     - place: '8'
-      total: 817
+      total: 787
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 66.7
+        leading: 63.5
         arrival: 28
-        time: 262.4
+        time: 235.8
       velocity:
         ss: 2016-05-07T17:50:18Z
         gs: 2016-05-07T17:50:00Z
@@ -471,16 +471,16 @@ score:
   - - - '107'
       - Malcolm Brown
     - place: '9'
-      total: 814
+      total: 784
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 68.6
+        leading: 65.6
         arrival: 24.9
-        time: 260.7
+        time: 233.7
       velocity:
         ss: 2016-05-07T17:50:31Z
         gs: 2016-05-07T17:50:00Z
@@ -496,16 +496,16 @@ score:
   - - - '132'
       - James Stinnett
     - place: '10'
-      total: 809
+      total: 778
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 66.8
+        leading: 63.7
         arrival: 22.3
-        time: 259.3
+        time: 232
       velocity:
         ss: 2016-05-07T17:50:22Z
         gs: 2016-05-07T17:50:00Z
@@ -521,16 +521,16 @@ score:
   - - - '119'
       - Bart Weghorst
     - place: '11'
-      total: 794
+      total: 761
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 67.8
+        leading: 64.7
         arrival: 16.9
-        time: 249.3
+        time: 219.7
       velocity:
         ss: 2016-05-07T17:50:23Z
         gs: 2016-05-07T17:50:00Z
@@ -546,16 +546,16 @@ score:
   - - - '133'
       - Olav Olsen
     - place: '12'
-      total: 779
+      total: 744
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 48.8
+        leading: 43.6
         arrival: 18.3
-        time: 251.4
+        time: 222.3
       velocity:
         ss: 2016-05-07T17:59:56Z
         gs: 2016-05-07T17:50:00Z
@@ -571,16 +571,16 @@ score:
   - - - '111'
       - Patrick Kruse
     - place: '13'
-      total: 751
+      total: 709
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 63.6
+        leading: 60
         arrival: 15
-        time: 212.2
+        time: 174
       velocity:
         ss: 2016-05-07T17:50:04Z
         gs: 2016-05-07T17:50:00Z
@@ -596,16 +596,16 @@ score:
   - - - '127'
       - Gerry Pesavento
     - place: '14'
-      total: 739
+      total: 695
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 61.2
+        leading: 57.4
         arrival: 14.4
-        time: 203.4
+        time: 163.2
       velocity:
         ss: 2016-05-07T17:50:22Z
         gs: 2016-05-07T17:50:00Z
@@ -621,16 +621,16 @@ score:
   - - - '114'
       - Mick Howard
     - place: '15'
-      total: 734
+      total: 689
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 60.4
+        leading: 56.5
         arrival: 13.9
-        time: 199.7
+        time: 158.7
       velocity:
         ss: 2016-05-07T17:51:25Z
         gs: 2016-05-07T17:50:00Z
@@ -646,16 +646,16 @@ score:
   - - - '109'
       - Michael Williams
     - place: '16'
-      total: 731
+      total: 685
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 64
+        leading: 60.4
         arrival: 13.7
-        time: 193.4
+        time: 150.9
       velocity:
         ss: 2016-05-07T17:53:37Z
         gs: 2016-05-07T17:50:00Z
@@ -671,16 +671,16 @@ score:
   - - - '142'
       - John Simon
     - place: '17'
-      total: 726
+      total: 678
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 62.1
+        leading: 58.4
         arrival: 20.1
-        time: 184.1
+        time: 139.5
       velocity:
         ss: 2016-05-07T17:49:59Z
         gs: 2016-05-07T17:30:00Z
@@ -696,16 +696,16 @@ score:
   - - - '106'
       - Fabiano Nahoum
     - place: '18'
-      total: 691
+      total: 636
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 55
+        leading: 50.4
         arrival: 15.8
-        time: 160.1
+        time: 110
       velocity:
         ss: 2016-05-07T17:48:18Z
         gs: 2016-05-07T17:30:00Z
@@ -721,14 +721,14 @@ score:
   - - - '135'
       - Misael Rosalez
     - place: '19'
-      total: 497
+      total: 492
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 213.077
         effort: 230.067
         distance: 443.145
-        leading: 53.6
+        leading: 48.8
         arrival: 0
         time: 0
       velocity:
@@ -746,14 +746,14 @@ score:
   - - - '120'
       - Mike Glennon
     - place: '20'
-      total: 476
+      total: 472
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 191.916
         effort: 223.165
         distance: 415.081
-        leading: 60.9
+        leading: 57
         arrival: 0
         time: 0
       velocity:
@@ -771,14 +771,14 @@ score:
   - - - '143'
       - Anna Eppink
     - place: '21'
-      total: 453
+      total: 448
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 187.1
         effort: 216.263
         distance: 403.363
-        leading: 49.6
+        leading: 44.4
         arrival: 0
         time: 0
       velocity:
@@ -796,14 +796,14 @@ score:
   - - - '146'
       - Peter Kelley
     - place: '22'
-      total: 447
+      total: 438
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 199.76
         effort: 227.767
         distance: 427.527
-        leading: 19.4
+        leading: 10.8
         arrival: 0
         time: 0
       velocity:
@@ -821,14 +821,14 @@ score:
   - - - '110'
       - Cory Barnwell
     - place: '23'
-      total: 370
+      total: 361
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 150.315
         effort: 207.06
         distance: 357.375
-        leading: 12.9
+        leading: 3.5
         arrival: 0
         time: 0
       velocity:
@@ -846,14 +846,14 @@ score:
   - - - '150'
       - Claudia Mejia
     - place: '24'
-      total: 355
+      total: 347
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 142.591
         effort: 204.76
         distance: 347.351
-        leading: 7.7
+        leading: 0
         arrival: 0
         time: 0
       velocity:
@@ -921,14 +921,14 @@ score:
   - - - '140'
       - Bill Vickery
     - place: '27'
-      total: 319
+      total: 316
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 131.907
         effort: 184.054
         distance: 315.961
-        leading: 2.6
+        leading: 0
         arrival: 0
         time: 0
       velocity:
@@ -946,14 +946,14 @@ score:
   - - - '123'
       - JD Guillemette
     - place: '28'
-      total: 307
+      total: 298
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 119.535
         effort: 172.55
         distance: 292.085
-        leading: 15.1
+        leading: 6
         arrival: 0
         time: 0
       velocity:
@@ -968,34 +968,9 @@ score:
       reachDistance: 83.155 km
       landedDistance: 82.933 km
       stoppedAlt: 41.000 m
-  - - - '102'
-      - Richard lovelace
-    - place: '29'
-      total: 298
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 118.441
-        effort: 161.047
-        distance: 279.488
-        leading: 18.8
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2016-05-07T17:48:57Z
-        gs: 2016-05-07T17:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 82.394 km
-      landedDistance: 82.082 km
-      stoppedAlt: 29.000 m
   - - - '104'
       - Christian Pollet
-    - place: '30'
+    - place: '29'
       total: 292
       penalties: []
       penaltyReason: ''
@@ -1018,17 +993,42 @@ score:
       reachDistance: 83.330 km
       landedDistance: 82.957 km
       stoppedAlt: 42.000 m
+  - - - '102'
+      - Richard lovelace
+    - place: '30'
+      total: 290
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 118.441
+        effort: 161.047
+        distance: 279.488
+        leading: 10.1
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-05-07T17:48:57Z
+        gs: 2016-05-07T17:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 82.394 km
+      landedDistance: 82.082 km
+      stoppedAlt: 29.000 m
   - - - '124'
       - Patrick Pannese
     - place: '31'
-      total: 266
+      total: 258
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 110.496
         effort: 147.243
         distance: 257.739
-        leading: 8.6
+        leading: 0
         arrival: 0
         time: 0
       velocity:
@@ -1046,14 +1046,14 @@ score:
   - - - '108'
       - Raul Guerra
     - place: '32'
-      total: 256
+      total: 246
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 110.757
         effort: 135.74
         distance: 246.497
-        leading: 9.6
+        leading: 0
         arrival: 0
         time: 0
       velocity:
@@ -1321,14 +1321,14 @@ score:
 - - - - '113'
       - Olav Opsanger
     - place: '1'
-      total: 929
+      total: 924
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 21
+        leading: 15.7
         arrival: 65.8
         time: 368.7
       velocity:
@@ -1346,16 +1346,16 @@ score:
   - - - '125'
       - Larry Bunner
     - place: '2'
-      total: 884
+      total: 870
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 18.4
+        leading: 13
         arrival: 57.8
-        time: 334.7
+        time: 326
       velocity:
         ss: 2016-05-08T17:32:24Z
         gs: 2016-05-08T17:30:00Z
@@ -1371,16 +1371,16 @@ score:
   - - - '139'
       - Tullio Gervasoni
     - place: '3'
-      total: 866
+      total: 849
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 20
+        leading: 14.7
         arrival: 50.6
-        time: 322.1
+        time: 310.3
       velocity:
         ss: 2016-05-08T17:31:09Z
         gs: 2016-05-08T17:30:00Z
@@ -1396,16 +1396,16 @@ score:
   - - - '121'
       - Oleg Bondarchuk
     - place: '4'
-      total: 836
+      total: 813
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 20.7
+        leading: 15.5
         arrival: 44.3
-        time: 297.8
+        time: 279.8
       velocity:
         ss: 2016-05-08T17:31:14Z
         gs: 2016-05-08T17:30:00Z
@@ -1421,16 +1421,16 @@ score:
   - - - '138'
       - Jonny Durand
     - place: '5'
-      total: 825
+      total: 801
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 19.1
+        leading: 13.7
         arrival: 38.7
-        time: 294.3
+        time: 275.5
       velocity:
         ss: 2016-05-08T17:30:12Z
         gs: 2016-05-08T17:30:00Z
@@ -1446,16 +1446,16 @@ score:
   - - - '111'
       - Patrick Kruse
     - place: '6'
-      total: 794
+      total: 764
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 14
+        leading: 8.2
         arrival: 33.8
-        time: 273.1
+        time: 248.9
       velocity:
         ss: 2016-05-08T17:32:25Z
         gs: 2016-05-08T17:30:00Z
@@ -1471,16 +1471,16 @@ score:
   - - - '132'
       - James Stinnett
     - place: '7'
-      total: 784
+      total: 752
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 15.4
+        leading: 9.8
         arrival: 29.6
-        time: 265.9
+        time: 239.9
       velocity:
         ss: 2016-05-08T17:32:14Z
         gs: 2016-05-08T17:30:00Z
@@ -1496,16 +1496,16 @@ score:
   - - - '131'
       - Robin Hamilton
     - place: '8'
-      total: 777
+      total: 744
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 15.3
+        leading: 9.7
         arrival: 26
-        time: 262.4
+        time: 235.5
       velocity:
         ss: 2016-05-08T17:31:05Z
         gs: 2016-05-08T17:30:00Z
@@ -1521,16 +1521,16 @@ score:
   - - - '142'
       - John Simon
     - place: '9'
-      total: 773
+      total: 740
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 16.4
+        leading: 10.8
         arrival: 23
-        time: 260.3
+        time: 232.8
       velocity:
         ss: 2016-05-08T17:30:24Z
         gs: 2016-05-08T17:30:00Z
@@ -1546,16 +1546,16 @@ score:
   - - - '119'
       - Bart Weghorst
     - place: '10'
-      total: 757
+      total: 721
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 15.1
+        leading: 9.4
         arrival: 20.6
-        time: 248.1
+        time: 217.5
       velocity:
         ss: 2016-05-08T17:31:03Z
         gs: 2016-05-08T17:30:00Z
@@ -1571,16 +1571,16 @@ score:
   - - - '106'
       - Fabiano Nahoum
     - place: '11'
-      total: 750
+      total: 713
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 14.9
+        leading: 9.3
         arrival: 18.5
-        time: 243.2
+        time: 211.5
       velocity:
         ss: 2016-05-08T17:30:27Z
         gs: 2016-05-08T17:30:00Z
@@ -1596,16 +1596,16 @@ score:
   - - - '123'
       - JD Guillemette
     - place: '12'
-      total: 708
+      total: 661
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 12.1
+        leading: 6.2
         arrival: 16.9
-        time: 206.2
+        time: 165.1
       velocity:
         ss: 2016-05-08T17:30:55Z
         gs: 2016-05-08T17:30:00Z
@@ -1621,16 +1621,16 @@ score:
   - - - '127'
       - Gerry Pesavento
     - place: '13'
-      total: 681
+      total: 628
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 10.3
+        leading: 4.3
         arrival: 15.7
-        time: 181.8
+        time: 134.5
       velocity:
         ss: 2016-05-08T17:32:10Z
         gs: 2016-05-08T17:30:00Z
@@ -1646,16 +1646,16 @@ score:
   - - - '143'
       - Anna Eppink
     - place: '14'
-      total: 674
+      total: 618
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 12.2
+        leading: 6.3
         arrival: 14.8
-        time: 173.5
+        time: 124.1
       velocity:
         ss: 2016-05-08T17:30:58Z
         gs: 2016-05-08T17:30:00Z
@@ -1671,16 +1671,16 @@ score:
   - - - '120'
       - Mike Glennon
     - place: '15'
-      total: 665
+      total: 607
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 13.3
+        leading: 7.5
         arrival: 14.1
-        time: 164.1
+        time: 112.4
       velocity:
         ss: 2016-05-08T17:31:15Z
         gs: 2016-05-08T17:30:00Z
@@ -1693,34 +1693,9 @@ score:
       reachDistance: 113.620 km
       landedDistance: 113.620 km
       stoppedAlt: null
-  - - - '144'
-      - Tom Lanning
-    - place: '16'
-      total: 632
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 236.607
-        effort: 236.607
-        distance: 473.215
-        leading: 6
-        arrival: 13.6
-        time: 139.6
-      velocity:
-        ss: 2016-05-08T17:29:36Z
-        gs: 2016-05-08T17:30:00Z
-        es: 2016-05-08T22:19:59Z
-        ssDistance: 109.021 km
-        ssElapsed: 4.839722 h
-        gsElapsed: 4.833056 h
-        ssVelocity: 22.53 km / h
-        gsVelocity: 22.56 km / h
-      reachDistance: 113.620 km
-      landedDistance: 113.620 km
-      stoppedAlt: null
   - - - '128'
       - Zac Majors
-    - place: '17'
+    - place: '16'
       total: 579
       penalties: []
       penaltyReason: ''
@@ -1740,6 +1715,31 @@ score:
         gsElapsed: 27.385833 h
         ssVelocity: 3.98 km / h
         gsVelocity: 3.98 km / h
+      reachDistance: 113.620 km
+      landedDistance: 113.620 km
+      stoppedAlt: null
+  - - - '144'
+      - Tom Lanning
+    - place: '17'
+      total: 568
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 236.607
+        effort: 236.607
+        distance: 473.215
+        leading: 0
+        arrival: 13.6
+        time: 81.6
+      velocity:
+        ss: 2016-05-08T17:29:36Z
+        gs: 2016-05-08T17:30:00Z
+        es: 2016-05-08T22:19:59Z
+        ssDistance: 109.021 km
+        ssElapsed: 4.839722 h
+        gsElapsed: 4.833056 h
+        ssVelocity: 22.53 km / h
+        gsVelocity: 22.56 km / h
       reachDistance: 113.620 km
       landedDistance: 113.620 km
       stoppedAlt: null
@@ -2396,14 +2396,14 @@ score:
 - - - - '138'
       - Jonny Durand
     - place: '1'
-      total: 963
+      total: 960
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 65.9
+        leading: 62.9
         arrival: 73.3
         time: 410.6
       velocity:
@@ -2421,16 +2421,16 @@ score:
   - - - '131'
       - Robin Hamilton
     - place: '2'
-      total: 833
+      total: 810
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 97.6
+        leading: 97.2
         arrival: 66.3
-        time: 256
+        time: 233.1
       velocity:
         ss: 2016-05-09T18:32:53Z
         gs: 2016-05-09T18:30:00Z
@@ -2443,44 +2443,19 @@ score:
       reachDistance: 82.504 km
       landedDistance: 82.504 km
       stoppedAlt: null
-  - - - '106'
-      - Fabiano Nahoum
-    - place: '3'
-      total: 824
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 206.75
-        effort: 206.75
-        distance: 413.5
-        leading: 96.1
-        arrival: 59.9
-        time: 254.1
-      velocity:
-        ss: 2016-05-09T18:30:02Z
-        gs: 2016-05-09T18:30:00Z
-        es: 2016-05-09T21:08:59Z
-        ssDistance: 77.904 km
-        ssElapsed: 2.649167 h
-        gsElapsed: 2.649722 h
-        ssVelocity: 29.41 km / h
-        gsVelocity: 29.40 km / h
-      reachDistance: 82.504 km
-      landedDistance: 82.504 km
-      stoppedAlt: null
   - - - '142'
       - John Simon
-    - place: '4'
-      total: 823
+    - place: '3'
+      total: 805
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 64.5
+        leading: 61.4
         arrival: 32.2
-        time: 312.8
+        time: 298.3
       velocity:
         ss: 2016-05-09T18:50:43Z
         gs: 2016-05-09T18:50:00Z
@@ -2493,19 +2468,44 @@ score:
       reachDistance: 82.504 km
       landedDistance: 82.504 km
       stoppedAlt: null
-  - - - '115'
-      - Andrew Hollidge
-    - place: '5'
-      total: 808
+  - - - '106'
+      - Fabiano Nahoum
+    - place: '4'
+      total: 800
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 89.9
+        leading: 95.6
+        arrival: 59.9
+        time: 230.8
+      velocity:
+        ss: 2016-05-09T18:30:02Z
+        gs: 2016-05-09T18:30:00Z
+        es: 2016-05-09T21:08:59Z
+        ssDistance: 77.904 km
+        ssElapsed: 2.649167 h
+        gsElapsed: 2.649722 h
+        ssVelocity: 29.41 km / h
+        gsVelocity: 29.40 km / h
+      reachDistance: 82.504 km
+      landedDistance: 82.504 km
+      stoppedAlt: null
+  - - - '115'
+      - Andrew Hollidge
+    - place: '5'
+      total: 784
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 206.75
+        effort: 206.75
+        distance: 413.5
+        leading: 88.8
         arrival: 54
-        time: 251
+        time: 227.3
       velocity:
         ss: 2016-05-09T18:33:01Z
         gs: 2016-05-09T18:30:00Z
@@ -2518,19 +2518,44 @@ score:
       reachDistance: 82.504 km
       landedDistance: 82.504 km
       stoppedAlt: null
-  - - - '139'
-      - Tullio Gervasoni
+  - - - '128'
+      - Zac Majors
     - place: '6'
-      total: 794
+      total: 769
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 96.9
+        leading: 22.7
+        arrival: 20.5
+        time: 312.4
+      velocity:
+        ss: 2016-05-09T19:10:04Z
+        gs: 2016-05-09T19:10:00Z
+        es: 2016-05-09T21:36:14Z
+        ssDistance: 77.904 km
+        ssElapsed: 2.436111 h
+        gsElapsed: 2.437222 h
+        ssVelocity: 31.98 km / h
+        gsVelocity: 31.96 km / h
+      reachDistance: 82.504 km
+      landedDistance: 82.504 km
+      stoppedAlt: null
+  - - - '139'
+      - Tullio Gervasoni
+    - place: 7=
+      total: 768
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 206.75
+        effort: 206.75
+        distance: 413.5
+        leading: 96.4
         arrival: 43.9
-        time: 239.5
+        time: 214.1
       velocity:
         ss: 2016-05-09T18:30:37Z
         gs: 2016-05-09T18:30:00Z
@@ -2545,8 +2570,8 @@ score:
       stoppedAlt: null
   - - - '132'
       - James Stinnett
-    - place: '7'
-      total: 793
+    - place: 7=
+      total: 768
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -2555,7 +2580,7 @@ score:
         distance: 413.5
         leading: 102.6
         arrival: 39.5
-        time: 237.7
+        time: 212.1
       velocity:
         ss: 2016-05-09T18:30:52Z
         gs: 2016-05-09T18:30:00Z
@@ -2570,17 +2595,17 @@ score:
       stoppedAlt: null
   - - - '108'
       - Raul Guerra
-    - place: '8'
-      total: 790
+    - place: '9'
+      total: 764
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 82.3
+        leading: 80.7
         arrival: 48.7
-        time: 245.6
+        time: 221.2
       velocity:
         ss: 2016-05-09T18:30:41Z
         gs: 2016-05-09T18:30:00Z
@@ -2593,69 +2618,19 @@ score:
       reachDistance: 82.504 km
       landedDistance: 82.504 km
       stoppedAlt: null
-  - - - '128'
-      - Zac Majors
-    - place: '9'
-      total: 788
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 206.75
-        effort: 206.75
-        distance: 413.5
-        leading: 28.8
-        arrival: 20.5
-        time: 325.1
-      velocity:
-        ss: 2016-05-09T19:10:04Z
-        gs: 2016-05-09T19:10:00Z
-        es: 2016-05-09T21:36:14Z
-        ssDistance: 77.904 km
-        ssElapsed: 2.436111 h
-        gsElapsed: 2.437222 h
-        ssVelocity: 31.98 km / h
-        gsVelocity: 31.96 km / h
-      reachDistance: 82.504 km
-      landedDistance: 82.504 km
-      stoppedAlt: null
-  - - - '127'
-      - Gerry Pesavento
-    - place: '10'
-      total: 777
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 206.75
-        effort: 206.75
-        distance: 413.5
-        leading: 91
-        arrival: 35.7
-        time: 236.5
-      velocity:
-        ss: 2016-05-09T18:31:31Z
-        gs: 2016-05-09T18:30:00Z
-        es: 2016-05-09T21:12:41Z
-        ssDistance: 77.904 km
-        ssElapsed: 2.686111 h
-        gsElapsed: 2.711389 h
-        ssVelocity: 29.00 km / h
-        gsVelocity: 28.73 km / h
-      reachDistance: 82.504 km
-      landedDistance: 82.504 km
-      stoppedAlt: null
   - - - '125'
       - Larry Bunner
-    - place: '11'
-      total: 772
+    - place: '10'
+      total: 752
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 22.1
+        leading: 15.5
         arrival: 19.1
-        time: 317.7
+        time: 304
       velocity:
         ss: 2016-05-09T19:10:20Z
         gs: 2016-05-09T19:10:00Z
@@ -2668,19 +2643,44 @@ score:
       reachDistance: 82.504 km
       landedDistance: 82.504 km
       stoppedAlt: null
-  - - - '113'
-      - Olav Opsanger
-    - place: '12'
-      total: 757
+  - - - '127'
+      - Gerry Pesavento
+    - place: '11'
+      total: 750
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 20.8
+        leading: 90.1
+        arrival: 35.7
+        time: 210.7
+      velocity:
+        ss: 2016-05-09T18:31:31Z
+        gs: 2016-05-09T18:30:00Z
+        es: 2016-05-09T21:12:41Z
+        ssDistance: 77.904 km
+        ssElapsed: 2.686111 h
+        gsElapsed: 2.711389 h
+        ssVelocity: 29.00 km / h
+        gsVelocity: 28.73 km / h
+      reachDistance: 82.504 km
+      landedDistance: 82.504 km
+      stoppedAlt: null
+  - - - '113'
+      - Olav Opsanger
+    - place: '12'
+      total: 734
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 206.75
+        effort: 206.75
+        distance: 413.5
+        leading: 14
         arrival: 18
-        time: 304.5
+        time: 288.7
       velocity:
         ss: 2016-05-09T19:10:58Z
         gs: 2016-05-09T19:10:00Z
@@ -2696,16 +2696,16 @@ score:
   - - - '101'
       - Davis Straub
     - place: '13'
-      total: 744
+      total: 713
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 95.1
+        leading: 94.5
         arrival: 29.2
-        time: 206.5
+        time: 176.2
       velocity:
         ss: 2016-05-09T18:31:09Z
         gs: 2016-05-09T18:30:00Z
@@ -2721,16 +2721,16 @@ score:
   - - - '104'
       - Christian Pollet
     - place: '14'
-      total: 721
+      total: 688
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 78.1
+        leading: 76.1
         arrival: 26.5
-        time: 202.9
+        time: 172.1
       velocity:
         ss: 2016-05-09T18:33:51Z
         gs: 2016-05-09T18:30:00Z
@@ -2746,16 +2746,16 @@ score:
   - - - '107'
       - Malcolm Brown
     - place: '15'
-      total: 716
+      total: 682
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 90.1
+        leading: 89.1
         arrival: 24.2
-        time: 188
+        time: 155
       velocity:
         ss: 2016-05-09T18:30:41Z
         gs: 2016-05-09T18:30:00Z
@@ -2771,16 +2771,16 @@ score:
   - - - '121'
       - Oleg Bondarchuk
     - place: '16'
-      total: 685
+      total: 646
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 101.2
+        leading: 101.1
         arrival: 22.2
-        time: 148.1
+        time: 109.1
       velocity:
         ss: 2016-05-09T18:32:33Z
         gs: 2016-05-09T18:30:00Z
@@ -2796,16 +2796,16 @@ score:
   - - - '102'
       - Richard lovelace
     - place: '17'
-      total: 649
+      total: 605
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 99.4
+        leading: 99.1
         arrival: 17.1
-        time: 119
+        time: 75.7
       velocity:
         ss: 2016-05-09T18:30:22Z
         gs: 2016-05-09T18:30:00Z
@@ -2821,16 +2821,16 @@ score:
   - - - '133'
       - Olav Olsen
     - place: '18'
-      total: 629
+      total: 584
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 83.5
+        leading: 82
         arrival: 15.7
-        time: 116.3
+        time: 72.6
       velocity:
         ss: 2016-05-09T18:30:30Z
         gs: 2016-05-09T18:30:00Z
@@ -2846,16 +2846,16 @@ score:
   - - - '135'
       - Misael Rosalez
     - place: '19'
-      total: 622
+      total: 577
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 75.5
+        leading: 73.2
         arrival: 16.3
-        time: 117.2
+        time: 73.7
       velocity:
         ss: 2016-05-09T18:33:01Z
         gs: 2016-05-09T18:30:00Z
@@ -2871,16 +2871,16 @@ score:
   - - - '144'
       - Tom Lanning
     - place: '20'
-      total: 621
+      total: 575
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 77.8
+        leading: 75.8
         arrival: 15.3
-        time: 114.1
+        time: 70.1
       velocity:
         ss: 2016-05-09T18:30:46Z
         gs: 2016-05-09T18:30:00Z
@@ -2896,16 +2896,16 @@ score:
   - - - '120'
       - Mike Glennon
     - place: '21'
-      total: 618
+      total: 572
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 76.7
+        leading: 74.5
         arrival: 15
-        time: 112.8
+        time: 68.6
       velocity:
         ss: 2016-05-09T18:30:27Z
         gs: 2016-05-09T18:30:00Z
@@ -2921,16 +2921,16 @@ score:
   - - - '137'
       - Yoko Isomoto
     - place: '22'
-      total: 592
+      total: 542
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 80.3
+        leading: 78.5
         arrival: 14.8
-        time: 83.5
+        time: 35
       velocity:
         ss: 2016-05-09T18:33:04Z
         gs: 2016-05-09T18:30:00Z
@@ -2946,14 +2946,14 @@ score:
   - - - '124'
       - Patrick Pannese
     - place: '23'
-      total: 492
+      total: 490
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 205.211
         effort: 206.75
         distance: 411.961
-        leading: 80
+        leading: 78.2
         arrival: 0
         time: 0
       velocity:
@@ -2971,14 +2971,14 @@ score:
   - - - '143'
       - Anna Eppink
     - place: '24'
-      total: 482
+      total: 480
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 201.011
         effort: 204.133
         distance: 405.144
-        leading: 76.9
+        leading: 74.8
         arrival: 0
         time: 0
       velocity:
@@ -2996,14 +2996,14 @@ score:
   - - - '118'
       - Ingo Heilmann
     - place: '25'
-      total: 456
+      total: 453
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 198.352
         effort: 198.899
         distance: 397.251
-        leading: 58.9
+        leading: 55.3
         arrival: 0
         time: 0
       velocity:
@@ -3021,14 +3021,14 @@ score:
   - - - '117'
       - Robert Dallas
     - place: '26'
-      total: 449
+      total: 445
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 196.027
         effort: 191.047
         distance: 387.074
-        leading: 61.6
+        leading: 58.2
         arrival: 0
         time: 0
       velocity:
@@ -3046,14 +3046,14 @@ score:
   - - - '116'
       - Jeffery Bohl
     - place: '27'
-      total: 438
+      total: 434
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 195.052
         effort: 180.579
         distance: 375.631
-        leading: 62.1
+        leading: 58.7
         arrival: 0
         time: 0
       velocity:
@@ -3071,14 +3071,14 @@ score:
   - - - '141'
       - Patrick Halfhill
     - place: '28'
-      total: 420
+      total: 417
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 190.697
         effort: 167.494
         distance: 358.19
-        leading: 61.7
+        leading: 58.4
         arrival: 0
         time: 0
       velocity:
@@ -3096,14 +3096,14 @@ score:
   - - - '145'
       - Roger Irby
     - place: '29'
-      total: 385
+      total: 378
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 190.885
         effort: 167.494
         distance: 358.378
-        leading: 26.2
+        leading: 19.9
         arrival: 0
         time: 0
       velocity:
@@ -3121,14 +3121,14 @@ score:
   - - - '112'
       - Sergey Kataev
     - place: '30'
-      total: 367
+      total: 363
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 176.864
         effort: 133.471
         distance: 310.335
-        leading: 56.8
+        leading: 53
         arrival: 0
         time: 0
       velocity:
@@ -3171,14 +3171,14 @@ score:
   - - - '119'
       - Bart Weghorst
     - place: '32'
-      total: 332
+      total: 330
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 165.251
         effort: 91.598
         distance: 256.849
-        leading: 75.6
+        leading: 73.3
         arrival: 0
         time: 0
       velocity:
@@ -3196,14 +3196,14 @@ score:
   - - - '123'
       - JD Guillemette
     - place: '33'
-      total: 317
+      total: 312
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 170.727
         effort: 112.535
         distance: 283.262
-        leading: 34.1
+        leading: 28.4
         arrival: 0
         time: 0
       velocity:
@@ -3221,14 +3221,14 @@ score:
   - - - '134'
       - Kinsley Sykes
     - place: '34'
-      total: 264
+      total: 259
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 147.715
         effort: 73.278
         distance: 220.993
-        leading: 42.7
+        leading: 37.8
         arrival: 0
         time: 0
       velocity:
@@ -3246,14 +3246,14 @@ score:
   - - - '126'
       - Jeff Kannard
     - place: '35'
-      total: 244
+      total: 241
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 130.95
         effort: 44.49
         distance: 175.44
-        leading: 68.8
+        leading: 66
         arrival: 0
         time: 0
       velocity:
@@ -3271,14 +3271,14 @@ score:
   - - - '140'
       - Bill Vickery
     - place: '36'
-      total: 225
+      total: 220
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 131.997
         effort: 52.342
         distance: 184.339
-        leading: 40.6
+        leading: 35.5
         arrival: 0
         time: 0
       velocity:
@@ -3296,14 +3296,14 @@ score:
   - - - '111'
       - Patrick Kruse
     - place: '37'
-      total: 220
+      total: 213
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 140.756
         effort: 62.81
         distance: 203.566
-        leading: 16.1
+        leading: 9
         arrival: 0
         time: 0
       velocity:
@@ -3321,14 +3321,14 @@ score:
   - - - '129'
       - Mike Jefferson
     - place: '38'
-      total: 213
+      total: 209
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 127.589
         effort: 34.022
         distance: 161.612
-        leading: 51.2
+        leading: 47
         arrival: 0
         time: 0
       velocity:
@@ -3446,7 +3446,7 @@ score:
   - - - '138'
       - Jonny Durand
     - place: '2'
-      total: 761
+      total: 731
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -3455,7 +3455,7 @@ score:
         distance: 525.578
         leading: 0
         arrival: 50
-        time: 185.8
+        time: 155.8
       velocity:
         ss: 2016-05-10T18:00:12Z
         gs: 2016-05-10T18:00:00Z
@@ -3471,7 +3471,7 @@ score:
   - - - '139'
       - Tullio Gervasoni
     - place: '3'
-      total: 752
+      total: 722
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -3480,7 +3480,7 @@ score:
         distance: 525.578
         leading: 0
         arrival: 42
-        time: 184.4
+        time: 154.1
       velocity:
         ss: 2016-05-10T18:00:20Z
         gs: 2016-05-10T18:00:00Z
@@ -3493,35 +3493,10 @@ score:
       reachDistance: 89.527 km
       landedDistance: 89.527 km
       stoppedAlt: null
-  - - - '128'
-      - Zac Majors
-    - place: '4'
-      total: 743
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 262.789
-        effort: 262.789
-        distance: 525.578
-        leading: 0
-        arrival: 35.2
-        time: 181.7
-      velocity:
-        ss: 2016-05-10T18:00:18Z
-        gs: 2016-05-10T18:00:00Z
-        es: 2016-05-10T21:35:56Z
-        ssDistance: 84.927 km
-        ssElapsed: 3.593889 h
-        gsElapsed: 3.598889 h
-        ssVelocity: 23.63 km / h
-        gsVelocity: 23.60 km / h
-      reachDistance: 89.527 km
-      landedDistance: 89.527 km
-      stoppedAlt: null
   - - - '123'
       - JD Guillemette
-    - place: '5'
-      total: 740
+    - place: '4'
+      total: 713
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -3530,7 +3505,7 @@ score:
         distance: 525.578
         leading: 0
         arrival: 13.2
-        time: 200.8
+        time: 173.8
       velocity:
         ss: 2016-05-10T18:20:32Z
         gs: 2016-05-10T18:20:00Z
@@ -3543,10 +3518,35 @@ score:
       reachDistance: 89.527 km
       landedDistance: 89.527 km
       stoppedAlt: null
+  - - - '128'
+      - Zac Majors
+    - place: '5'
+      total: 712
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 262.789
+        effort: 262.789
+        distance: 525.578
+        leading: 0
+        arrival: 35.2
+        time: 150.9
+      velocity:
+        ss: 2016-05-10T18:00:18Z
+        gs: 2016-05-10T18:00:00Z
+        es: 2016-05-10T21:35:56Z
+        ssDistance: 84.927 km
+        ssElapsed: 3.593889 h
+        gsElapsed: 3.598889 h
+        ssVelocity: 23.63 km / h
+        gsVelocity: 23.60 km / h
+      reachDistance: 89.527 km
+      landedDistance: 89.527 km
+      stoppedAlt: null
   - - - '113'
       - Olav Opsanger
     - place: '6'
-      total: 737
+      total: 706
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -3555,7 +3555,7 @@ score:
         distance: 525.578
         leading: 0
         arrival: 29.5
-        time: 181.5
+        time: 150.6
       velocity:
         ss: 2016-05-10T18:00:42Z
         gs: 2016-05-10T18:00:00Z
@@ -3571,7 +3571,7 @@ score:
   - - - '102'
       - Richard lovelace
     - place: '7'
-      total: 727
+      total: 695
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -3580,7 +3580,7 @@ score:
         distance: 525.578
         leading: 0
         arrival: 24.9
-        time: 176.4
+        time: 144.5
       velocity:
         ss: 2016-05-10T18:00:43Z
         gs: 2016-05-10T18:00:00Z
@@ -3596,7 +3596,7 @@ score:
   - - - '150'
       - Claudia Mejia
     - place: '8'
-      total: 709
+      total: 676
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -3605,7 +3605,7 @@ score:
         distance: 525.578
         leading: 0
         arrival: 12.1
-        time: 171.7
+        time: 138.8
       velocity:
         ss: 2016-05-10T18:20:01Z
         gs: 2016-05-10T18:20:00Z
@@ -3621,7 +3621,7 @@ score:
   - - - '110'
       - Cory Barnwell
     - place: '9'
-      total: 699
+      total: 662
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -3630,7 +3630,7 @@ score:
         distance: 525.578
         leading: 0
         arrival: 21.1
-        time: 152.6
+        time: 115.7
       velocity:
         ss: 2016-05-10T18:00:26Z
         gs: 2016-05-10T18:00:00Z
@@ -3646,7 +3646,7 @@ score:
   - - - '117'
       - Robert Dallas
     - place: '10'
-      total: 693
+      total: 656
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -3655,7 +3655,7 @@ score:
         distance: 525.578
         leading: 0
         arrival: 18.2
-        time: 149.6
+        time: 112.1
       velocity:
         ss: 2016-05-10T18:03:14Z
         gs: 2016-05-10T18:00:00Z
@@ -3671,7 +3671,7 @@ score:
   - - - '115'
       - Andrew Hollidge
     - place: '11'
-      total: 687
+      total: 649
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -3680,7 +3680,7 @@ score:
         distance: 525.578
         leading: 0
         arrival: 16
-        time: 145.5
+        time: 107.2
       velocity:
         ss: 2016-05-10T18:01:02Z
         gs: 2016-05-10T18:00:00Z
@@ -3696,7 +3696,7 @@ score:
   - - - '101'
       - Davis Straub
     - place: '12'
-      total: 681
+      total: 642
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -3705,7 +3705,7 @@ score:
         distance: 525.578
         leading: 0
         arrival: 14.4
-        time: 141
+        time: 101.7
       velocity:
         ss: 2016-05-10T18:00:42Z
         gs: 2016-05-10T18:00:00Z
@@ -3721,7 +3721,7 @@ score:
   - - - '108'
       - Raul Guerra
     - place: '13'
-      total: 670
+      total: 629
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -3730,7 +3730,7 @@ score:
         distance: 525.578
         leading: 0
         arrival: 12.5
-        time: 131.8
+        time: 90.7
       velocity:
         ss: 2016-05-10T18:00:12Z
         gs: 2016-05-10T18:00:00Z
@@ -4446,14 +4446,14 @@ score:
 - - - - '128'
       - Zac Majors
     - place: '1'
-      total: 990
+      total: 988
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 83.8
+        leading: 82
         arrival: 67.2
         time: 376.4
       velocity:
@@ -4471,16 +4471,16 @@ score:
   - - - '138'
       - Jonny Durand
     - place: '2'
-      total: 886
+      total: 869
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 76.2
+        leading: 73.2
         arrival: 59
-        time: 288.4
+        time: 274.4
       velocity:
         ss: 2016-05-11T18:40:12Z
         gs: 2016-05-11T18:40:00Z
@@ -4496,16 +4496,16 @@ score:
   - - - '121'
       - Oleg Bondarchuk
     - place: '3'
-      total: 868
+      total: 849
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 83.9
+        leading: 82.2
         arrival: 51.7
-        time: 270.2
+        time: 253.2
       velocity:
         ss: 2016-05-11T18:42:10Z
         gs: 2016-05-11T18:40:00Z
@@ -4521,16 +4521,16 @@ score:
   - - - '131'
       - Robin Hamilton
     - place: '4'
-      total: 740
+      total: 703
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 75.4
+        leading: 72.2
         arrival: 39.5
-        time: 163
+        time: 128.9
       velocity:
         ss: 2016-05-11T18:40:20Z
         gs: 2016-05-11T18:40:00Z
@@ -4546,16 +4546,16 @@ score:
   - - - '102'
       - Richard lovelace
     - place: '5'
-      total: 733
+      total: 693
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 58.3
+        leading: 52.1
         arrival: 45.2
-        time: 167
+        time: 133.5
       velocity:
         ss: 2016-05-11T18:41:44Z
         gs: 2016-05-11T18:40:00Z
@@ -4571,16 +4571,16 @@ score:
   - - - '139'
       - Tullio Gervasoni
     - place: '6'
-      total: 727
+      total: 688
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 70.9
+        leading: 66.9
         arrival: 34.5
-        time: 159.2
+        time: 124.4
       velocity:
         ss: 2016-05-11T18:40:22Z
         gs: 2016-05-11T18:40:00Z
@@ -4596,16 +4596,16 @@ score:
   - - - '132'
       - James Stinnett
     - place: '7'
-      total: 651
+      total: 602
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 57.7
+        leading: 51.4
         arrival: 18.9
-        time: 112.1
+        time: 69.8
       velocity:
         ss: 2016-05-11T18:43:57Z
         gs: 2016-05-11T18:40:00Z
@@ -4621,16 +4621,16 @@ score:
   - - - '142'
       - John Simon
     - place: '8'
-      total: 635
+      total: 585
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 57.9
+        leading: 51.7
         arrival: 17.3
-        time: 97.8
+        time: 53.2
       velocity:
         ss: 2016-05-11T18:41:38Z
         gs: 2016-05-11T18:40:00Z
@@ -4646,16 +4646,16 @@ score:
   - - - '108'
       - Raul Guerra
     - place: '9'
-      total: 627
+      total: 573
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 64.5
+        leading: 59.4
         arrival: 30.2
-        time: 69.8
+        time: 20.7
       velocity:
         ss: 2016-05-11T18:24:34Z
         gs: 2016-05-11T18:20:00Z
@@ -4668,134 +4668,9 @@ score:
       reachDistance: 100.304 km
       landedDistance: 100.304 km
       stoppedAlt: null
-  - - - '120'
-      - Mike Glennon
-    - place: '10'
-      total: 620
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 231.146
-        effort: 231.146
-        distance: 462.292
-        leading: 65.4
-        arrival: 26.6
-        time: 65.8
-      velocity:
-        ss: 2016-05-11T18:28:54Z
-        gs: 2016-05-11T18:20:00Z
-        es: 2016-05-11T21:56:31Z
-        ssDistance: 95.704 km
-        ssElapsed: 3.460278 h
-        gsElapsed: 3.608611 h
-        ssVelocity: 27.66 km / h
-        gsVelocity: 26.52 km / h
-      reachDistance: 100.304 km
-      landedDistance: 100.304 km
-      stoppedAlt: null
-  - - - '104'
-      - Christian Pollet
-    - place: '11'
-      total: 616
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 231.146
-        effort: 231.146
-        distance: 462.292
-        leading: 71.4
-        arrival: 23.5
-        time: 58.9
-      velocity:
-        ss: 2016-05-11T18:29:27Z
-        gs: 2016-05-11T18:20:00Z
-        es: 2016-05-11T21:58:53Z
-        ssDistance: 95.704 km
-        ssElapsed: 3.490556 h
-        gsElapsed: 3.648056 h
-        ssVelocity: 27.42 km / h
-        gsVelocity: 26.23 km / h
-      reachDistance: 100.304 km
-      landedDistance: 100.304 km
-      stoppedAlt: null
-  - - - '123'
-      - JD Guillemette
-    - place: '12'
-      total: 611
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 231.146
-        effort: 231.146
-        distance: 462.292
-        leading: 55.2
-        arrival: 14.4
-        time: 79.6
-      velocity:
-        ss: 2016-05-11T18:41:51Z
-        gs: 2016-05-11T18:40:00Z
-        es: 2016-05-11T22:11:55Z
-        ssDistance: 95.704 km
-        ssElapsed: 3.501111 h
-        gsElapsed: 3.531944 h
-        ssVelocity: 27.34 km / h
-        gsVelocity: 27.10 km / h
-      reachDistance: 100.304 km
-      landedDistance: 100.304 km
-      stoppedAlt: null
-  - - - '127'
-      - Gerry Pesavento
-    - place: '13'
-      total: 594
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 231.146
-        effort: 231.146
-        distance: 462.292
-        leading: 51.5
-        arrival: 21
-        time: 58.8
-      velocity:
-        ss: 2016-05-11T18:34:13Z
-        gs: 2016-05-11T18:20:00Z
-        es: 2016-05-11T21:58:55Z
-        ssDistance: 95.704 km
-        ssElapsed: 3.411667 h
-        gsElapsed: 3.648611 h
-        ssVelocity: 28.05 km / h
-        gsVelocity: 26.23 km / h
-      reachDistance: 100.304 km
-      landedDistance: 100.304 km
-      stoppedAlt: null
-  - - - '113'
-      - Olav Opsanger
-    - place: '14'
-      total: 588
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 231.146
-        effort: 231.146
-        distance: 462.292
-        leading: 71
-        arrival: 16
-        time: 38.5
-      velocity:
-        ss: 2016-05-11T18:29:33Z
-        gs: 2016-05-11T18:20:00Z
-        es: 2016-05-11T22:05:59Z
-        ssDistance: 95.704 km
-        ssElapsed: 3.607222 h
-        gsElapsed: 3.766389 h
-        ssVelocity: 26.53 km / h
-        gsVelocity: 25.41 km / h
-      reachDistance: 100.304 km
-      landedDistance: 100.304 km
-      stoppedAlt: null
   - - - '135'
       - Misael Rosalez
-    - place: '15'
+    - place: '10'
       total: 570
       penalties: []
       penaltyReason: ''
@@ -4818,9 +4693,9 @@ score:
       reachDistance: 100.304 km
       landedDistance: 100.304 km
       stoppedAlt: null
-  - - - '112'
-      - Sergey Kataev
-    - place: '16'
+  - - - '120'
+      - Mike Glennon
+    - place: '11'
       total: 565
       penalties: []
       penaltyReason: ''
@@ -4828,32 +4703,132 @@ score:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 59.3
-        arrival: 15.1
-        time: 28
+        leading: 60.5
+        arrival: 26.6
+        time: 16.1
       velocity:
-        ss: 2016-05-11T18:28:57Z
+        ss: 2016-05-11T18:28:54Z
         gs: 2016-05-11T18:20:00Z
-        es: 2016-05-11T22:09:43Z
+        es: 2016-05-11T21:56:31Z
         ssDistance: 95.704 km
-        ssElapsed: 3.679444 h
-        gsElapsed: 3.828611 h
-        ssVelocity: 26.01 km / h
-        gsVelocity: 25.00 km / h
+        ssElapsed: 3.460278 h
+        gsElapsed: 3.608611 h
+        ssVelocity: 27.66 km / h
+        gsVelocity: 26.52 km / h
       reachDistance: 100.304 km
       landedDistance: 100.304 km
       stoppedAlt: null
-  - - - '150'
-      - Claudia Mejia
-    - place: '17'
-      total: 540
+  - - - '104'
+      - Christian Pollet
+    - place: '12'
+      total: 561
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 63.8
+        leading: 67.5
+        arrival: 23.5
+        time: 8.1
+      velocity:
+        ss: 2016-05-11T18:29:27Z
+        gs: 2016-05-11T18:20:00Z
+        es: 2016-05-11T21:58:53Z
+        ssDistance: 95.704 km
+        ssElapsed: 3.490556 h
+        gsElapsed: 3.648056 h
+        ssVelocity: 27.42 km / h
+        gsVelocity: 26.23 km / h
+      reachDistance: 100.304 km
+      landedDistance: 100.304 km
+      stoppedAlt: null
+  - - - '123'
+      - JD Guillemette
+    - place: '13'
+      total: 557
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 231.146
+        effort: 231.146
+        distance: 462.292
+        leading: 48.5
+        arrival: 14.4
+        time: 32
+      velocity:
+        ss: 2016-05-11T18:41:51Z
+        gs: 2016-05-11T18:40:00Z
+        es: 2016-05-11T22:11:55Z
+        ssDistance: 95.704 km
+        ssElapsed: 3.501111 h
+        gsElapsed: 3.531944 h
+        ssVelocity: 27.34 km / h
+        gsVelocity: 27.10 km / h
+      reachDistance: 100.304 km
+      landedDistance: 100.304 km
+      stoppedAlt: null
+  - - - '113'
+      - Olav Opsanger
+    - place: '14'
+      total: 545
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 231.146
+        effort: 231.146
+        distance: 462.292
+        leading: 67
+        arrival: 16
+        time: 0
+      velocity:
+        ss: 2016-05-11T18:29:33Z
+        gs: 2016-05-11T18:20:00Z
+        es: 2016-05-11T22:05:59Z
+        ssDistance: 95.704 km
+        ssElapsed: 3.607222 h
+        gsElapsed: 3.766389 h
+        ssVelocity: 26.53 km / h
+        gsVelocity: 25.41 km / h
+      reachDistance: 100.304 km
+      landedDistance: 100.304 km
+      stoppedAlt: null
+  - - - '127'
+      - Gerry Pesavento
+    - place: 15=
+      total: 535
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 231.146
+        effort: 231.146
+        distance: 462.292
+        leading: 44.1
+        arrival: 21
+        time: 7.9
+      velocity:
+        ss: 2016-05-11T18:34:13Z
+        gs: 2016-05-11T18:20:00Z
+        es: 2016-05-11T21:58:55Z
+        ssDistance: 95.704 km
+        ssElapsed: 3.411667 h
+        gsElapsed: 3.648611 h
+        ssVelocity: 28.05 km / h
+        gsVelocity: 26.23 km / h
+      reachDistance: 100.304 km
+      landedDistance: 100.304 km
+      stoppedAlt: null
+  - - - '150'
+      - Claudia Mejia
+    - place: 15=
+      total: 535
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 231.146
+        effort: 231.146
+        distance: 462.292
+        leading: 58.6
         arrival: 13.9
         time: 0
       velocity:
@@ -4868,17 +4843,42 @@ score:
       reachDistance: 100.304 km
       landedDistance: 100.304 km
       stoppedAlt: null
+  - - - '112'
+      - Sergey Kataev
+    - place: '17'
+      total: 531
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 231.146
+        effort: 231.146
+        distance: 462.292
+        leading: 53.3
+        arrival: 15.1
+        time: 0
+      velocity:
+        ss: 2016-05-11T18:28:57Z
+        gs: 2016-05-11T18:20:00Z
+        es: 2016-05-11T22:09:43Z
+        ssDistance: 95.704 km
+        ssElapsed: 3.679444 h
+        gsElapsed: 3.828611 h
+        ssVelocity: 26.01 km / h
+        gsVelocity: 25.00 km / h
+      reachDistance: 100.304 km
+      landedDistance: 100.304 km
+      stoppedAlt: null
   - - - '126'
       - Jeff Kannard
-    - place: 18=
-      total: 501
+    - place: '18'
+      total: 497
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 205.269
         effort: 223.608
         distance: 428.878
-        leading: 71.8
+        leading: 67.9
         arrival: 0
         time: 0
       velocity:
@@ -4895,15 +4895,15 @@ score:
       stoppedAlt: -6.000 m
   - - - '129'
       - Mike Jefferson
-    - place: 18=
-      total: 501
+    - place: '19'
+      total: 494
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 210.846
         effort: 231.146
         distance: 441.992
-        leading: 58.6
+        leading: 52.4
         arrival: 0
         time: 0
       velocity:
@@ -4921,14 +4921,14 @@ score:
   - - - '117'
       - Robert Dallas
     - place: '20'
-      total: 494
+      total: 488
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.65
         effort: 228.633
         distance: 435.283
-        leading: 58.7
+        leading: 52.6
         arrival: 0
         time: 0
       velocity:
@@ -4946,14 +4946,14 @@ score:
   - - - '111'
       - Patrick Kruse
     - place: '21'
-      total: 484
+      total: 479
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 200.568
         effort: 216.071
         distance: 416.639
-        leading: 67
+        leading: 62.4
         arrival: 0
         time: 0
       velocity:
@@ -4971,14 +4971,14 @@ score:
   - - - '125'
       - Larry Bunner
     - place: '22'
-      total: 479
+      total: 474
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 201.015
         effort: 216.071
         distance: 417.086
-        leading: 62
+        leading: 56.4
         arrival: 0
         time: 0
       velocity:
@@ -4996,14 +4996,14 @@ score:
   - - - '101'
       - Davis Straub
     - place: '23'
-      total: 456
+      total: 450
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 191.062
         effort: 206.021
         distance: 397.084
-        leading: 59.2
+        leading: 53.2
         arrival: 0
         time: 0
       velocity:
@@ -5021,14 +5021,14 @@ score:
   - - - '114'
       - Mick Howard
     - place: '24'
-      total: 422
+      total: 412
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 187.149
         effort: 193.459
         distance: 380.608
-        leading: 41
+        leading: 31.9
         arrival: 0
         time: 0
       velocity:
@@ -5046,14 +5046,14 @@ score:
   - - - '124'
       - Patrick Pannese
     - place: '25'
-      total: 396
+      total: 387
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 174.415
         effort: 178.384
         distance: 352.799
-        leading: 42.8
+        leading: 34
         arrival: 0
         time: 0
       velocity:
@@ -5071,14 +5071,14 @@ score:
   - - - '144'
       - Tom Lanning
     - place: '26'
-      total: 363
+      total: 353
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 159.123
         effort: 168.334
         distance: 327.457
-        leading: 35.6
+        leading: 25.5
         arrival: 0
         time: 0
       velocity:
@@ -5096,14 +5096,14 @@ score:
   - - - '115'
       - Andrew Hollidge
     - place: '27'
-      total: 360
+      total: 351
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 155.91
         effort: 160.797
         distance: 316.707
-        leading: 43.4
+        leading: 34.6
         arrival: 0
         time: 0
       velocity:
@@ -5121,14 +5121,14 @@ score:
   - - - '116'
       - Jeffery Bohl
     - place: '28'
-      total: 347
+      total: 338
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 155.408
         effort: 153.26
         distance: 308.668
-        leading: 38.8
+        leading: 29.3
         arrival: 0
         time: 0
       velocity:
@@ -5146,14 +5146,14 @@ score:
   - - - '106'
       - Fabiano Nahoum
     - place: '29'
-      total: 319
+      total: 313
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 146.577
         effort: 115.573
         distance: 262.15
-        leading: 57.3
+        leading: 50.9
         arrival: 0
         time: 0
       velocity:
@@ -5171,14 +5171,14 @@ score:
   - - - '143'
       - Anna Eppink
     - place: '30'
-      total: 318
+      total: 306
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 149.407
         effort: 143.21
         distance: 292.617
-        leading: 25.5
+        leading: 13.7
         arrival: 0
         time: 0
       velocity:
@@ -5196,14 +5196,14 @@ score:
   - - - '119'
       - Bart Weghorst
     - place: '31'
-      total: 315
+      total: 305
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 146.838
         effort: 130.648
         distance: 277.485
-        leading: 37.4
+        leading: 27.6
         arrival: 0
         time: 0
       velocity:
@@ -5221,14 +5221,14 @@ score:
   - - - '103'
       - Matt Christensen
     - place: '32'
-      total: 275
+      total: 264
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 144.782
         effort: 100.498
         distance: 245.28
-        leading: 29.6
+        leading: 18.5
         arrival: 0
         time: 0
       velocity:
@@ -5246,14 +5246,14 @@ score:
   - - - '141'
       - Patrick Halfhill
     - place: '33'
-      total: 239
+      total: 227
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 134.903
         effort: 82.911
         distance: 217.814
-        leading: 21.4
+        leading: 8.9
         arrival: 0
         time: 0
       velocity:
@@ -5271,14 +5271,14 @@ score:
   - - - '146'
       - Peter Kelley
     - place: '34'
-      total: 194
+      total: 184
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 120.772
         effort: 62.811
         distance: 183.583
-        leading: 10.3
+        leading: 0
         arrival: 0
         time: 0
       velocity:
@@ -5296,14 +5296,14 @@ score:
   - - - '133'
       - Olav Olsen
     - place: '35'
-      total: 169
+      total: 156
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 100.472
         effort: 50.249
         distance: 150.721
-        leading: 18.2
+        leading: 5.2
         arrival: 0
         time: 0
       velocity:
@@ -5346,14 +5346,14 @@ score:
   - - - '140'
       - Bill Vickery
     - place: '37'
-      total: 150
+      total: 137
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 95.234
         effort: 37.687
         distance: 132.921
-        leading: 17.4
+        leading: 4.2
         arrival: 0
         time: 0
       velocity:
@@ -5478,7 +5478,7 @@ score:
         reach: 376.66
         effort: 376.66
         distance: 753.32
-        leading: 27.2
+        leading: 27.5
         arrival: 30.8
         time: 172.7
       velocity:
@@ -5496,14 +5496,14 @@ score:
   - - - '131'
       - Robin Hamilton
     - place: '2'
-      total: 970
+      total: 971
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 376.66
         effort: 376.66
         distance: 753.32
-        leading: 26.9
+        leading: 27.1
         arrival: 17.5
         time: 172.7
       velocity:
@@ -5521,16 +5521,16 @@ score:
   - - - '139'
       - Tullio Gervasoni
     - place: '3'
-      total: 950
+      total: 949
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 376.66
         effort: 376.66
         distance: 753.32
-        leading: 25.1
+        leading: 25.4
         arrival: 10.2
-        time: 161.6
+        time: 159.8
       velocity:
         ss: 2016-05-12T19:30:22Z
         gs: 2016-05-12T19:30:00Z
@@ -5546,16 +5546,16 @@ score:
   - - - '132'
       - James Stinnett
     - place: '4'
-      total: 942
+      total: 940
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 376.66
         effort: 376.66
         distance: 753.32
-        leading: 24.7
+        leading: 25
         arrival: 7
-        time: 157.4
+        time: 154.9
       velocity:
         ss: 2016-05-12T19:30:33Z
         gs: 2016-05-12T19:30:00Z
@@ -5571,14 +5571,14 @@ score:
   - - - '113'
       - Olav Opsanger
     - place: '5'
-      total: 771
+      total: 772
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 370.461
         effort: 376.66
         distance: 747.121
-        leading: 24.2
+        leading: 24.6
         arrival: 0
         time: 0
       velocity:
@@ -5603,7 +5603,7 @@ score:
         reach: 345.874
         effort: 373.073
         distance: 718.947
-        leading: 20.2
+        leading: 20.5
         arrival: 0
         time: 0
       velocity:
@@ -5628,7 +5628,7 @@ score:
         reach: 344.054
         effort: 365.899
         distance: 709.952
-        leading: 13.8
+        leading: 14.2
         arrival: 0
         time: 0
       velocity:
@@ -5646,14 +5646,14 @@ score:
   - - - '111'
       - Patrick Kruse
     - place: '8'
-      total: 714
+      total: 715
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 334.316
         effort: 355.137
         distance: 689.453
-        leading: 24.9
+        leading: 25.2
         arrival: 0
         time: 0
       velocity:
@@ -5671,14 +5671,14 @@ score:
   - - - '110'
       - Cory Barnwell
     - place: '9'
-      total: 703
+      total: 704
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 335.163
         effort: 355.137
         distance: 690.3
-        leading: 12.7
+        leading: 13.2
         arrival: 0
         time: 0
       velocity:
@@ -5703,7 +5703,7 @@ score:
         reach: 333.305
         effort: 344.375
         distance: 677.68
-        leading: 20.8
+        leading: 21.2
         arrival: 0
         time: 0
       velocity:
@@ -5753,7 +5753,7 @@ score:
         reach: 322.474
         effort: 330.026
         distance: 652.5
-        leading: 20.5
+        leading: 20.9
         arrival: 0
         time: 0
       velocity:
@@ -5778,7 +5778,7 @@ score:
         reach: 310.272
         effort: 290.566
         distance: 600.838
-        leading: 39.4
+        leading: 39.5
         arrival: 0
         time: 0
       velocity:
@@ -5821,14 +5821,14 @@ score:
   - - - '128'
       - Zac Majors
     - place: '15'
-      total: 589
+      total: 590
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 299.946
         effort: 251.107
         distance: 551.053
-        leading: 38.4
+        leading: 38.5
         arrival: 0
         time: 0
       velocity:
@@ -5853,7 +5853,7 @@ score:
         reach: 294.127
         effort: 233.171
         distance: 527.297
-        leading: 20.8
+        leading: 21.2
         arrival: 0
         time: 0
       velocity:
@@ -5878,7 +5878,7 @@ score:
         reach: 281.488
         effort: 215.234
         distance: 496.723
-        leading: 18.9
+        leading: 19.3
         arrival: 0
         time: 0
       velocity:
@@ -5903,7 +5903,7 @@ score:
         reach: 282.91
         effort: 215.234
         distance: 498.145
-        leading: 17.4
+        leading: 17.8
         arrival: 0
         time: 0
       velocity:
@@ -5928,7 +5928,7 @@ score:
         reach: 268.812
         effort: 197.298
         distance: 466.11
-        leading: 19.4
+        leading: 19.8
         arrival: 0
         time: 0
       velocity:
@@ -5953,7 +5953,7 @@ score:
         reach: 270.506
         effort: 197.298
         distance: 467.804
-        leading: 16.2
+        leading: 16.6
         arrival: 0
         time: 0
       velocity:
@@ -5978,7 +5978,7 @@ score:
         reach: 271.466
         effort: 186.536
         distance: 458.003
-        leading: 21.8
+        leading: 22.1
         arrival: 0
         time: 0
       velocity:
@@ -6003,7 +6003,7 @@ score:
         reach: 273.469
         effort: 186.536
         distance: 460.006
-        leading: 17.9
+        leading: 18.3
         arrival: 0
         time: 0
       velocity:
@@ -6028,7 +6028,7 @@ score:
         reach: 269.141
         effort: 186.536
         distance: 455.677
-        leading: 19
+        leading: 19.4
         arrival: 0
         time: 0
       velocity:
@@ -6046,14 +6046,14 @@ score:
   - - - '106'
       - Fabiano Nahoum
     - place: '24'
-      total: 470
+      total: 471
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 267.656
         effort: 172.188
         distance: 439.843
-        leading: 30.5
+        leading: 30.7
         arrival: 0
         time: 0
       velocity:
@@ -6078,7 +6078,7 @@ score:
         reach: 269.318
         effort: 172.188
         distance: 441.505
-        leading: 22.1
+        leading: 22.5
         arrival: 0
         time: 0
       velocity:
@@ -6096,14 +6096,14 @@ score:
   - - - '150'
       - Claudia Mejia
     - place: '26'
-      total: 453
+      total: 454
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 267.605
         effort: 172.188
         distance: 439.793
-        leading: 13.2
+        leading: 13.7
         arrival: 0
         time: 0
       velocity:
@@ -6120,15 +6120,15 @@ score:
       stoppedAlt: 1.000 m
   - - - '119'
       - Bart Weghorst
-    - place: 27=
-      total: 424
+    - place: '27'
+      total: 425
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 245.223
         effort: 154.251
         distance: 399.474
-        leading: 24.9
+        leading: 25.2
         arrival: 0
         time: 0
       velocity:
@@ -6145,7 +6145,7 @@ score:
       stoppedAlt: -4.000 m
   - - - '115'
       - Andrew Hollidge
-    - place: 27=
+    - place: '28'
       total: 424
       penalties: []
       penaltyReason: ''
@@ -6153,7 +6153,7 @@ score:
         reach: 245.217
         effort: 154.251
         distance: 399.468
-        leading: 24.7
+        leading: 25
         arrival: 0
         time: 0
       velocity:
@@ -6171,14 +6171,14 @@ score:
   - - - '135'
       - Misael Rosalez
     - place: '29'
-      total: 422
+      total: 423
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 245.293
         effort: 154.251
         distance: 399.544
-        leading: 22.8
+        leading: 23.1
         arrival: 0
         time: 0
       velocity:
@@ -6203,7 +6203,7 @@ score:
         reach: 242.752
         effort: 139.902
         distance: 382.655
-        leading: 20.9
+        leading: 21.3
         arrival: 0
         time: 0
       velocity:
@@ -6228,7 +6228,7 @@ score:
         reach: 178.866
         effort: 121.966
         distance: 300.832
-        leading: 6
+        leading: 6.6
         arrival: 0
         time: 0
       velocity:
@@ -6246,14 +6246,14 @@ score:
   - - - '101'
       - Davis Straub
     - place: '32'
-      total: 305
+      total: 306
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 178.437
         effort: 121.966
         distance: 300.403
-        leading: 4.9
+        leading: 5.5
         arrival: 0
         time: 0
       velocity:
@@ -6296,14 +6296,14 @@ score:
   - - - '120'
       - Mike Glennon
     - place: '34'
-      total: 273
+      total: 274
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 160.44
         effort: 111.204
         distance: 271.644
-        leading: 1.3
+        leading: 2
         arrival: 0
         time: 0
       velocity:
@@ -6353,7 +6353,7 @@ score:
         reach: 158.057
         effort: 86.094
         distance: 244.151
-        leading: 0
+        leading: 0.3
         arrival: 0
         time: 0
       velocity:
@@ -6496,14 +6496,14 @@ score:
 - - - - '138'
       - Jonny Durand
     - place: '1'
-      total: 886
+      total: 884
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 33.8
+        leading: 31.5
         arrival: 71.8
         time: 401.9
       velocity:
@@ -6521,16 +6521,16 @@ score:
   - - - '142'
       - John Simon
     - place: '2'
-      total: 805
+      total: 797
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 30.8
+        leading: 28.5
         arrival: 59.1
-        time: 336.3
+        time: 330.9
       velocity:
         ss: 2016-05-13T18:24:26Z
         gs: 2016-05-13T18:20:00Z
@@ -6546,7 +6546,7 @@ score:
   - - - '101'
       - Davis Straub
     - place: '3'
-      total: 772
+      total: 758
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -6555,7 +6555,7 @@ score:
         distance: 378.573
         leading: 100.5
         arrival: 65.2
-        time: 227.7
+        time: 213.3
       velocity:
         ss: 2016-05-13T17:58:50Z
         gs: 2016-05-13T18:00:00Z
@@ -6571,16 +6571,16 @@ score:
   - - - '132'
       - James Stinnett
     - place: '4'
-      total: 714
+      total: 700
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 18.8
+        leading: 16.1
         arrival: 39.8
-        time: 276.5
+        time: 266.1
       velocity:
         ss: 2016-05-13T18:22:04Z
         gs: 2016-05-13T18:20:00Z
@@ -6596,16 +6596,16 @@ score:
   - - - '121'
       - Oleg Bondarchuk
     - place: '5'
-      total: 704
+      total: 687
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 65.6
+        leading: 64.4
         arrival: 53.6
-        time: 206.7
+        time: 190.5
       velocity:
         ss: 2016-05-13T18:00:24Z
         gs: 2016-05-13T18:00:00Z
@@ -6621,16 +6621,16 @@ score:
   - - - '104'
       - Christian Pollet
     - place: '6'
-      total: 681
+      total: 662
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 70.8
+        leading: 69.8
         arrival: 48.5
-        time: 183.3
+        time: 165.2
       velocity:
         ss: 2016-05-13T18:00:14Z
         gs: 2016-05-13T18:00:00Z
@@ -6646,16 +6646,16 @@ score:
   - - - '128'
       - Zac Majors
     - place: '7'
-      total: 660
+      total: 642
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 22.6
+        leading: 20
         arrival: 32.7
-        time: 225.8
+        time: 211.2
       velocity:
         ss: 2016-05-13T18:24:23Z
         gs: 2016-05-13T18:20:00Z
@@ -6671,16 +6671,16 @@ score:
   - - - '131'
       - Robin Hamilton
     - place: '8'
-      total: 647
+      total: 626
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 50.7
+        leading: 49
         arrival: 43.9
-        time: 173.7
+        time: 154.8
       velocity:
         ss: 2016-05-13T18:02:40Z
         gs: 2016-05-13T18:00:00Z
@@ -6696,16 +6696,16 @@ score:
   - - - '111'
       - Patrick Kruse
     - place: '9'
-      total: 639
+      total: 618
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 54.1
+        leading: 52.6
         arrival: 36
-        time: 170.3
+        time: 151.1
       velocity:
         ss: 2016-05-13T18:00:41Z
         gs: 2016-05-13T18:00:00Z
@@ -6721,16 +6721,16 @@ score:
   - - - '135'
       - Misael Rosalez
     - place: '10'
-      total: 593
+      total: 569
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 65.4
+        leading: 64.2
         arrival: 27
-        time: 122.2
+        time: 99
       velocity:
         ss: 2016-05-13T18:00:23Z
         gs: 2016-05-13T18:00:00Z
@@ -6746,16 +6746,16 @@ score:
   - - - '103'
       - Matt Christensen
     - place: '11'
-      total: 579
+      total: 553
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 66.1
+        leading: 65
         arrival: 22.7
-        time: 111.3
+        time: 87.2
       velocity:
         ss: 2016-05-13T18:00:22Z
         gs: 2016-05-13T18:00:00Z
@@ -6771,16 +6771,16 @@ score:
   - - - '124'
       - Patrick Pannese
     - place: '12'
-      total: 573
+      total: 548
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 47.9
+        leading: 46.1
         arrival: 24.7
-        time: 121.6
+        time: 98.3
       velocity:
         ss: 2016-05-13T17:58:42Z
         gs: 2016-05-13T18:00:00Z
@@ -6796,16 +6796,16 @@ score:
   - - - '106'
       - Fabiano Nahoum
     - place: '13'
-      total: 565
+      total: 541
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 15.5
+        leading: 12.7
         arrival: 19.5
-        time: 151.2
+        time: 130.4
       velocity:
         ss: 2016-05-13T18:24:27Z
         gs: 2016-05-13T18:20:00Z
@@ -6821,16 +6821,16 @@ score:
   - - - '102'
       - Richard lovelace
     - place: '14'
-      total: 530
+      total: 504
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 9.8
+        leading: 6.7
         arrival: 18.3
-        time: 123.3
+        time: 100.2
       velocity:
         ss: 2016-05-13T18:20:22Z
         gs: 2016-05-13T18:20:00Z
@@ -6846,7 +6846,7 @@ score:
   - - - '115'
       - Andrew Hollidge
     - place: '15'
-      total: 522
+      total: 499
       penalties:
       - penalty-points: 16
       penaltyReason: FS would not process file correctly.
@@ -6856,7 +6856,7 @@ score:
         distance: 378.573
         leading: 0
         arrival: 29.7
-        time: 129.3
+        time: 106.7
       velocity:
         ss: 2016-05-13T18:00:00Z
         gs: 2016-05-13T18:00:00Z
@@ -6872,16 +6872,16 @@ score:
   - - - '113'
       - Olav Opsanger
     - place: '16'
-      total: 514
+      total: 486
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 18.2
+        leading: 15.4
         arrival: 16.5
-        time: 100.4
+        time: 75.4
       velocity:
         ss: 2016-05-13T18:24:26Z
         gs: 2016-05-13T18:20:00Z
@@ -6897,16 +6897,16 @@ score:
   - - - '127'
       - Gerry Pesavento
     - place: '17'
-      total: 513
+      total: 484
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 37.5
+        leading: 35.4
         arrival: 21
-        time: 76.2
+        time: 49.2
       velocity:
         ss: 2016-05-13T18:00:46Z
         gs: 2016-05-13T18:00:00Z
@@ -6922,16 +6922,16 @@ score:
   - - - '123'
       - JD Guillemette
     - place: '18'
-      total: 476
+      total: 445
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 9.2
+        leading: 6.1
         arrival: 15.8
-        time: 72.3
+        time: 44.9
       velocity:
         ss: 2016-05-13T18:24:38Z
         gs: 2016-05-13T18:20:00Z
@@ -6944,67 +6944,17 @@ score:
       reachDistance: 69.861 km
       landedDistance: 69.861 km
       stoppedAlt: null
-  - - - '114'
-      - Mick Howard
-    - place: '19'
-      total: 451
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 189.287
-        effort: 189.287
-        distance: 378.573
-        leading: 8.5
-        arrival: 15
-        time: 49.1
-      velocity:
-        ss: 2016-05-13T18:22:00Z
-        gs: 2016-05-13T18:20:00Z
-        es: 2016-05-13T20:59:28Z
-        ssDistance: 37.674 km
-        ssElapsed: 2.624444 h
-        gsElapsed: 2.657778 h
-        ssVelocity: 14.36 km / h
-        gsVelocity: 14.18 km / h
-      reachDistance: 69.861 km
-      landedDistance: 69.861 km
-      stoppedAlt: null
-  - - - '150'
-      - Claudia Mejia
-    - place: '20'
-      total: 449
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 189.287
-        effort: 189.287
-        distance: 378.573
-        leading: 27.1
-        arrival: 17.3
-        time: 26.4
-      velocity:
-        ss: 2016-05-13T18:04:57Z
-        gs: 2016-05-13T18:00:00Z
-        es: 2016-05-13T20:45:36Z
-        ssDistance: 37.674 km
-        ssElapsed: 2.677500 h
-        gsElapsed: 2.760000 h
-        ssVelocity: 14.07 km / h
-        gsVelocity: 13.65 km / h
-      reachDistance: 69.861 km
-      landedDistance: 69.861 km
-      stoppedAlt: null
   - - - '133'
       - Olav Olsen
-    - place: '21'
-      total: 430
+    - place: '19'
+      total: 428
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 36.6
+        leading: 34.5
         arrival: 14.5
         time: 0
       velocity:
@@ -7019,17 +6969,67 @@ score:
       reachDistance: 69.861 km
       landedDistance: 69.861 km
       stoppedAlt: null
-  - - - '119'
-      - Bart Weghorst
-    - place: '22'
-      total: 408
+  - - - '150'
+      - Claudia Mejia
+    - place: '20'
+      total: 420
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 13.9
+        leading: 24.6
+        arrival: 17.3
+        time: 0
+      velocity:
+        ss: 2016-05-13T18:04:57Z
+        gs: 2016-05-13T18:00:00Z
+        es: 2016-05-13T20:45:36Z
+        ssDistance: 37.674 km
+        ssElapsed: 2.677500 h
+        gsElapsed: 2.760000 h
+        ssVelocity: 14.07 km / h
+        gsVelocity: 13.65 km / h
+      reachDistance: 69.861 km
+      landedDistance: 69.861 km
+      stoppedAlt: null
+  - - - '114'
+      - Mick Howard
+    - place: '21'
+      total: 419
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 189.287
+        effort: 189.287
+        distance: 378.573
+        leading: 5.4
+        arrival: 15
+        time: 19.8
+      velocity:
+        ss: 2016-05-13T18:22:00Z
+        gs: 2016-05-13T18:20:00Z
+        es: 2016-05-13T20:59:28Z
+        ssDistance: 37.674 km
+        ssElapsed: 2.624444 h
+        gsElapsed: 2.657778 h
+        ssVelocity: 14.36 km / h
+        gsVelocity: 14.18 km / h
+      reachDistance: 69.861 km
+      landedDistance: 69.861 km
+      stoppedAlt: null
+  - - - '119'
+      - Bart Weghorst
+    - place: '22'
+      total: 405
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 189.287
+        effort: 189.287
+        distance: 378.573
+        leading: 11
         arrival: 15.3
         time: 0
       velocity:
@@ -7047,14 +7047,14 @@ score:
   - - - '117'
       - Robert Dallas
     - place: '23'
-      total: 400
+      total: 396
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 6.3
+        leading: 3.1
         arrival: 14.7
         time: 0
       velocity:
@@ -7072,14 +7072,14 @@ score:
   - - - '144'
       - Tom Lanning
     - place: '24'
-      total: 362
+      total: 360
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 142.258
         effort: 182.276
         distance: 324.534
-        leading: 37.2
+        leading: 35.1
         arrival: 0
         time: 0
       velocity:
@@ -7097,14 +7097,14 @@ score:
   - - - '139'
       - Tullio Gervasoni
     - place: '25'
-      total: 328
+      total: 326
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 140.738
         effort: 161.244
         distance: 301.982
-        leading: 26.1
+        leading: 23.5
         arrival: 0
         time: 0
       velocity:
@@ -7147,14 +7147,14 @@ score:
   - - - '108'
       - Raul Guerra
     - place: '27'
-      total: 256
+      total: 253
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 111.598
         effort: 140.212
         distance: 251.81
-        leading: 4.5
+        leading: 1.2
         arrival: 0
         time: 0
       velocity:
@@ -7323,16 +7323,16 @@ scoreDf:
   - - - '121'
       - Oleg Bondarchuk
     - place: '2'
-      total: 888
+      total: 867
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 73.1
+        leading: 70.6
         arrival: 59.7
-        time: 295.4
+        time: 276.4
       velocity:
         ss: 2016-05-07T17:50:36Z
         gs: 2016-05-07T17:50:00Z
@@ -7348,16 +7348,16 @@ scoreDf:
   - - - '139'
       - Tullio Gervasoni
     - place: '3'
-      total: 873
+      total: 850
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 85
+        leading: 83.9
         arrival: 46.4
-        time: 281.9
+        time: 259.8
       velocity:
         ss: 2016-05-07T17:50:12Z
         gs: 2016-05-07T17:50:00Z
@@ -7373,16 +7373,16 @@ scoreDf:
   - - - '131'
       - Robin Hamilton
     - place: '4'
-      total: 868
+      total: 845
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 85.8
+        leading: 84.8
         arrival: 40.8
-        time: 281.4
+        time: 259.2
       velocity:
         ss: 2016-05-07T17:50:03Z
         gs: 2016-05-07T17:50:00Z
@@ -7398,16 +7398,16 @@ scoreDf:
   - - - '113'
       - Olav Opsanger
     - place: '5'
-      total: 865
+      total: 840
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 68.4
+        leading: 65.4
         arrival: 52.6
-        time: 283.4
+        time: 261.7
       velocity:
         ss: 2016-05-07T17:50:33Z
         gs: 2016-05-07T17:50:00Z
@@ -7423,16 +7423,16 @@ scoreDf:
   - - - '115'
       - Andrew Hollidge
     - place: '6'
-      total: 844
+      total: 818
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 67.4
+        leading: 64.3
         arrival: 36
-        time: 280.2
+        time: 257.7
       velocity:
         ss: 2016-05-07T17:50:18Z
         gs: 2016-05-07T17:50:00Z
@@ -7448,16 +7448,16 @@ scoreDf:
   - - - '128'
       - Zac Majors
     - place: '7'
-      total: 834
+      total: 806
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 74
+        leading: 71.7
         arrival: 31.7
-        time: 268
+        time: 242.6
       velocity:
         ss: 2016-05-07T17:50:12Z
         gs: 2016-05-07T17:50:00Z
@@ -7473,16 +7473,16 @@ scoreDf:
   - - - '125'
       - Larry Bunner
     - place: '8'
-      total: 817
+      total: 787
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 66.7
+        leading: 63.5
         arrival: 28
-        time: 262.4
+        time: 235.8
       velocity:
         ss: 2016-05-07T17:50:18Z
         gs: 2016-05-07T17:50:00Z
@@ -7498,16 +7498,16 @@ scoreDf:
   - - - '107'
       - Malcolm Brown
     - place: '9'
-      total: 814
+      total: 784
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 68.6
+        leading: 65.6
         arrival: 24.9
-        time: 260.7
+        time: 233.7
       velocity:
         ss: 2016-05-07T17:50:31Z
         gs: 2016-05-07T17:50:00Z
@@ -7523,16 +7523,16 @@ scoreDf:
   - - - '132'
       - James Stinnett
     - place: '10'
-      total: 809
+      total: 778
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 66.8
+        leading: 63.7
         arrival: 22.3
-        time: 259.3
+        time: 232
       velocity:
         ss: 2016-05-07T17:50:22Z
         gs: 2016-05-07T17:50:00Z
@@ -7548,16 +7548,16 @@ scoreDf:
   - - - '119'
       - Bart Weghorst
     - place: '11'
-      total: 794
+      total: 761
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 67.8
+        leading: 64.7
         arrival: 16.9
-        time: 249.3
+        time: 219.7
       velocity:
         ss: 2016-05-07T17:50:23Z
         gs: 2016-05-07T17:50:00Z
@@ -7573,16 +7573,16 @@ scoreDf:
   - - - '133'
       - Olav Olsen
     - place: '12'
-      total: 779
+      total: 744
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 48.8
+        leading: 43.6
         arrival: 18.3
-        time: 251.4
+        time: 222.3
       velocity:
         ss: 2016-05-07T17:59:56Z
         gs: 2016-05-07T17:50:00Z
@@ -7598,16 +7598,16 @@ scoreDf:
   - - - '111'
       - Patrick Kruse
     - place: '13'
-      total: 751
+      total: 709
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 63.6
+        leading: 60
         arrival: 15
-        time: 212.2
+        time: 174
       velocity:
         ss: 2016-05-07T17:50:04Z
         gs: 2016-05-07T17:50:00Z
@@ -7623,16 +7623,16 @@ scoreDf:
   - - - '127'
       - Gerry Pesavento
     - place: '14'
-      total: 739
+      total: 695
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 61.2
+        leading: 57.4
         arrival: 14.4
-        time: 203.4
+        time: 163.2
       velocity:
         ss: 2016-05-07T17:50:22Z
         gs: 2016-05-07T17:50:00Z
@@ -7648,16 +7648,16 @@ scoreDf:
   - - - '114'
       - Mick Howard
     - place: '15'
-      total: 734
+      total: 689
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 60.4
+        leading: 56.5
         arrival: 13.9
-        time: 199.7
+        time: 158.7
       velocity:
         ss: 2016-05-07T17:51:25Z
         gs: 2016-05-07T17:50:00Z
@@ -7673,16 +7673,16 @@ scoreDf:
   - - - '109'
       - Michael Williams
     - place: '16'
-      total: 731
+      total: 685
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 64
+        leading: 60.4
         arrival: 13.7
-        time: 193.4
+        time: 150.9
       velocity:
         ss: 2016-05-07T17:53:37Z
         gs: 2016-05-07T17:50:00Z
@@ -7698,16 +7698,16 @@ scoreDf:
   - - - '142'
       - John Simon
     - place: '17'
-      total: 726
+      total: 678
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 62.1
+        leading: 58.4
         arrival: 20.1
-        time: 184.1
+        time: 139.5
       velocity:
         ss: 2016-05-07T17:49:59Z
         gs: 2016-05-07T17:30:00Z
@@ -7723,16 +7723,16 @@ scoreDf:
   - - - '106'
       - Fabiano Nahoum
     - place: '18'
-      total: 691
+      total: 636
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 230.067
         effort: 230.067
         distance: 460.134
-        leading: 55
+        leading: 50.4
         arrival: 15.8
-        time: 160.1
+        time: 110
       velocity:
         ss: 2016-05-07T17:48:18Z
         gs: 2016-05-07T17:30:00Z
@@ -7748,14 +7748,14 @@ scoreDf:
   - - - '135'
       - Misael Rosalez
     - place: '19'
-      total: 497
+      total: 492
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 213.077
         effort: 230.067
         distance: 443.145
-        leading: 53.6
+        leading: 48.8
         arrival: 0
         time: 0
       velocity:
@@ -7773,14 +7773,14 @@ scoreDf:
   - - - '120'
       - Mike Glennon
     - place: '20'
-      total: 476
+      total: 472
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 191.916
         effort: 223.165
         distance: 415.081
-        leading: 60.9
+        leading: 57
         arrival: 0
         time: 0
       velocity:
@@ -7798,14 +7798,14 @@ scoreDf:
   - - - '143'
       - Anna Eppink
     - place: '21'
-      total: 453
+      total: 448
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 187.1
         effort: 216.263
         distance: 403.363
-        leading: 49.6
+        leading: 44.4
         arrival: 0
         time: 0
       velocity:
@@ -7823,14 +7823,14 @@ scoreDf:
   - - - '146'
       - Peter Kelley
     - place: '22'
-      total: 447
+      total: 438
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 199.76
         effort: 227.767
         distance: 427.527
-        leading: 19.4
+        leading: 10.8
         arrival: 0
         time: 0
       velocity:
@@ -7848,14 +7848,14 @@ scoreDf:
   - - - '110'
       - Cory Barnwell
     - place: '23'
-      total: 370
+      total: 361
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 150.315
         effort: 207.06
         distance: 357.375
-        leading: 12.9
+        leading: 3.5
         arrival: 0
         time: 0
       velocity:
@@ -7873,14 +7873,14 @@ scoreDf:
   - - - '150'
       - Claudia Mejia
     - place: '24'
-      total: 355
+      total: 347
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 142.591
         effort: 204.76
         distance: 347.351
-        leading: 7.7
+        leading: 0
         arrival: 0
         time: 0
       velocity:
@@ -7948,14 +7948,14 @@ scoreDf:
   - - - '140'
       - Bill Vickery
     - place: '27'
-      total: 319
+      total: 316
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 131.907
         effort: 184.054
         distance: 315.961
-        leading: 2.6
+        leading: 0
         arrival: 0
         time: 0
       velocity:
@@ -7973,14 +7973,14 @@ scoreDf:
   - - - '123'
       - JD Guillemette
     - place: '28'
-      total: 307
+      total: 298
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 119.535
         effort: 172.55
         distance: 292.085
-        leading: 15.1
+        leading: 6
         arrival: 0
         time: 0
       velocity:
@@ -7995,34 +7995,9 @@ scoreDf:
       reachDistance: 83.155 km
       landedDistance: 82.933 km
       stoppedAlt: 41.000 m
-  - - - '102'
-      - Richard lovelace
-    - place: '29'
-      total: 298
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 118.441
-        effort: 161.047
-        distance: 279.488
-        leading: 18.8
-        arrival: 0
-        time: 0
-      velocity:
-        ss: 2016-05-07T17:48:57Z
-        gs: 2016-05-07T17:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reachDistance: 82.394 km
-      landedDistance: 82.082 km
-      stoppedAlt: 29.000 m
   - - - '104'
       - Christian Pollet
-    - place: '30'
+    - place: '29'
       total: 292
       penalties: []
       penaltyReason: ''
@@ -8045,17 +8020,42 @@ scoreDf:
       reachDistance: 83.330 km
       landedDistance: 82.957 km
       stoppedAlt: 42.000 m
+  - - - '102'
+      - Richard lovelace
+    - place: '30'
+      total: 290
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 118.441
+        effort: 161.047
+        distance: 279.488
+        leading: 10.1
+        arrival: 0
+        time: 0
+      velocity:
+        ss: 2016-05-07T17:48:57Z
+        gs: 2016-05-07T17:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reachDistance: 82.394 km
+      landedDistance: 82.082 km
+      stoppedAlt: 29.000 m
   - - - '124'
       - Patrick Pannese
     - place: '31'
-      total: 266
+      total: 258
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 110.496
         effort: 147.243
         distance: 257.739
-        leading: 8.6
+        leading: 0
         arrival: 0
         time: 0
       velocity:
@@ -8073,14 +8073,14 @@ scoreDf:
   - - - '108'
       - Raul Guerra
     - place: '32'
-      total: 256
+      total: 246
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 110.757
         effort: 135.74
         distance: 246.497
-        leading: 9.6
+        leading: 0
         arrival: 0
         time: 0
       velocity:
@@ -8348,14 +8348,14 @@ scoreDf:
 - - - - '113'
       - Olav Opsanger
     - place: '1'
-      total: 929
+      total: 924
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 21
+        leading: 15.7
         arrival: 65.8
         time: 368.7
       velocity:
@@ -8373,16 +8373,16 @@ scoreDf:
   - - - '125'
       - Larry Bunner
     - place: '2'
-      total: 884
+      total: 870
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 18.4
+        leading: 13
         arrival: 57.8
-        time: 334.7
+        time: 326
       velocity:
         ss: 2016-05-08T17:32:24Z
         gs: 2016-05-08T17:30:00Z
@@ -8398,16 +8398,16 @@ scoreDf:
   - - - '139'
       - Tullio Gervasoni
     - place: '3'
-      total: 866
+      total: 849
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 20
+        leading: 14.7
         arrival: 50.6
-        time: 322.1
+        time: 310.3
       velocity:
         ss: 2016-05-08T17:31:09Z
         gs: 2016-05-08T17:30:00Z
@@ -8423,16 +8423,16 @@ scoreDf:
   - - - '121'
       - Oleg Bondarchuk
     - place: '4'
-      total: 836
+      total: 813
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 20.7
+        leading: 15.5
         arrival: 44.3
-        time: 297.8
+        time: 279.8
       velocity:
         ss: 2016-05-08T17:31:14Z
         gs: 2016-05-08T17:30:00Z
@@ -8448,16 +8448,16 @@ scoreDf:
   - - - '138'
       - Jonny Durand
     - place: '5'
-      total: 825
+      total: 801
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 19.1
+        leading: 13.7
         arrival: 38.7
-        time: 294.3
+        time: 275.5
       velocity:
         ss: 2016-05-08T17:30:12Z
         gs: 2016-05-08T17:30:00Z
@@ -8473,16 +8473,16 @@ scoreDf:
   - - - '111'
       - Patrick Kruse
     - place: '6'
-      total: 794
+      total: 764
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 14
+        leading: 8.2
         arrival: 33.8
-        time: 273.1
+        time: 248.9
       velocity:
         ss: 2016-05-08T17:32:25Z
         gs: 2016-05-08T17:30:00Z
@@ -8498,16 +8498,16 @@ scoreDf:
   - - - '132'
       - James Stinnett
     - place: '7'
-      total: 784
+      total: 752
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 15.4
+        leading: 9.8
         arrival: 29.6
-        time: 265.9
+        time: 239.9
       velocity:
         ss: 2016-05-08T17:32:14Z
         gs: 2016-05-08T17:30:00Z
@@ -8523,16 +8523,16 @@ scoreDf:
   - - - '131'
       - Robin Hamilton
     - place: '8'
-      total: 777
+      total: 744
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 15.3
+        leading: 9.7
         arrival: 26
-        time: 262.4
+        time: 235.5
       velocity:
         ss: 2016-05-08T17:31:05Z
         gs: 2016-05-08T17:30:00Z
@@ -8548,16 +8548,16 @@ scoreDf:
   - - - '142'
       - John Simon
     - place: '9'
-      total: 773
+      total: 740
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 16.4
+        leading: 10.8
         arrival: 23
-        time: 260.3
+        time: 232.8
       velocity:
         ss: 2016-05-08T17:30:24Z
         gs: 2016-05-08T17:30:00Z
@@ -8573,16 +8573,16 @@ scoreDf:
   - - - '119'
       - Bart Weghorst
     - place: '10'
-      total: 757
+      total: 721
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 15.1
+        leading: 9.4
         arrival: 20.6
-        time: 248.1
+        time: 217.5
       velocity:
         ss: 2016-05-08T17:31:03Z
         gs: 2016-05-08T17:30:00Z
@@ -8598,16 +8598,16 @@ scoreDf:
   - - - '106'
       - Fabiano Nahoum
     - place: '11'
-      total: 750
+      total: 713
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 14.9
+        leading: 9.3
         arrival: 18.5
-        time: 243.2
+        time: 211.5
       velocity:
         ss: 2016-05-08T17:30:27Z
         gs: 2016-05-08T17:30:00Z
@@ -8623,16 +8623,16 @@ scoreDf:
   - - - '123'
       - JD Guillemette
     - place: '12'
-      total: 708
+      total: 661
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 12.1
+        leading: 6.2
         arrival: 16.9
-        time: 206.2
+        time: 165.1
       velocity:
         ss: 2016-05-08T17:30:55Z
         gs: 2016-05-08T17:30:00Z
@@ -8648,16 +8648,16 @@ scoreDf:
   - - - '127'
       - Gerry Pesavento
     - place: '13'
-      total: 681
+      total: 628
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 10.3
+        leading: 4.3
         arrival: 15.7
-        time: 181.8
+        time: 134.5
       velocity:
         ss: 2016-05-08T17:32:10Z
         gs: 2016-05-08T17:30:00Z
@@ -8673,16 +8673,16 @@ scoreDf:
   - - - '143'
       - Anna Eppink
     - place: '14'
-      total: 674
+      total: 618
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 12.2
+        leading: 6.3
         arrival: 14.8
-        time: 173.5
+        time: 124.1
       velocity:
         ss: 2016-05-08T17:30:58Z
         gs: 2016-05-08T17:30:00Z
@@ -8698,16 +8698,16 @@ scoreDf:
   - - - '120'
       - Mike Glennon
     - place: '15'
-      total: 665
+      total: 607
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 236.607
         effort: 236.607
         distance: 473.215
-        leading: 13.3
+        leading: 7.5
         arrival: 14.1
-        time: 164.1
+        time: 112.4
       velocity:
         ss: 2016-05-08T17:31:15Z
         gs: 2016-05-08T17:30:00Z
@@ -8720,34 +8720,9 @@ scoreDf:
       reachDistance: 113.620 km
       landedDistance: 113.620 km
       stoppedAlt: null
-  - - - '144'
-      - Tom Lanning
-    - place: '16'
-      total: 632
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 236.607
-        effort: 236.607
-        distance: 473.215
-        leading: 6
-        arrival: 13.6
-        time: 139.6
-      velocity:
-        ss: 2016-05-08T17:29:36Z
-        gs: 2016-05-08T17:30:00Z
-        es: 2016-05-08T22:19:59Z
-        ssDistance: 109.021 km
-        ssElapsed: 4.839722 h
-        gsElapsed: 4.833056 h
-        ssVelocity: 22.53 km / h
-        gsVelocity: 22.56 km / h
-      reachDistance: 113.620 km
-      landedDistance: 113.620 km
-      stoppedAlt: null
   - - - '128'
       - Zac Majors
-    - place: '17'
+    - place: '16'
       total: 579
       penalties: []
       penaltyReason: ''
@@ -8767,6 +8742,31 @@ scoreDf:
         gsElapsed: 27.385833 h
         ssVelocity: 3.98 km / h
         gsVelocity: 3.98 km / h
+      reachDistance: 113.620 km
+      landedDistance: 113.620 km
+      stoppedAlt: null
+  - - - '144'
+      - Tom Lanning
+    - place: '17'
+      total: 568
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 236.607
+        effort: 236.607
+        distance: 473.215
+        leading: 0
+        arrival: 13.6
+        time: 81.6
+      velocity:
+        ss: 2016-05-08T17:29:36Z
+        gs: 2016-05-08T17:30:00Z
+        es: 2016-05-08T22:19:59Z
+        ssDistance: 109.021 km
+        ssElapsed: 4.839722 h
+        gsElapsed: 4.833056 h
+        ssVelocity: 22.53 km / h
+        gsVelocity: 22.56 km / h
       reachDistance: 113.620 km
       landedDistance: 113.620 km
       stoppedAlt: null
@@ -9423,14 +9423,14 @@ scoreDf:
 - - - - '138'
       - Jonny Durand
     - place: '1'
-      total: 963
+      total: 960
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 65.9
+        leading: 62.9
         arrival: 73.3
         time: 410.6
       velocity:
@@ -9448,16 +9448,16 @@ scoreDf:
   - - - '131'
       - Robin Hamilton
     - place: '2'
-      total: 833
+      total: 810
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 97.6
+        leading: 97.2
         arrival: 66.3
-        time: 256
+        time: 233.1
       velocity:
         ss: 2016-05-09T18:32:53Z
         gs: 2016-05-09T18:30:00Z
@@ -9470,44 +9470,19 @@ scoreDf:
       reachDistance: 82.504 km
       landedDistance: 82.504 km
       stoppedAlt: null
-  - - - '106'
-      - Fabiano Nahoum
-    - place: '3'
-      total: 824
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 206.75
-        effort: 206.75
-        distance: 413.5
-        leading: 96.1
-        arrival: 59.9
-        time: 254.1
-      velocity:
-        ss: 2016-05-09T18:30:02Z
-        gs: 2016-05-09T18:30:00Z
-        es: 2016-05-09T21:08:59Z
-        ssDistance: 77.904 km
-        ssElapsed: 2.649167 h
-        gsElapsed: 2.649722 h
-        ssVelocity: 29.41 km / h
-        gsVelocity: 29.40 km / h
-      reachDistance: 82.504 km
-      landedDistance: 82.504 km
-      stoppedAlt: null
   - - - '142'
       - John Simon
-    - place: '4'
-      total: 823
+    - place: '3'
+      total: 805
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 64.5
+        leading: 61.4
         arrival: 32.2
-        time: 312.8
+        time: 298.3
       velocity:
         ss: 2016-05-09T18:50:43Z
         gs: 2016-05-09T18:50:00Z
@@ -9520,19 +9495,44 @@ scoreDf:
       reachDistance: 82.504 km
       landedDistance: 82.504 km
       stoppedAlt: null
-  - - - '115'
-      - Andrew Hollidge
-    - place: '5'
-      total: 808
+  - - - '106'
+      - Fabiano Nahoum
+    - place: '4'
+      total: 800
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 89.9
+        leading: 95.6
+        arrival: 59.9
+        time: 230.8
+      velocity:
+        ss: 2016-05-09T18:30:02Z
+        gs: 2016-05-09T18:30:00Z
+        es: 2016-05-09T21:08:59Z
+        ssDistance: 77.904 km
+        ssElapsed: 2.649167 h
+        gsElapsed: 2.649722 h
+        ssVelocity: 29.41 km / h
+        gsVelocity: 29.40 km / h
+      reachDistance: 82.504 km
+      landedDistance: 82.504 km
+      stoppedAlt: null
+  - - - '115'
+      - Andrew Hollidge
+    - place: '5'
+      total: 784
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 206.75
+        effort: 206.75
+        distance: 413.5
+        leading: 88.8
         arrival: 54
-        time: 251
+        time: 227.3
       velocity:
         ss: 2016-05-09T18:33:01Z
         gs: 2016-05-09T18:30:00Z
@@ -9545,19 +9545,44 @@ scoreDf:
       reachDistance: 82.504 km
       landedDistance: 82.504 km
       stoppedAlt: null
-  - - - '139'
-      - Tullio Gervasoni
+  - - - '128'
+      - Zac Majors
     - place: '6'
-      total: 794
+      total: 769
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 96.9
+        leading: 22.7
+        arrival: 20.5
+        time: 312.4
+      velocity:
+        ss: 2016-05-09T19:10:04Z
+        gs: 2016-05-09T19:10:00Z
+        es: 2016-05-09T21:36:14Z
+        ssDistance: 77.904 km
+        ssElapsed: 2.436111 h
+        gsElapsed: 2.437222 h
+        ssVelocity: 31.98 km / h
+        gsVelocity: 31.96 km / h
+      reachDistance: 82.504 km
+      landedDistance: 82.504 km
+      stoppedAlt: null
+  - - - '139'
+      - Tullio Gervasoni
+    - place: 7=
+      total: 768
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 206.75
+        effort: 206.75
+        distance: 413.5
+        leading: 96.4
         arrival: 43.9
-        time: 239.5
+        time: 214.1
       velocity:
         ss: 2016-05-09T18:30:37Z
         gs: 2016-05-09T18:30:00Z
@@ -9572,8 +9597,8 @@ scoreDf:
       stoppedAlt: null
   - - - '132'
       - James Stinnett
-    - place: '7'
-      total: 793
+    - place: 7=
+      total: 768
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -9582,7 +9607,7 @@ scoreDf:
         distance: 413.5
         leading: 102.6
         arrival: 39.5
-        time: 237.7
+        time: 212.1
       velocity:
         ss: 2016-05-09T18:30:52Z
         gs: 2016-05-09T18:30:00Z
@@ -9597,17 +9622,17 @@ scoreDf:
       stoppedAlt: null
   - - - '108'
       - Raul Guerra
-    - place: '8'
-      total: 790
+    - place: '9'
+      total: 764
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 82.3
+        leading: 80.7
         arrival: 48.7
-        time: 245.6
+        time: 221.2
       velocity:
         ss: 2016-05-09T18:30:41Z
         gs: 2016-05-09T18:30:00Z
@@ -9620,69 +9645,19 @@ scoreDf:
       reachDistance: 82.504 km
       landedDistance: 82.504 km
       stoppedAlt: null
-  - - - '128'
-      - Zac Majors
-    - place: '9'
-      total: 788
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 206.75
-        effort: 206.75
-        distance: 413.5
-        leading: 28.8
-        arrival: 20.5
-        time: 325.1
-      velocity:
-        ss: 2016-05-09T19:10:04Z
-        gs: 2016-05-09T19:10:00Z
-        es: 2016-05-09T21:36:14Z
-        ssDistance: 77.904 km
-        ssElapsed: 2.436111 h
-        gsElapsed: 2.437222 h
-        ssVelocity: 31.98 km / h
-        gsVelocity: 31.96 km / h
-      reachDistance: 82.504 km
-      landedDistance: 82.504 km
-      stoppedAlt: null
-  - - - '127'
-      - Gerry Pesavento
-    - place: '10'
-      total: 777
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 206.75
-        effort: 206.75
-        distance: 413.5
-        leading: 91
-        arrival: 35.7
-        time: 236.5
-      velocity:
-        ss: 2016-05-09T18:31:31Z
-        gs: 2016-05-09T18:30:00Z
-        es: 2016-05-09T21:12:41Z
-        ssDistance: 77.904 km
-        ssElapsed: 2.686111 h
-        gsElapsed: 2.711389 h
-        ssVelocity: 29.00 km / h
-        gsVelocity: 28.73 km / h
-      reachDistance: 82.504 km
-      landedDistance: 82.504 km
-      stoppedAlt: null
   - - - '125'
       - Larry Bunner
-    - place: '11'
-      total: 772
+    - place: '10'
+      total: 752
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 22.1
+        leading: 15.5
         arrival: 19.1
-        time: 317.7
+        time: 304
       velocity:
         ss: 2016-05-09T19:10:20Z
         gs: 2016-05-09T19:10:00Z
@@ -9695,19 +9670,44 @@ scoreDf:
       reachDistance: 82.504 km
       landedDistance: 82.504 km
       stoppedAlt: null
-  - - - '113'
-      - Olav Opsanger
-    - place: '12'
-      total: 757
+  - - - '127'
+      - Gerry Pesavento
+    - place: '11'
+      total: 750
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 20.8
+        leading: 90.1
+        arrival: 35.7
+        time: 210.7
+      velocity:
+        ss: 2016-05-09T18:31:31Z
+        gs: 2016-05-09T18:30:00Z
+        es: 2016-05-09T21:12:41Z
+        ssDistance: 77.904 km
+        ssElapsed: 2.686111 h
+        gsElapsed: 2.711389 h
+        ssVelocity: 29.00 km / h
+        gsVelocity: 28.73 km / h
+      reachDistance: 82.504 km
+      landedDistance: 82.504 km
+      stoppedAlt: null
+  - - - '113'
+      - Olav Opsanger
+    - place: '12'
+      total: 734
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 206.75
+        effort: 206.75
+        distance: 413.5
+        leading: 14
         arrival: 18
-        time: 304.5
+        time: 288.7
       velocity:
         ss: 2016-05-09T19:10:58Z
         gs: 2016-05-09T19:10:00Z
@@ -9723,16 +9723,16 @@ scoreDf:
   - - - '101'
       - Davis Straub
     - place: '13'
-      total: 744
+      total: 713
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 95.1
+        leading: 94.5
         arrival: 29.2
-        time: 206.5
+        time: 176.2
       velocity:
         ss: 2016-05-09T18:31:09Z
         gs: 2016-05-09T18:30:00Z
@@ -9748,16 +9748,16 @@ scoreDf:
   - - - '104'
       - Christian Pollet
     - place: '14'
-      total: 721
+      total: 688
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 78.1
+        leading: 76.1
         arrival: 26.5
-        time: 202.9
+        time: 172.1
       velocity:
         ss: 2016-05-09T18:33:51Z
         gs: 2016-05-09T18:30:00Z
@@ -9773,16 +9773,16 @@ scoreDf:
   - - - '107'
       - Malcolm Brown
     - place: '15'
-      total: 716
+      total: 682
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 90.1
+        leading: 89.1
         arrival: 24.2
-        time: 188
+        time: 155
       velocity:
         ss: 2016-05-09T18:30:41Z
         gs: 2016-05-09T18:30:00Z
@@ -9798,16 +9798,16 @@ scoreDf:
   - - - '121'
       - Oleg Bondarchuk
     - place: '16'
-      total: 685
+      total: 646
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 101.2
+        leading: 101.1
         arrival: 22.2
-        time: 148.1
+        time: 109.1
       velocity:
         ss: 2016-05-09T18:32:33Z
         gs: 2016-05-09T18:30:00Z
@@ -9823,16 +9823,16 @@ scoreDf:
   - - - '102'
       - Richard lovelace
     - place: '17'
-      total: 649
+      total: 605
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 99.4
+        leading: 99.1
         arrival: 17.1
-        time: 119
+        time: 75.7
       velocity:
         ss: 2016-05-09T18:30:22Z
         gs: 2016-05-09T18:30:00Z
@@ -9848,16 +9848,16 @@ scoreDf:
   - - - '133'
       - Olav Olsen
     - place: '18'
-      total: 629
+      total: 584
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 83.5
+        leading: 82
         arrival: 15.7
-        time: 116.3
+        time: 72.6
       velocity:
         ss: 2016-05-09T18:30:30Z
         gs: 2016-05-09T18:30:00Z
@@ -9873,16 +9873,16 @@ scoreDf:
   - - - '135'
       - Misael Rosalez
     - place: '19'
-      total: 622
+      total: 577
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 75.5
+        leading: 73.2
         arrival: 16.3
-        time: 117.2
+        time: 73.7
       velocity:
         ss: 2016-05-09T18:33:01Z
         gs: 2016-05-09T18:30:00Z
@@ -9898,16 +9898,16 @@ scoreDf:
   - - - '144'
       - Tom Lanning
     - place: '20'
-      total: 621
+      total: 575
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 77.8
+        leading: 75.8
         arrival: 15.3
-        time: 114.1
+        time: 70.1
       velocity:
         ss: 2016-05-09T18:30:46Z
         gs: 2016-05-09T18:30:00Z
@@ -9923,16 +9923,16 @@ scoreDf:
   - - - '120'
       - Mike Glennon
     - place: '21'
-      total: 618
+      total: 572
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 76.7
+        leading: 74.5
         arrival: 15
-        time: 112.8
+        time: 68.6
       velocity:
         ss: 2016-05-09T18:30:27Z
         gs: 2016-05-09T18:30:00Z
@@ -9948,16 +9948,16 @@ scoreDf:
   - - - '137'
       - Yoko Isomoto
     - place: '22'
-      total: 592
+      total: 542
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.75
         effort: 206.75
         distance: 413.5
-        leading: 80.3
+        leading: 78.5
         arrival: 14.8
-        time: 83.5
+        time: 35
       velocity:
         ss: 2016-05-09T18:33:04Z
         gs: 2016-05-09T18:30:00Z
@@ -9973,14 +9973,14 @@ scoreDf:
   - - - '124'
       - Patrick Pannese
     - place: '23'
-      total: 492
+      total: 490
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 205.211
         effort: 206.75
         distance: 411.961
-        leading: 80
+        leading: 78.2
         arrival: 0
         time: 0
       velocity:
@@ -9998,14 +9998,14 @@ scoreDf:
   - - - '143'
       - Anna Eppink
     - place: '24'
-      total: 482
+      total: 480
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 201.011
         effort: 204.133
         distance: 405.144
-        leading: 76.9
+        leading: 74.8
         arrival: 0
         time: 0
       velocity:
@@ -10023,14 +10023,14 @@ scoreDf:
   - - - '118'
       - Ingo Heilmann
     - place: '25'
-      total: 456
+      total: 453
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 198.352
         effort: 198.899
         distance: 397.251
-        leading: 58.9
+        leading: 55.3
         arrival: 0
         time: 0
       velocity:
@@ -10048,14 +10048,14 @@ scoreDf:
   - - - '117'
       - Robert Dallas
     - place: '26'
-      total: 449
+      total: 445
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 196.027
         effort: 191.047
         distance: 387.074
-        leading: 61.6
+        leading: 58.2
         arrival: 0
         time: 0
       velocity:
@@ -10073,14 +10073,14 @@ scoreDf:
   - - - '116'
       - Jeffery Bohl
     - place: '27'
-      total: 438
+      total: 434
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 195.052
         effort: 180.579
         distance: 375.631
-        leading: 62.1
+        leading: 58.7
         arrival: 0
         time: 0
       velocity:
@@ -10098,14 +10098,14 @@ scoreDf:
   - - - '141'
       - Patrick Halfhill
     - place: '28'
-      total: 420
+      total: 417
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 190.697
         effort: 167.494
         distance: 358.19
-        leading: 61.7
+        leading: 58.4
         arrival: 0
         time: 0
       velocity:
@@ -10123,14 +10123,14 @@ scoreDf:
   - - - '145'
       - Roger Irby
     - place: '29'
-      total: 385
+      total: 378
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 190.885
         effort: 167.494
         distance: 358.378
-        leading: 26.2
+        leading: 19.9
         arrival: 0
         time: 0
       velocity:
@@ -10148,14 +10148,14 @@ scoreDf:
   - - - '112'
       - Sergey Kataev
     - place: '30'
-      total: 367
+      total: 363
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 176.864
         effort: 133.471
         distance: 310.335
-        leading: 56.8
+        leading: 53
         arrival: 0
         time: 0
       velocity:
@@ -10198,14 +10198,14 @@ scoreDf:
   - - - '119'
       - Bart Weghorst
     - place: '32'
-      total: 332
+      total: 330
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 165.251
         effort: 91.598
         distance: 256.849
-        leading: 75.6
+        leading: 73.3
         arrival: 0
         time: 0
       velocity:
@@ -10223,14 +10223,14 @@ scoreDf:
   - - - '123'
       - JD Guillemette
     - place: '33'
-      total: 317
+      total: 312
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 170.727
         effort: 112.535
         distance: 283.262
-        leading: 34.1
+        leading: 28.4
         arrival: 0
         time: 0
       velocity:
@@ -10248,14 +10248,14 @@ scoreDf:
   - - - '134'
       - Kinsley Sykes
     - place: '34'
-      total: 264
+      total: 259
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 147.715
         effort: 73.278
         distance: 220.993
-        leading: 42.7
+        leading: 37.8
         arrival: 0
         time: 0
       velocity:
@@ -10273,14 +10273,14 @@ scoreDf:
   - - - '126'
       - Jeff Kannard
     - place: '35'
-      total: 244
+      total: 241
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 130.95
         effort: 44.49
         distance: 175.44
-        leading: 68.8
+        leading: 66
         arrival: 0
         time: 0
       velocity:
@@ -10298,14 +10298,14 @@ scoreDf:
   - - - '140'
       - Bill Vickery
     - place: '36'
-      total: 225
+      total: 220
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 131.997
         effort: 52.342
         distance: 184.339
-        leading: 40.6
+        leading: 35.5
         arrival: 0
         time: 0
       velocity:
@@ -10323,14 +10323,14 @@ scoreDf:
   - - - '111'
       - Patrick Kruse
     - place: '37'
-      total: 220
+      total: 213
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 140.756
         effort: 62.81
         distance: 203.566
-        leading: 16.1
+        leading: 9
         arrival: 0
         time: 0
       velocity:
@@ -10348,14 +10348,14 @@ scoreDf:
   - - - '129'
       - Mike Jefferson
     - place: '38'
-      total: 213
+      total: 209
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 127.589
         effort: 34.022
         distance: 161.612
-        leading: 51.2
+        leading: 47
         arrival: 0
         time: 0
       velocity:
@@ -10473,7 +10473,7 @@ scoreDf:
   - - - '138'
       - Jonny Durand
     - place: '2'
-      total: 761
+      total: 731
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -10482,7 +10482,7 @@ scoreDf:
         distance: 525.578
         leading: 0
         arrival: 50
-        time: 185.8
+        time: 155.8
       velocity:
         ss: 2016-05-10T18:00:12Z
         gs: 2016-05-10T18:00:00Z
@@ -10498,7 +10498,7 @@ scoreDf:
   - - - '139'
       - Tullio Gervasoni
     - place: '3'
-      total: 752
+      total: 722
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -10507,7 +10507,7 @@ scoreDf:
         distance: 525.578
         leading: 0
         arrival: 42
-        time: 184.4
+        time: 154.1
       velocity:
         ss: 2016-05-10T18:00:20Z
         gs: 2016-05-10T18:00:00Z
@@ -10520,35 +10520,10 @@ scoreDf:
       reachDistance: 89.527 km
       landedDistance: 89.527 km
       stoppedAlt: null
-  - - - '128'
-      - Zac Majors
-    - place: '4'
-      total: 743
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 262.789
-        effort: 262.789
-        distance: 525.578
-        leading: 0
-        arrival: 35.2
-        time: 181.7
-      velocity:
-        ss: 2016-05-10T18:00:18Z
-        gs: 2016-05-10T18:00:00Z
-        es: 2016-05-10T21:35:56Z
-        ssDistance: 84.927 km
-        ssElapsed: 3.593889 h
-        gsElapsed: 3.598889 h
-        ssVelocity: 23.63 km / h
-        gsVelocity: 23.60 km / h
-      reachDistance: 89.527 km
-      landedDistance: 89.527 km
-      stoppedAlt: null
   - - - '123'
       - JD Guillemette
-    - place: '5'
-      total: 740
+    - place: '4'
+      total: 713
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -10557,7 +10532,7 @@ scoreDf:
         distance: 525.578
         leading: 0
         arrival: 13.2
-        time: 200.8
+        time: 173.8
       velocity:
         ss: 2016-05-10T18:20:32Z
         gs: 2016-05-10T18:20:00Z
@@ -10570,10 +10545,35 @@ scoreDf:
       reachDistance: 89.527 km
       landedDistance: 89.527 km
       stoppedAlt: null
+  - - - '128'
+      - Zac Majors
+    - place: '5'
+      total: 712
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 262.789
+        effort: 262.789
+        distance: 525.578
+        leading: 0
+        arrival: 35.2
+        time: 150.9
+      velocity:
+        ss: 2016-05-10T18:00:18Z
+        gs: 2016-05-10T18:00:00Z
+        es: 2016-05-10T21:35:56Z
+        ssDistance: 84.927 km
+        ssElapsed: 3.593889 h
+        gsElapsed: 3.598889 h
+        ssVelocity: 23.63 km / h
+        gsVelocity: 23.60 km / h
+      reachDistance: 89.527 km
+      landedDistance: 89.527 km
+      stoppedAlt: null
   - - - '113'
       - Olav Opsanger
     - place: '6'
-      total: 737
+      total: 706
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -10582,7 +10582,7 @@ scoreDf:
         distance: 525.578
         leading: 0
         arrival: 29.5
-        time: 181.5
+        time: 150.6
       velocity:
         ss: 2016-05-10T18:00:42Z
         gs: 2016-05-10T18:00:00Z
@@ -10598,7 +10598,7 @@ scoreDf:
   - - - '102'
       - Richard lovelace
     - place: '7'
-      total: 727
+      total: 695
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -10607,7 +10607,7 @@ scoreDf:
         distance: 525.578
         leading: 0
         arrival: 24.9
-        time: 176.4
+        time: 144.5
       velocity:
         ss: 2016-05-10T18:00:43Z
         gs: 2016-05-10T18:00:00Z
@@ -10623,7 +10623,7 @@ scoreDf:
   - - - '150'
       - Claudia Mejia
     - place: '8'
-      total: 709
+      total: 676
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -10632,7 +10632,7 @@ scoreDf:
         distance: 525.578
         leading: 0
         arrival: 12.1
-        time: 171.7
+        time: 138.8
       velocity:
         ss: 2016-05-10T18:20:01Z
         gs: 2016-05-10T18:20:00Z
@@ -10648,7 +10648,7 @@ scoreDf:
   - - - '110'
       - Cory Barnwell
     - place: '9'
-      total: 699
+      total: 662
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -10657,7 +10657,7 @@ scoreDf:
         distance: 525.578
         leading: 0
         arrival: 21.1
-        time: 152.6
+        time: 115.7
       velocity:
         ss: 2016-05-10T18:00:26Z
         gs: 2016-05-10T18:00:00Z
@@ -10673,7 +10673,7 @@ scoreDf:
   - - - '117'
       - Robert Dallas
     - place: '10'
-      total: 693
+      total: 656
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -10682,7 +10682,7 @@ scoreDf:
         distance: 525.578
         leading: 0
         arrival: 18.2
-        time: 149.6
+        time: 112.1
       velocity:
         ss: 2016-05-10T18:03:14Z
         gs: 2016-05-10T18:00:00Z
@@ -10698,7 +10698,7 @@ scoreDf:
   - - - '115'
       - Andrew Hollidge
     - place: '11'
-      total: 687
+      total: 649
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -10707,7 +10707,7 @@ scoreDf:
         distance: 525.578
         leading: 0
         arrival: 16
-        time: 145.5
+        time: 107.2
       velocity:
         ss: 2016-05-10T18:01:02Z
         gs: 2016-05-10T18:00:00Z
@@ -10723,7 +10723,7 @@ scoreDf:
   - - - '101'
       - Davis Straub
     - place: '12'
-      total: 681
+      total: 642
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -10732,7 +10732,7 @@ scoreDf:
         distance: 525.578
         leading: 0
         arrival: 14.4
-        time: 141
+        time: 101.7
       velocity:
         ss: 2016-05-10T18:00:42Z
         gs: 2016-05-10T18:00:00Z
@@ -10748,7 +10748,7 @@ scoreDf:
   - - - '108'
       - Raul Guerra
     - place: '13'
-      total: 670
+      total: 629
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -10757,7 +10757,7 @@ scoreDf:
         distance: 525.578
         leading: 0
         arrival: 12.5
-        time: 131.8
+        time: 90.7
       velocity:
         ss: 2016-05-10T18:00:12Z
         gs: 2016-05-10T18:00:00Z
@@ -11473,14 +11473,14 @@ scoreDf:
 - - - - '128'
       - Zac Majors
     - place: '1'
-      total: 990
+      total: 988
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 83.8
+        leading: 82
         arrival: 67.2
         time: 376.4
       velocity:
@@ -11498,16 +11498,16 @@ scoreDf:
   - - - '138'
       - Jonny Durand
     - place: '2'
-      total: 886
+      total: 869
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 76.2
+        leading: 73.2
         arrival: 59
-        time: 288.4
+        time: 274.4
       velocity:
         ss: 2016-05-11T18:40:12Z
         gs: 2016-05-11T18:40:00Z
@@ -11523,16 +11523,16 @@ scoreDf:
   - - - '121'
       - Oleg Bondarchuk
     - place: '3'
-      total: 868
+      total: 849
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 83.9
+        leading: 82.2
         arrival: 51.7
-        time: 270.2
+        time: 253.2
       velocity:
         ss: 2016-05-11T18:42:10Z
         gs: 2016-05-11T18:40:00Z
@@ -11548,16 +11548,16 @@ scoreDf:
   - - - '131'
       - Robin Hamilton
     - place: '4'
-      total: 740
+      total: 703
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 75.4
+        leading: 72.2
         arrival: 39.5
-        time: 163
+        time: 128.9
       velocity:
         ss: 2016-05-11T18:40:20Z
         gs: 2016-05-11T18:40:00Z
@@ -11573,16 +11573,16 @@ scoreDf:
   - - - '102'
       - Richard lovelace
     - place: '5'
-      total: 733
+      total: 693
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 58.3
+        leading: 52.1
         arrival: 45.2
-        time: 167
+        time: 133.5
       velocity:
         ss: 2016-05-11T18:41:44Z
         gs: 2016-05-11T18:40:00Z
@@ -11598,16 +11598,16 @@ scoreDf:
   - - - '139'
       - Tullio Gervasoni
     - place: '6'
-      total: 727
+      total: 688
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 70.9
+        leading: 66.9
         arrival: 34.5
-        time: 159.2
+        time: 124.4
       velocity:
         ss: 2016-05-11T18:40:22Z
         gs: 2016-05-11T18:40:00Z
@@ -11623,16 +11623,16 @@ scoreDf:
   - - - '132'
       - James Stinnett
     - place: '7'
-      total: 651
+      total: 602
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 57.7
+        leading: 51.4
         arrival: 18.9
-        time: 112.1
+        time: 69.8
       velocity:
         ss: 2016-05-11T18:43:57Z
         gs: 2016-05-11T18:40:00Z
@@ -11648,16 +11648,16 @@ scoreDf:
   - - - '142'
       - John Simon
     - place: '8'
-      total: 635
+      total: 585
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 57.9
+        leading: 51.7
         arrival: 17.3
-        time: 97.8
+        time: 53.2
       velocity:
         ss: 2016-05-11T18:41:38Z
         gs: 2016-05-11T18:40:00Z
@@ -11673,16 +11673,16 @@ scoreDf:
   - - - '108'
       - Raul Guerra
     - place: '9'
-      total: 627
+      total: 573
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 64.5
+        leading: 59.4
         arrival: 30.2
-        time: 69.8
+        time: 20.7
       velocity:
         ss: 2016-05-11T18:24:34Z
         gs: 2016-05-11T18:20:00Z
@@ -11695,134 +11695,9 @@ scoreDf:
       reachDistance: 100.304 km
       landedDistance: 100.304 km
       stoppedAlt: null
-  - - - '120'
-      - Mike Glennon
-    - place: '10'
-      total: 620
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 231.146
-        effort: 231.146
-        distance: 462.292
-        leading: 65.4
-        arrival: 26.6
-        time: 65.8
-      velocity:
-        ss: 2016-05-11T18:28:54Z
-        gs: 2016-05-11T18:20:00Z
-        es: 2016-05-11T21:56:31Z
-        ssDistance: 95.704 km
-        ssElapsed: 3.460278 h
-        gsElapsed: 3.608611 h
-        ssVelocity: 27.66 km / h
-        gsVelocity: 26.52 km / h
-      reachDistance: 100.304 km
-      landedDistance: 100.304 km
-      stoppedAlt: null
-  - - - '104'
-      - Christian Pollet
-    - place: '11'
-      total: 616
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 231.146
-        effort: 231.146
-        distance: 462.292
-        leading: 71.4
-        arrival: 23.5
-        time: 58.9
-      velocity:
-        ss: 2016-05-11T18:29:27Z
-        gs: 2016-05-11T18:20:00Z
-        es: 2016-05-11T21:58:53Z
-        ssDistance: 95.704 km
-        ssElapsed: 3.490556 h
-        gsElapsed: 3.648056 h
-        ssVelocity: 27.42 km / h
-        gsVelocity: 26.23 km / h
-      reachDistance: 100.304 km
-      landedDistance: 100.304 km
-      stoppedAlt: null
-  - - - '123'
-      - JD Guillemette
-    - place: '12'
-      total: 611
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 231.146
-        effort: 231.146
-        distance: 462.292
-        leading: 55.2
-        arrival: 14.4
-        time: 79.6
-      velocity:
-        ss: 2016-05-11T18:41:51Z
-        gs: 2016-05-11T18:40:00Z
-        es: 2016-05-11T22:11:55Z
-        ssDistance: 95.704 km
-        ssElapsed: 3.501111 h
-        gsElapsed: 3.531944 h
-        ssVelocity: 27.34 km / h
-        gsVelocity: 27.10 km / h
-      reachDistance: 100.304 km
-      landedDistance: 100.304 km
-      stoppedAlt: null
-  - - - '127'
-      - Gerry Pesavento
-    - place: '13'
-      total: 594
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 231.146
-        effort: 231.146
-        distance: 462.292
-        leading: 51.5
-        arrival: 21
-        time: 58.8
-      velocity:
-        ss: 2016-05-11T18:34:13Z
-        gs: 2016-05-11T18:20:00Z
-        es: 2016-05-11T21:58:55Z
-        ssDistance: 95.704 km
-        ssElapsed: 3.411667 h
-        gsElapsed: 3.648611 h
-        ssVelocity: 28.05 km / h
-        gsVelocity: 26.23 km / h
-      reachDistance: 100.304 km
-      landedDistance: 100.304 km
-      stoppedAlt: null
-  - - - '113'
-      - Olav Opsanger
-    - place: '14'
-      total: 588
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 231.146
-        effort: 231.146
-        distance: 462.292
-        leading: 71
-        arrival: 16
-        time: 38.5
-      velocity:
-        ss: 2016-05-11T18:29:33Z
-        gs: 2016-05-11T18:20:00Z
-        es: 2016-05-11T22:05:59Z
-        ssDistance: 95.704 km
-        ssElapsed: 3.607222 h
-        gsElapsed: 3.766389 h
-        ssVelocity: 26.53 km / h
-        gsVelocity: 25.41 km / h
-      reachDistance: 100.304 km
-      landedDistance: 100.304 km
-      stoppedAlt: null
   - - - '135'
       - Misael Rosalez
-    - place: '15'
+    - place: '10'
       total: 570
       penalties: []
       penaltyReason: ''
@@ -11845,9 +11720,9 @@ scoreDf:
       reachDistance: 100.304 km
       landedDistance: 100.304 km
       stoppedAlt: null
-  - - - '112'
-      - Sergey Kataev
-    - place: '16'
+  - - - '120'
+      - Mike Glennon
+    - place: '11'
       total: 565
       penalties: []
       penaltyReason: ''
@@ -11855,32 +11730,132 @@ scoreDf:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 59.3
-        arrival: 15.1
-        time: 28
+        leading: 60.5
+        arrival: 26.6
+        time: 16.1
       velocity:
-        ss: 2016-05-11T18:28:57Z
+        ss: 2016-05-11T18:28:54Z
         gs: 2016-05-11T18:20:00Z
-        es: 2016-05-11T22:09:43Z
+        es: 2016-05-11T21:56:31Z
         ssDistance: 95.704 km
-        ssElapsed: 3.679444 h
-        gsElapsed: 3.828611 h
-        ssVelocity: 26.01 km / h
-        gsVelocity: 25.00 km / h
+        ssElapsed: 3.460278 h
+        gsElapsed: 3.608611 h
+        ssVelocity: 27.66 km / h
+        gsVelocity: 26.52 km / h
       reachDistance: 100.304 km
       landedDistance: 100.304 km
       stoppedAlt: null
-  - - - '150'
-      - Claudia Mejia
-    - place: '17'
-      total: 540
+  - - - '104'
+      - Christian Pollet
+    - place: '12'
+      total: 561
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 231.146
         effort: 231.146
         distance: 462.292
-        leading: 63.8
+        leading: 67.5
+        arrival: 23.5
+        time: 8.1
+      velocity:
+        ss: 2016-05-11T18:29:27Z
+        gs: 2016-05-11T18:20:00Z
+        es: 2016-05-11T21:58:53Z
+        ssDistance: 95.704 km
+        ssElapsed: 3.490556 h
+        gsElapsed: 3.648056 h
+        ssVelocity: 27.42 km / h
+        gsVelocity: 26.23 km / h
+      reachDistance: 100.304 km
+      landedDistance: 100.304 km
+      stoppedAlt: null
+  - - - '123'
+      - JD Guillemette
+    - place: '13'
+      total: 557
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 231.146
+        effort: 231.146
+        distance: 462.292
+        leading: 48.5
+        arrival: 14.4
+        time: 32
+      velocity:
+        ss: 2016-05-11T18:41:51Z
+        gs: 2016-05-11T18:40:00Z
+        es: 2016-05-11T22:11:55Z
+        ssDistance: 95.704 km
+        ssElapsed: 3.501111 h
+        gsElapsed: 3.531944 h
+        ssVelocity: 27.34 km / h
+        gsVelocity: 27.10 km / h
+      reachDistance: 100.304 km
+      landedDistance: 100.304 km
+      stoppedAlt: null
+  - - - '113'
+      - Olav Opsanger
+    - place: '14'
+      total: 545
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 231.146
+        effort: 231.146
+        distance: 462.292
+        leading: 67
+        arrival: 16
+        time: 0
+      velocity:
+        ss: 2016-05-11T18:29:33Z
+        gs: 2016-05-11T18:20:00Z
+        es: 2016-05-11T22:05:59Z
+        ssDistance: 95.704 km
+        ssElapsed: 3.607222 h
+        gsElapsed: 3.766389 h
+        ssVelocity: 26.53 km / h
+        gsVelocity: 25.41 km / h
+      reachDistance: 100.304 km
+      landedDistance: 100.304 km
+      stoppedAlt: null
+  - - - '127'
+      - Gerry Pesavento
+    - place: 15=
+      total: 535
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 231.146
+        effort: 231.146
+        distance: 462.292
+        leading: 44.1
+        arrival: 21
+        time: 7.9
+      velocity:
+        ss: 2016-05-11T18:34:13Z
+        gs: 2016-05-11T18:20:00Z
+        es: 2016-05-11T21:58:55Z
+        ssDistance: 95.704 km
+        ssElapsed: 3.411667 h
+        gsElapsed: 3.648611 h
+        ssVelocity: 28.05 km / h
+        gsVelocity: 26.23 km / h
+      reachDistance: 100.304 km
+      landedDistance: 100.304 km
+      stoppedAlt: null
+  - - - '150'
+      - Claudia Mejia
+    - place: 15=
+      total: 535
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 231.146
+        effort: 231.146
+        distance: 462.292
+        leading: 58.6
         arrival: 13.9
         time: 0
       velocity:
@@ -11895,17 +11870,42 @@ scoreDf:
       reachDistance: 100.304 km
       landedDistance: 100.304 km
       stoppedAlt: null
+  - - - '112'
+      - Sergey Kataev
+    - place: '17'
+      total: 531
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 231.146
+        effort: 231.146
+        distance: 462.292
+        leading: 53.3
+        arrival: 15.1
+        time: 0
+      velocity:
+        ss: 2016-05-11T18:28:57Z
+        gs: 2016-05-11T18:20:00Z
+        es: 2016-05-11T22:09:43Z
+        ssDistance: 95.704 km
+        ssElapsed: 3.679444 h
+        gsElapsed: 3.828611 h
+        ssVelocity: 26.01 km / h
+        gsVelocity: 25.00 km / h
+      reachDistance: 100.304 km
+      landedDistance: 100.304 km
+      stoppedAlt: null
   - - - '126'
       - Jeff Kannard
-    - place: 18=
-      total: 501
+    - place: '18'
+      total: 497
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 205.269
         effort: 223.608
         distance: 428.878
-        leading: 71.8
+        leading: 67.9
         arrival: 0
         time: 0
       velocity:
@@ -11922,15 +11922,15 @@ scoreDf:
       stoppedAlt: -6.000 m
   - - - '129'
       - Mike Jefferson
-    - place: 18=
-      total: 501
+    - place: '19'
+      total: 494
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 210.846
         effort: 231.146
         distance: 441.992
-        leading: 58.6
+        leading: 52.4
         arrival: 0
         time: 0
       velocity:
@@ -11948,14 +11948,14 @@ scoreDf:
   - - - '117'
       - Robert Dallas
     - place: '20'
-      total: 494
+      total: 488
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 206.65
         effort: 228.633
         distance: 435.283
-        leading: 58.7
+        leading: 52.6
         arrival: 0
         time: 0
       velocity:
@@ -11973,14 +11973,14 @@ scoreDf:
   - - - '111'
       - Patrick Kruse
     - place: '21'
-      total: 484
+      total: 479
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 200.568
         effort: 216.071
         distance: 416.639
-        leading: 67
+        leading: 62.4
         arrival: 0
         time: 0
       velocity:
@@ -11998,14 +11998,14 @@ scoreDf:
   - - - '125'
       - Larry Bunner
     - place: '22'
-      total: 479
+      total: 474
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 201.015
         effort: 216.071
         distance: 417.086
-        leading: 62
+        leading: 56.4
         arrival: 0
         time: 0
       velocity:
@@ -12023,14 +12023,14 @@ scoreDf:
   - - - '101'
       - Davis Straub
     - place: '23'
-      total: 456
+      total: 450
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 191.062
         effort: 206.021
         distance: 397.084
-        leading: 59.2
+        leading: 53.2
         arrival: 0
         time: 0
       velocity:
@@ -12048,14 +12048,14 @@ scoreDf:
   - - - '114'
       - Mick Howard
     - place: '24'
-      total: 422
+      total: 412
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 187.149
         effort: 193.459
         distance: 380.608
-        leading: 41
+        leading: 31.9
         arrival: 0
         time: 0
       velocity:
@@ -12073,14 +12073,14 @@ scoreDf:
   - - - '124'
       - Patrick Pannese
     - place: '25'
-      total: 396
+      total: 387
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 174.415
         effort: 178.384
         distance: 352.799
-        leading: 42.8
+        leading: 34
         arrival: 0
         time: 0
       velocity:
@@ -12098,14 +12098,14 @@ scoreDf:
   - - - '144'
       - Tom Lanning
     - place: '26'
-      total: 363
+      total: 353
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 159.123
         effort: 168.334
         distance: 327.457
-        leading: 35.6
+        leading: 25.5
         arrival: 0
         time: 0
       velocity:
@@ -12123,14 +12123,14 @@ scoreDf:
   - - - '115'
       - Andrew Hollidge
     - place: '27'
-      total: 360
+      total: 351
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 155.91
         effort: 160.797
         distance: 316.707
-        leading: 43.4
+        leading: 34.6
         arrival: 0
         time: 0
       velocity:
@@ -12148,14 +12148,14 @@ scoreDf:
   - - - '116'
       - Jeffery Bohl
     - place: '28'
-      total: 347
+      total: 338
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 155.408
         effort: 153.26
         distance: 308.668
-        leading: 38.8
+        leading: 29.3
         arrival: 0
         time: 0
       velocity:
@@ -12173,14 +12173,14 @@ scoreDf:
   - - - '106'
       - Fabiano Nahoum
     - place: '29'
-      total: 319
+      total: 313
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 146.577
         effort: 115.573
         distance: 262.15
-        leading: 57.3
+        leading: 50.9
         arrival: 0
         time: 0
       velocity:
@@ -12198,14 +12198,14 @@ scoreDf:
   - - - '143'
       - Anna Eppink
     - place: '30'
-      total: 318
+      total: 306
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 149.407
         effort: 143.21
         distance: 292.617
-        leading: 25.5
+        leading: 13.7
         arrival: 0
         time: 0
       velocity:
@@ -12223,14 +12223,14 @@ scoreDf:
   - - - '119'
       - Bart Weghorst
     - place: '31'
-      total: 315
+      total: 305
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 146.838
         effort: 130.648
         distance: 277.485
-        leading: 37.4
+        leading: 27.6
         arrival: 0
         time: 0
       velocity:
@@ -12248,14 +12248,14 @@ scoreDf:
   - - - '103'
       - Matt Christensen
     - place: '32'
-      total: 275
+      total: 264
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 144.782
         effort: 100.498
         distance: 245.28
-        leading: 29.6
+        leading: 18.5
         arrival: 0
         time: 0
       velocity:
@@ -12273,14 +12273,14 @@ scoreDf:
   - - - '141'
       - Patrick Halfhill
     - place: '33'
-      total: 239
+      total: 227
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 134.903
         effort: 82.911
         distance: 217.814
-        leading: 21.4
+        leading: 8.9
         arrival: 0
         time: 0
       velocity:
@@ -12298,14 +12298,14 @@ scoreDf:
   - - - '146'
       - Peter Kelley
     - place: '34'
-      total: 194
+      total: 184
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 120.772
         effort: 62.811
         distance: 183.583
-        leading: 10.3
+        leading: 0
         arrival: 0
         time: 0
       velocity:
@@ -12323,14 +12323,14 @@ scoreDf:
   - - - '133'
       - Olav Olsen
     - place: '35'
-      total: 169
+      total: 156
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 100.472
         effort: 50.249
         distance: 150.721
-        leading: 18.2
+        leading: 5.2
         arrival: 0
         time: 0
       velocity:
@@ -12373,14 +12373,14 @@ scoreDf:
   - - - '140'
       - Bill Vickery
     - place: '37'
-      total: 150
+      total: 137
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 95.234
         effort: 37.687
         distance: 132.921
-        leading: 17.4
+        leading: 4.2
         arrival: 0
         time: 0
       velocity:
@@ -12505,7 +12505,7 @@ scoreDf:
         reach: 376.66
         effort: 376.66
         distance: 753.32
-        leading: 27.2
+        leading: 27.5
         arrival: 30.8
         time: 172.7
       velocity:
@@ -12523,14 +12523,14 @@ scoreDf:
   - - - '131'
       - Robin Hamilton
     - place: '2'
-      total: 970
+      total: 971
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 376.66
         effort: 376.66
         distance: 753.32
-        leading: 26.9
+        leading: 27.1
         arrival: 17.5
         time: 172.7
       velocity:
@@ -12548,16 +12548,16 @@ scoreDf:
   - - - '139'
       - Tullio Gervasoni
     - place: '3'
-      total: 950
+      total: 949
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 376.66
         effort: 376.66
         distance: 753.32
-        leading: 25.1
+        leading: 25.4
         arrival: 10.2
-        time: 161.6
+        time: 159.8
       velocity:
         ss: 2016-05-12T19:30:22Z
         gs: 2016-05-12T19:30:00Z
@@ -12573,16 +12573,16 @@ scoreDf:
   - - - '132'
       - James Stinnett
     - place: '4'
-      total: 942
+      total: 940
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 376.66
         effort: 376.66
         distance: 753.32
-        leading: 24.7
+        leading: 25
         arrival: 7
-        time: 157.4
+        time: 154.9
       velocity:
         ss: 2016-05-12T19:30:33Z
         gs: 2016-05-12T19:30:00Z
@@ -12598,14 +12598,14 @@ scoreDf:
   - - - '113'
       - Olav Opsanger
     - place: '5'
-      total: 771
+      total: 772
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 370.461
         effort: 376.66
         distance: 747.121
-        leading: 24.2
+        leading: 24.6
         arrival: 0
         time: 0
       velocity:
@@ -12630,7 +12630,7 @@ scoreDf:
         reach: 345.874
         effort: 373.073
         distance: 718.947
-        leading: 20.2
+        leading: 20.5
         arrival: 0
         time: 0
       velocity:
@@ -12655,7 +12655,7 @@ scoreDf:
         reach: 344.054
         effort: 365.899
         distance: 709.952
-        leading: 13.8
+        leading: 14.2
         arrival: 0
         time: 0
       velocity:
@@ -12673,14 +12673,14 @@ scoreDf:
   - - - '111'
       - Patrick Kruse
     - place: '8'
-      total: 714
+      total: 715
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 334.316
         effort: 355.137
         distance: 689.453
-        leading: 24.9
+        leading: 25.2
         arrival: 0
         time: 0
       velocity:
@@ -12698,14 +12698,14 @@ scoreDf:
   - - - '110'
       - Cory Barnwell
     - place: '9'
-      total: 703
+      total: 704
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 335.163
         effort: 355.137
         distance: 690.3
-        leading: 12.7
+        leading: 13.2
         arrival: 0
         time: 0
       velocity:
@@ -12730,7 +12730,7 @@ scoreDf:
         reach: 333.305
         effort: 344.375
         distance: 677.68
-        leading: 20.8
+        leading: 21.2
         arrival: 0
         time: 0
       velocity:
@@ -12780,7 +12780,7 @@ scoreDf:
         reach: 322.474
         effort: 330.026
         distance: 652.5
-        leading: 20.5
+        leading: 20.9
         arrival: 0
         time: 0
       velocity:
@@ -12805,7 +12805,7 @@ scoreDf:
         reach: 310.272
         effort: 290.566
         distance: 600.838
-        leading: 39.4
+        leading: 39.5
         arrival: 0
         time: 0
       velocity:
@@ -12848,14 +12848,14 @@ scoreDf:
   - - - '128'
       - Zac Majors
     - place: '15'
-      total: 589
+      total: 590
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 299.946
         effort: 251.107
         distance: 551.053
-        leading: 38.4
+        leading: 38.5
         arrival: 0
         time: 0
       velocity:
@@ -12880,7 +12880,7 @@ scoreDf:
         reach: 294.127
         effort: 233.171
         distance: 527.297
-        leading: 20.8
+        leading: 21.2
         arrival: 0
         time: 0
       velocity:
@@ -12905,7 +12905,7 @@ scoreDf:
         reach: 281.488
         effort: 215.234
         distance: 496.723
-        leading: 18.9
+        leading: 19.3
         arrival: 0
         time: 0
       velocity:
@@ -12930,7 +12930,7 @@ scoreDf:
         reach: 282.91
         effort: 215.234
         distance: 498.145
-        leading: 17.4
+        leading: 17.8
         arrival: 0
         time: 0
       velocity:
@@ -12955,7 +12955,7 @@ scoreDf:
         reach: 268.812
         effort: 197.298
         distance: 466.11
-        leading: 19.4
+        leading: 19.8
         arrival: 0
         time: 0
       velocity:
@@ -12980,7 +12980,7 @@ scoreDf:
         reach: 270.506
         effort: 197.298
         distance: 467.804
-        leading: 16.2
+        leading: 16.6
         arrival: 0
         time: 0
       velocity:
@@ -13005,7 +13005,7 @@ scoreDf:
         reach: 271.466
         effort: 186.536
         distance: 458.003
-        leading: 21.8
+        leading: 22.1
         arrival: 0
         time: 0
       velocity:
@@ -13030,7 +13030,7 @@ scoreDf:
         reach: 273.469
         effort: 186.536
         distance: 460.006
-        leading: 17.9
+        leading: 18.3
         arrival: 0
         time: 0
       velocity:
@@ -13055,7 +13055,7 @@ scoreDf:
         reach: 269.141
         effort: 186.536
         distance: 455.677
-        leading: 19
+        leading: 19.4
         arrival: 0
         time: 0
       velocity:
@@ -13073,14 +13073,14 @@ scoreDf:
   - - - '106'
       - Fabiano Nahoum
     - place: '24'
-      total: 470
+      total: 471
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 267.656
         effort: 172.188
         distance: 439.843
-        leading: 30.5
+        leading: 30.7
         arrival: 0
         time: 0
       velocity:
@@ -13105,7 +13105,7 @@ scoreDf:
         reach: 269.318
         effort: 172.188
         distance: 441.505
-        leading: 22.1
+        leading: 22.5
         arrival: 0
         time: 0
       velocity:
@@ -13123,14 +13123,14 @@ scoreDf:
   - - - '150'
       - Claudia Mejia
     - place: '26'
-      total: 453
+      total: 454
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 267.605
         effort: 172.188
         distance: 439.793
-        leading: 13.2
+        leading: 13.7
         arrival: 0
         time: 0
       velocity:
@@ -13147,15 +13147,15 @@ scoreDf:
       stoppedAlt: 1.000 m
   - - - '119'
       - Bart Weghorst
-    - place: 27=
-      total: 424
+    - place: '27'
+      total: 425
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 245.223
         effort: 154.251
         distance: 399.474
-        leading: 24.9
+        leading: 25.2
         arrival: 0
         time: 0
       velocity:
@@ -13172,7 +13172,7 @@ scoreDf:
       stoppedAlt: -4.000 m
   - - - '115'
       - Andrew Hollidge
-    - place: 27=
+    - place: '28'
       total: 424
       penalties: []
       penaltyReason: ''
@@ -13180,7 +13180,7 @@ scoreDf:
         reach: 245.217
         effort: 154.251
         distance: 399.468
-        leading: 24.7
+        leading: 25
         arrival: 0
         time: 0
       velocity:
@@ -13198,14 +13198,14 @@ scoreDf:
   - - - '135'
       - Misael Rosalez
     - place: '29'
-      total: 422
+      total: 423
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 245.293
         effort: 154.251
         distance: 399.544
-        leading: 22.8
+        leading: 23.1
         arrival: 0
         time: 0
       velocity:
@@ -13230,7 +13230,7 @@ scoreDf:
         reach: 242.752
         effort: 139.902
         distance: 382.655
-        leading: 20.9
+        leading: 21.3
         arrival: 0
         time: 0
       velocity:
@@ -13255,7 +13255,7 @@ scoreDf:
         reach: 178.866
         effort: 121.966
         distance: 300.832
-        leading: 6
+        leading: 6.6
         arrival: 0
         time: 0
       velocity:
@@ -13273,14 +13273,14 @@ scoreDf:
   - - - '101'
       - Davis Straub
     - place: '32'
-      total: 305
+      total: 306
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 178.437
         effort: 121.966
         distance: 300.403
-        leading: 4.9
+        leading: 5.5
         arrival: 0
         time: 0
       velocity:
@@ -13323,14 +13323,14 @@ scoreDf:
   - - - '120'
       - Mike Glennon
     - place: '34'
-      total: 273
+      total: 274
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 160.44
         effort: 111.204
         distance: 271.644
-        leading: 1.3
+        leading: 2
         arrival: 0
         time: 0
       velocity:
@@ -13380,7 +13380,7 @@ scoreDf:
         reach: 158.057
         effort: 86.094
         distance: 244.151
-        leading: 0
+        leading: 0.3
         arrival: 0
         time: 0
       velocity:
@@ -13523,14 +13523,14 @@ scoreDf:
 - - - - '138'
       - Jonny Durand
     - place: '1'
-      total: 886
+      total: 884
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 33.8
+        leading: 31.5
         arrival: 71.8
         time: 401.9
       velocity:
@@ -13548,16 +13548,16 @@ scoreDf:
   - - - '142'
       - John Simon
     - place: '2'
-      total: 805
+      total: 797
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 30.8
+        leading: 28.5
         arrival: 59.1
-        time: 336.3
+        time: 330.9
       velocity:
         ss: 2016-05-13T18:24:26Z
         gs: 2016-05-13T18:20:00Z
@@ -13573,7 +13573,7 @@ scoreDf:
   - - - '101'
       - Davis Straub
     - place: '3'
-      total: 772
+      total: 758
       penalties: []
       penaltyReason: ''
       breakdown:
@@ -13582,7 +13582,7 @@ scoreDf:
         distance: 378.573
         leading: 100.5
         arrival: 65.2
-        time: 227.7
+        time: 213.3
       velocity:
         ss: 2016-05-13T17:58:50Z
         gs: 2016-05-13T18:00:00Z
@@ -13598,16 +13598,16 @@ scoreDf:
   - - - '132'
       - James Stinnett
     - place: '4'
-      total: 714
+      total: 700
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 18.8
+        leading: 16.1
         arrival: 39.8
-        time: 276.5
+        time: 266.1
       velocity:
         ss: 2016-05-13T18:22:04Z
         gs: 2016-05-13T18:20:00Z
@@ -13623,16 +13623,16 @@ scoreDf:
   - - - '121'
       - Oleg Bondarchuk
     - place: '5'
-      total: 704
+      total: 687
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 65.6
+        leading: 64.4
         arrival: 53.6
-        time: 206.7
+        time: 190.5
       velocity:
         ss: 2016-05-13T18:00:24Z
         gs: 2016-05-13T18:00:00Z
@@ -13648,16 +13648,16 @@ scoreDf:
   - - - '104'
       - Christian Pollet
     - place: '6'
-      total: 681
+      total: 662
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 70.8
+        leading: 69.8
         arrival: 48.5
-        time: 183.3
+        time: 165.2
       velocity:
         ss: 2016-05-13T18:00:14Z
         gs: 2016-05-13T18:00:00Z
@@ -13673,16 +13673,16 @@ scoreDf:
   - - - '128'
       - Zac Majors
     - place: '7'
-      total: 660
+      total: 642
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 22.6
+        leading: 20
         arrival: 32.7
-        time: 225.8
+        time: 211.2
       velocity:
         ss: 2016-05-13T18:24:23Z
         gs: 2016-05-13T18:20:00Z
@@ -13698,16 +13698,16 @@ scoreDf:
   - - - '131'
       - Robin Hamilton
     - place: '8'
-      total: 647
+      total: 626
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 50.7
+        leading: 49
         arrival: 43.9
-        time: 173.7
+        time: 154.8
       velocity:
         ss: 2016-05-13T18:02:40Z
         gs: 2016-05-13T18:00:00Z
@@ -13723,16 +13723,16 @@ scoreDf:
   - - - '111'
       - Patrick Kruse
     - place: '9'
-      total: 639
+      total: 618
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 54.1
+        leading: 52.6
         arrival: 36
-        time: 170.3
+        time: 151.1
       velocity:
         ss: 2016-05-13T18:00:41Z
         gs: 2016-05-13T18:00:00Z
@@ -13748,16 +13748,16 @@ scoreDf:
   - - - '135'
       - Misael Rosalez
     - place: '10'
-      total: 593
+      total: 569
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 65.4
+        leading: 64.2
         arrival: 27
-        time: 122.2
+        time: 99
       velocity:
         ss: 2016-05-13T18:00:23Z
         gs: 2016-05-13T18:00:00Z
@@ -13773,16 +13773,16 @@ scoreDf:
   - - - '103'
       - Matt Christensen
     - place: '11'
-      total: 579
+      total: 553
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 66.1
+        leading: 65
         arrival: 22.7
-        time: 111.3
+        time: 87.2
       velocity:
         ss: 2016-05-13T18:00:22Z
         gs: 2016-05-13T18:00:00Z
@@ -13798,16 +13798,16 @@ scoreDf:
   - - - '124'
       - Patrick Pannese
     - place: '12'
-      total: 573
+      total: 548
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 47.9
+        leading: 46.1
         arrival: 24.7
-        time: 121.6
+        time: 98.3
       velocity:
         ss: 2016-05-13T17:58:42Z
         gs: 2016-05-13T18:00:00Z
@@ -13823,16 +13823,16 @@ scoreDf:
   - - - '106'
       - Fabiano Nahoum
     - place: '13'
-      total: 565
+      total: 541
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 15.5
+        leading: 12.7
         arrival: 19.5
-        time: 151.2
+        time: 130.4
       velocity:
         ss: 2016-05-13T18:24:27Z
         gs: 2016-05-13T18:20:00Z
@@ -13848,16 +13848,16 @@ scoreDf:
   - - - '102'
       - Richard lovelace
     - place: '14'
-      total: 530
+      total: 504
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 9.8
+        leading: 6.7
         arrival: 18.3
-        time: 123.3
+        time: 100.2
       velocity:
         ss: 2016-05-13T18:20:22Z
         gs: 2016-05-13T18:20:00Z
@@ -13873,16 +13873,16 @@ scoreDf:
   - - - '113'
       - Olav Opsanger
     - place: '15'
-      total: 514
+      total: 486
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 18.2
+        leading: 15.4
         arrival: 16.5
-        time: 100.4
+        time: 75.4
       velocity:
         ss: 2016-05-13T18:24:26Z
         gs: 2016-05-13T18:20:00Z
@@ -13898,16 +13898,16 @@ scoreDf:
   - - - '127'
       - Gerry Pesavento
     - place: '16'
-      total: 513
+      total: 484
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 37.5
+        leading: 35.4
         arrival: 21
-        time: 76.2
+        time: 49.2
       velocity:
         ss: 2016-05-13T18:00:46Z
         gs: 2016-05-13T18:00:00Z
@@ -13923,16 +13923,16 @@ scoreDf:
   - - - '123'
       - JD Guillemette
     - place: '17'
-      total: 476
+      total: 445
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 9.2
+        leading: 6.1
         arrival: 15.8
-        time: 72.3
+        time: 44.9
       velocity:
         ss: 2016-05-13T18:24:38Z
         gs: 2016-05-13T18:20:00Z
@@ -13945,67 +13945,17 @@ scoreDf:
       reachDistance: 69.861 km
       landedDistance: 69.861 km
       stoppedAlt: null
-  - - - '114'
-      - Mick Howard
-    - place: '18'
-      total: 451
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 189.287
-        effort: 189.287
-        distance: 378.573
-        leading: 8.5
-        arrival: 15
-        time: 49.1
-      velocity:
-        ss: 2016-05-13T18:22:00Z
-        gs: 2016-05-13T18:20:00Z
-        es: 2016-05-13T20:59:28Z
-        ssDistance: 37.674 km
-        ssElapsed: 2.624444 h
-        gsElapsed: 2.657778 h
-        ssVelocity: 14.36 km / h
-        gsVelocity: 14.18 km / h
-      reachDistance: 69.861 km
-      landedDistance: 69.861 km
-      stoppedAlt: null
-  - - - '150'
-      - Claudia Mejia
-    - place: '19'
-      total: 449
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        reach: 189.287
-        effort: 189.287
-        distance: 378.573
-        leading: 27.1
-        arrival: 17.3
-        time: 26.4
-      velocity:
-        ss: 2016-05-13T18:04:57Z
-        gs: 2016-05-13T18:00:00Z
-        es: 2016-05-13T20:45:36Z
-        ssDistance: 37.674 km
-        ssElapsed: 2.677500 h
-        gsElapsed: 2.760000 h
-        ssVelocity: 14.07 km / h
-        gsVelocity: 13.65 km / h
-      reachDistance: 69.861 km
-      landedDistance: 69.861 km
-      stoppedAlt: null
   - - - '133'
       - Olav Olsen
-    - place: '20'
-      total: 430
+    - place: '18'
+      total: 428
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 36.6
+        leading: 34.5
         arrival: 14.5
         time: 0
       velocity:
@@ -14020,17 +13970,67 @@ scoreDf:
       reachDistance: 69.861 km
       landedDistance: 69.861 km
       stoppedAlt: null
-  - - - '119'
-      - Bart Weghorst
-    - place: '21'
-      total: 408
+  - - - '150'
+      - Claudia Mejia
+    - place: '19'
+      total: 420
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 13.9
+        leading: 24.6
+        arrival: 17.3
+        time: 0
+      velocity:
+        ss: 2016-05-13T18:04:57Z
+        gs: 2016-05-13T18:00:00Z
+        es: 2016-05-13T20:45:36Z
+        ssDistance: 37.674 km
+        ssElapsed: 2.677500 h
+        gsElapsed: 2.760000 h
+        ssVelocity: 14.07 km / h
+        gsVelocity: 13.65 km / h
+      reachDistance: 69.861 km
+      landedDistance: 69.861 km
+      stoppedAlt: null
+  - - - '114'
+      - Mick Howard
+    - place: '20'
+      total: 419
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 189.287
+        effort: 189.287
+        distance: 378.573
+        leading: 5.4
+        arrival: 15
+        time: 19.8
+      velocity:
+        ss: 2016-05-13T18:22:00Z
+        gs: 2016-05-13T18:20:00Z
+        es: 2016-05-13T20:59:28Z
+        ssDistance: 37.674 km
+        ssElapsed: 2.624444 h
+        gsElapsed: 2.657778 h
+        ssVelocity: 14.36 km / h
+        gsVelocity: 14.18 km / h
+      reachDistance: 69.861 km
+      landedDistance: 69.861 km
+      stoppedAlt: null
+  - - - '119'
+      - Bart Weghorst
+    - place: '21'
+      total: 405
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        reach: 189.287
+        effort: 189.287
+        distance: 378.573
+        leading: 11
         arrival: 15.3
         time: 0
       velocity:
@@ -14048,14 +14048,14 @@ scoreDf:
   - - - '117'
       - Robert Dallas
     - place: '22'
-      total: 400
+      total: 396
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 189.287
         effort: 189.287
         distance: 378.573
-        leading: 6.3
+        leading: 3.1
         arrival: 14.7
         time: 0
       velocity:
@@ -14073,14 +14073,14 @@ scoreDf:
   - - - '144'
       - Tom Lanning
     - place: '23'
-      total: 362
+      total: 360
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 142.258
         effort: 182.276
         distance: 324.534
-        leading: 37.2
+        leading: 35.1
         arrival: 0
         time: 0
       velocity:
@@ -14098,14 +14098,14 @@ scoreDf:
   - - - '139'
       - Tullio Gervasoni
     - place: '24'
-      total: 328
+      total: 326
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 140.738
         effort: 161.244
         distance: 301.982
-        leading: 26.1
+        leading: 23.5
         arrival: 0
         time: 0
       velocity:
@@ -14148,14 +14148,14 @@ scoreDf:
   - - - '108'
       - Raul Guerra
     - place: '26'
-      total: 256
+      total: 253
       penalties: []
       penaltyReason: ''
       breakdown:
         reach: 111.598
         effort: 140.212
         distance: 251.81
-        leading: 4.5
+        leading: 1.2
         arrival: 0
         time: 0
       velocity:
@@ -14305,7 +14305,7 @@ scoreDfNoTrack:
 - - - - '115'
       - Andrew Hollidge
     - place: '1'
-      total: 522
+      total: 499
       penalties:
       - penalty-points: 16
       penaltyReason: FS would not process file correctly.
@@ -14315,7 +14315,7 @@ scoreDfNoTrack:
         distance: 378.573
         leading: 0
         arrival: 29.7
-        time: 129.3
+        time: 106.7
       velocity:
         ss: 2016-05-13T18:00:00Z
         gs: 2016-05-13T18:00:00Z
