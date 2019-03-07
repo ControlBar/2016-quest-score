@@ -1,0 +1,2329 @@
+score:
+- - - - '101'
+      - Davis Straub
+    - distance: 121.2
+      leading: 0
+      time: 0
+      total: 121
+      arrival: 0
+      place: '40'
+  - - - '102'
+      - Richard lovelace
+    - distance: 274.5
+      leading: 3.6
+      time: 0
+      total: 278
+      arrival: 0
+      place: '30'
+  - - - '103'
+      - Matt Christensen
+    - distance: 241.1
+      leading: 0
+      time: 0
+      total: 241
+      arrival: 0
+      place: '35'
+  - - - '104'
+      - Christian Pollet
+    - distance: 278.9
+      leading: 0
+      time: 0
+      total: 279
+      arrival: 0
+      place: '28'
+  - - - '106'
+      - Fabiano Nahoum
+    - distance: 460.1
+      leading: 53.2
+      time: 224.5
+      total: 754
+      arrival: 15.8
+      place: '14'
+  - - - '107'
+      - Malcolm Brown
+    - distance: 460.1
+      leading: 67.4
+      time: 260.7
+      total: 813
+      arrival: 24.9
+      place: '9'
+  - - - '108'
+      - Raul Guerra
+    - distance: 247.9
+      leading: 0
+      time: 0
+      total: 248
+      arrival: 0
+      place: '33'
+  - - - '109'
+      - Michael Williams
+    - distance: 460.1
+      leading: 62.7
+      time: 193.4
+      total: 730
+      arrival: 13.7
+      place: '18'
+  - - - '110'
+      - Cory Barnwell
+    - distance: 343.6
+      leading: 3.3
+      time: 0
+      total: 347
+      arrival: 0
+      place: '23'
+  - - - '111'
+      - Patrick Kruse
+    - distance: 460.1
+      leading: 62.2
+      time: 212.2
+      total: 750
+      arrival: 15
+      place: '15'
+  - - - '112'
+      - Sergey Kataev
+    - distance: 132.9
+      leading: 0
+      time: 0
+      total: 133
+      arrival: 0
+      place: '38'
+  - - - '113'
+      - Olav Opsanger
+    - distance: 460.1
+      leading: 67.3
+      time: 283.4
+      total: 863
+      arrival: 52.6
+      place: '5'
+  - - - '114'
+      - Mick Howard
+    - distance: 460.1
+      leading: 58.8
+      time: 199.7
+      total: 733
+      arrival: 13.9
+      place: '17'
+  - - - '115'
+      - Andrew Hollidge
+    - distance: 460.1
+      leading: 66.2
+      time: 280.2
+      total: 843
+      arrival: 36
+      place: '6'
+  - - - '116'
+      - Jeffery Bohl
+    - distance: 324.3
+      leading: 7.8
+      time: 0
+      total: 332
+      arrival: 0
+      place: '26'
+  - - - '117'
+      - Robert Dallas
+    - distance: 332.3
+      leading: 2.6
+      time: 0
+      total: 335
+      arrival: 0
+      place: '24'
+  - - - '118'
+      - Ingo Heilmann
+    - distance: 258.2
+      leading: 0
+      time: 0
+      total: 258
+      arrival: 0
+      place: '32'
+  - - - '119'
+      - Bart Weghorst
+    - distance: 460.1
+      leading: 66.6
+      time: 249.3
+      total: 793
+      arrival: 16.9
+      place: '12'
+  - - - '120'
+      - Mike Glennon
+    - distance: 412.4
+      leading: 57.2
+      time: 0
+      total: 470
+      arrival: 0
+      place: '20'
+  - - - '121'
+      - Oleg Bondarchuk
+    - distance: 460.1
+      leading: 72.1
+      time: 295.6
+      total: 888
+      arrival: 59.7
+      place: '2'
+  - - - '123'
+      - JD Guillemette
+    - distance: 278.1
+      leading: 0.2
+      time: 0
+      total: 278
+      arrival: 0
+      place: '30'
+  - - - '124'
+      - Patrick Pannese
+    - distance: 247
+      leading: 0
+      time: 0
+      total: 247
+      arrival: 0
+      place: '34'
+  - - - '125'
+      - Larry Bunner
+    - distance: 460.1
+      leading: 65.4
+      time: 262.4
+      total: 816
+      arrival: 28
+      place: '8'
+  - - - '126'
+      - Jeff Kannard
+    - distance: 102
+      leading: 0
+      time: 0
+      total: 102
+      arrival: 0
+      place: '41'
+  - - - '127'
+      - Gerry Pesavento
+    - distance: 460.1
+      leading: 59.7
+      time: 203.4
+      total: 738
+      arrival: 14.4
+      place: '16'
+  - - - '128'
+      - Zac Majors
+    - distance: 460.1
+      leading: 73.1
+      time: 268
+      total: 833
+      arrival: 31.7
+      place: '7'
+  - - - '129'
+      - Mike Jefferson
+    - distance: 76.1
+      leading: 0
+      time: 0
+      total: 76
+      arrival: 0
+      place: '42'
+  - - - '131'
+      - Robin Hamilton
+    - distance: 460.1
+      leading: 85.4
+      time: 281.4
+      total: 868
+      arrival: 40.8
+      place: '4'
+  - - - '132'
+      - James Stinnett
+    - distance: 460.1
+      leading: 65.6
+      time: 259.3
+      total: 807
+      arrival: 22.3
+      place: '10'
+  - - - '133'
+      - Olav Olsen
+    - distance: 460.1
+      leading: 46.9
+      time: 251.4
+      total: 777
+      arrival: 18.3
+      place: '13'
+  - - - '134'
+      - Kinsley Sykes
+    - distance: 122.3
+      leading: 0
+      time: 0
+      total: 122
+      arrival: 0
+      place: '39'
+  - - - '135'
+      - Misael Rosalez
+    - distance: 443.1
+      leading: 51.4
+      time: 0
+      total: 495
+      arrival: 0
+      place: '19'
+  - - - '137'
+      - Yoko Isomoto
+    - distance: 201.9
+      leading: 0
+      time: 0
+      total: 202
+      arrival: 0
+      place: '37'
+  - - - '138'
+      - Jonny Durand
+    - distance: 460.1
+      leading: 94.5
+      time: 377.9
+      total: 1000
+      arrival: 67.5
+      place: '1'
+  - - - '139'
+      - Tullio Gervasoni
+    - distance: 460.1
+      leading: 84.6
+      time: 281.9
+      total: 873
+      arrival: 46.4
+      place: '3'
+  - - - '140'
+      - Bill Vickery
+    - distance: 310.2
+      leading: 0
+      time: 0
+      total: 310
+      arrival: 0
+      place: '27'
+  - - - '141'
+      - Patrick Halfhill
+    - distance: 221.6
+      leading: 0
+      time: 0
+      total: 222
+      arrival: 0
+      place: '36'
+  - - - '142'
+      - John Simon
+    - distance: 460.1
+      leading: 60.7
+      time: 253.8
+      total: 795
+      arrival: 20.1
+      place: '11'
+  - - - '143'
+      - Anna Eppink
+    - distance: 402.7
+      leading: 45.3
+      time: 0
+      total: 448
+      arrival: 0
+      place: '21'
+  - - - '144'
+      - Tom Lanning
+    - distance: 57.2
+      leading: 0
+      time: 0
+      total: 57
+      arrival: 0
+      place: '43'
+  - - - '145'
+      - Roger Irby
+    - distance: 279
+      leading: 0
+      time: 0
+      total: 279
+      arrival: 0
+      place: '28'
+  - - - '146'
+      - Peter Kelley
+    - distance: 425.4
+      leading: 16
+      time: 0
+      total: 441
+      arrival: 0
+      place: '22'
+  - - - '150'
+      - Claudia Mejia
+    - distance: 333.3
+      leading: 0
+      time: 0
+      total: 333
+      arrival: 0
+      place: '25'
+- - - - '101'
+      - Davis Straub
+    - distance: 404.9
+      leading: 70.2
+      time: 0
+      total: 475
+      arrival: 0
+      place: '21'
+  - - - '102'
+      - Richard lovelace
+    - distance: 325.9
+      leading: 39.7
+      time: 0
+      total: 366
+      arrival: 0
+      place: '26'
+  - - - '103'
+      - Matt Christensen
+    - distance: 441
+      leading: 28
+      time: 0
+      total: 469
+      arrival: 0
+      place: '22'
+  - - - '104'
+      - Christian Pollet
+    - distance: 64.9
+      leading: 0
+      time: 0
+      total: 65
+      arrival: 0
+      place: '42'
+  - - - '106'
+      - Fabiano Nahoum
+    - distance: 473.2
+      leading: 75.9
+      time: 144.3
+      total: 710
+      arrival: 16.9
+      place: '12'
+  - - - '107'
+      - Malcolm Brown
+    - distance: 445.8
+      leading: 43.9
+      time: 0
+      total: 490
+      arrival: 0
+      place: '19'
+  - - - '108'
+      - Raul Guerra
+    - distance: 415.8
+      leading: 31.3
+      time: 0
+      total: 447
+      arrival: 0
+      place: '24'
+  - - - '109'
+      - Michael Williams
+    - distance: 201.2
+      leading: 0
+      time: 0
+      total: 201
+      arrival: 0
+      place: '36'
+  - - - '110'
+      - Cory Barnwell
+    - distance: 440.7
+      leading: 26.5
+      time: 0
+      total: 467
+      arrival: 0
+      place: '23'
+  - - - '111'
+      - Patrick Kruse
+    - distance: 473.2
+      leading: 74.3
+      time: 167.3
+      total: 744
+      arrival: 29.6
+      place: '7'
+  - - - '112'
+      - Sergey Kataev
+    - distance: 208.3
+      leading: 0
+      time: 0
+      total: 208
+      arrival: 0
+      place: '34'
+  - - - '113'
+      - Olav Opsanger
+    - distance: 473.2
+      leading: 92.2
+      time: 217.5
+      total: 841
+      arrival: 57.8
+      place: '2'
+  - - - '114'
+      - Mick Howard
+    - distance: 66.7
+      leading: 0
+      time: 0
+      total: 67
+      arrival: 0
+      place: '41'
+  - - - '115'
+      - Andrew Hollidge
+    - distance: 291.5
+      leading: 21.6
+      time: 0
+      total: 313
+      arrival: 0
+      place: '32'
+  - - - '116'
+      - Jeffery Bohl
+    - distance: 440.2
+      leading: 40.9
+      time: 0
+      total: 481
+      arrival: 0
+      place: '20'
+  - - - '117'
+      - Robert Dallas
+    - distance: 358
+      leading: 40.7
+      time: 0
+      total: 399
+      arrival: 0
+      place: '25'
+  - - - '118'
+      - Ingo Heilmann
+    - distance: 14
+      leading: 0
+      time: 0
+      total: 14
+      arrival: 0
+      place: '43'
+  - - - '119'
+      - Bart Weghorst
+    - distance: 473.2
+      leading: 76.2
+      time: 148.1
+      total: 716
+      arrival: 18.5
+      place: '11'
+  - - - '120'
+      - Mike Glennon
+    - distance: 473.2
+      leading: 72.9
+      time: 76.8
+      total: 637
+      arrival: 13.6
+      place: '16'
+  - - - '121'
+      - Oleg Bondarchuk
+    - distance: 473.2
+      leading: 90.2
+      time: 184.7
+      total: 787
+      arrival: 38.7
+      place: '5'
+  - - - '123'
+      - JD Guillemette
+    - distance: 473.2
+      leading: 71
+      time: 113.6
+      total: 674
+      arrival: 15.7
+      place: '13'
+  - - - '124'
+      - Patrick Pannese
+    - distance: 320.3
+      leading: 30
+      time: 0
+      total: 350
+      arrival: 0
+      place: '29'
+  - - - '125'
+      - Larry Bunner
+    - distance: 473.2
+      leading: 83.3
+      time: 206.2
+      total: 813
+      arrival: 50.6
+      place: '3'
+  - - - '126'
+      - Jeff Kannard
+    - distance: 292.6
+      leading: 43.1
+      time: 0
+      total: 336
+      arrival: 0
+      place: '30'
+  - - - '127'
+      - Gerry Pesavento
+    - distance: 473.2
+      leading: 68.1
+      time: 92.4
+      total: 649
+      arrival: 14.8
+      place: '14'
+  - - - '128'
+      - Zac Majors
+    - distance: 473.2
+      leading: 64.8
+      time: 368.7
+      total: 973
+      arrival: 65.8
+      place: '1'
+  - - - '129'
+      - Mike Jefferson
+    - distance: 113.5
+      leading: 0
+      time: 0
+      total: 114
+      arrival: 0
+      place: '40'
+  - - - '131'
+      - Robin Hamilton
+    - distance: 473.2
+      leading: 76.7
+      time: 159.2
+      total: 732
+      arrival: 23
+      place: '9'
+  - - - '132'
+      - James Stinnett
+    - distance: 473.2
+      leading: 76.8
+      time: 161.9
+      total: 738
+      arrival: 26
+      place: '8'
+  - - - '133'
+      - Olav Olsen
+    - distance: 217.2
+      leading: 13.9
+      time: 0
+      total: 231
+      arrival: 0
+      place: '33'
+  - - - '134'
+      - Kinsley Sykes
+    - distance: 206.2
+      leading: 0
+      time: 0
+      total: 206
+      arrival: 0
+      place: '35'
+  - - - '135'
+      - Misael Rosalez
+    - distance: 331
+      leading: 30.8
+      time: 0
+      total: 362
+      arrival: 0
+      place: '27'
+  - - - '137'
+      - Yoko Isomoto
+    - distance: 436.2
+      leading: 54.9
+      time: 0
+      total: 491
+      arrival: 0
+      place: '18'
+  - - - '138'
+      - Jonny Durand
+    - distance: 473.2
+      leading: 84.7
+      time: 182.3
+      total: 774
+      arrival: 33.8
+      place: '6'
+  - - - '139'
+      - Tullio Gervasoni
+    - distance: 473.2
+      leading: 87.4
+      time: 199.6
+      total: 805
+      arrival: 44.3
+      place: '4'
+  - - - '140'
+      - Bill Vickery
+    - distance: 186.2
+      leading: 0
+      time: 0
+      total: 186
+      arrival: 0
+      place: '38'
+  - - - '141'
+      - Patrick Halfhill
+    - distance: 194
+      leading: 0
+      time: 0
+      total: 194
+      arrival: 0
+      place: '37'
+  - - - '142'
+      - John Simon
+    - distance: 473.2
+      leading: 78.6
+      time: 157.6
+      total: 730
+      arrival: 20.6
+      place: '10'
+  - - - '143'
+      - Anna Eppink
+    - distance: 473.2
+      leading: 71.1
+      time: 85.1
+      total: 644
+      arrival: 14.1
+      place: '15'
+  - - - '144'
+      - Tom Lanning
+    - distance: 473.2
+      leading: 61.8
+      time: 54.5
+      total: 603
+      arrival: 13.4
+      place: '17'
+  - - - '145'
+      - Roger Irby
+    - distance: 318.2
+      leading: 14.1
+      time: 0
+      total: 332
+      arrival: 0
+      place: '31'
+  - - - '146'
+      - Peter Kelley
+    - distance: 180.5
+      leading: 0
+      time: 0
+      total: 181
+      arrival: 0
+      place: '39'
+  - - - '150'
+      - Claudia Mejia
+    - distance: 325.3
+      leading: 29.4
+      time: 0
+      total: 355
+      arrival: 0
+      place: '28'
+- - - - '101'
+      - Davis Straub
+    - distance: 413.5
+      leading: 94.8
+      time: 206.5
+      total: 744
+      arrival: 29.2
+      place: '13'
+  - - - '102'
+      - Richard lovelace
+    - distance: 413.5
+      leading: 99.2
+      time: 119
+      total: 649
+      arrival: 17.1
+      place: '17'
+  - - - '103'
+      - Matt Christensen
+    - distance: 403.5
+      leading: 67.4
+      time: 0
+      total: 471
+      arrival: 0
+      place: '25'
+  - - - '104'
+      - Christian Pollet
+    - distance: 413.5
+      leading: 77.4
+      time: 203
+      total: 720
+      arrival: 26.5
+      place: '14'
+  - - - '106'
+      - Fabiano Nahoum
+    - distance: 413.5
+      leading: 95.9
+      time: 254.1
+      total: 823
+      arrival: 59.9
+      place: '3'
+  - - - '107'
+      - Malcolm Brown
+    - distance: 413.5
+      leading: 89.8
+      time: 188
+      total: 716
+      arrival: 24.2
+      place: '15'
+  - - - '108'
+      - Raul Guerra
+    - distance: 413.5
+      leading: 81.7
+      time: 245.6
+      total: 790
+      arrival: 48.7
+      place: '8'
+  - - - '110'
+      - Cory Barnwell
+    - distance: 111
+      leading: 0
+      time: 0
+      total: 111
+      arrival: 0
+      place: '41'
+  - - - '111'
+      - Patrick Kruse
+    - distance: 213.5
+      leading: 5.9
+      time: 0
+      total: 219
+      arrival: 0
+      place: '40'
+  - - - '112'
+      - Sergey Kataev
+    - distance: 323.6
+      leading: 53.6
+      time: 0
+      total: 377
+      arrival: 0
+      place: '31'
+  - - - '113'
+      - Olav Opsanger
+    - distance: 413.5
+      leading: 16.1
+      time: 304.5
+      total: 752
+      arrival: 18
+      place: '12'
+  - - - '114'
+      - Mick Howard
+    - distance: 346.2
+      leading: 0
+      time: 0
+      total: 346
+      arrival: 0
+      place: '33'
+  - - - '115'
+      - Andrew Hollidge
+    - distance: 413.5
+      leading: 89.5
+      time: 251
+      total: 808
+      arrival: 54
+      place: '5'
+  - - - '116'
+      - Jeffery Bohl
+    - distance: 393.7
+      leading: 60.5
+      time: 0
+      total: 454
+      arrival: 0
+      place: '28'
+  - - - '117'
+      - Robert Dallas
+    - distance: 396.3
+      leading: 60
+      time: 0
+      total: 456
+      arrival: 0
+      place: '27'
+  - - - '118'
+      - Ingo Heilmann
+    - distance: 402.1
+      leading: 57.4
+      time: 0
+      total: 460
+      arrival: 0
+      place: '26'
+  - - - '119'
+      - Bart Weghorst
+    - distance: 273.9
+      leading: 70.3
+      time: 0
+      total: 344
+      arrival: 0
+      place: '34'
+  - - - '120'
+      - Mike Glennon
+    - distance: 413.5
+      leading: 75.9
+      time: 112.8
+      total: 617
+      arrival: 15
+      place: '21'
+  - - - '121'
+      - Oleg Bondarchuk
+    - distance: 413.5
+      leading: 101.1
+      time: 148.4
+      total: 685
+      arrival: 22.2
+      place: '16'
+  - - - '123'
+      - JD Guillemette
+    - distance: 296.1
+      leading: 28.4
+      time: 0
+      total: 325
+      arrival: 0
+      place: '35'
+  - - - '124'
+      - Patrick Pannese
+    - distance: 412
+      leading: 79.3
+      time: 0
+      total: 491
+      arrival: 0
+      place: '23'
+  - - - '125'
+      - Larry Bunner
+    - distance: 413.5
+      leading: 17.5
+      time: 317.7
+      total: 768
+      arrival: 19.1
+      place: '11'
+  - - - '126'
+      - Jeff Kannard
+    - distance: 194.3
+      leading: 55.5
+      time: 0
+      total: 224
+      arrival: 0
+      place: '39'
+  - - - '127'
+      - Gerry Pesavento
+    - distance: 413.5
+      leading: 90.7
+      time: 236.5
+      total: 776
+      arrival: 35.7
+      place: '10'
+  - - - '128'
+      - Zac Majors
+    - distance: 413.5
+      leading: 20.1
+      time: 325.1
+      total: 779
+      arrival: 20.5
+      place: '9'
+  - - - '129'
+      - Mike Jefferson
+    - distance: 186.5
+      leading: 38.4
+      time: 0
+      total: 225
+      arrival: 0
+      place: '38'
+  - - - '131'
+      - Robin Hamilton
+    - distance: 413.5
+      leading: 97.5
+      time: 256
+      total: 833
+      arrival: 66.3
+      place: '2'
+  - - - '132'
+      - James Stinnett
+    - distance: 413.5
+      leading: 102.6
+      time: 237.7
+      total: 793
+      arrival: 39.5
+      place: '7'
+  - - - '133'
+      - Olav Olsen
+    - distance: 413.5
+      leading: 82.9
+      time: 116.3
+      total: 628
+      arrival: 15.7
+      place: '18'
+  - - - '134'
+      - Kinsley Sykes
+    - distance: 228
+      leading: 35.2
+      time: 0
+      total: 263
+      arrival: 0
+      place: '36'
+  - - - '135'
+      - Misael Rosalez
+    - distance: 413.5
+      leading: 74.6
+      time: 117.2
+      total: 622
+      arrival: 16.3
+      place: '19'
+  - - - '137'
+      - Yoko Isomoto
+    - distance: 413.5
+      leading: 79.6
+      time: 83.6
+      total: 592
+      arrival: 14.8
+      place: '22'
+  - - - '138'
+      - Jonny Durand
+    - distance: 413.5
+      leading: 64.5
+      time: 410.6
+      total: 962
+      arrival: 73.3
+      place: '1'
+  - - - '139'
+      - Tullio Gervasoni
+    - distance: 413.5
+      leading: 96.9
+      time: 239.5
+      total: 794
+      arrival: 43.9
+      place: '6'
+  - - - '140'
+      - Bill Vickery
+    - distance: 196.3
+      leading: 29.7
+      time: 0
+      total: 226
+      arrival: 0
+      place: '37'
+  - - - '141'
+      - Patrick Halfhill
+    - distance: 380.5
+      leading: 60.2
+      time: 0
+      total: 441
+      arrival: 0
+      place: '29'
+  - - - '142'
+      - John Simon
+    - distance: 413.5
+      leading: 61.6
+      time: 312.8
+      total: 820
+      arrival: 32.2
+      place: '4'
+  - - - '143'
+      - Anna Eppink
+    - distance: 406.4
+      leading: 76
+      time: 0
+      total: 482
+      arrival: 0
+      place: '24'
+  - - - '144'
+      - Tom Lanning
+    - distance: 413.5
+      leading: 77.1
+      time: 114.1
+      total: 620
+      arrival: 15.3
+      place: '20'
+  - - - '145'
+      - Roger Irby
+    - distance: 381.2
+      leading: 22
+      time: 0
+      total: 403
+      arrival: 0
+      place: '30'
+  - - - '146'
+      - Peter Kelley
+    - distance: 101.8
+      leading: 0
+      time: 0
+      total: 102
+      arrival: 0
+      place: '42'
+  - - - '150'
+      - Claudia Mejia
+    - distance: 382.4
+      leading: 48.8
+      time: 0
+      total: 374
+      arrival: 0
+      place: '32'
+- - - - '101'
+      - Davis Straub
+    - distance: 525.6
+      leading: 46.6
+      time: 141
+      total: 728
+      arrival: 14.4
+      place: '10'
+  - - - '102'
+      - Richard lovelace
+    - distance: 525.6
+      leading: 45.2
+      time: 176.4
+      total: 772
+      arrival: 24.9
+      place: '6'
+  - - - '103'
+      - Matt Christensen
+    - distance: 324.3
+      leading: 33.1
+      time: 0
+      total: 357
+      arrival: 0
+      place: '29'
+  - - - '104'
+      - Christian Pollet
+    - distance: 185.8
+      leading: 0
+      time: 0
+      total: 186
+      arrival: 0
+      place: '36'
+  - - - '106'
+      - Fabiano Nahoum
+    - distance: 384
+      leading: 61.9
+      time: 0
+      total: 446
+      arrival: 0
+      place: '22'
+  - - - '108'
+      - Raul Guerra
+    - distance: 525.6
+      leading: 28.5
+      time: 131.8
+      total: 698
+      arrival: 12.5
+      place: '13'
+  - - - '110'
+      - Cory Barnwell
+    - distance: 525.6
+      leading: 48.5
+      time: 152.6
+      total: 748
+      arrival: 21.1
+      place: '7'
+  - - - '111'
+      - Patrick Kruse
+    - distance: 496.6
+      leading: 49.8
+      time: 0
+      total: 546
+      arrival: 0
+      place: '15'
+  - - - '112'
+      - Sergey Kataev
+    - distance: 451.5
+      leading: 0
+      time: 0
+      total: 452
+      arrival: 0
+      place: '21'
+  - - - '113'
+      - Olav Opsanger
+    - distance: 525.6
+      leading: 62
+      time: 181.5
+      total: 799
+      arrival: 29.5
+      place: '5'
+  - - - '114'
+      - Mick Howard
+    - distance: 471.5
+      leading: 0
+      time: 0
+      total: 472
+      arrival: 0
+      place: '20'
+  - - - '115'
+      - Andrew Hollidge
+    - distance: 525.6
+      leading: 56.4
+      time: 145.6
+      total: 744
+      arrival: 16
+      place: '8'
+  - - - '116'
+      - Jeffery Bohl
+    - distance: 501.9
+      leading: 29.2
+      time: 0
+      total: 531
+      arrival: 0
+      place: '18'
+  - - - '117'
+      - Robert Dallas
+    - distance: 525.6
+      leading: 17.5
+      time: 149.6
+      total: 711
+      arrival: 18.2
+      place: '12'
+  - - - '118'
+      - Ingo Heilmann
+    - distance: 393.5
+      leading: 28.8
+      time: 0
+      total: 422
+      arrival: 0
+      place: '24'
+  - - - '119'
+      - Bart Weghorst
+    - distance: 226.2
+      leading: 14.9
+      time: 0
+      total: 241
+      arrival: 0
+      place: '34'
+  - - - '120'
+      - Mike Glennon
+    - distance: 502.1
+      leading: 33.7
+      time: 0
+      total: 536
+      arrival: 0
+      place: '17'
+  - - - '121'
+      - Oleg Bondarchuk
+    - distance: 388.1
+      leading: 26.4
+      time: 0
+      total: 415
+      arrival: 0
+      place: '26'
+  - - - '123'
+      - JD Guillemette
+    - distance: 525.6
+      leading: 0.3
+      time: 200.8
+      total: 740
+      arrival: 13.2
+      place: '9'
+  - - - '124'
+      - Patrick Pannese
+    - distance: 436.9
+      leading: 0
+      time: 0
+      total: 437
+      arrival: 0
+      place: '23'
+  - - - '125'
+      - Larry Bunner
+    - distance: 490.7
+      leading: 46.8
+      time: 0
+      total: 538
+      arrival: 0
+      place: '16'
+  - - - '127'
+      - Gerry Pesavento
+    - distance: 321.2
+      leading: 27
+      time: 0
+      total: 348
+      arrival: 0
+      place: '31'
+  - - - '128'
+      - Zac Majors
+    - distance: 525.6
+      leading: 73.9
+      time: 181.7
+      total: 816
+      arrival: 35.2
+      place: '4'
+  - - - '129'
+      - Mike Jefferson
+    - distance: 350.7
+      leading: 0
+      time: 0
+      total: 351
+      arrival: 0
+      place: '30'
+  - - - '131'
+      - Robin Hamilton
+    - distance: 525.6
+      leading: 83
+      time: 332.1
+      total: 1000
+      arrival: 59.3
+      place: '1'
+  - - - '132'
+      - James Stinnett
+    - distance: 363.5
+      leading: 53.7
+      time: 0
+      total: 417
+      arrival: 0
+      place: '25'
+  - - - '133'
+      - Olav Olsen
+    - distance: 355.6
+      leading: 48.3
+      time: 0
+      total: 404
+      arrival: 0
+      place: '27'
+  - - - '134'
+      - Kinsley Sykes
+    - distance: 259.3
+      leading: 0
+      time: 0
+      total: 259
+      arrival: 0
+      place: '33'
+  - - - '135'
+      - Misael Rosalez
+    - distance: 508.1
+      leading: 23.3
+      time: 0
+      total: 531
+      arrival: 0
+      place: '18'
+  - - - '137'
+      - Yoko Isomoto
+    - distance: 285.5
+      leading: 0
+      time: 0
+      total: 286
+      arrival: 0
+      place: '32'
+  - - - '138'
+      - Jonny Durand
+    - distance: 525.6
+      leading: 63.2
+      time: 185.9
+      total: 825
+      arrival: 50
+      place: '2'
+  - - - '139'
+      - Tullio Gervasoni
+    - distance: 525.6
+      leading: 67.7
+      time: 184.4
+      total: 820
+      arrival: 42
+      place: '3'
+  - - - '140'
+      - Bill Vickery
+    - distance: 48.9
+      leading: 0
+      time: 0
+      total: 49
+      arrival: 0
+      place: '41'
+  - - - '141'
+      - Patrick Halfhill
+    - distance: 365.6
+      leading: 10.9
+      time: 0
+      total: 377
+      arrival: 0
+      place: '28'
+  - - - '142'
+      - John Simon
+    - distance: 235.4
+      leading: 0
+      time: 0
+      total: 235
+      arrival: 0
+      place: '35'
+  - - - '143'
+      - Anna Eppink
+    - distance: 184.8
+      leading: 0
+      time: 0
+      total: 185
+      arrival: 0
+      place: '37'
+  - - - '144'
+      - Tom Lanning
+    - distance: 522.2
+      leading: 29.8
+      time: 0
+      total: 552
+      arrival: 0
+      place: '14'
+  - - - '145'
+      - Roger Irby
+    - distance: 164.2
+      leading: 0
+      time: 0
+      total: 164
+      arrival: 0
+      place: '38'
+  - - - '146'
+      - Peter Kelley
+    - distance: 121.3
+      leading: 0
+      time: 0
+      total: 121
+      arrival: 0
+      place: '39'
+  - - - '150'
+      - Claudia Mejia
+    - distance: 525.6
+      leading: 12.1
+      time: 171.7
+      total: 722
+      arrival: 12.1
+      place: '11'
+  - - - '126'
+      - Jeff Kannard
+    - distance: 83.3
+      leading: 0
+      time: 0
+      total: 83
+      arrival: 0
+      place: '40'
+- - - - '101'
+      - Davis Straub
+    - distance: 398.7
+      leading: 54.8
+      time: 0
+      total: 454
+      arrival: 0
+      place: '23'
+  - - - '102'
+      - Richard lovelace
+    - distance: 462.3
+      leading: 54.5
+      time: 167
+      total: 729
+      arrival: 45.2
+      place: '5'
+  - - - '106'
+      - Fabiano Nahoum
+    - distance: 280.3
+      leading: 51.5
+      time: 0
+      total: 332
+      arrival: 0
+      place: '30'
+  - - - '108'
+      - Raul Guerra
+    - distance: 462.3
+      leading: 61
+      time: 69.8
+      total: 623
+      arrival: 30.2
+      place: '9'
+  - - - '110'
+      - Cory Barnwell
+    - distance: 44.6
+      leading: 0
+      time: 0
+      total: 45
+      arrival: 0
+      place: '40'
+  - - - '111'
+      - Patrick Kruse
+    - distance: 424.5
+      leading: 64.1
+      time: 0
+      total: 489
+      arrival: 0
+      place: '21'
+  - - - '112'
+      - Sergey Kataev
+    - distance: 462.3
+      leading: 55.8
+      time: 28
+      total: 561
+      arrival: 15.1
+      place: '16'
+  - - - '113'
+      - Olav Opsanger
+    - distance: 462.3
+      leading: 68.3
+      time: 38.5
+      total: 585
+      arrival: 16
+      place: '14'
+  - - - '114'
+      - Mick Howard
+    - distance: 386.8
+      leading: 33.8
+      time: 0
+      total: 421
+      arrival: 0
+      place: '24'
+  - - - '115'
+      - Andrew Hollidge
+    - distance: 306.4
+      leading: 36.2
+      time: 0
+      total: 343
+      arrival: 0
+      place: '27'
+  - - - '116'
+      - Jeffery Bohl
+    - distance: 305.3
+      leading: 29.7
+      time: 0
+      total: 335
+      arrival: 0
+      place: '29'
+  - - - '117'
+      - Robert Dallas
+    - distance: 436.4
+      leading: 54.7
+      time: 0
+      total: 491
+      arrival: 0
+      place: '20'
+  - - - '118'
+      - Ingo Heilmann
+    - distance: 104
+      leading: 0
+      time: 0
+      total: 104
+      arrival: 0
+      place: '39'
+  - - - '119'
+      - Bart Weghorst
+    - distance: 281.2
+      leading: 29.7
+      time: 0
+      total: 311
+      arrival: 0
+      place: '31'
+  - - - '120'
+      - Mike Glennon
+    - distance: 462.3
+      leading: 62.7
+      time: 65.8
+      total: 617
+      arrival: 26.6
+      place: '10'
+  - - - '121'
+      - Oleg Bondarchuk
+    - distance: 462.3
+      leading: 83.1
+      time: 270.9
+      total: 868
+      arrival: 51.7
+      place: '3'
+  - - - '123'
+      - JD Guillemette
+    - distance: 462.3
+      leading: 50.2
+      time: 79.6
+      total: 607
+      arrival: 14.4
+      place: '12'
+  - - - '124'
+      - Patrick Pannese
+    - distance: 347.8
+      leading: 36
+      time: 0
+      total: 384
+      arrival: 0
+      place: '25'
+  - - - '125'
+      - Larry Bunner
+    - distance: 425.6
+      leading: 57.8
+      time: 0
+      total: 483
+      arrival: 0
+      place: '22'
+  - - - '127'
+      - Gerry Pesavento
+    - distance: 462.3
+      leading: 45.7
+      time: 58.8
+      total: 588
+      arrival: 21
+      place: '13'
+  - - - '128'
+      - Zac Majors
+    - distance: 462.3
+      leading: 79.8
+      time: 376.4
+      total: 986
+      arrival: 67.2
+      place: '1'
+  - - - '129'
+      - Mike Jefferson
+    - distance: 442
+      leading: 54.6
+      time: 0
+      total: 497
+      arrival: 0
+      place: '19'
+  - - - '131'
+      - Robin Hamilton
+    - distance: 462.3
+      leading: 70
+      time: 163
+      total: 735
+      arrival: 39.5
+      place: '4'
+  - - - '132'
+      - James Stinnett
+    - distance: 462.3
+      leading: 53.1
+      time: 112.1
+      total: 646
+      arrival: 18.9
+      place: '7'
+  - - - '133'
+      - Olav Olsen
+    - distance: 154.6
+      leading: 6.6
+      time: 0
+      total: 161
+      arrival: 0
+      place: '37'
+  - - - '134'
+      - Kinsley Sykes
+    - distance: 114.6
+      leading: 0
+      time: 0
+      total: 115
+      arrival: 0
+      place: '38'
+  - - - '135'
+      - Misael Rosalez
+    - distance: 462.3
+      leading: 94.1
+      time: 0
+      total: 570
+      arrival: 13.6
+      place: '15'
+  - - - '138'
+      - Jonny Durand
+    - distance: 462.3
+      leading: 72.7
+      time: 288.4
+      total: 882
+      arrival: 59
+      place: '2'
+  - - - '139'
+      - Tullio Gervasoni
+    - distance: 462.3
+      leading: 66.8
+      time: 159.2
+      total: 723
+      arrival: 34.5
+      place: '6'
+  - - - '140'
+      - Bill Vickery
+    - distance: 18.9
+      leading: 0
+      time: 0
+      total: 19
+      arrival: 0
+      place: '41'
+  - - - '141'
+      - Patrick Halfhill
+    - distance: 238.4
+      leading: 11.1
+      time: 0
+      total: 250
+      arrival: 0
+      place: '34'
+  - - - '142'
+      - John Simon
+    - distance: 462.3
+      leading: 53.5
+      time: 97.9
+      total: 631
+      arrival: 17.3
+      place: '8'
+  - - - '143'
+      - Anna Eppink
+    - distance: 289
+      leading: 15.6
+      time: 0
+      total: 305
+      arrival: 0
+      place: '32'
+  - - - '144'
+      - Tom Lanning
+    - distance: 313.2
+      leading: 28
+      time: 0
+      total: 341
+      arrival: 0
+      place: '28'
+  - - - '146'
+      - Peter Kelley
+    - distance: 192.9
+      leading: 0
+      time: 0
+      total: 193
+      arrival: 0
+      place: '35'
+  - - - '150'
+      - Claudia Mejia
+    - distance: 462.3
+      leading: 60.1
+      time: 0
+      total: 536
+      arrival: 13.9
+      place: '17'
+  - - - '109'
+      - Michael Williams
+    - distance: 166.5
+      leading: 0
+      time: 0
+      total: 167
+      arrival: 0
+      place: '36'
+  - - - '103'
+      - Matt Christensen
+    - distance: 273.9
+      leading: 20.9
+      time: 0
+      total: 295
+      arrival: 0
+      place: '33'
+  - - - '145'
+      - Roger Irby
+    - distance: 333.4
+      leading: 12.6
+      time: 0
+      total: 346
+      arrival: 0
+      place: '26'
+  - - - '126'
+      - Jeff Kannard
+    - distance: 434.1
+      leading: 68.8
+      time: 0
+      total: 503
+      arrival: 0
+      place: '18'
+  - - - '104'
+      - Christian Pollet
+    - distance: 462.3
+      leading: 68.7
+      time: 58.9
+      total: 613
+      arrival: 23.5
+      place: '11'
+- - - - '101'
+      - Davis Straub
+    - distance: 290.4
+      leading: 1.9
+      time: 0
+      total: 292
+      arrival: 0
+      place: '32'
+  - - - '102'
+      - Richard lovelace
+    - distance: 515.1
+      leading: 20.7
+      time: 0
+      total: 536
+      arrival: 0
+      place: '22'
+  - - - '103'
+      - Matt Christensen
+    - distance: 691.4
+      leading: 19.6
+      time: 0
+      total: 711
+      arrival: 0
+      place: '9'
+  - - - '104'
+      - Christian Pollet
+    - distance: 753.3
+      leading: 26.4
+      time: 172.7
+      total: 983
+      arrival: 30.8
+      place: '1'
+  - - - '106'
+      - Fabiano Nahoum
+    - distance: 508.9
+      leading: 29.4
+      time: 0
+      total: 538
+      arrival: 0
+      place: '21'
+  - - - '108'
+      - Raul Guerra
+    - distance: 290.8
+      leading: 3
+      time: 0
+      total: 294
+      arrival: 0
+      place: '31'
+  - - - '109'
+      - Michael Williams
+    - distance: 402.9
+      leading: 19.2
+      time: 0
+      total: 422
+      arrival: 0
+      place: '30'
+  - - - '110'
+      - Cory Barnwell
+    - distance: 695.2
+      leading: 11.1
+      time: 0
+      total: 706
+      arrival: 0
+      place: '10'
+  - - - '111'
+      - Patrick Kruse
+    - distance: 693.6
+      leading: 23.9
+      time: 0
+      total: 718
+      arrival: 0
+      place: '8'
+  - - - '112'
+      - Sergey Kataev
+    - distance: 548.5
+      leading: 17.4
+      time: 0
+      total: 566
+      arrival: 0
+      place: '18'
+  - - - '113'
+      - Olav Opsanger
+    - distance: 747.1
+      leading: 23.3
+      time: 0
+      total: 770
+      arrival: 0
+      place: '5'
+  - - - '114'
+      - Mick Howard
+    - distance: 521.8
+      leading: 20.4
+      time: 0
+      total: 542
+      arrival: 0
+      place: '20'
+  - - - '116'
+      - Jeffery Bohl
+    - distance: 527.1
+      leading: 16.3
+      time: 0
+      total: 543
+      arrival: 0
+      place: '19'
+  - - - '117'
+      - Robert Dallas
+    - distance: 711.3
+      leading: 12.2
+      time: 0
+      total: 721
+      arrival: 0
+      place: '7'
+  - - - '118'
+      - Ingo Heilmann
+    - distance: 662.5
+      leading: 19.3
+      time: 0
+      total: 682
+      arrival: 0
+      place: '12'
+  - - - '119'
+      - Bart Weghorst
+    - distance: 414.3
+      leading: 23.4
+      time: 0
+      total: 438
+      arrival: 0
+      place: '27'
+  - - - '120'
+      - Mike Glennon
+    - distance: 255.5
+      leading: 0
+      time: 0
+      total: 256
+      arrival: 0
+      place: '34'
+  - - - '121'
+      - Oleg Bondarchuk
+    - distance: 625.3
+      leading: 39.1
+      time: 0
+      total: 664
+      arrival: 0
+      place: '13'
+  - - - '123'
+      - JD Guillemette
+    - distance: 580.6
+      leading: 19.5
+      time: 0
+      total: 600
+      arrival: 0
+      place: '16'
+  - - - '124'
+      - Patrick Pannese
+    - distance: 552.1
+      leading: 15.8
+      time: 0
+      total: 568
+      arrival: 0
+      place: '17'
+  - - - '125'
+      - Larry Bunner
+    - distance: 714.3
+      leading: 19
+      time: 0
+      total: 733
+      arrival: 0
+      place: '6'
+  - - - '126'
+      - Jeff Kannard
+    - distance: 111.7
+      leading: 0
+      time: 0
+      total: 112
+      arrival: 0
+      place: '41'
+  - - - '127'
+      - Gerry Pesavento
+    - distance: 513.4
+      leading: 17.9
+      time: 0
+      total: 531
+      arrival: 0
+      place: '25'
+  - - - '128'
+      - Zac Majors
+    - distance: 596.1
+      leading: 38
+      time: 0
+      total: 634
+      arrival: 0
+      place: '15'
+  - - - '129'
+      - Mike Jefferson
+    - distance: 183.1
+      leading: 0
+      time: 0
+      total: 183
+      arrival: 0
+      place: '39'
+  - - - '131'
+      - Robin Hamilton
+    - distance: 753.3
+      leading: 26.1
+      time: 172.7
+      total: 983
+      arrival: 30.8
+      place: '1'
+  - - - '132'
+      - James Stinnett
+    - distance: 753.3
+      leading: 23.7
+      time: 157.4
+      total: 941
+      arrival: 7
+      place: '4'
+  - - - '133'
+      - Olav Olsen
+    - distance: 519
+      leading: 14.4
+      time: 0
+      total: 533
+      arrival: 0
+      place: '23'
+  - - - '134'
+      - Kinsley Sykes
+    - distance: 158.6
+      leading: 0
+      time: 0
+      total: 159
+      arrival: 0
+      place: '40'
+  - - - '135'
+      - Misael Rosalez
+    - distance: 414.5
+      leading: 21.2
+      time: 0
+      total: 436
+      arrival: 0
+      place: '29'
+  - - - '138'
+      - Jonny Durand
+    - distance: 612.8
+      leading: 41.8
+      time: 0
+      total: 655
+      arrival: 0
+      place: '14'
+  - - - '139'
+      - Tullio Gervasoni
+    - distance: 753.3
+      leading: 24.3
+      time: 161.8
+      total: 950
+      arrival: 10.2
+      place: '3'
+  - - - '140'
+      - Bill Vickery
+    - distance: 211.3
+      leading: 0
+      time: 0
+      total: 211
+      arrival: 0
+      place: '37'
+  - - - '141'
+      - Patrick Halfhill
+    - distance: 514.5
+      leading: 17.4
+      time: 0
+      total: 532
+      arrival: 0
+      place: '24'
+  - - - '142'
+      - John Simon
+    - distance: 655.1
+      leading: 43.2
+      time: 0
+      total: 698
+      arrival: 0
+      place: '11'
+  - - - '143'
+      - Anna Eppink
+    - distance: 200.1
+      leading: 0
+      time: 0
+      total: 200
+      arrival: 0
+      place: '38'
+  - - - '144'
+      - Tom Lanning
+    - distance: 250.1
+      leading: 0
+      time: 0
+      total: 250
+      arrival: 0
+      place: '35'
+  - - - '145'
+      - Roger Irby
+    - distance: 285.9
+      leading: 0
+      time: 0
+      total: 286
+      arrival: 0
+      place: '33'
+  - - - '146'
+      - Peter Kelley
+    - distance: 246.1
+      leading: 0
+      time: 0
+      total: 246
+      arrival: 0
+      place: '36'
+  - - - '150'
+      - Claudia Mejia
+    - distance: 508.7
+      leading: 11.3
+      time: 0
+      total: 518
+      arrival: 0
+      place: '26'
+  - - - '115'
+      - Andrew Hollidge
+    - distance: 414.2
+      leading: 23.2
+      time: 0
+      total: 437
+      arrival: 0
+      place: '28'
+- - - - '118'
+      - Ingo Heilmann
+    - distance: 121
+      leading: 0
+      time: 0
+      total: 121
+      arrival: 0
+      place: '34'
+  - - - '125'
+      - Larry Bunner
+    - distance: 170.9
+      leading: 0
+      time: 0
+      total: 171
+      arrival: 0
+      place: '32'
+  - - - '123'
+      - JD Guillemette
+    - distance: 366.9
+      leading: 7.3
+      time: 73.8
+      total: 464
+      arrival: 15.9
+      place: '20'
+  - - - '134'
+      - Kinsley Sykes
+    - distance: 50.2
+      leading: 0
+      time: 0
+      total: 50
+      arrival: 0
+      place: '37'
+  - - - '141'
+      - Patrick Halfhill
+    - distance: 50.2
+      leading: 0
+      time: 0
+      total: 50
+      arrival: 0
+      place: '37'
+  - - - '145'
+      - Roger Irby
+    - distance: 50.2
+      leading: 0
+      time: 0
+      total: 50
+      arrival: 0
+      place: '37'
+  - - - '103'
+      - Matt Christensen
+    - distance: 366.9
+      leading: 68
+      time: 113.5
+      total: 572
+      arrival: 23.3
+      place: '12'
+  - - - '108'
+      - Raul Guerra
+    - distance: 260.8
+      leading: 6.2
+      time: 0
+      total: 267
+      arrival: 0
+      place: '29'
+  - - - '104'
+      - Christian Pollet
+    - distance: 366.9
+      leading: 72.7
+      time: 187
+      total: 678
+      arrival: 51.1
+      place: '6'
+  - - - '113'
+      - Olav Opsanger
+    - distance: 366.9
+      leading: 16.8
+      time: 102.5
+      total: 503
+      arrival: 16.5
+      place: '19'
+  - - - '114'
+      - Mick Howard
+    - distance: 366.9
+      leading: 8.2
+      time: 50
+      total: 440
+      arrival: 15.2
+      place: '21'
+  - - - '115'
+      - Andrew Hollidge
+    - distance: 366.9
+      leading: 0
+      time: 131.8
+      total: 515
+      arrival: 32.4
+      place: '17'
+  - - - '102'
+      - Richard lovelace
+    - distance: 366.9
+      leading: 12.1
+      time: 125.8
+      total: 523
+      arrival: 18
+      place: '16'
+  - - - '106'
+      - Fabiano Nahoum
+    - distance: 366.9
+      leading: 14
+      time: 154.3
+      total: 554
+      arrival: 19
+      place: '14'
+  - - - '110'
+      - Cory Barnwell
+    - distance: 366.9
+      leading: 57.5
+      time: 89.5
+      total: 536
+      arrival: 21.6
+      place: '15'
+  - - - '111'
+      - Patrick Kruse
+    - distance: 366.9
+      leading: 56
+      time: 173.7
+      total: 635
+      arrival: 38.8
+      place: '9'
+  - - - '120'
+      - Mike Glennon
+    - distance: 366.9
+      leading: 68.4
+      time: 126.2
+      total: 591
+      arrival: 29.7
+      place: '10'
+  - - - '121'
+      - Oleg Bondarchuk
+    - distance: 366.9
+      leading: 67.4
+      time: 211.7
+      total: 702
+      arrival: 56
+      place: '5'
+  - - - '112'
+      - Sergey Kataev
+    - distance: 318.1
+      leading: 0
+      time: 0
+      total: 318
+      arrival: 0
+      place: '28'
+  - - - '101'
+      - Davis Straub
+    - distance: 366.9
+      leading: 102.5
+      time: 232.3
+      total: 769
+      arrival: 67
+      place: '3'
+  - - - '116'
+      - Jeffery Bohl
+    - distance: 83.4
+      leading: 0
+      time: 0
+      total: 83
+      arrival: 0
+      place: '35'
+  - - - '126'
+      - Jeff Kannard
+    - distance: 50.2
+      leading: 0
+      time: 0
+      total: 50
+      arrival: 0
+      place: '37'
+  - - - '127'
+      - Gerry Pesavento
+    - distance: 366.9
+      leading: 39.3
+      time: 77.7
+      total: 504
+      arrival: 20.2
+      place: '18'
+  - - - '129'
+      - Mike Jefferson
+    - distance: 216.2
+      leading: 0
+      time: 0
+      total: 216
+      arrival: 0
+      place: '30'
+  - - - '131'
+      - Robin Hamilton
+    - distance: 366.9
+      leading: 52.3
+      time: 177.2
+      total: 643
+      arrival: 46.6
+      place: '8'
+  - - - '132'
+      - James Stinnett
+    - distance: 366.9
+      leading: 19.2
+      time: 282
+      total: 711
+      arrival: 42.5
+      place: '4'
+  - - - '133'
+      - Olav Olsen
+    - distance: 366.9
+      leading: 38.5
+      time: 0
+      total: 420
+      arrival: 14.8
+      place: '23'
+  - - - '117'
+      - Robert Dallas
+    - distance: 366.9
+      leading: 8
+      time: 0
+      total: 390
+      arrival: 14.9
+      place: '25'
+  - - - '135'
+      - Misael Rosalez
+    - distance: 366.9
+      leading: 67.3
+      time: 124.6
+      total: 586
+      arrival: 27.3
+      place: '11'
+  - - - '119'
+      - Bart Weghorst
+    - distance: 366.9
+      leading: 14.1
+      time: 0
+      total: 397
+      arrival: 15.5
+      place: '24'
+  - - - '138'
+      - Jonny Durand
+    - distance: 366.9
+      leading: 32.3
+      time: 410
+      total: 882
+      arrival: 73.2
+      place: '1'
+  - - - '124'
+      - Patrick Pannese
+    - distance: 366.9
+      leading: 49.7
+      time: 124
+      total: 566
+      arrival: 25.1
+      place: '13'
+  - - - '143'
+      - Anna Eppink
+    - distance: 216.1
+      leading: 0
+      time: 0
+      total: 216
+      arrival: 0
+      place: '30'
+  - - - '144'
+      - Tom Lanning
+    - distance: 323.5
+      leading: 39
+      time: 0
+      total: 363
+      arrival: 0
+      place: '26'
+  - - - '146'
+      - Peter Kelley
+    - distance: 122.3
+      leading: 0
+      time: 0
+      total: 122
+      arrival: 0
+      place: '33'
+  - - - '150'
+      - Claudia Mejia
+    - distance: 366.9
+      leading: 28.6
+      time: 26.9
+      total: 440
+      arrival: 17.2
+      place: '21'
+  - - - '139'
+      - Tullio Gervasoni
+    - distance: 321.6
+      leading: 27.8
+      time: 0
+      total: 349
+      arrival: 0
+      place: '27'
+  - - - '140'
+      - Bill Vickery
+    - distance: 62.2
+      leading: 0
+      time: 0
+      total: 62
+      arrival: 0
+      place: '36'
+  - - - '128'
+      - Zac Majors
+    - distance: 366.9
+      leading: 21
+      time: 230.3
+      total: 654
+      arrival: 35.5
+      place: '7'
+  - - - '142'
+      - John Simon
+    - distance: 366.9
+      leading: 29
+      time: 343.1
+      total: 800
+      arrival: 61.3
+      place: '2'
