@@ -141,7 +141,7 @@ leadCoefMin:
 - 2.59244067
 - 0.9042078
 - 1.22140266
-lead:
+leadRank:
 - - - - '138'
       - Jonny Durand
     - coef: 1.92154169
@@ -1254,7 +1254,7 @@ lead:
       - Anna Eppink
     - coef: 3.90544554
       frac: 0
-arrival:
+arrivalRank:
 - - - - '138'
       - Jonny Durand
     - rank: '1'
@@ -1711,6 +1711,1131 @@ arrival:
       - Olav Olsen
     - rank: '23'
       frac: 0.20190647
+reachRank:
+- - - - '138'
+      - Jonny Durand
+    - frac: 1
+      reach: 160.046613 km
+  - - - '121'
+      - Oleg Bondarchuk
+    - frac: 1
+      reach: 160.046613 km
+  - - - '113'
+      - Olav Opsanger
+    - frac: 1
+      reach: 160.046613 km
+  - - - '139'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 160.046613 km
+  - - - '131'
+      - Robin Hamilton
+    - frac: 1
+      reach: 160.046613 km
+  - - - '115'
+      - Andrew Hollidge
+    - frac: 1
+      reach: 160.046613 km
+  - - - '128'
+      - Zac Majors
+    - frac: 1
+      reach: 160.046613 km
+  - - - '125'
+      - Larry Bunner
+    - frac: 1
+      reach: 160.046613 km
+  - - - '107'
+      - Malcolm Brown
+    - frac: 1
+      reach: 160.046613 km
+  - - - '132'
+      - James Stinnett
+    - frac: 1
+      reach: 160.046613 km
+  - - - '142'
+      - John Simon
+    - frac: 1
+      reach: 160.046613 km
+  - - - '133'
+      - Olav Olsen
+    - frac: 1
+      reach: 160.046613 km
+  - - - '119'
+      - Bart Weghorst
+    - frac: 1
+      reach: 160.046613 km
+  - - - '106'
+      - Fabiano Nahoum
+    - frac: 1
+      reach: 160.046613 km
+  - - - '111'
+      - Patrick Kruse
+    - frac: 1
+      reach: 160.046613 km
+  - - - '127'
+      - Gerry Pesavento
+    - frac: 1
+      reach: 160.046613 km
+  - - - '114'
+      - Mick Howard
+    - frac: 1
+      reach: 160.046613 km
+  - - - '109'
+      - Michael Williams
+    - frac: 1
+      reach: 160.046613 km
+  - - - '135'
+      - Misael Rosalez
+    - frac: 0.92615276
+      reach: 148.227613 km
+  - - - '146'
+      - Peter Kelley
+    - frac: 0.86826963
+      reach: 138.963613 km
+  - - - '120'
+      - Mike Glennon
+    - frac: 0.83417331
+      reach: 133.506613 km
+  - - - '143'
+      - Anna Eppink
+    - frac: 0.81324191
+      reach: 130.156613 km
+  - - - '110'
+      - Cory Barnwell
+    - frac: 0.65335099
+      reach: 104.566613 km
+  - - - '150'
+      - Claudia Mejia
+    - frac: 0.61977952
+      reach: 99.193613 km
+  - - - '117'
+      - Robert Dallas
+    - frac: 0.61717403
+      reach: 98.776613 km
+  - - - '116'
+      - Jeffery Bohl
+    - frac: 0.59956666
+      reach: 95.958613 km
+  - - - '140'
+      - Bill Vickery
+    - frac: 0.57334305
+      reach: 91.761613 km
+  - - - '104'
+      - Christian Pollet
+    - frac: 0.5206584
+      reach: 83.329613 km
+  - - - '123'
+      - JD Guillemette
+    - frac: 0.51956497
+      reach: 83.154613 km
+  - - - '102'
+      - Richard lovelace
+    - frac: 0.5148101
+      reach: 82.393613 km
+  - - - '108'
+      - Raul Guerra
+    - frac: 0.48141358
+      reach: 77.048613 km
+  - - - '124'
+      - Patrick Pannese
+    - frac: 0.48027641
+      reach: 76.866613 km
+  - - - '103'
+      - Matt Christensen
+    - frac: 0.47331594
+      reach: 75.752613 km
+  - - - '141'
+      - Patrick Halfhill
+    - frac: 0.45200965
+      reach: 72.342613 km
+  - - - '137'
+      - Yoko Isomoto
+    - frac: 0.43063462
+      reach: 68.921613 km
+  - - - '118'
+      - Ingo Heilmann
+    - frac: 0.39376412
+      reach: 63.020613 km
+  - - - '112'
+      - Sergey Kataev
+    - frac: 0.33098241
+      reach: 52.972613 km
+  - - - '134'
+      - Kinsley Sykes
+    - frac: 0.30150349
+      reach: 48.254613 km
+  - - - '101'
+      - Davis Straub
+    - frac: 0.29845438
+      reach: 47.766613 km
+  - - - '126'
+      - Jeff Kannard
+    - frac: 0.25663532
+      reach: 41.073613 km
+  - - - '129'
+      - Mike Jefferson
+    - frac: 0.20793075
+      reach: 33.278613 km
+  - - - '144'
+      - Tom Lanning
+    - frac: 0.16997931
+      reach: 27.204613 km
+- - - - '113'
+      - Olav Opsanger
+    - frac: 1
+      reach: 113.619932 km
+  - - - '125'
+      - Larry Bunner
+    - frac: 1
+      reach: 113.619932 km
+  - - - '139'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 113.619932 km
+  - - - '121'
+      - Oleg Bondarchuk
+    - frac: 1
+      reach: 113.619932 km
+  - - - '138'
+      - Jonny Durand
+    - frac: 1
+      reach: 113.619932 km
+  - - - '111'
+      - Patrick Kruse
+    - frac: 1
+      reach: 113.619932 km
+  - - - '132'
+      - James Stinnett
+    - frac: 1
+      reach: 113.619932 km
+  - - - '131'
+      - Robin Hamilton
+    - frac: 1
+      reach: 113.619932 km
+  - - - '142'
+      - John Simon
+    - frac: 1
+      reach: 113.619932 km
+  - - - '119'
+      - Bart Weghorst
+    - frac: 1
+      reach: 113.619932 km
+  - - - '106'
+      - Fabiano Nahoum
+    - frac: 1
+      reach: 113.619932 km
+  - - - '123'
+      - JD Guillemette
+    - frac: 1
+      reach: 113.619932 km
+  - - - '127'
+      - Gerry Pesavento
+    - frac: 1
+      reach: 113.619932 km
+  - - - '143'
+      - Anna Eppink
+    - frac: 1
+      reach: 113.619932 km
+  - - - '120'
+      - Mike Glennon
+    - frac: 1
+      reach: 113.619932 km
+  - - - '144'
+      - Tom Lanning
+    - frac: 1
+      reach: 113.619932 km
+  - - - '128'
+      - Zac Majors
+    - frac: 1
+      reach: 113.619932 km
+  - - - '107'
+      - Malcolm Brown
+    - frac: 0.88410484
+      reach: 100.451932 km
+  - - - '103'
+      - Matt Christensen
+    - frac: 0.86899306
+      reach: 98.734932 km
+  - - - '110'
+      - Cory Barnwell
+    - frac: 0.86823615
+      reach: 98.648932 km
+  - - - '116'
+      - Jeffery Bohl
+    - frac: 0.86714479
+      reach: 98.524932 km
+  - - - '137'
+      - Yoko Isomoto
+    - frac: 0.86008617
+      reach: 97.722932 km
+  - - - '108'
+      - Raul Guerra
+    - frac: 0.82813755
+      reach: 94.092932 km
+  - - - '101'
+      - Davis Straub
+    - frac: 0.81295535
+      reach: 92.367932 km
+  - - - '117'
+      - Robert Dallas
+    - frac: 0.75284266
+      reach: 85.537932 km
+  - - - '135'
+      - Misael Rosalez
+    - frac: 0.69476306
+      reach: 78.938932 km
+  - - - '102'
+      - Richard lovelace
+    - frac: 0.6818692
+      reach: 77.473932 km
+  - - - '150'
+      - Claudia Mejia
+    - frac: 0.68044339
+      reach: 77.311932 km
+  - - - '124'
+      - Patrick Pannese
+    - frac: 0.67135168
+      reach: 76.278932 km
+  - - - '145'
+      - Roger Irby
+    - frac: 0.66809521
+      reach: 75.908932 km
+  - - - '126'
+      - Jeff Kannard
+    - frac: 0.63193958
+      reach: 71.800932 km
+  - - - '115'
+      - Andrew Hollidge
+    - frac: 0.63030254
+      reach: 71.614932 km
+  - - - '133'
+      - Olav Olsen
+    - frac: 0.50885378
+      reach: 57.815932 km
+  - - - '112'
+      - Sergey Kataev
+    - frac: 0.48052248
+      reach: 54.596932 km
+  - - - '134'
+      - Kinsley Sykes
+    - frac: 0.47524172
+      reach: 53.996932 km
+  - - - '109'
+      - Michael Williams
+    - frac: 0.46466259
+      reach: 52.794932 km
+  - - - '141'
+      - Patrick Halfhill
+    - frac: 0.45167191
+      reach: 51.318932 km
+  - - - '140'
+      - Bill Vickery
+    - frac: 0.43945575
+      reach: 49.930932 km
+  - - - '146'
+      - Peter Kelley
+    - frac: 0.43122656
+      reach: 48.995932 km
+  - - - '129'
+      - Mike Jefferson
+    - frac: 0.33572395
+      reach: 38.144932 km
+  - - - '114'
+      - Mick Howard
+    - frac: 0.18817061
+      reach: 21.379932 km
+  - - - '104'
+      - Christian Pollet
+    - frac: 0.18260821
+      reach: 20.747932 km
+  - - - '118'
+      - Ingo Heilmann
+    - frac: 2.163293e-2
+      reach: 2.457932 km
+- - - - '138'
+      - Jonny Durand
+    - frac: 1
+      reach: 82.503669 km
+  - - - '131'
+      - Robin Hamilton
+    - frac: 1
+      reach: 82.503669 km
+  - - - '106'
+      - Fabiano Nahoum
+    - frac: 1
+      reach: 82.503669 km
+  - - - '115'
+      - Andrew Hollidge
+    - frac: 1
+      reach: 82.503669 km
+  - - - '108'
+      - Raul Guerra
+    - frac: 1
+      reach: 82.503669 km
+  - - - '139'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 82.503669 km
+  - - - '132'
+      - James Stinnett
+    - frac: 1
+      reach: 82.503669 km
+  - - - '127'
+      - Gerry Pesavento
+    - frac: 1
+      reach: 82.503669 km
+  - - - '142'
+      - John Simon
+    - frac: 1
+      reach: 82.503669 km
+  - - - '101'
+      - Davis Straub
+    - frac: 1
+      reach: 82.503669 km
+  - - - '104'
+      - Christian Pollet
+    - frac: 1
+      reach: 82.503669 km
+  - - - '107'
+      - Malcolm Brown
+    - frac: 1
+      reach: 82.503669 km
+  - - - '121'
+      - Oleg Bondarchuk
+    - frac: 1
+      reach: 82.503669 km
+  - - - '128'
+      - Zac Majors
+    - frac: 1
+      reach: 82.503669 km
+  - - - '125'
+      - Larry Bunner
+    - frac: 1
+      reach: 82.503669 km
+  - - - '113'
+      - Olav Opsanger
+    - frac: 1
+      reach: 82.503669 km
+  - - - '102'
+      - Richard lovelace
+    - frac: 1
+      reach: 82.503669 km
+  - - - '135'
+      - Misael Rosalez
+    - frac: 1
+      reach: 82.503669 km
+  - - - '133'
+      - Olav Olsen
+    - frac: 1
+      reach: 82.503669 km
+  - - - '144'
+      - Tom Lanning
+    - frac: 1
+      reach: 82.503669 km
+  - - - '120'
+      - Mike Glennon
+    - frac: 1
+      reach: 82.503669 km
+  - - - '137'
+      - Yoko Isomoto
+    - frac: 1
+      reach: 82.503669 km
+  - - - '124'
+      - Patrick Pannese
+    - frac: 0.99255791
+      reach: 81.889669 km
+  - - - '143'
+      - Anna Eppink
+    - frac: 0.97224366
+      reach: 80.213669 km
+  - - - '118'
+      - Ingo Heilmann
+    - frac: 0.95938362
+      reach: 79.152669 km
+  - - - '117'
+      - Robert Dallas
+    - frac: 0.94813564
+      reach: 78.224669 km
+  - - - '116'
+      - Jeffery Bohl
+    - frac: 0.9434207
+      reach: 77.835669 km
+  - - - '145'
+      - Roger Irby
+    - frac: 0.92326402
+      reach: 76.172669 km
+  - - - '141'
+      - Patrick Halfhill
+    - frac: 0.92235497
+      reach: 76.097669 km
+  - - - '114'
+      - Mick Howard
+    - frac: 0.88069621
+      reach: 72.660669 km
+  - - - '112'
+      - Sergey Kataev
+    - frac: 0.85544885
+      reach: 70.577669 km
+  - - - '123'
+      - JD Guillemette
+    - frac: 0.82576532
+      reach: 68.128669 km
+  - - - '119'
+      - Bart Weghorst
+    - frac: 0.79928165
+      reach: 65.943669 km
+  - - - '134'
+      - Kinsley Sykes
+    - frac: 0.71446118
+      reach: 58.945669 km
+  - - - '111'
+      - Patrick Kruse
+    - frac: 0.68080207
+      reach: 56.168669 km
+  - - - '140'
+      - Bill Vickery
+    - frac: 0.63844032
+      reach: 52.673669 km
+  - - - '126'
+      - Jeff Kannard
+    - frac: 0.63337388
+      reach: 52.255669 km
+  - - - '129'
+      - Mike Jefferson
+    - frac: 0.61712006
+      reach: 50.914669 km
+  - - - '103'
+      - Matt Christensen
+    - frac: 0.47278708
+      reach: 39.006669 km
+  - - - '110'
+      - Cory Barnwell
+    - frac: 0.43698261
+      reach: 36.052669 km
+  - - - '146'
+      - Peter Kelley
+    - frac: 0.40325078
+      reach: 33.269669 km
+- - - - '131'
+      - Robin Hamilton
+    - frac: 1
+      reach: 89.526710 km
+  - - - '138'
+      - Jonny Durand
+    - frac: 1
+      reach: 89.526710 km
+  - - - '139'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 89.526710 km
+  - - - '128'
+      - Zac Majors
+    - frac: 1
+      reach: 89.526710 km
+  - - - '113'
+      - Olav Opsanger
+    - frac: 1
+      reach: 89.526710 km
+  - - - '102'
+      - Richard lovelace
+    - frac: 1
+      reach: 89.526710 km
+  - - - '110'
+      - Cory Barnwell
+    - frac: 1
+      reach: 89.526710 km
+  - - - '117'
+      - Robert Dallas
+    - frac: 1
+      reach: 89.526710 km
+  - - - '115'
+      - Andrew Hollidge
+    - frac: 1
+      reach: 89.526710 km
+  - - - '101'
+      - Davis Straub
+    - frac: 1
+      reach: 89.526710 km
+  - - - '123'
+      - JD Guillemette
+    - frac: 1
+      reach: 89.526710 km
+  - - - '108'
+      - Raul Guerra
+    - frac: 1
+      reach: 89.526710 km
+  - - - '150'
+      - Claudia Mejia
+    - frac: 1
+      reach: 89.526710 km
+  - - - '144'
+      - Tom Lanning
+    - frac: 0.98718818
+      reach: 88.379710 km
+  - - - '135'
+      - Misael Rosalez
+    - frac: 0.94666396
+      reach: 84.751710 km
+  - - - '120'
+      - Mike Glennon
+    - frac: 0.93279101
+      reach: 83.509710 km
+  - - - '111'
+      - Patrick Kruse
+    - frac: 0.92365407
+      reach: 82.691710 km
+  - - - '125'
+      - Larry Bunner
+    - frac: 0.91522083
+      reach: 81.936710 km
+  - - - '114'
+      - Mick Howard
+    - frac: 0.89081471
+      reach: 79.751710 km
+  - - - '112'
+      - Sergey Kataev
+    - frac: 0.8665873
+      reach: 77.582710 km
+  - - - '124'
+      - Patrick Pannese
+    - frac: 0.84983252
+      reach: 76.082710 km
+  - - - '118'
+      - Ingo Heilmann
+    - frac: 0.78988394
+      reach: 70.715710 km
+  - - - '121'
+      - Oleg Bondarchuk
+    - frac: 0.78080285
+      reach: 69.902710 km
+  - - - '106'
+      - Fabiano Nahoum
+    - frac: 0.77391105
+      reach: 69.285710 km
+  - - - '141'
+      - Patrick Halfhill
+    - frac: 0.74601993
+      reach: 66.788710 km
+  - - - '132'
+      - James Stinnett
+    - frac: 0.74294822
+      reach: 66.513710 km
+  - - - '133'
+      - Olav Olsen
+    - frac: 0.73167784
+      reach: 65.504710 km
+  - - - '129'
+      - Mike Jefferson
+    - frac: 0.72555676
+      reach: 64.956710 km
+  - - - '103'
+      - Matt Christensen
+    - frac: 0.69536466
+      reach: 62.253710 km
+  - - - '127'
+      - Gerry Pesavento
+    - frac: 0.69206955
+      reach: 61.958710 km
+  - - - '134'
+      - Kinsley Sykes
+    - frac: 0.61862778
+      reach: 55.383710 km
+  - - - '142'
+      - John Simon
+    - frac: 0.57723231
+      reach: 51.677710 km
+  - - - '119'
+      - Bart Weghorst
+    - frac: 0.55960629
+      reach: 50.099710 km
+  - - - '104'
+      - Christian Pollet
+    - frac: 0.4797642
+      reach: 42.951710 km
+  - - - '143'
+      - Anna Eppink
+    - frac: 0.47780947
+      reach: 42.776710 km
+  - - - '145'
+      - Roger Irby
+    - frac: 0.43750865
+      reach: 39.168710 km
+  - - - '116'
+      - Jeffery Bohl
+    - frac: 0.42077621
+      reach: 37.670710 km
+  - - - '146'
+      - Peter Kelley
+    - frac: 0.34838441
+      reach: 31.189710 km
+  - - - '126'
+      - Jeff Kannard
+    - frac: 0.30595015
+      reach: 27.390710 km
+  - - - '137'
+      - Yoko Isomoto
+    - frac: 0.24723024
+      reach: 22.133710 km
+  - - - '140'
+      - Bill Vickery
+    - frac: 0.14691381
+      reach: 13.152710 km
+- - - - '128'
+      - Zac Majors
+    - frac: 1
+      reach: 100.304288 km
+  - - - '138'
+      - Jonny Durand
+    - frac: 1
+      reach: 100.304288 km
+  - - - '121'
+      - Oleg Bondarchuk
+    - frac: 1
+      reach: 100.304288 km
+  - - - '102'
+      - Richard lovelace
+    - frac: 1
+      reach: 100.304288 km
+  - - - '131'
+      - Robin Hamilton
+    - frac: 1
+      reach: 100.304288 km
+  - - - '139'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 100.304288 km
+  - - - '108'
+      - Raul Guerra
+    - frac: 1
+      reach: 100.304288 km
+  - - - '120'
+      - Mike Glennon
+    - frac: 1
+      reach: 100.304288 km
+  - - - '104'
+      - Christian Pollet
+    - frac: 1
+      reach: 100.304288 km
+  - - - '127'
+      - Gerry Pesavento
+    - frac: 1
+      reach: 100.304288 km
+  - - - '132'
+      - James Stinnett
+    - frac: 1
+      reach: 100.304288 km
+  - - - '142'
+      - John Simon
+    - frac: 1
+      reach: 100.304288 km
+  - - - '113'
+      - Olav Opsanger
+    - frac: 1
+      reach: 100.304288 km
+  - - - '112'
+      - Sergey Kataev
+    - frac: 1
+      reach: 100.304288 km
+  - - - '123'
+      - JD Guillemette
+    - frac: 1
+      reach: 100.304288 km
+  - - - '150'
+      - Claudia Mejia
+    - frac: 1
+      reach: 100.304288 km
+  - - - '135'
+      - Misael Rosalez
+    - frac: 1
+      reach: 100.304288 km
+  - - - '129'
+      - Mike Jefferson
+    - frac: 0.91217723
+      reach: 91.495288 km
+  - - - '117'
+      - Robert Dallas
+    - frac: 0.89402248
+      reach: 89.674288 km
+  - - - '126'
+      - Jeff Kannard
+    - frac: 0.88805065
+      reach: 89.075288 km
+  - - - '125'
+      - Larry Bunner
+    - frac: 0.86964665
+      reach: 87.229288 km
+  - - - '111'
+      - Patrick Kruse
+    - frac: 0.86771253
+      reach: 87.035288 km
+  - - - '101'
+      - Davis Straub
+    - frac: 0.82658767
+      reach: 82.910288 km
+  - - - '114'
+      - Mick Howard
+    - frac: 0.80965918
+      reach: 81.212288 km
+  - - - '124'
+      - Patrick Pannese
+    - frac: 0.75456682
+      reach: 75.686288 km
+  - - - '144'
+      - Tom Lanning
+    - frac: 0.68840814
+      reach: 69.050288 km
+  - - - '115'
+      - Andrew Hollidge
+    - frac: 0.67451043
+      reach: 67.656288 km
+  - - - '116'
+      - Jeffery Bohl
+    - frac: 0.67233704
+      reach: 67.438288 km
+  - - - '143'
+      - Anna Eppink
+    - frac: 0.64637604
+      reach: 64.834288 km
+  - - - '119'
+      - Bart Weghorst
+    - frac: 0.63525986
+      reach: 63.719288 km
+  - - - '106'
+      - Fabiano Nahoum
+    - frac: 0.63413329
+      reach: 63.606288 km
+  - - - '103'
+      - Matt Christensen
+    - frac: 0.62636692
+      reach: 62.827288 km
+  - - - '141'
+      - Patrick Halfhill
+    - frac: 0.58362697
+      reach: 58.540288 km
+  - - - '146'
+      - Peter Kelley
+    - frac: 0.522493
+      reach: 52.408288 km
+  - - - '109'
+      - Michael Williams
+    - frac: 0.46428013
+      reach: 46.569288 km
+  - - - '133'
+      - Olav Olsen
+    - frac: 0.43467023
+      reach: 43.599288 km
+  - - - '140'
+      - Bill Vickery
+    - frac: 0.41200919
+      reach: 41.326288 km
+  - - - '134'
+      - Kinsley Sykes
+    - frac: 0.33962943
+      reach: 34.066288 km
+  - - - '118'
+      - Ingo Heilmann
+    - frac: 0.312492
+      reach: 31.344288 km
+  - - - '145'
+      - Roger Irby
+    - frac: 0.16709443
+      reach: 16.760288 km
+  - - - '110'
+      - Cory Barnwell
+    - frac: 0.13279879
+      reach: 13.320288 km
+- - - - '104'
+      - Christian Pollet
+    - frac: 1
+      reach: 59.606662 km
+  - - - '131'
+      - Robin Hamilton
+    - frac: 1
+      reach: 59.606662 km
+  - - - '139'
+      - Tullio Gervasoni
+    - frac: 1
+      reach: 59.606662 km
+  - - - '132'
+      - James Stinnett
+    - frac: 1
+      reach: 59.606662 km
+  - - - '113'
+      - Olav Opsanger
+    - frac: 0.98354211
+      reach: 58.625662 km
+  - - - '125'
+      - Larry Bunner
+    - frac: 0.91826417
+      reach: 54.734662 km
+  - - - '117'
+      - Robert Dallas
+    - frac: 0.9134325
+      reach: 54.446662 km
+  - - - '110'
+      - Cory Barnwell
+    - frac: 0.88982775
+      reach: 53.039662 km
+  - - - '111'
+      - Patrick Kruse
+    - frac: 0.88757968
+      reach: 52.905662 km
+  - - - '103'
+      - Matt Christensen
+    - frac: 0.88489542
+      reach: 52.745662 km
+  - - - '118'
+      - Ingo Heilmann
+    - frac: 0.85614024
+      reach: 51.031662 km
+  - - - '142'
+      - John Simon
+    - frac: 0.84961413
+      reach: 50.642662 km
+  - - - '121'
+      - Oleg Bondarchuk
+    - frac: 0.82374453
+      reach: 49.100662 km
+  - - - '138'
+      - Jonny Durand
+    - frac: 0.8124874
+      reach: 48.429662 km
+  - - - '128'
+      - Zac Majors
+    - frac: 0.79633149
+      reach: 47.466662 km
+  - - - '123'
+      - JD Guillemette
+    - frac: 0.7808802
+      reach: 46.545662 km
+  - - - '124'
+      - Patrick Pannese
+    - frac: 0.75110165
+      reach: 44.770662 km
+  - - - '112'
+      - Sergey Kataev
+    - frac: 0.7473269
+      reach: 44.545662 km
+  - - - '116'
+      - Jeffery Bohl
+    - frac: 0.72603733
+      reach: 43.276662 km
+  - - - '114'
+      - Mick Howard
+    - frac: 0.72071914
+      reach: 42.959662 km
+  - - - '133'
+      - Olav Olsen
+    - frac: 0.71816909
+      reach: 42.807662 km
+  - - - '102'
+      - Richard lovelace
+    - frac: 0.71501508
+      reach: 42.619662 km
+  - - - '141'
+      - Patrick Halfhill
+    - frac: 0.71454533
+      reach: 42.591662 km
+  - - - '127'
+      - Gerry Pesavento
+    - frac: 0.71367294
+      reach: 42.539662 km
+  - - - '106'
+      - Fabiano Nahoum
+    - frac: 0.71060282
+      reach: 42.356662 km
+  - - - '150'
+      - Claudia Mejia
+    - frac: 0.71046861
+      reach: 42.348662 km
+  - - - '135'
+      - Misael Rosalez
+    - frac: 0.65123026
+      reach: 38.817662 km
+  - - - '119'
+      - Bart Weghorst
+    - frac: 0.65104572
+      reach: 38.806662 km
+  - - - '115'
+      - Andrew Hollidge
+    - frac: 0.65102894
+      reach: 38.805662 km
+  - - - '109'
+      - Michael Williams
+    - frac: 0.64448605
+      reach: 38.415662 km
+  - - - '108'
+      - Raul Guerra
+    - frac: 0.47487413
+      reach: 28.305662 km
+  - - - '101'
+      - Davis Straub
+    - frac: 0.47373332
+      reach: 28.237662 km
+  - - - '145'
+      - Roger Irby
+    - frac: 0.4664187
+      reach: 27.801662 km
+  - - - '120'
+      - Mike Glennon
+    - frac: 0.42595343
+      reach: 25.389662 km
+  - - - '144'
+      - Tom Lanning
+    - frac: 0.41962863
+      reach: 25.012662 km
+  - - - '146'
+      - Peter Kelley
+    - frac: 0.41566934
+      reach: 24.776662 km
+  - - - '140'
+      - Bill Vickery
+    - frac: 0.38230059
+      reach: 22.787662 km
+  - - - '143'
+      - Anna Eppink
+    - frac: 0.3694329
+      reach: 22.020662 km
+  - - - '129'
+      - Mike Jefferson
+    - frac: 0.35253882
+      reach: 21.013662 km
+  - - - '134'
+      - Kinsley Sykes
+    - frac: 0.32687054
+      reach: 19.483662 km
+  - - - '126'
+      - Jeff Kannard
+    - frac: 0.26345481
+      reach: 15.703662 km
+- - - - '138'
+      - Jonny Durand
+    - frac: 1
+      reach: 69.860891 km
+  - - - '101'
+      - Davis Straub
+    - frac: 1
+      reach: 69.860891 km
+  - - - '142'
+      - John Simon
+    - frac: 1
+      reach: 69.860891 km
+  - - - '121'
+      - Oleg Bondarchuk
+    - frac: 1
+      reach: 69.860891 km
+  - - - '104'
+      - Christian Pollet
+    - frac: 1
+      reach: 69.860891 km
+  - - - '131'
+      - Robin Hamilton
+    - frac: 1
+      reach: 69.860891 km
+  - - - '132'
+      - James Stinnett
+    - frac: 1
+      reach: 69.860891 km
+  - - - '111'
+      - Patrick Kruse
+    - frac: 1
+      reach: 69.860891 km
+  - - - '128'
+      - Zac Majors
+    - frac: 1
+      reach: 69.860891 km
+  - - - '115'
+      - Andrew Hollidge
+    - frac: 1
+      reach: 69.860891 km
+  - - - '135'
+      - Misael Rosalez
+    - frac: 1
+      reach: 69.860891 km
+  - - - '124'
+      - Patrick Pannese
+    - frac: 1
+      reach: 69.860891 km
+  - - - '103'
+      - Matt Christensen
+    - frac: 1
+      reach: 69.860891 km
+  - - - '127'
+      - Gerry Pesavento
+    - frac: 1
+      reach: 69.860891 km
+  - - - '106'
+      - Fabiano Nahoum
+    - frac: 1
+      reach: 69.860891 km
+  - - - '102'
+      - Richard lovelace
+    - frac: 1
+      reach: 69.860891 km
+  - - - '150'
+      - Claudia Mejia
+    - frac: 1
+      reach: 69.860891 km
+  - - - '113'
+      - Olav Opsanger
+    - frac: 1
+      reach: 69.860891 km
+  - - - '123'
+      - JD Guillemette
+    - frac: 1
+      reach: 69.860891 km
+  - - - '119'
+      - Bart Weghorst
+    - frac: 1
+      reach: 69.860891 km
+  - - - '114'
+      - Mick Howard
+    - frac: 1
+      reach: 69.860891 km
+  - - - '117'
+      - Robert Dallas
+    - frac: 1
+      reach: 69.860891 km
+  - - - '133'
+      - Olav Olsen
+    - frac: 1
+      reach: 69.860891 km
+  - - - '144'
+      - Tom Lanning
+    - frac: 0.75154912
+      reach: 52.503891 km
+  - - - '139'
+      - Tullio Gervasoni
+    - frac: 0.74351887
+      reach: 51.942891 km
+  - - - '112'
+      - Sergey Kataev
+    - frac: 0.7325256
+      reach: 51.174891 km
+  - - - '108'
+      - Raul Guerra
+    - frac: 0.58957008
+      reach: 41.187891 km
+  - - - '110'
+      - Cory Barnwell
+    - frac: 0.46452157
+      reach: 32.451891 km
+  - - - '120'
+      - Mike Glennon
+    - frac: 0.46430686
+      reach: 32.436891 km
+  - - - '129'
+      - Mike Jefferson
+    - frac: 0.46350527
+      reach: 32.380891 km
+  - - - '143'
+      - Anna Eppink
+    - frac: 0.46317604
+      reach: 32.357891 km
+  - - - '125'
+      - Larry Bunner
+    - frac: 0.34383889
+      reach: 24.020891 km
 ssSpeed:
 - - - - '138'
       - Jonny Durand
