@@ -9,90 +9,90 @@ pilotsAtEss:
 raceTime:
 - openTask: 2016-05-07T17:30:00Z
   closeTask: 2016-05-08T00:00:00Z
-  firstStart: 2016-05-07T17:48:07Z
-  firstLead: 2016-05-07T17:48:07Z
-  lastArrival: 2016-05-07T21:56:09Z
-  leadAllDown: 97947
-  leadArrival: 14882
-  leadClose: 22313
+  firstStart: 2016-05-07T17:48:07.706348058086Z
+  firstLead: 2016-05-07T17:48:07.706348058086Z
+  lastArrival: 2016-05-07T21:56:08.76194791377Z
+  leadAllDown: 16658.294
+  leadArrival: 14881.056
+  leadClose: 22312.294
   openClose: 23400
-  tickClose: 22313
+  tickClose: 22312.294
 - openTask: 2016-05-08T17:30:00Z
   closeTask: 2016-05-09T00:00:00Z
-  firstStart: 2016-05-08T17:29:18Z
-  firstLead: 2016-05-08T17:29:18Z
-  lastArrival: 2016-05-09T21:13:09Z
-  leadAllDown: 99878
-  leadArrival: 99831
-  leadClose: 23442
+  firstStart: 2016-05-08T17:29:20.231120934453Z
+  firstLead: 2016-05-08T17:29:20.231120934453Z
+  lastArrival: 2016-05-08T22:19:58.656880947682Z
+  leadAllDown: 18438.769
+  leadArrival: 17438.426
+  leadClose: 23439.769
   openClose: 23400
-  tickClose: 23442
+  tickClose: 23439.769
 - openTask: 2016-05-09T18:30:00Z
   closeTask: 2016-05-10T00:00:00Z
-  firstStart: 2016-05-09T18:28:42Z
-  firstLead: 2016-05-09T18:28:42Z
-  lastArrival: 2016-05-09T21:52:12Z
-  leadAllDown: 3201639
-  leadArrival: 12210
-  leadClose: 19878
+  firstStart: 2016-05-09T18:28:42.772953827715Z
+  firstLead: 2016-05-09T18:28:42.772953827715Z
+  lastArrival: 2016-05-09T21:52:08.994760475255Z
+  leadAllDown: 14034.227
+  leadArrival: 12206.222
+  leadClose: 19877.227
   openClose: 19800
-  tickClose: 19878
+  tickClose: 19877.227
 - openTask: 2016-05-10T18:00:00Z
   closeTask: 2016-05-11T00:00:00Z
-  firstStart: 2016-05-09T18:28:42Z
-  firstLead: 2016-05-09T18:28:42Z
-  lastArrival: 2016-05-10T21:59:12Z
-  leadAllDown: 865687
-  leadArrival: 99030
-  leadClose: 106278
+  firstStart: 2016-05-09T18:28:42.772953827715Z
+  firstLead: 2016-05-09T18:28:42.772953827715Z
+  lastArrival: 2016-05-10T21:59:11.232885041458Z
+  leadAllDown: 99616.227
+  leadArrival: 99028.46
+  leadClose: 106277.227
   openClose: 21600
-  tickClose: 106278
+  tickClose: 106277.227
 - openTask: 2016-05-11T18:20:00Z
   closeTask: 2016-05-12T00:00:00Z
-  firstStart: 2016-05-11T18:01:53Z
-  firstLead: 2016-05-11T18:01:53Z
-  lastArrival: 2016-05-11T22:21:40Z
-  leadAllDown: 9511477
-  leadArrival: 15587
-  leadClose: 21487
+  firstStart: 2016-05-11T18:01:54.018631956892Z
+  firstLead: 2016-05-11T18:01:54.018631956892Z
+  lastArrival: 2016-05-11T22:21:39.000942514399Z
+  leadAllDown: 15756.981
+  leadArrival: 15584.982
+  leadClose: 21485.981
   openClose: 20400
-  tickClose: 21487
+  tickClose: 21485.981
 - openTask: 2016-05-12T19:30:00Z
   closeTask: 2016-05-13T00:00:00Z
-  firstStart: 2016-05-12T19:29:49Z
-  firstLead: 2016-05-12T19:29:49Z
-  lastArrival: 2016-05-12T21:57:47Z
-  leadAllDown: 8997
-  leadArrival: 8878
-  leadClose: 16211
+  firstStart: 2016-05-12T19:29:50.393701496686Z
+  firstLead: 2016-05-12T19:29:50.393701496686Z
+  lastArrival: 2016-05-12T21:57:46.363347971728Z
+  leadAllDown: 8995.606
+  leadArrival: 8875.97
+  leadClose: 16209.606
   openClose: 16200
-  tickClose: 16211
+  tickClose: 16209.606
 - openTask: 2016-05-13T18:00:00Z
   closeTask: 2016-05-14T00:00:00Z
-  firstStart: 2016-05-13T17:58:40Z
-  firstLead: 2016-05-13T17:58:40Z
-  lastArrival: 2016-05-13T21:26:56Z
-  leadAllDown: 12719
-  leadArrival: 12496
-  leadClose: 21680
+  firstStart: 2016-05-13T17:58:40.194058511215Z
+  firstLead: 2016-05-13T17:58:40.194058511215Z
+  lastArrival: 2016-05-13T21:26:55.283321296754Z
+  leadAllDown: 12718.806
+  leadArrival: 12495.089
+  leadClose: 21679.806
   openClose: 21600
-  tickClose: 21680
+  tickClose: 21679.806
 ssBestTime:
-- 3.463889 h
-- 3.845278 h
-- 2.290000 h
-- 3.057222 h
-- 2.434444 h
-- 2.413333 h
-- 1.545833 h
+- 3.463429 h
+- 3.383357 h
+- 2.289629 h
+- 3.056998 h
+- 2.434251 h
+- 2.413106 h
+- 1.543084 h
 gsBestTime:
-- 3.467222 h
-- 3.869167 h
-- 2.293333 h
-- 3.065556 h
-- 2.438333 h
-- 2.421944 h
-- 1.613056 h
+- 3.467060 h
+- 3.385608 h
+- 2.293095 h
+- 3.065334 h
+- 2.438294 h
+- 2.421829 h
+- 1.612808 h
 taskDistance:
 - 160.046613 km
 - 113.619932 km
@@ -120,1139 +120,1422 @@ bestDistance:
 sumDistance:
 - 4645.331746 km
 - 3466.673144 km
-- 2816.265429 km
-- 2625.010110 km
-- 2981.557808 km
+- 2856.742429 km
+- 2661.321110 km
+- 3037.668808 km
 - 1499.337142 km
 - 1797.258512 km
-leadScaling:
-- 2.454498e-8
-- 4.674235e-8
-- 9.153877e-8
-- 7.70251e-8
-- 6.065459e-8
-- 8.745959e-7
-- 3.9141167e-7
+leadAreaToCoef:
+- 0.00000002454498 km^-2 s^-1
+- 0.00000004674235 km^-2 s^-1
+- 0.00000009153877 km^-2 s^-1
+- 0.00000007702510 km^-2 s^-1
+- 0.00000006065459 km^-2 s^-1
+- 0.00000087459590 km^-2 s^-1
+- 0.00000039141167 km^-2 s^-1
 leadCoefMin:
-- 1.92154169
-- 1.52821275
-- 1.60820419
-- 26.7902646
-- 2.59244067
-- 0.9042078
-- 1.22140266
+- 2.17420092
+- 2.5707261
+- 1.80326897
+- 29.76990389
+- 2.84625263
+- 5.05381028
+- 4.19947522
 leadRank:
 - - - - '138'
       - Jonny Durand
-    - coef: 1.92154169
+    - area: 88580274.4020 km^2 s
+      coef: 2.17420092
       frac: 1
   - - - '131'
       - Robin Hamilton
-    - coef: 1.95995735
-      frac: 0.89789101
+    - area: 90351470.2375 km^2 s
+      coef: 2.21767488
+      frac: 0.90456238
   - - - '139'
       - Tullio Gervasoni
-    - coef: 1.96577514
-      frac: 0.88782599
+    - area: 90619680.6610 km^2 s
+      coef: 2.2242581
+      frac: 0.89515581
   - - - '128'
       - Zac Majors
-    - coef: 2.06108186
-      frac: 0.75871821
+    - area: 95014002.3757 km^2 s
+      coef: 2.33211663
+      frac: 0.77448072
   - - - '121'
       - Oleg Bondarchuk
-    - coef: 2.07125256
-      frac: 0.74713196
+    - area: 95482928.5077 km^2 s
+      coef: 2.34362641
+      frac: 0.76365163
   - - - '107'
       - Malcolm Brown
-    - coef: 2.12064946
-      frac: 0.69419083
+    - area: 97760481.0096 km^2 s
+      coef: 2.39952889
+      frac: 0.71416844
   - - - '113'
       - Olav Opsanger
-    - coef: 2.12231789
-      frac: 0.69248484
+    - area: 97837401.0552 km^2 s
+      coef: 2.40141689
+      frac: 0.71257402
   - - - '119'
       - Bart Weghorst
-    - coef: 2.12980457
-      frac: 0.68488703
+    - area: 98182596.1434 km^2 s
+      coef: 2.4098897
+      frac: 0.70547237
   - - - '115'
       - Andrew Hollidge
-    - coef: 2.13369393
-      frac: 0.68097593
+    - area: 98361945.9815 km^2 s
+      coef: 2.41429184
+      frac: 0.70181628
   - - - '132'
       - James Stinnett
-    - coef: 2.1407445
-      frac: 0.67394631
+    - area: 98686985.2983 km^2 s
+      coef: 2.42226992
+      frac: 0.69524668
   - - - '125'
       - Larry Bunner
-    - coef: 2.14280176
-      frac: 0.67190944
+    - area: 98781886.7549 km^2 s
+      coef: 2.42459927
+      frac: 0.69334191
   - - - '109'
       - Michael Williams
-    - coef: 2.17605643
-      frac: 0.63980833
+    - area: 100294117.0558 km^2 s
+      coef: 2.46171693
+      frac: 0.66374032
   - - - '111'
       - Patrick Kruse
-    - coef: 2.1810459
-      frac: 0.63511615
+    - area: 100545148.7632 km^2 s
+      coef: 2.4678785
+      frac: 0.65895321
   - - - '142'
       - John Simon
-    - coef: 2.19900544
-      frac: 0.61846955
+    - area: 101372085.0959 km^2 s
+      coef: 2.48817563
+      frac: 0.64341487
   - - - '127'
       - Gerry Pesavento
-    - coef: 2.21113712
-      frac: 0.60742783
+    - area: 101932566.8983 km^2 s
+      coef: 2.50193265
+      frac: 0.63307348
   - - - '120'
       - Mike Glennon
-    - coef: 2.21580264
-      frac: 0.60322273
+    - area: 102147489.3453 km^2 s
+      coef: 2.50720792
+      frac: 0.62914653
   - - - '114'
       - Mick Howard
-    - coef: 2.22197876
-      frac: 0.59769011
+    - area: 102432489.6469 km^2 s
+      coef: 2.51420324
+      frac: 0.62397098
   - - - '106'
       - Fabiano Nahoum
-    - coef: 2.296114
-      frac: 0.53396827
+    - area: 105850561.5453 km^2 s
+      coef: 2.59809974
+      frac: 0.56441299
   - - - '135'
       - Misael Rosalez
-    - coef: 2.31668917
-      frac: 0.51705481
+    - area: 106795853.4099 km^2 s
+      coef: 2.62130191
+      frac: 0.54865996
   - - - '143'
       - Anna Eppink
-    - coef: 2.37521077
-      frac: 0.47047742
+    - area: 109497267.4535 km^2 s
+      coef: 2.68760806
+      frac: 0.50507274
   - - - '133'
       - Olav Olsen
-    - coef: 2.38742186
-      frac: 0.46101768
+    - area: 110060463.3417 km^2 s
+      coef: 2.70143169
+      frac: 0.4962281
   - - - '146'
       - Peter Kelley
-    - coef: 2.90353983
-      frac: 0.11393522
+    - area: 133849588.9397 km^2 s
+      coef: 3.28533526
+      frac: 0.17190946
+  - - - '116'
+      - Jeffery Bohl
+    - area: 133978623.9076 km^2 s
+      coef: 3.28850242
+      frac: 0.17033662
   - - - '102'
       - Richard lovelace
-    - coef: 2.91570943
-      frac: 0.10662977
+    - area: 134414280.7825 km^2 s
+      coef: 3.29919561
+      frac: 0.16503727
   - - - '123'
       - JD Guillemette
-    - coef: 2.98945428
-      frac: 6.298005e-2
+    - area: 137816936.4082 km^2 s
+      coef: 3.38271372
+      frac: 0.12420806
+  - - - '117'
+      - Robert Dallas
+    - area: 139439418.0852 km^2 s
+      coef: 3.4225375
+      frac: 0.10507239
   - - - '110'
       - Cory Barnwell
-    - coef: 3.03441079
-      frac: 3.686369e-2
+    - area: 139890395.2120 km^2 s
+      coef: 3.43360672
+      frac: 9.978986e-2
   - - - '108'
       - Raul Guerra
-    - coef: 3.10195892
-      frac: 0
+    - area: 143003899.9138 km^2 s
+      coef: 3.51002763
+      frac: 6.373198e-2
   - - - '124'
       - Patrick Pannese
-    - coef: 3.12262361
-      frac: 0
+    - area: 143956709.2464 km^2 s
+      coef: 3.53341431
+      frac: 5.283595e-2
   - - - '150'
       - Claudia Mejia
-    - coef: 3.14196591
-      frac: 0
+    - area: 144845108.2077 km^2 s
+      coef: 3.55522005
+      frac: 4.273267e-2
   - - - '140'
       - Bill Vickery
-    - coef: 3.25138067
+    - area: 149887549.4092 km^2 s
+      coef: 3.67898666
       frac: 0
   - - - '104'
       - Christian Pollet
-    - coef: 3.44701096
+    - area: 158904376.3687 km^2 s
+      coef: 3.90030448
       frac: 0
   - - - '103'
       - Matt Christensen
-    - coef: 3.46287365
+    - area: 159644502.6999 km^2 s
+      coef: 3.91847086
       frac: 0
   - - - '137'
       - Yoko Isomoto
-    - coef: 3.64561119
+    - area: 168069823.4387 km^2 s
+      coef: 4.12527018
       frac: 0
   - - - '118'
       - Ingo Heilmann
-    - coef: 3.66409389
+    - area: 168921343.5101 km^2 s
+      coef: 4.14617072
       frac: 0
   - - - '141'
       - Patrick Halfhill
-    - coef: 3.69869648
+    - area: 170508030.5534 km^2 s
+      coef: 4.18511592
       frac: 0
   - - - '101'
       - Davis Straub
-    - coef: 4.40171471
+    - area: 202930198.5434 km^2 s
+      coef: 4.98091733
       frac: 0
   - - - '112'
       - Sergey Kataev
-    - coef: 4.47554101
+    - area: 206313198.3293 km^2 s
+      coef: 5.06395299
       frac: 0
   - - - '134'
       - Kinsley Sykes
-    - coef: 4.51804645
+    - area: 208277017.2294 km^2 s
+      coef: 5.11215488
       frac: 0
   - - - '126'
       - Jeff Kannard
-    - coef: 4.8139893
+    - area: 221938555.3976 km^2 s
+      coef: 5.44747704
       frac: 0
   - - - '129'
       - Mike Jefferson
-    - coef: 5.68905793
+    - area: 262284727.4460 km^2 s
+      coef: 6.43777296
       frac: 0
   - - - '144'
       - Tom Lanning
-    - coef: 5.81210046
+    - area: 267946543.0355 km^2 s
+      coef: 6.5767421
       frac: 0
-  - - - '117'
-      - Robert Dallas
-    - coef: 8.91052885
-      frac: 0
-  - - - '116'
-      - Jeffery Bohl
-    - coef: 9.42552345
-      frac: 0
-- - - - '128'
-      - Zac Majors
-    - coef: 1.52821275
-      frac: 1
-  - - - '113'
+- - - - '113'
       - Olav Opsanger
-    - coef: 2.36794946
-      frac: 0.17066221
+    - area: 54997793.3994 km^2 s
+      coef: 2.5707261
+      frac: 1
   - - - '121'
       - Oleg Bondarchuk
-    - coef: 2.37257546
-      frac: 0.16761919
+    - area: 55105281.7187 km^2 s
+      coef: 2.57575036
+      frac: 0.97858609
   - - - '139'
       - Tullio Gervasoni
-    - coef: 2.38506191
-      frac: 0.15943311
+    - area: 55395456.5798 km^2 s
+      coef: 2.58931382
+      frac: 0.94877696
   - - - '138'
       - Jonny Durand
-    - coef: 2.40147494
-      frac: 0.148733
+    - area: 55776881.8968 km^2 s
+      coef: 2.60714253
+      frac: 0.91979903
   - - - '125'
       - Larry Bunner
-    - coef: 2.41264334
-      frac: 0.14149031
+    - area: 56028980.3043 km^2 s
+      coef: 2.6189262
+      frac: 0.90331776
   - - - '142'
       - John Simon
-    - coef: 2.45039158
-      frac: 0.11723292
+    - area: 56913466.2457 km^2 s
+      coef: 2.66026916
+      frac: 0.85389357
   - - - '132'
       - James Stinnett
-    - coef: 2.46811847
-      frac: 0.105956
+    - area: 57318380.2799 km^2 s
+      coef: 2.67919579
+      frac: 0.83396984
   - - - '131'
       - Robin Hamilton
-    - coef: 2.46907677
-      frac: 0.10534841
+    - area: 57347703.0303 km^2 s
+      coef: 2.6805664
+      frac: 0.83257414
   - - - '119'
       - Bart Weghorst
-    - coef: 2.47409494
-      frac: 0.10217011
+    - area: 57464296.0226 km^2 s
+      coef: 2.68601623
+      frac: 0.82708096
   - - - '106'
       - Fabiano Nahoum
-    - coef: 2.47655191
-      frac: 0.10061601
+    - area: 57521383.0398 km^2 s
+      coef: 2.68868461
+      frac: 0.82442302
   - - - '111'
       - Patrick Kruse
-    - coef: 2.49431939
-      frac: 8.941727e-2
+    - area: 57928025.1752 km^2 s
+      coef: 2.70769202
+      frac: 0.80603513
   - - - '120'
       - Mike Glennon
-    - coef: 2.50743628
-      frac: 8.119379e-2
-  - - - '143'
-      - Anna Eppink
-    - coef: 2.52793243
-      frac: 6.841706e-2
-  - - - '123'
-      - JD Guillemette
-    - coef: 2.52920704
-      frac: 6.762541e-2
-  - - - '127'
-      - Gerry Pesavento
-    - coef: 2.56368017
-      frac: 4.633981e-2
-  - - - '144'
-      - Tom Lanning
-    - coef: 2.64527567
-      frac: 0
-  - - - '107'
-      - Malcolm Brown
-    - coef: 3.53101359
-      frac: 0
-  - - - '137'
-      - Yoko Isomoto
-    - coef: 3.6311641
-      frac: 0
-  - - - '116'
-      - Jeffery Bohl
-    - coef: 3.77452715
-      frac: 0
-  - - - '103'
-      - Matt Christensen
-    - coef: 3.99591916
-      frac: 0
-  - - - '110'
-      - Cory Barnwell
-    - coef: 4.03746937
-      frac: 0
+    - area: 58239161.0859 km^2 s
+      coef: 2.72223525
+      frac: 0.79253701
   - - - '101'
       - Davis Straub
-    - coef: 4.12136956
-      frac: 0
-  - - - '108'
-      - Raul Guerra
-    - coef: 4.4963394
-      frac: 0
-  - - - '117'
-      - Robert Dallas
-    - coef: 5.74302801
-      frac: 0
-  - - - '135'
-      - Misael Rosalez
-    - coef: 7.37720726
-      frac: 0
-  - - - '102'
-      - Richard lovelace
-    - coef: 7.5742534
-      frac: 0
-  - - - '150'
-      - Claudia Mejia
-    - coef: 7.81024795
-      frac: 0
-  - - - '124'
-      - Patrick Pannese
-    - coef: 8.05751423
-      frac: 0
-  - - - '145'
-      - Roger Irby
-    - coef: 8.49560772
-      frac: 0
+    - area: 58527101.3625 km^2 s
+      coef: 2.73569425
+      frac: 0.78042572
+  - - - '143'
+      - Anna Eppink
+    - area: 58715312.0479 km^2 s
+      coef: 2.74449166
+      frac: 0.77268721
+  - - - '123'
+      - JD Guillemette
+    - area: 58744944.8201 km^2 s
+      coef: 2.74587677
+      frac: 0.77148086
+  - - - '127'
+      - Gerry Pesavento
+    - area: 59542532.5565 km^2 s
+      coef: 2.78315789
+      frac: 0.74010711
+  - - - '128'
+      - Zac Majors
+    - area: 60411942.9056 km^2 s
+      coef: 2.82379618
+      frac: 0.70793787
+  - - - '144'
+      - Tom Lanning
+    - area: 61442022.3611 km^2 s
+      coef: 2.87194451
+      frac: 0.67197843
+  - - - '137'
+      - Yoko Isomoto
+    - area: 63527285.4741 km^2 s
+      coef: 2.96941461
+      frac: 0.60456916
   - - - '126'
       - Jeff Kannard
-    - coef: 9.06366694
-      frac: 0
+    - area: 66500099.0095 km^2 s
+      coef: 3.1083709
+      frac: 0.51733587
+  - - - '107'
+      - Malcolm Brown
+    - area: 67737802.6194 km^2 s
+      coef: 3.16622407
+      frac: 0.48330421
+  - - - '102'
+      - Richard lovelace
+    - area: 68331447.4262 km^2 s
+      coef: 3.19397243
+      frac: 0.46737541
+  - - - '117'
+      - Robert Dallas
+    - area: 68450984.6796 km^2 s
+      coef: 3.19955988
+      frac: 0.4641968
+  - - - '116'
+      - Jeffery Bohl
+    - area: 68906923.0538 km^2 s
+      coef: 3.22087151
+      frac: 0.45215833
+  - - - '135'
+      - Misael Rosalez
+    - area: 72301643.3944 km^2 s
+      coef: 3.37954872
+      frac: 0.36630018
+  - - - '124'
+      - Patrick Pannese
+    - area: 72325907.0212 km^2 s
+      coef: 3.38068286
+      frac: 0.36570793
+  - - - '150'
+      - Claudia Mejia
+    - area: 72847545.7446 km^2 s
+      coef: 3.40506548
+      frac: 0.3530413
+  - - - '108'
+      - Raul Guerra
+    - area: 72992268.1288 km^2 s
+      coef: 3.41183014
+      frac: 0.34954907
+  - - - '103'
+      - Matt Christensen
+    - area: 74768812.6089 km^2 s
+      coef: 3.49487
+      frac: 0.30741279
+  - - - '110'
+      - Cory Barnwell
+    - area: 75471748.1658 km^2 s
+      coef: 3.52772686
+      frac: 0.29109248
   - - - '115'
       - Andrew Hollidge
-    - coef: 9.53063682
-      frac: 0
+    - area: 76066664.4413 km^2 s
+      coef: 3.55553465
+      frac: 0.27742555
   - - - '133'
       - Olav Olsen
-    - coef: 14.4248005
-      frac: 0
-  - - - '112'
-      - Sergey Kataev
-    - coef: 16.40958281
-      frac: 0
-  - - - '134'
-      - Kinsley Sykes
-    - coef: 17.07909294
+    - area: 78593130.6768 km^2 s
+      coef: 3.67362762
+      frac: 0.22075764
+  - - - '145'
+      - Roger Irby
+    - area: 80189873.5674 km^2 s
+      coef: 3.74826313
+      frac: 0.18598743
+  - - - '140'
+      - Bill Vickery
+    - area: 93950369.1538 km^2 s
+      coef: 4.39146103
       frac: 0
   - - - '109'
       - Michael Williams
-    - coef: 17.16486222
+    - area: 94017005.0931 km^2 s
+      coef: 4.39457575
       frac: 0
-  - - - '140'
-      - Bill Vickery
-    - coef: 18.42640347
-      frac: 0
-  - - - '141'
-      - Patrick Halfhill
-    - coef: 18.51342672
+  - - - '112'
+      - Sergey Kataev
+    - area: 94254012.8174 km^2 s
+      coef: 4.40565405
       frac: 0
   - - - '146'
       - Peter Kelley
-    - coef: 19.24846676
+    - area: 103153294.2772 km^2 s
+      coef: 4.82162738
+      frac: 0
+  - - - '134'
+      - Kinsley Sykes
+    - area: 103952183.7560 km^2 s
+      coef: 4.85896935
+      frac: 0
+  - - - '141'
+      - Patrick Halfhill
+    - area: 110368034.3483 km^2 s
+      coef: 5.15886128
       frac: 0
   - - - '129'
       - Mike Jefferson
-    - coef: 25.26119476
+    - area: 117635634.0854 km^2 s
+      coef: 5.49856597
       frac: 0
   - - - '114'
       - Mick Howard
-    - coef: 36.71424845
+    - area: 152109350.1495 km^2 s
+      coef: 7.10994847
       frac: 0
   - - - '104'
       - Christian Pollet
-    - coef: 37.39025519
+    - area: 158180070.8425 km^2 s
+      coef: 7.39370822
       frac: 0
 - - - - '132'
       - James Stinnett
-    - coef: 1.60820419
+    - area: 19699510.7046 km^2 s
+      coef: 1.80326897
       frac: 1
   - - - '121'
       - Oleg Bondarchuk
-    - coef: 1.61021353
-      frac: 0.98528885
+    - area: 19724159.7795 km^2 s
+      coef: 1.80552532
+      frac: 0.98586648
   - - - '102'
       - Richard lovelace
-    - coef: 1.61545488
-      frac: 0.96539042
+    - area: 19788341.2067 km^2 s
+      coef: 1.81140041
+      frac: 0.96677809
   - - - '131'
       - Robin Hamilton
-    - coef: 1.62186894
-      frac: 0.94719468
+    - area: 19866949.5863 km^2 s
+      coef: 1.81859612
+      frac: 0.94930629
   - - - '139'
       - Tullio Gervasoni
-    - coef: 1.62504324
-      frac: 0.93930472
+    - area: 19905849.2197 km^2 s
+      coef: 1.82215694
+      frac: 0.94173111
   - - - '106'
       - Fabiano Nahoum
-    - coef: 1.62859678
-      frac: 0.93104092
+    - area: 19949385.6497 km^2 s
+      coef: 1.82614222
+      frac: 0.93379893
   - - - '101'
       - Davis Straub
-    - coef: 1.63352606
-      frac: 0.92033387
+    - area: 20009775.9038 km^2 s
+      coef: 1.83167027
+      frac: 0.92352164
   - - - '127'
       - Gerry Pesavento
-    - coef: 1.65631831
-      frac: 0.87778491
+    - area: 20289028.5355 km^2 s
+      coef: 1.85723271
+      frac: 0.88267754
   - - - '107'
       - Malcolm Brown
-    - coef: 1.66238566
-      frac: 0.86771507
+    - area: 20363349.5107 km^2 s
+      coef: 1.86403596
+      frac: 0.87301328
   - - - '115'
       - Andrew Hollidge
-    - coef: 1.66381978
-      frac: 0.86539097
+    - area: 20380957.5356 km^2 s
+      coef: 1.86564778
+      frac: 0.87077758
   - - - '133'
       - Olav Olsen
-    - coef: 1.70997806
-      frac: 0.79861181
+    - area: 20946472.3639 km^2 s
+      coef: 1.91741431
+      frac: 0.80667622
   - - - '108'
       - Raul Guerra
-    - coef: 1.719853
-      frac: 0.78578697
+    - area: 21067478.4407 km^2 s
+      coef: 1.92849105
+      frac: 0.79436338
   - - - '137'
       - Yoko Isomoto
-    - coef: 1.73687837
-      frac: 0.76452901
+    - area: 21276090.5676 km^2 s
+      coef: 1.94758715
+      frac: 0.77395554
   - - - '124'
       - Patrick Pannese
-    - coef: 1.73941853
-      frac: 0.76144015
+    - area: 21307190.0365 km^2 s
+      coef: 1.95043396
+      frac: 0.77099261
   - - - '104'
       - Christian Pollet
-    - coef: 1.75607103
-      frac: 0.74166078
+    - area: 21511251.0735 km^2 s
+      coef: 1.96911346
+      frac: 0.75200257
   - - - '144'
       - Tom Lanning
-    - coef: 1.75880521
-      frac: 0.73848592
+    - area: 21544741.0706 km^2 s
+      coef: 1.97217909
+      frac: 0.74895575
   - - - '143'
       - Anna Eppink
-    - coef: 1.76758827
-      frac: 0.72841459
+    - area: 21652350.0402 km^2 s
+      coef: 1.98202948
+      frac: 0.73928808
   - - - '120'
       - Mike Glennon
-    - coef: 1.76971044
-      frac: 0.72600916
+    - area: 21678334.7848 km^2 s
+      coef: 1.98440809
+      frac: 0.73698047
   - - - '119'
       - Bart Weghorst
-    - coef: 1.78010512
-      frac: 0.7143756
+    - area: 21804959.8528 km^2 s
+      coef: 1.9959992
+      frac: 0.72587643
   - - - '135'
       - Misael Rosalez
-    - coef: 1.78092409
-      frac: 0.71346915
+    - area: 21815751.1708 km^2 s
+      coef: 1.99698702
+      frac: 0.72494056
   - - - '126'
       - Jeff Kannard
-    - coef: 1.8480498
-      frac: 0.64335923
+    - area: 22635467.7382 km^2 s
+      coef: 2.07202287
+      frac: 0.65785016
+  - - - '103'
+      - Matt Christensen
+    - area: 22649260.8200 km^2 s
+      coef: 2.07328547
+      frac: 0.65677939
   - - - '138'
       - Jonny Durand
-    - coef: 1.87983945
-      frac: 0.61250399
+    - area: 23027771.6762 km^2 s
+      coef: 2.10793389
+      frac: 0.62801269
   - - - '142'
       - John Simon
-    - coef: 1.89533366
-      frac: 0.59790533
+    - area: 23217701.1719 km^2 s
+      coef: 2.1253198
+      frac: 0.61399217
   - - - '116'
       - Jeffery Bohl
-    - coef: 1.92308606
-      frac: 0.57239618
+    - area: 23557476.2551 km^2 s
+      coef: 2.15642239
+      frac: 0.58952305
   - - - '141'
       - Patrick Halfhill
-    - coef: 1.92715224
-      frac: 0.56872286
+    - area: 23605127.5563 km^2 s
+      coef: 2.16078433
+      frac: 0.58614999
   - - - '117'
       - Robert Dallas
-    - coef: 1.92915097
-      frac: 0.56692297
+    - area: 23631809.1968 km^2 s
+      coef: 2.16322674
+      frac: 0.58426729
   - - - '118'
       - Ingo Heilmann
-    - coef: 1.96090884
-      frac: 0.5388057
+    - area: 24020952.6205 km^2 s
+      coef: 2.19884845
+      frac: 0.55727335
   - - - '112'
       - Sergey Kataev
-    - coef: 1.98706348
-      frac: 0.51627883
+    - area: 24341016.2360 km^2 s
+      coef: 2.22814668
+      frac: 0.53567458
   - - - '129'
       - Mike Jefferson
-    - coef: 2.05757838
-      frac: 0.45798011
+    - area: 25202512.0001 km^2 s
+      coef: 2.30700694
+      frac: 0.47986475
   - - - '134'
       - Kinsley Sykes
-    - coef: 2.17348428
-      frac: 0.36838525
+    - area: 26623789.7116 km^2 s
+      coef: 2.43710895
+      frac: 0.39377629
   - - - '140'
       - Bill Vickery
-    - coef: 2.20372264
-      frac: 0.34605692
+    - area: 26993346.9290 km^2 s
+      coef: 2.47093776
+      frac: 0.37239381
   - - - '123'
       - JD Guillemette
-    - coef: 2.30055318
-      frac: 0.27696412
+    - area: 28181983.6917 km^2 s
+      coef: 2.57974411
+      frac: 0.30593811
   - - - '128'
       - Zac Majors
-    - coef: 2.38243807
-      frac: 0.22102309
+    - area: 29186123.8751 km^2 s
+      coef: 2.67166187
+      frac: 0.25219103
   - - - '145'
       - Roger Irby
-    - coef: 2.42343842
-      frac: 0.19375926
+    - area: 29688134.1708 km^2 s
+      coef: 2.71761527
+      frac: 0.22603681
   - - - '125'
       - Larry Bunner
-    - coef: 2.48974898
-      frac: 0.15061212
+    - area: 30500691.4494 km^2 s
+      coef: 2.79199577
+      frac: 0.18461253
   - - - '113'
       - Olav Opsanger
-    - coef: 2.51167668
-      frac: 0.13658466
+    - area: 30769355.9537 km^2 s
+      coef: 2.81658898
+      frac: 0.17114688
   - - - '111'
       - Patrick Kruse
-    - coef: 2.58994984
-      frac: 8.740981e-2
+    - area: 31726307.6952 km^2 s
+      coef: 2.90418717
+      frac: 0.12404217
   - - - '114'
       - Mick Howard
-    - coef: 3.21032896
+    - area: 39329738.0503 km^2 s
+      coef: 3.60019583
       frac: 0
   - - - '110'
       - Cory Barnwell
-    - coef: 3.44138275
+    - area: 42153938.0760 km^2 s
+      coef: 3.85871962
       frac: 0
   - - - '146'
       - Peter Kelley
-    - coef: 3.4592292
-      frac: 0
-  - - - '103'
-      - Matt Christensen
-    - coef: 481.05081025
+    - area: 42371829.0336 km^2 s
+      coef: 3.87866509
       frac: 0
 - - - - '126'
       - Jeff Kannard
-    - coef: 26.7902646
+    - area: 386496116.6137 km^2 s
+      coef: 29.76990389
       frac: 1
   - - - '116'
       - Jeffery Bohl
-    - coef: 37.75570946
+    - area: 544697170.6472 km^2 s
+      coef: 41.95535665
       frac: 0
   - - - '131'
       - Robin Hamilton
-    - coef: 43.50683179
+    - area: 627670026.7389 km^2 s
+      coef: 48.34634959
       frac: 0
   - - - '128'
       - Zac Majors
-    - coef: 43.55077271
+    - area: 628303964.7633 km^2 s
+      coef: 48.39517873
       frac: 0
   - - - '139'
       - Tullio Gervasoni
-    - coef: 43.68654792
+    - area: 630262790.1857 km^2 s
+      coef: 48.54605746
       frac: 0
   - - - '115'
       - Andrew Hollidge
-    - coef: 43.75128127
+    - area: 631196709.2637 km^2 s
+      coef: 48.61799268
       frac: 0
   - - - '138'
       - Jonny Durand
-    - coef: 43.75656603
+    - area: 631272942.1167 km^2 s
+      coef: 48.62386452
       frac: 0
   - - - '106'
       - Fabiano Nahoum
-    - coef: 43.78615345
+    - area: 631699482.9410 km^2 s
+      coef: 48.65671887
       frac: 0
   - - - '133'
       - Olav Olsen
-    - coef: 43.88420096
+    - area: 633113899.8101 km^2 s
+      coef: 48.76566448
       frac: 0
   - - - '110'
       - Cory Barnwell
-    - coef: 43.90490877
-      frac: 0
-  - - - '120'
-      - Mike Glennon
-    - coef: 44.10081047
+    - area: 633413095.0374 km^2 s
+      coef: 48.78871002
       frac: 0
   - - - '113'
       - Olav Opsanger
-    - coef: 44.14577055
+    - area: 635534186.9717 km^2 s
+      coef: 48.95208735
+      frac: 0
+  - - - '120'
+      - Mike Glennon
+    - area: 636239355.6979 km^2 s
+      coef: 49.00640305
       frac: 0
   - - - '127'
       - Gerry Pesavento
-    - coef: 44.15988719
+    - area: 637091107.1999 km^2 s
+      coef: 49.0720093
       frac: 0
   - - - '121'
       - Oleg Bondarchuk
-    - coef: 44.24088487
+    - area: 638259945.0246 km^2 s
+      coef: 49.16203915
       frac: 0
   - - - '111'
       - Patrick Kruse
-    - coef: 44.48145157
-      frac: 0
-  - - - '135'
-      - Misael Rosalez
-    - coef: 44.74026237
-      frac: 0
-  - - - '125'
-      - Larry Bunner
-    - coef: 44.75877406
+    - area: 639435780.3309 km^2 s
+      coef: 49.25260799
       frac: 0
   - - - '108'
       - Raul Guerra
-    - coef: 44.79623163
+    - area: 644123359.8133 km^2 s
+      coef: 49.61366929
+      frac: 0
+  - - - '135'
+      - Misael Rosalez
+    - area: 644740852.3707 km^2 s
+      coef: 49.66123172
+      frac: 0
+  - - - '125'
+      - Larry Bunner
+    - area: 645731704.9588 km^2 s
+      coef: 49.73755225
       frac: 0
   - - - '119'
       - Bart Weghorst
-    - coef: 44.84494697
-      frac: 0
-  - - - '143'
-      - Anna Eppink
-    - coef: 44.85556328
-      frac: 0
-  - - - '101'
-      - Davis Straub
-    - coef: 44.92259807
-      frac: 0
-  - - - '114'
-      - Mick Howard
-    - coef: 44.93105277
+    - area: 645907836.9279 km^2 s
+      coef: 49.75111883
       frac: 0
   - - - '132'
       - James Stinnett
-    - coef: 44.9943167
+    - area: 646486194.7164 km^2 s
+      coef: 49.7956669
+      frac: 0
+  - - - '101'
+      - Davis Straub
+    - area: 646732143.6119 km^2 s
+      coef: 49.81461114
+      frac: 0
+  - - - '143'
+      - Anna Eppink
+    - area: 647126563.5246 km^2 s
+      coef: 49.84499137
       frac: 0
   - - - '102'
       - Richard lovelace
-    - coef: 45.09330839
+    - area: 647596590.3446 km^2 s
+      coef: 49.88119524
+      frac: 0
+  - - - '114'
+      - Mick Howard
+    - area: 648217324.6525 km^2 s
+      coef: 49.92900736
       frac: 0
   - - - '142'
       - John Simon
-    - coef: 45.10164609
-      frac: 0
-  - - - '118'
-      - Ingo Heilmann
-    - coef: 45.14143613
+    - area: 650677396.7480 km^2 s
+      coef: 50.11849467
       frac: 0
   - - - '103'
       - Matt Christensen
-    - coef: 45.18081196
+    - area: 651005953.9056 km^2 s
+      coef: 50.14380182
+      frac: 0
+  - - - '118'
+      - Ingo Heilmann
+    - area: 651048874.2401 km^2 s
+      coef: 50.14710777
       frac: 0
   - - - '144'
       - Tom Lanning
-    - coef: 45.27422297
-      frac: 0
-  - - - '124'
-      - Patrick Pannese
-    - coef: 45.45885055
+    - area: 652137001.8021 km^2 s
+      coef: 50.23092091
       frac: 0
   - - - '141'
       - Patrick Halfhill
-    - coef: 45.49949536
+    - area: 655570357.7830 km^2 s
+      coef: 50.49537551
       frac: 0
   - - - '129'
       - Mike Jefferson
-    - coef: 45.5163725
+    - area: 655725270.8521 km^2 s
+      coef: 50.50730771
       frac: 0
-  - - - '150'
-      - Claudia Mejia
-    - coef: 45.68434761
-      frac: 0
-  - - - '134'
-      - Kinsley Sykes
-    - coef: 45.71172157
-      frac: 0
-  - - - '104'
-      - Christian Pollet
-    - coef: 45.8017367
-      frac: 0
-  - - - '145'
-      - Roger Irby
-    - coef: 45.82463013
-      frac: 0
-  - - - '117'
-      - Robert Dallas
-    - coef: 45.856447
-      frac: 0
-  - - - '112'
-      - Sergey Kataev
-    - coef: 46.22915232
-      frac: 0
-  - - - '123'
-      - JD Guillemette
-    - coef: 46.37923771
-      frac: 0
-  - - - '146'
-      - Peter Kelley
-    - coef: 47.68682226
-      frac: 0
-  - - - '140'
-      - Bill Vickery
-    - coef: 48.6139137
+  - - - '124'
+      - Patrick Pannese
+    - area: 655729450.6552 km^2 s
+      coef: 50.50762966
       frac: 0
   - - - '137'
       - Yoko Isomoto
-    - coef: 245.32920711
+    - area: 655933969.9118 km^2 s
+      coef: 50.52338277
+      frac: 0
+  - - - '134'
+      - Kinsley Sykes
+    - area: 658429666.3411 km^2 s
+      coef: 50.71561405
+      frac: 0
+  - - - '150'
+      - Claudia Mejia
+    - area: 658834539.3906 km^2 s
+      coef: 50.74679944
+      frac: 0
+  - - - '104'
+      - Christian Pollet
+    - area: 660777042.4355 km^2 s
+      coef: 50.89642094
+      frac: 0
+  - - - '117'
+      - Robert Dallas
+    - area: 660881365.5359 km^2 s
+      coef: 50.90445644
+      frac: 0
+  - - - '145'
+      - Roger Irby
+    - area: 661107072.5559 km^2 s
+      coef: 50.92184155
+      frac: 0
+  - - - '112'
+      - Sergey Kataev
+    - area: 666034257.1017 km^2 s
+      coef: 51.30135845
+      frac: 0
+  - - - '123'
+      - JD Guillemette
+    - area: 667511017.0241 km^2 s
+      coef: 51.41510604
+      frac: 0
+  - - - '146'
+      - Peter Kelley
+    - area: 687056489.1228 km^2 s
+      coef: 52.92059808
+      frac: 0
+  - - - '140'
+      - Bill Vickery
+    - area: 700907065.8767 km^2 s
+      coef: 53.9874402
       frac: 0
 - - - - '135'
       - Misael Rosalez
-    - coef: 2.59244067
+    - area: 46925592.0213 km^2 s
+      coef: 2.84625263
       frac: 1
   - - - '121'
       - Oleg Bondarchuk
-    - coef: 2.6497749
-      frac: 0.87314005
+    - area: 47880658.7109 km^2 s
+      coef: 2.90418181
+      frac: 0.89435707
   - - - '128'
       - Zac Majors
-    - coef: 2.65080543
-      frac: 0.87162444
+    - area: 47996072.0836 km^2 s
+      coef: 2.91118217
+      frac: 0.88600905
   - - - '138'
       - Jonny Durand
-    - coef: 2.72571394
-      frac: 0.77739039
+    - area: 49352578.2343 km^2 s
+      coef: 2.99346049
+      frac: 0.80327351
   - - - '131'
       - Robin Hamilton
-    - coef: 2.73500594
-      frac: 0.76715995
+    - area: 49521000.9839 km^2 s
+      coef: 3.00367611
+      frac: 0.79427432
   - - - '126'
       - Jeff Kannard
-    - coef: 2.77879726
-      frac: 0.72163687
+    - area: 50294670.7177 km^2 s
+      coef: 3.05060273
+      frac: 0.75519211
   - - - '104'
       - Christian Pollet
-    - coef: 2.78310222
-      frac: 0.7173663
+    - area: 50391699.6494 km^2 s
+      coef: 3.05648798
+      frac: 0.7505141
   - - - '113'
       - Olav Opsanger
-    - coef: 2.78887581
-      frac: 0.71168893
+    - area: 50496245.5915 km^2 s
+      coef: 3.06282917
+      frac: 0.74552227
   - - - '139'
       - Tullio Gervasoni
-    - coef: 2.78910913
-      frac: 0.71146067
+    - area: 50500658.3753 km^2 s
+      coef: 3.06309683
+      frac: 0.74531265
   - - - '111'
       - Patrick Kruse
-    - coef: 2.84102372
-      frac: 0.66268974
+    - area: 51386875.6617 km^2 s
+      coef: 3.11684997
+      frac: 0.70479444
   - - - '120'
       - Mike Glennon
-    - coef: 2.86309913
-      frac: 0.64300434
+    - area: 51823029.3828 km^2 s
+      coef: 3.1433047
+      frac: 0.6858547
   - - - '108'
       - Raul Guerra
-    - coef: 2.87618386
-      frac: 0.63158936
+    - area: 52026369.7564 km^2 s
+      coef: 3.15563823
+      frac: 0.6772183
   - - - '150'
       - Claudia Mejia
-    - coef: 2.88700286
-      frac: 0.622283
+    - area: 52268675.2827 km^2 s
+      coef: 3.17033517
+      frac: 0.66707536
   - - - '125'
       - Larry Bunner
-    - coef: 2.91357865
-      frac: 0.59989285
+    - area: 52663227.0833 km^2 s
+      coef: 3.19426655
+      frac: 0.65088118
   - - - '112'
       - Sergey Kataev
-    - coef: 2.95425962
-      frac: 0.5667791
+    - area: 53476711.8806 km^2 s
+      coef: 3.24360814
+      frac: 0.6186167
   - - - '101'
       - Davis Straub
-    - coef: 2.95613622
-      frac: 0.56528243
+    - area: 53480114.2692 km^2 s
+      coef: 3.24381451
+      frac: 0.61848466
   - - - '117'
       - Robert Dallas
-    - coef: 2.96398784
-      frac: 0.55904815
+    - area: 53656809.7059 km^2 s
+      coef: 3.2545319
+      frac: 0.61165856
   - - - '129'
       - Mike Jefferson
-    - coef: 2.96610659
-      frac: 0.55737338
+    - area: 53659260.6344 km^2 s
+      coef: 3.25468056
+      frac: 0.6115643
   - - - '102'
       - Richard lovelace
-    - coef: 2.97053865
-      frac: 0.55388027
+    - area: 53706878.2704 km^2 s
+      coef: 3.25756878
+      frac: 0.60973522
   - - - '142'
       - John Simon
-    - coef: 2.97581983
-      frac: 0.54973568
+    - area: 53838696.2853 km^2 s
+      coef: 3.26556415
+      frac: 0.60469402
   - - - '132'
       - James Stinnett
-    - coef: 2.97988213
-      frac: 0.54656059
+    - area: 53871631.0859 km^2 s
+      coef: 3.2675618
+      frac: 0.6034395
   - - - '106'
       - Fabiano Nahoum
-    - coef: 2.98671813
-      frac: 0.54124251
+    - area: 54027408.9345 km^2 s
+      coef: 3.27701044
+      frac: 0.59753237
   - - - '123'
       - JD Guillemette
-    - coef: 3.02072541
-      frac: 0.51522866
+    - area: 54674327.4895 km^2 s
+      coef: 3.31624902
+      frac: 0.57344812
   - - - '127'
       - Gerry Pesavento
-    - coef: 3.08356322
-      frac: 0.46890145
+    - area: 55833060.1015 km^2 s
+      coef: 3.38653148
+      frac: 0.5319192
   - - - '115'
       - Andrew Hollidge
-    - coef: 3.22998547
-      frac: 0.36799235
+    - area: 58454240.3849 km^2 s
+      coef: 3.5455181
+      frac: 0.44409117
   - - - '124'
       - Patrick Pannese
-    - coef: 3.23967813
-      frac: 0.36160282
+    - area: 58650047.5568 km^2 s
+      coef: 3.5573947
+      frac: 0.43781434
   - - - '114'
       - Mick Howard
-    - coef: 3.2745376
-      frac: 0.33888158
+    - area: 59283000.4314 km^2 s
+      coef: 3.5957862
+      frac: 0.41775883
   - - - '116'
       - Jeffery Bohl
-    - coef: 3.31749002
-      frac: 0.31141074
+    - area: 60068506.3791 km^2 s
+      coef: 3.64343074
+      frac: 0.39333944
   - - - '119'
       - Bart Weghorst
-    - coef: 3.34648367
-      frac: 0.29317385
+    - area: 60556653.2083 km^2 s
+      coef: 3.67303909
+      frac: 0.37840943
   - - - '144'
       - Tom Lanning
-    - coef: 3.38259549
-      frac: 0.27078321
+    - area: 61226099.3066 km^2 s
+      coef: 3.71364407
+      frac: 0.35822085
   - - - '103'
       - Matt Christensen
-    - coef: 3.50597841
-      frac: 0.19672141
+    - area: 63465974.4789 km^2 s
+      coef: 3.84950278
+      frac: 0.29284436
   - - - '143'
       - Anna Eppink
-    - coef: 3.59517112
-      frac: 0.14525219
+    - area: 65067988.5637 km^2 s
+      coef: 3.94667229
+      frac: 0.24789049
+  - - - '145'
+      - Roger Irby
+    - area: 66293874.8262 km^2 s
+      coef: 4.02102792
+      frac: 0.21438086
   - - - '141'
       - Patrick Halfhill
-    - coef: 3.68481791
-      frac: 9.503811e-2
+    - area: 66719791.9565 km^2 s
+      coef: 4.04686175
+      frac: 0.20290526
   - - - '133'
       - Olav Olsen
-    - coef: 3.75795257
-      frac: 5.508443e-2
+    - area: 68029822.9808 km^2 s
+      coef: 4.12632115
+      frac: 0.16811302
   - - - '140'
       - Bill Vickery
-    - coef: 3.77831889
-      frac: 4.410852e-2
+    - area: 68410883.8347 km^2 s
+      coef: 4.14943424
+      frac: 0.15812914
   - - - '146'
       - Peter Kelley
-    - coef: 3.9465694
-      frac: 0
+    - area: 71441018.7600 km^2 s
+      coef: 4.33322584
+      frac: 8.072748e-2
   - - - '109'
       - Michael Williams
-    - coef: 4.25264864
+    - area: 77001856.5495 km^2 s
+      coef: 4.67051619
       frac: 0
   - - - '134'
       - Kinsley Sykes
-    - coef: 4.87972905
+    - area: 88337886.3902 km^2 s
+      coef: 5.35809845
       frac: 0
   - - - '118'
       - Ingo Heilmann
-    - coef: 4.93356456
+    - area: 89331192.3823 km^2 s
+      coef: 5.41834702
       frac: 0
   - - - '110'
       - Cory Barnwell
-    - coef: 6.81601652
+    - area: 123396362.6838 km^2 s
+      coef: 7.48455602
       frac: 0
 - - - - '142'
       - John Simon
-    - coef: 0.9042078
+    - area: 5778451.8078 km^2 s
+      coef: 5.05381028
       frac: 1
   - - - '138'
       - Jonny Durand
-    - coef: 0.90814201
-      frac: 0.97465686
+    - area: 5803588.0857 km^2 s
+      coef: 5.07579436
+      frac: 0.9542702
   - - - '121'
       - Oleg Bondarchuk
-    - coef: 0.92867058
-      frac: 0.91430428
+    - area: 5934881.7538 km^2 s
+      coef: 5.19062327
+      frac: 0.84528043
   - - - '128'
       - Zac Majors
-    - coef: 0.93901515
-      frac: 0.89159001
+    - area: 6000884.2102 km^2 s
+      coef: 5.24834874
+      frac: 0.80435713
   - - - '106'
       - Fabiano Nahoum
-    - coef: 1.05540288
-      frac: 0.71138843
+    - area: 6745227.5785 km^2 s
+      coef: 5.8993484
+      frac: 0.4789463
   - - - '104'
       - Christian Pollet
-    - coef: 1.11816862
-      frac: 0.63621499
+    - area: 7146788.0345 km^2 s
+      coef: 6.25055153
+      frac: 0.34315858
   - - - '131'
       - Robin Hamilton
-    - coef: 1.12492559
-      frac: 0.62859576
+    - area: 7189918.9272 km^2 s
+      coef: 6.28827364
+      frac: 0.32942737
   - - - '139'
       - Tullio Gervasoni
-    - coef: 1.16082365
-      frac: 0.58934453
+    - area: 7419168.3695 km^2 s
+      coef: 6.48877426
+      frac: 0.25865387
   - - - '119'
       - Bart Weghorst
-    - coef: 1.16515896
-      frac: 0.58473234
+    - area: 7446779.7385 km^2 s
+      coef: 6.51292305
+      frac: 0.2503597
   - - - '111'
       - Patrick Kruse
-    - coef: 1.16695696
-      frac: 0.58282701
+    - area: 7458793.7398 km^2 s
+      coef: 6.52343045
+      frac: 0.24676512
   - - - '115'
       - Andrew Hollidge
-    - coef: 1.16988149
-      frac: 0.57973716
+    - area: 7476814.2118 km^2 s
+      coef: 6.53919108
+      frac: 0.24138942
   - - - '132'
       - James Stinnett
-    - coef: 1.17104585
-      frac: 0.57851014
+    - area: 7485046.9447 km^2 s
+      coef: 6.54639139
+      frac: 0.23893985
   - - - '113'
       - Olav Opsanger
-    - coef: 1.18012438
-      frac: 0.56900342
+    - area: 7542728.6114 km^2 s
+      coef: 6.59683954
+      frac: 0.22188618
   - - - '135'
       - Misael Rosalez
-    - coef: 1.21256934
-      frac: 0.535846
+    - area: 7750076.4600 km^2 s
+      coef: 6.77818512
+      frac: 0.16205636
   - - - '102'
       - Richard lovelace
-    - coef: 1.22799531
-      frac: 0.52049256
+    - area: 7849058.7605 km^2 s
+      coef: 6.86475463
+      frac: 0.13424084
   - - - '114'
       - Mick Howard
-    - coef: 1.23568146
-      frac: 0.51293382
+    - area: 7897947.8512 km^2 s
+      coef: 6.90751283
+      frac: 0.12066629
   - - - '109'
       - Michael Williams
-    - coef: 1.25601708
-      frac: 0.49321142
+    - area: 8026898.9940 km^2 s
+      coef: 7.02029297
+      frac: 8.535245e-2
   - - - '103'
       - Matt Christensen
-    - coef: 1.25808398
-      frac: 0.49122842
+    - area: 8040983.4749 km^2 s
+      coef: 7.0326112
+      frac: 8.15368e-2
   - - - '123'
       - JD Guillemette
-    - coef: 1.2583767
-      frac: 0.49094789
+    - area: 8043336.8023 km^2 s
+      coef: 7.03466941
+      frac: 8.090003e-2
   - - - '118'
       - Ingo Heilmann
-    - coef: 1.26547335
-      frac: 0.48417033
+    - area: 8088839.5231 km^2 s
+      coef: 7.07446591
+      frac: 6.863076e-2
   - - - '125'
       - Larry Bunner
-    - coef: 1.27420808
-      frac: 0.47588894
+    - area: 8144446.9811 km^2 s
+      coef: 7.12309996
+      frac: 5.374566e-2
   - - - '127'
       - Gerry Pesavento
-    - coef: 1.29204137
-      frac: 0.45918065
+    - area: 8258360.6536 km^2 s
+      coef: 7.22272839
+      frac: 2.361194e-2
   - - - '141'
       - Patrick Halfhill
-    - coef: 1.30281279
-      frac: 0.44921288
+    - area: 8327465.0295 km^2 s
+      coef: 7.2831668
+      frac: 5.55667e-3
   - - - '112'
       - Sergey Kataev
-    - coef: 1.30417267
-      frac: 0.44796087
+    - area: 8336127.8677 km^2 s
+      coef: 7.29074328
+      frac: 3.30486e-3
   - - - '116'
       - Jeffery Bohl
-    - coef: 1.33057865
-      frac: 0.42392332
+    - area: 8504611.1104 km^2 s
+      coef: 7.43809803
+      frac: 0
   - - - '124'
       - Patrick Pannese
-    - coef: 1.34302964
-      frac: 0.41276205
+    - area: 8584673.9786 km^2 s
+      coef: 7.50812069
+      frac: 0
   - - - '133'
       - Olav Olsen
-    - coef: 1.37497722
-      frac: 0.38459533
+    - area: 8788688.1115 km^2 s
+      coef: 7.68655062
+      frac: 0
   - - - '117'
       - Robert Dallas
-    - coef: 1.43895442
-      frac: 0.33003211
+    - area: 9198325.4932 km^2 s
+      coef: 8.04481779
+      frac: 0
   - - - '150'
       - Claudia Mejia
-    - coef: 1.45386547
-      frac: 0.31763488
+    - area: 9293513.6899 km^2 s
+      coef: 8.128069
+      frac: 0
   - - - '110'
       - Cory Barnwell
-    - coef: 1.46800087
-      frac: 0.30598566
+    - area: 9383851.6273 km^2 s
+      coef: 8.20707819
+      frac: 0
   - - - '108'
       - Raul Guerra
-    - coef: 1.66481622
-      frac: 0.15265024
+    - area: 10642193.1321 km^2 s
+      coef: 9.30761851
+      frac: 0
   - - - '101'
       - Davis Straub
-    - coef: 1.69860346
-      frac: 0.12773884
+    - area: 10858091.9195 km^2 s
+      coef: 9.49644271
+      frac: 0
   - - - '120'
       - Mike Glennon
-    - coef: 1.81191336
-      frac: 4.665091e-2
+    - area: 11582626.4137 km^2 s
+      coef: 10.13011761
+      frac: 0
   - - - '144'
       - Tom Lanning
-    - coef: 1.86969389
-      frac: 6.6111e-3
+    - area: 11951966.8649 km^2 s
+      coef: 10.45314125
+      frac: 0
   - - - '145'
       - Roger Irby
-    - coef: 1.93516573
+    - area: 12369288.4147 km^2 s
+      coef: 10.81812897
       frac: 0
   - - - '146'
       - Peter Kelley
-    - coef: 2.07922282
+    - area: 13289501.4735 km^2 s
+      coef: 11.62294354
       frac: 0
   - - - '140'
       - Bill Vickery
-    - coef: 2.16999416
+    - area: 13871837.0556 km^2 s
+      coef: 12.13225186
       frac: 0
   - - - '143'
       - Anna Eppink
-    - coef: 2.17488241
+    - area: 13903396.2008 km^2 s
+      coef: 12.15985335
       frac: 0
   - - - '129'
       - Mike Jefferson
-    - coef: 2.35037731
+    - area: 15022959.2099 km^2 s
+      coef: 13.13901858
       frac: 0
   - - - '134'
       - Kinsley Sykes
-    - coef: 2.50117509
+    - area: 15987793.3737 km^2 s
+      coef: 13.98285858
       frac: 0
   - - - '126'
       - Jeff Kannard
-    - coef: 2.87336734
+    - area: 18368743.2353 km^2 s
+      coef: 16.06522758
       frac: 0
 - - - - '101'
       - Davis Straub
-    - coef: 1.22140266
+    - area: 10729049.6318 km^2 s
+      coef: 4.19947522
       frac: 1
   - - - '104'
       - Christian Pollet
-    - coef: 1.39875958
-      frac: 0.69467974
+    - area: 12287130.7500 km^2 s
+      coef: 4.80932635
+      frac: 0.55425733
   - - - '103'
       - Matt Christensen
-    - coef: 1.44215321
-      frac: 0.64671538
+    - area: 12668346.7278 km^2 s
+      coef: 4.95853873
+      frac: 0.48423278
   - - - '121'
       - Oleg Bondarchuk
-    - coef: 1.44741099
-      frac: 0.64112779
+    - area: 12714519.7302 km^2 s
+      coef: 4.97661138
+      frac: 0.47607828
   - - - '135'
       - Misael Rosalez
-    - coef: 1.44898242
-      frac: 0.63946623
+    - area: 12728336.8990 km^2 s
+      coef: 4.98201958
+      frac: 0.47365039
   - - - '111'
       - Patrick Kruse
-    - coef: 1.56752175
-      frac: 0.52319526
+    - area: 13769690.5020 km^2 s
+      coef: 5.38961753
+      frac: 0.30390648
   - - - '131'
       - Robin Hamilton
-    - coef: 1.60726413
-      frac: 0.4873616
+    - area: 14118845.6132 km^2 s
+      coef: 5.52628092
+      frac: 0.25158949
   - - - '124'
       - Patrick Pannese
-    - coef: 1.63966187
-      frac: 0.45905406
+    - area: 14403447.5079 km^2 s
+      coef: 5.63767742
+      frac: 0.21026456
   - - - '127'
       - Gerry Pesavento
-    - coef: 1.7696276
-      frac: 0.3521178
+    - area: 15545195.4222 km^2 s
+      coef: 6.08457088
+      frac: 5.41464e-2
   - - - '144'
       - Tom Lanning
-    - coef: 1.77352237
-      frac: 0.3490529
+    - area: 15579195.8956 km^2 s
+      coef: 6.09787906
+      frac: 4.97e-2
   - - - '133'
       - Olav Olsen
-    - coef: 1.78089769
-      frac: 0.34326875
+    - area: 15644200.0604 km^2 s
+      coef: 6.12332245
+      frac: 4.122792e-2
   - - - '138'
       - Jonny Durand
-    - coef: 1.81872893
-      frac: 0.3139887
+    - area: 15976567.5343 km^2 s
+      coef: 6.25341496
+      frac: 0
   - - - '142'
       - John Simon
-    - coef: 1.8589038
-      frac: 0.28356383
+    - area: 16329512.9019 km^2 s
+      coef: 6.39156189
+      frac: 0
   - - - '150'
       - Claudia Mejia
-    - coef: 1.91120466
-      frac: 0.24489649
+    - area: 16788959.8655 km^2 s
+      coef: 6.57139479
+      frac: 0
   - - - '139'
       - Tullio Gervasoni
-    - coef: 1.92579918
-      frac: 0.23428294
+    - area: 16916929.9598 km^2 s
+      coef: 6.62148378
+      frac: 0
   - - - '128'
       - Zac Majors
-    - coef: 1.97477445
-      frac: 0.1991895
+    - area: 17347434.7865 km^2 s
+      coef: 6.78998839
+      frac: 0
   - - - '132'
       - James Stinnett
-    - coef: 2.03062012
-      frac: 0.16008819
+    - area: 17838037.5521 km^2 s
+      coef: 6.98201604
+      frac: 0
   - - - '113'
       - Olav Opsanger
-    - coef: 2.03987388
-      frac: 0.15369716
+    - area: 17919327.9388 km^2 s
+      coef: 7.01383405
+      frac: 0
   - - - '106'
       - Fabiano Nahoum
-    - coef: 2.08031533
-      frac: 0.12604407
+    - area: 18274605.2681 km^2 s
+      coef: 7.15289374
+      frac: 0
   - - - '119'
       - Bart Weghorst
-    - coef: 2.10488059
-      frac: 0.10945884
+    - area: 18490418.3285 km^2 s
+      coef: 7.23736549
+      frac: 0
   - - - '102'
       - Richard lovelace
-    - coef: 2.1695141
-      frac: 6.653842e-2
+    - area: 19058184.6145 km^2 s
+      coef: 7.45959584
+      frac: 0
   - - - '123'
       - JD Guillemette
-    - coef: 2.17872501
-      frac: 6.050244e-2
+    - area: 19139140.4299 km^2 s
+      coef: 7.49128289
+      frac: 0
   - - - '114'
       - Mick Howard
-    - coef: 2.18879074
-      frac: 5.392838e-2
+    - area: 19227573.1056 km^2 s
+      coef: 7.52589647
+      frac: 0
   - - - '117'
       - Robert Dallas
-    - coef: 2.22420948
-      frac: 3.097486e-2
+    - area: 19538695.6612 km^2 s
+      coef: 7.64767347
+      frac: 0
   - - - '108'
       - Raul Guerra
-    - coef: 2.25393406
-      frac: 1.191941e-2
+    - area: 19799230.2756 km^2 s
+      coef: 7.74964976
+      frac: 0
   - - - '112'
       - Sergey Kataev
-    - coef: 2.55205936
+    - area: 22418588.0578 km^2 s
+      coef: 8.77489696
       frac: 0
   - - - '120'
       - Mike Glennon
-    - coef: 2.60230732
+    - area: 22859265.5405 km^2 s
+      coef: 8.94738327
       frac: 0
   - - - '110'
       - Cory Barnwell
-    - coef: 2.70402881
+    - area: 23752842.4881 km^2 s
+      coef: 9.29713971
       frac: 0
   - - - '129'
       - Mike Jefferson
-    - coef: 3.2359204
+    - area: 28425577.0422 km^2 s
+      coef: 11.12610254
       frac: 0
   - - - '125'
       - Larry Bunner
-    - coef: 3.30336585
+    - area: 29017552.2046 km^2 s
+      coef: 11.35780852
       frac: 0
   - - - '143'
       - Anna Eppink
-    - coef: 3.90544554
+    - area: 34307336.4559 km^2 s
+      coef: 13.4282918
       frac: 0
 arrivalRank:
 - - - - '138'
@@ -1327,72 +1610,72 @@ arrivalRank:
       - Michael Williams
     - rank: '18'
       frac: 0.20256533
-- - - - '113'
-      - Olav Opsanger
+- - - - '128'
+      - Zac Majors
     - rank: '1'
       frac: 1
-  - - - '125'
-      - Larry Bunner
+  - - - '113'
+      - Olav Opsanger
     - rank: '2'
       frac: 0.87771545
-  - - - '139'
-      - Tullio Gervasoni
+  - - - '125'
+      - Larry Bunner
     - rank: '3'
       frac: 0.76869937
-  - - - '121'
-      - Oleg Bondarchuk
+  - - - '139'
+      - Tullio Gervasoni
     - rank: '4'
       frac: 0.67217871
-  - - - '138'
-      - Jonny Durand
+  - - - '121'
+      - Oleg Bondarchuk
     - rank: '5'
       frac: 0.58738042
-  - - - '111'
-      - Patrick Kruse
+  - - - '138'
+      - Jonny Durand
     - rank: '6'
       frac: 0.51353145
-  - - - '132'
-      - James Stinnett
+  - - - '111'
+      - Patrick Kruse
     - rank: '7'
       frac: 0.44985874
-  - - - '131'
-      - Robin Hamilton
+  - - - '132'
+      - James Stinnett
     - rank: '8'
       frac: 0.39558925
-  - - - '142'
-      - John Simon
+  - - - '131'
+      - Robin Hamilton
     - rank: '9'
       frac: 0.34994993
-  - - - '119'
-      - Bart Weghorst
+  - - - '142'
+      - John Simon
     - rank: '10'
       frac: 0.31216772
-  - - - '106'
-      - Fabiano Nahoum
+  - - - '119'
+      - Bart Weghorst
     - rank: '11'
       frac: 0.28146957
-  - - - '123'
-      - JD Guillemette
+  - - - '106'
+      - Fabiano Nahoum
     - rank: '12'
       frac: 0.25708243
-  - - - '127'
-      - Gerry Pesavento
+  - - - '123'
+      - JD Guillemette
     - rank: '13'
       frac: 0.23823326
-  - - - '143'
-      - Anna Eppink
+  - - - '127'
+      - Gerry Pesavento
     - rank: '14'
       frac: 0.22414899
-  - - - '120'
-      - Mike Glennon
+  - - - '143'
+      - Anna Eppink
     - rank: '15'
       frac: 0.21405658
-  - - - '144'
-      - Tom Lanning
+  - - - '120'
+      - Mike Glennon
     - rank: '16'
       frac: 0.20718298
-  - - - '128'
-      - Zac Majors
+  - - - '144'
+      - Tom Lanning
     - rank: '17'
       frac: 0.20275514
 - - - - '138'
@@ -1603,12 +1886,12 @@ arrivalRank:
       - Misael Rosalez
     - rank: '17'
       frac: 0.20275514
-- - - - '104'
-      - Christian Pollet
+- - - - '131'
+      - Robin Hamilton
     - rank: '1'
       frac: 1
-  - - - '131'
-      - Robin Hamilton
+  - - - '104'
+      - Christian Pollet
     - rank: '2'
       frac: 0.56792188
   - - - '139'
@@ -1880,7 +2163,11 @@ reachRank:
       - Tom Lanning
     - frac: 0.16997931
       reach: 27.204613 km
-- - - - '113'
+- - - - '128'
+      - Zac Majors
+    - frac: 1
+      reach: 113.619932 km
+  - - - '113'
       - Olav Opsanger
     - frac: 1
       reach: 113.619932 km
@@ -1942,10 +2229,6 @@ reachRank:
       reach: 113.619932 km
   - - - '144'
       - Tom Lanning
-    - frac: 1
-      reach: 113.619932 km
-  - - - '128'
-      - Zac Majors
     - frac: 1
       reach: 113.619932 km
   - - - '107'
@@ -2148,6 +2431,10 @@ reachRank:
       - Anna Eppink
     - frac: 0.97224366
       reach: 80.213669 km
+  - - - '103'
+      - Matt Christensen
+    - frac: 0.96339557
+      reach: 79.483669 km
   - - - '118'
       - Ingo Heilmann
     - frac: 0.95938362
@@ -2204,10 +2491,6 @@ reachRank:
       - Mike Jefferson
     - frac: 0.61712006
       reach: 50.914669 km
-  - - - '103'
-      - Matt Christensen
-    - frac: 0.47278708
-      reach: 39.006669 km
   - - - '110'
       - Cory Barnwell
     - frac: 0.43698261
@@ -2336,6 +2619,10 @@ reachRank:
       - Gerry Pesavento
     - frac: 0.69206955
       reach: 61.958710 km
+  - - - '137'
+      - Yoko Isomoto
+    - frac: 0.6528187
+      reach: 58.444710 km
   - - - '134'
       - Kinsley Sykes
     - frac: 0.61862778
@@ -2372,10 +2659,6 @@ reachRank:
       - Jeff Kannard
     - frac: 0.30595015
       reach: 27.390710 km
-  - - - '137'
-      - Yoko Isomoto
-    - frac: 0.24723024
-      reach: 22.133710 km
   - - - '140'
       - Bill Vickery
     - frac: 0.14691381
@@ -2480,6 +2763,10 @@ reachRank:
       - Patrick Pannese
     - frac: 0.75456682
       reach: 75.686288 km
+  - - - '145'
+      - Roger Irby
+    - frac: 0.72650222
+      reach: 72.871288 km
   - - - '144'
       - Tom Lanning
     - frac: 0.68840814
@@ -2536,20 +2823,16 @@ reachRank:
       - Ingo Heilmann
     - frac: 0.312492
       reach: 31.344288 km
-  - - - '145'
-      - Roger Irby
-    - frac: 0.16709443
-      reach: 16.760288 km
   - - - '110'
       - Cory Barnwell
     - frac: 0.13279879
       reach: 13.320288 km
-- - - - '104'
-      - Christian Pollet
+- - - - '131'
+      - Robin Hamilton
     - frac: 1
       reach: 59.606662 km
-  - - - '131'
-      - Robin Hamilton
+  - - - '104'
+      - Christian Pollet
     - frac: 1
       reach: 59.606662 km
   - - - '139'
@@ -2839,916 +3122,916 @@ reachRank:
 ssSpeed:
 - - - - '138'
       - Jonny Durand
-    - time: 3.463889 h
+    - time: 3.463429 h
       frac: 1
   - - - '121'
       - Oleg Bondarchuk
-    - time: 3.647222 h
-      frac: 0.73763838
+    - time: 3.644270 h
+      frac: 0.78863743
   - - - '133'
       - Olav Olsen
-    - time: 3.662222 h
-      frac: 0.72351612
+    - time: 3.661264 h
+      frac: 0.77559489
   - - - '113'
       - Olav Opsanger
-    - time: 3.690833 h
-      frac: 0.69752763
+    - time: 3.690101 h
+      frac: 0.75428624
   - - - '139'
       - Tullio Gervasoni
-    - time: 3.702222 h
-      frac: 0.687491
+    - time: 3.700442 h
+      frac: 0.74686861
   - - - '131'
       - Robin Hamilton
-    - time: 3.706667 h
-      frac: 0.68361786
+    - time: 3.706312 h
+      frac: 0.74270637
   - - - '115'
       - Andrew Hollidge
-    - time: 3.706944 h
-      frac: 0.68337657
+    - time: 3.706516 h
+      frac: 0.74256207
   - - - '128'
       - Zac Majors
-    - time: 3.756111 h
-      frac: 0.64200126
+    - time: 3.755776 h
+      frac: 0.70886359
   - - - '125'
       - Larry Bunner
-    - time: 3.776944 h
-      frac: 0.62518213
+    - time: 3.775946 h
+      frac: 0.69562208
   - - - '107'
       - Malcolm Brown
-    - time: 3.780278 h
-      frac: 0.62252619
+    - time: 3.779991 h
+      frac: 0.69300137
   - - - '132'
       - James Stinnett
-    - time: 3.788333 h
-      frac: 0.61614585
+    - time: 3.787076 h
+      frac: 0.68843759
   - - - '142'
       - John Simon
-    - time: 3.818056 h
-      frac: 0.5930468
+    - time: 3.817922 h
+      frac: 0.66894307
   - - - '119'
       - Bart Weghorst
-    - time: 3.830556 h
-      frac: 0.58352689
+    - time: 3.829901 h
+      frac: 0.66152632
   - - - '106'
       - Fabiano Nahoum
-    - time: 3.976944 h
-      frac: 0.47898655
+    - time: 3.974675 h
+      frac: 0.57741172
   - - - '111'
       - Patrick Kruse
-    - time: 4.006944 h
-      frac: 0.45886929
+    - time: 4.004721 h
+      frac: 0.56101248
   - - - '109'
       - Michael Williams
-    - time: 4.042222 h
-      frac: 0.4356808
+    - time: 4.039672 h
+      frac: 0.54231324
   - - - '127'
       - Gerry Pesavento
-    - time: 4.045278 h
-      frac: 0.43369487
+    - time: 4.044458 h
+      frac: 0.53978252
   - - - '114'
       - Mick Howard
-    - time: 4.046389 h
-      frac: 0.43297358
-- - - - '113'
-      - Olav Opsanger
-    - time: 3.845278 h
-      frac: 1
-  - - - '125'
-      - Larry Bunner
-    - time: 3.884444 h
-      frac: 0.90785825
-  - - - '139'
-      - Tullio Gervasoni
-    - time: 3.938611 h
-      frac: 0.83561208
-  - - - '121'
-      - Oleg Bondarchuk
-    - time: 4.014722 h
-      frac: 0.75535842
-  - - - '138'
-      - Jonny Durand
-    - time: 4.044167 h
-      frac: 0.72778061
-  - - - '111'
-      - Patrick Kruse
-    - time: 4.088611 h
-      frac: 0.68860394
-  - - - '132'
-      - James Stinnett
-    - time: 4.121667 h
-      frac: 0.66100567
-  - - - '131'
-      - Robin Hamilton
-    - time: 4.155833 h
-      frac: 0.63361452
-  - - - '142'
-      - John Simon
-    - time: 4.176389 h
-      frac: 0.61762054
-  - - - '119'
-      - Bart Weghorst
-    - time: 4.220000 h
-      frac: 0.58474168
-  - - - '106'
-      - Fabiano Nahoum
-    - time: 4.252222 h
-      frac: 0.56126515
-  - - - '123'
-      - JD Guillemette
-    - time: 4.429444 h
-      frac: 0.44169709
-  - - - '127'
-      - Gerry Pesavento
-    - time: 4.543333 h
-      frac: 0.37130688
-  - - - '143'
-      - Anna Eppink
-    - time: 4.611111 h
-      frac: 0.33124318
-  - - - '120'
-      - Mike Glennon
-    - time: 4.661389 h
-      frac: 0.30228471
-  - - - '144'
-      - Tom Lanning
-    - time: 4.839722 h
-      frac: 0.20402567
-  - - - '128'
-      - Zac Majors
-    - time: 27.383611 h
-      frac: 0
-- - - - '138'
-      - Jonny Durand
-    - time: 2.290000 h
-      frac: 1
-  - - - '128'
-      - Zac Majors
-    - time: 2.436111 h
-      frac: 0.75837071
-  - - - '125'
-      - Larry Bunner
-    - time: 2.450556 h
-      frac: 0.74269732
-  - - - '142'
-      - John Simon
-    - time: 2.457222 h
-      frac: 0.73562316
-  - - - '113'
-      - Olav Opsanger
-    - time: 2.476111 h
-      frac: 0.71607152
-  - - - '131'
-      - Robin Hamilton
-    - time: 2.595000 h
-      frac: 0.60533618
-  - - - '115'
-      - Andrew Hollidge
-    - time: 2.610000 h
-      frac: 0.5925002
-  - - - '106'
-      - Fabiano Nahoum
-    - time: 2.649167 h
-      frac: 0.55989318
-  - - - '108'
-      - Raul Guerra
-    - time: 2.667500 h
-      frac: 0.54504121
-  - - - '127'
-      - Gerry Pesavento
-    - time: 2.686111 h
-      frac: 0.5302082
-  - - - '139'
-      - Tullio Gervasoni
-    - time: 2.690278 h
-      frac: 0.52691947
-  - - - '132'
-      - James Stinnett
-    - time: 2.692500 h
-      frac: 0.52517015
-  - - - '104'
-      - Christian Pollet
-    - time: 2.773889 h
-      frac: 0.46314395
-  - - - '101'
-      - Davis Straub
-    - time: 2.804722 h
-      frac: 0.44057393
-  - - - '107'
-      - Malcolm Brown
-    - time: 2.886389 h
-      frac: 0.38286461
-  - - - '121'
-      - Oleg Bondarchuk
-    - time: 3.025000 h
-      frac: 0.29060905
-  - - - '135'
-      - Misael Rosalez
-    - time: 3.157778 h
-      frac: 0.20755991
-  - - - '102'
-      - Richard lovelace
-    - time: 3.193611 h
-      frac: 0.18589243
-  - - - '133'
-      - Olav Olsen
-    - time: 3.203889 h
-      frac: 0.1797309
-  - - - '144'
-      - Tom Lanning
-    - time: 3.209722 h
-      frac: 0.1762441
-  - - - '120'
-      - Mike Glennon
-    - time: 3.221111 h
-      frac: 0.16945769
-  - - - '137'
-      - Yoko Isomoto
-    - time: 3.318889 h
-      frac: 0.112286
-- - - - '131'
-      - Robin Hamilton
-    - time: 3.057222 h
-      frac: 1
-  - - - '123'
-      - JD Guillemette
-    - time: 3.491944 h
-      frac: 0.5236567
-  - - - '138'
-      - Jonny Durand
-    - time: 3.573889 h
-      frac: 0.46553518
-  - - - '139'
-      - Tullio Gervasoni
-    - time: 3.579167 h
-      frac: 0.46190162
-  - - - '113'
-      - Olav Opsanger
-    - time: 3.588333 h
-      frac: 0.45561967
-  - - - '128'
-      - Zac Majors
-    - time: 3.593889 h
-      frac: 0.45183002
-  - - - '102'
-      - Richard lovelace
-    - time: 3.615556 h
-      frac: 0.4371735
-  - - - '150'
-      - Claudia Mejia
-    - time: 3.653056 h
-      frac: 0.41224631
-  - - - '117'
-      - Robert Dallas
-    - time: 3.725000 h
-      frac: 0.36583811
-  - - - '110'
-      - Cory Barnwell
-    - time: 3.754167 h
-      frac: 0.34750437
-  - - - '115'
-      - Andrew Hollidge
-    - time: 3.785556 h
-      frac: 0.32805722
-  - - - '101'
-      - Davis Straub
-    - time: 3.818333 h
-      frac: 0.3080455
-  - - - '108'
-      - Raul Guerra
-    - time: 3.882500 h
-      frac: 0.26968156
+    - time: 4.045815 h
+      frac: 0.53906634
 - - - - '128'
       - Zac Majors
-    - time: 2.434444 h
+    - time: 3.383357 h
+      frac: 1
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.844304 h
+      frac: 0.60251781
+  - - - '125'
+      - Larry Bunner
+    - time: 3.882903 h
+      frac: 0.58062656
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.938105 h
+      frac: 0.5502745
+  - - - '121'
+      - Oleg Bondarchuk
+    - time: 4.013364 h
+      frac: 0.51046858
+  - - - '138'
+      - Jonny Durand
+    - time: 4.041728 h
+      frac: 0.49588324
+  - - - '111'
+      - Patrick Kruse
+    - time: 4.086420 h
+      frac: 0.47332
+  - - - '132'
+      - James Stinnett
+    - time: 4.120394 h
+      frac: 0.45648704
+  - - - '131'
+      - Robin Hamilton
+    - time: 4.155176 h
+      frac: 0.43951927
+  - - - '142'
+      - John Simon
+    - time: 4.176158 h
+      frac: 0.42940665
+  - - - '119'
+      - Bart Weghorst
+    - time: 4.219229 h
+      frac: 0.40892332
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 4.251869 h
+      frac: 0.39363451
+  - - - '123'
+      - JD Guillemette
+    - time: 4.428936 h
+      frac: 0.31379299
+  - - - '127'
+      - Gerry Pesavento
+    - time: 4.541954 h
+      frac: 0.26519467
+  - - - '143'
+      - Anna Eppink
+    - time: 4.610632 h
+      frac: 0.23643637
+  - - - '120'
+      - Mike Glennon
+    - time: 4.661307 h
+      frac: 0.21555991
+  - - - '144'
+      - Tom Lanning
+    - time: 4.839580 h
+      frac: 0.14420624
+- - - - '138'
+      - Jonny Durand
+    - time: 2.289629 h
+      frac: 1
+  - - - '128'
+      - Zac Majors
+    - time: 2.435722 h
+      frac: 0.78954198
+  - - - '125'
+      - Larry Bunner
+    - time: 2.448934 h
+      frac: 0.77703766
+  - - - '142'
+      - John Simon
+    - time: 2.456414 h
+      frac: 0.77011178
+  - - - '113'
+      - Olav Opsanger
+    - time: 2.475367 h
+      frac: 0.75301024
+  - - - '131'
+      - Robin Hamilton
+    - time: 2.594425 h
+      frac: 0.65637459
+  - - - '115'
+      - Andrew Hollidge
+    - time: 2.609449 h
+      frac: 0.6451734
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 2.647652 h
+      frac: 0.6174518
+  - - - '108'
+      - Raul Guerra
+    - time: 2.667353 h
+      frac: 0.60354398
+  - - - '127'
+      - Gerry Pesavento
+    - time: 2.685718 h
+      frac: 0.59079562
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 2.689754 h
+      frac: 0.58802039
+  - - - '132'
+      - James Stinnett
+    - time: 2.692242 h
+      frac: 0.58631411
+  - - - '104'
+      - Christian Pollet
+    - time: 2.773464 h
+      frac: 0.53239774
+  - - - '101'
+      - Davis Straub
+    - time: 2.803670 h
+      frac: 0.51313317
+  - - - '107'
+      - Malcolm Brown
+    - time: 2.885148 h
+      frac: 0.46295746
+  - - - '121'
+      - Oleg Bondarchuk
+    - time: 3.023192 h
+      frac: 0.38287923
+  - - - '135'
+      - Misael Rosalez
+    - time: 3.157719 h
+      frac: 0.30956663
+  - - - '102'
+      - Richard lovelace
+    - time: 3.192116 h
+      frac: 0.29144704
+  - - - '133'
+      - Olav Olsen
+    - time: 3.202843 h
+      frac: 0.28584352
+  - - - '144'
+      - Tom Lanning
+    - time: 3.209267 h
+      frac: 0.28249794
+  - - - '120'
+      - Mike Glennon
+    - time: 3.220666 h
+      frac: 0.27658118
+  - - - '137'
+      - Yoko Isomoto
+    - time: 3.317436 h
+      frac: 0.2272846
+- - - - '131'
+      - Robin Hamilton
+    - time: 3.056998 h
+      frac: 1
+  - - - '123'
+      - JD Guillemette
+    - time: 3.491652 h
+      frac: 0.60463552
+  - - - '138'
+      - Jonny Durand
+    - time: 3.572123 h
+      frac: 0.55723136
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.577819 h
+      frac: 0.55397336
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.587939 h
+      frac: 0.54821448
+  - - - '128'
+      - Zac Majors
+    - time: 3.593518 h
+      frac: 0.54505474
+  - - - '102'
+      - Richard lovelace
+    - time: 3.615040 h
+      frac: 0.53296819
+  - - - '150'
+      - Claudia Mejia
+    - time: 3.652637 h
+      frac: 0.51222042
+  - - - '117'
+      - Robert Dallas
+    - time: 3.724328 h
+      frac: 0.47382691
+  - - - '110'
+      - Cory Barnwell
+    - time: 3.753262 h
+      frac: 0.45872539
+  - - - '115'
+      - Andrew Hollidge
+    - time: 3.784758 h
+      frac: 0.44252277
+  - - - '101'
+      - Davis Straub
+    - time: 3.817903 h
+      frac: 0.42572255
+  - - - '108'
+      - Raul Guerra
+    - time: 3.879998 h
+      frac: 0.39488913
+- - - - '128'
+      - Zac Majors
+    - time: 2.434251 h
       frac: 1
   - - - '138'
       - Jonny Durand
-    - time: 2.611389 h
-      frac: 0.72825724
+    - time: 2.610376 h
+      frac: 0.76642611
   - - - '121'
       - Oleg Bondarchuk
-    - time: 2.636111 h
-      frac: 0.70350132
+    - time: 2.633341 h
+      frac: 0.74653971
   - - - '102'
       - Richard lovelace
-    - time: 3.057222 h
-      frac: 0.37123442
+    - time: 3.054741 h
+      frac: 0.45920249
   - - - '131'
       - Robin Hamilton
-    - time: 3.099167 h
-      frac: 0.34331038
+    - time: 3.098923 h
+      frac: 0.43382637
   - - - '139'
       - Tullio Gervasoni
-    - time: 3.116667 h
-      frac: 0.33183468
+    - time: 3.115078 h
+      frac: 0.42468919
   - - - '132'
       - James Stinnett
-    - time: 3.291111 h
-      frac: 0.22230746
+    - time: 3.290393 h
+      frac: 0.329742
   - - - '142'
       - John Simon
-    - time: 3.405278 h
-      frac: 0.15466314
+    - time: 3.403922 h
+      frac: 0.27172674
   - - - '127'
       - Gerry Pesavento
-    - time: 3.411667 h
-      frac: 0.15095851
+    - time: 3.410048 h
+      frac: 0.26866282
   - - - '120'
       - Mike Glennon
-    - time: 3.460278 h
-      frac: 0.12303036
+    - time: 3.459614 h
+      frac: 0.24410221
   - - - '104'
       - Christian Pollet
-    - time: 3.490556 h
-      frac: 0.10585813
+    - time: 3.489856 h
+      frac: 0.2293114
   - - - '123'
       - JD Guillemette
-    - time: 3.501111 h
-      frac: 9.991021e-2
+    - time: 3.499989 h
+      frac: 0.22438714
   - - - '108'
       - Raul Guerra
-    - time: 3.510000 h
-      frac: 9.491663e-2
+    - time: 3.509381 h
+      frac: 0.21983689
   - - - '113'
       - Olav Opsanger
-    - time: 3.607222 h
-      frac: 4.116508e-2
+    - time: 3.606863 h
+      frac: 0.17336411
   - - - '112'
       - Sergey Kataev
-    - time: 3.679444 h
-      frac: 2.19367e-3
+    - time: 3.678993 h
+      frac: 0.13980347
   - - - '150'
       - Claudia Mejia
-    - time: 3.931667 h
-      frac: 0
+    - time: 3.931391 h
+      frac: 2.71338e-2
   - - - '135'
       - Misael Rosalez
-    - time: 3.994444 h
-      frac: 0
+    - time: 3.993477 h
+      frac: 4.2003e-4
 - - - - '131'
       - Robin Hamilton
-    - time: 2.413333 h
+    - time: 2.413106 h
       frac: 1
   - - - '104'
       - Christian Pollet
-    - time: 2.415556 h
-      frac: 0.98529645
+    - time: 2.415348 h
+      frac: 0.98722797
   - - - '139'
       - Tullio Gervasoni
-    - time: 2.441111 h
-      frac: 0.92080542
+    - time: 2.439367 h
+      frac: 0.93413182
   - - - '132'
       - James Stinnett
-    - time: 2.453889 h
-      frac: 0.89807892
+    - time: 2.452279 h
+      frac: 0.91400615
 - - - - '138'
       - Jonny Durand
-    - time: 1.545833 h
+    - time: 1.543084 h
       frac: 1
   - - - '142'
       - John Simon
-    - time: 1.622778 h
-      frac: 0.83176188
+    - time: 1.620806 h
+      frac: 0.84239569
   - - - '132'
       - James Stinnett
-    - time: 1.800000 h
-      frac: 0.62684842
+    - time: 1.798675 h
+      frac: 0.65147499
   - - - '128'
       - Zac Majors
-    - time: 1.908333 h
-      frac: 0.52719917
+    - time: 1.907839 h
+      frac: 0.55822122
   - - - '101'
       - Davis Straub
-    - time: 1.994722 h
-      frac: 0.45478793
+    - time: 1.994133 h
+      frac: 0.49103717
   - - - '121'
       - Oleg Bondarchuk
-    - time: 2.036111 h
-      frac: 0.42176946
+    - time: 2.032453 h
+      frac: 0.46260387
   - - - '131'
       - Robin Hamilton
-    - time: 2.111944 h
-      frac: 0.36358461
+    - time: 2.111711 h
+      frac: 0.40604245
   - - - '104'
       - Christian Pollet
-    - time: 2.118611 h
-      frac: 0.35859797
+    - time: 2.117944 h
+      frac: 0.40170985
   - - - '111'
       - Patrick Kruse
-    - time: 2.157222 h
-      frac: 0.33008775
+    - time: 2.155355 h
+      frac: 0.37602663
   - - - '106'
       - Fabiano Nahoum
-    - time: 2.164444 h
-      frac: 0.32482239
+    - time: 2.162562 h
+      frac: 0.37113944
   - - - '115'
       - Andrew Hollidge
     - time: 2.322500 h
-      frac: 0.21422899
+      frac: 0.26709126
   - - - '102'
       - Richard lovelace
-    - time: 2.339722 h
-      frac: 0.20265544
+    - time: 2.337073 h
+      frac: 0.25798358
   - - - '135'
       - Misael Rosalez
-    - time: 2.344167 h
-      frac: 0.19968235
+    - time: 2.343688 h
+      frac: 0.25386811
   - - - '113'
       - Olav Opsanger
-    - time: 2.364167 h
-      frac: 0.18637107
+    - time: 2.362818 h
+      frac: 0.24202949
   - - - '124'
       - Patrick Pannese
-    - time: 2.374444 h
-      frac: 0.17957279
+    - time: 2.374379 h
+      frac: 0.23491927
   - - - '103'
       - Matt Christensen
-    - time: 2.387778 h
-      frac: 0.17079513
+    - time: 2.387416 h
+      frac: 0.22694137
   - - - '123'
       - JD Guillemette
-    - time: 2.479167 h
-      frac: 0.11182733
+    - time: 2.478563 h
+      frac: 0.17226153
   - - - '127'
       - Gerry Pesavento
-    - time: 2.526667 h
-      frac: 8.194289e-2
+    - time: 2.525149 h
+      frac: 0.14500449
   - - - '114'
       - Mick Howard
-    - time: 2.624444 h
-      frac: 2.1901e-2
+    - time: 2.623837 h
+      frac: 8.864401e-2
   - - - '150'
       - Claudia Mejia
-    - time: 2.677500 h
-      frac: 0
+    - time: 2.677062 h
+      frac: 5.896285e-2
   - - - '119'
       - Bart Weghorst
-    - time: 2.771944 h
-      frac: 0
+    - time: 2.771209 h
+      frac: 7.57302e-3
   - - - '117'
       - Robert Dallas
-    - time: 3.123611 h
+    - time: 3.123061 h
       frac: 0
   - - - '133'
       - Olav Olsen
-    - time: 3.471111 h
+    - time: 3.470858 h
       frac: 0
 gsSpeed:
 - - - - '138'
       - Jonny Durand
-    - time: 3.467222 h
+    - time: 3.467060 h
       frac: 1
   - - - '121'
       - Oleg Bondarchuk
-    - time: 3.657222 h
-      frac: 0.73135911
+    - time: 3.656369 h
+      frac: 0.78216512
   - - - '113'
       - Olav Opsanger
-    - time: 3.700000 h
-      frac: 0.69241577
+    - time: 3.699944 h
+      frac: 0.74990433
   - - - '139'
       - Tullio Gervasoni
-    - time: 3.705556 h
-      frac: 0.68754109
+    - time: 3.705355 h
+      frac: 0.7460452
   - - - '131'
       - Robin Hamilton
-    - time: 3.707500 h
-      frac: 0.68584393
+    - time: 3.707347 h
+      frac: 0.74463214
   - - - '115'
       - Andrew Hollidge
-    - time: 3.711944 h
-      frac: 0.68198179
+    - time: 3.711892 h
+      frac: 0.74142166
   - - - '128'
       - Zac Majors
-    - time: 3.759444 h
-      frac: 0.64205864
+    - time: 3.759189 h
+      frac: 0.70910961
   - - - '125'
       - Larry Bunner
-    - time: 3.781944 h
-      frac: 0.62391328
+    - time: 3.781850 h
+      frac: 0.69425405
   - - - '107'
       - Malcolm Brown
-    - time: 3.788889 h
-      frac: 0.61840112
+    - time: 3.788759 h
+      frac: 0.68979676
   - - - '132'
       - James Stinnett
-    - time: 3.794444 h
-      frac: 0.6140199
+    - time: 3.794385 h
+      frac: 0.68619059
   - - - '133'
       - Olav Olsen
-    - time: 3.827778 h
-      frac: 0.58823334
+    - time: 3.827542 h
+      frac: 0.66534111
   - - - '119'
       - Bart Weghorst
-    - time: 3.836944 h
-      frac: 0.58128349
+    - time: 3.836707 h
+      frac: 0.65969288
   - - - '111'
       - Patrick Kruse
-    - time: 4.008056 h
-      frac: 0.46043303
+    - time: 4.007871 h
+      frac: 0.56142534
   - - - '127'
       - Gerry Pesavento
-    - time: 4.051389 h
-      frac: 0.43198357
+    - time: 4.051255 h
+      frac: 0.53827337
   - - - '114'
       - Mick Howard
-    - time: 4.070000 h
-      frac: 0.41998235
+    - time: 4.069871 h
+      frac: 0.52851581
   - - - '109'
       - Michael Williams
-    - time: 4.102500 h
-      frac: 0.39931679
+    - time: 4.102434 h
+      frac: 0.51168591
   - - - '142'
       - John Simon
-    - time: 4.151111 h
-      frac: 0.36905222
+    - time: 4.151027 h
+      frac: 0.48709535
   - - - '106'
       - Fabiano Nahoum
-    - time: 4.281944 h
-      frac: 0.29095125
-- - - - '113'
-      - Olav Opsanger
-    - time: 3.869167 h
-      frac: 1
-  - - - '125'
-      - Larry Bunner
-    - time: 3.924444 h
-      frac: 0.88418518
-  - - - '139'
-      - Tullio Gervasoni
-    - time: 3.957778 h
-      frac: 0.84136858
-  - - - '121'
-      - Oleg Bondarchuk
-    - time: 4.035278 h
-      frac: 0.75882652
-  - - - '138'
-      - Jonny Durand
-    - time: 4.047500 h
-      frac: 0.74713691
-  - - - '111'
-      - Patrick Kruse
-    - time: 4.128889 h
-      frac: 0.67510988
-  - - - '132'
-      - James Stinnett
-    - time: 4.158889 h
-      frac: 0.65055006
-  - - - '131'
-      - Robin Hamilton
-    - time: 4.173889 h
-      frac: 0.63859027
-  - - - '142'
-      - John Simon
-    - time: 4.183056 h
-      frac: 0.63137817
-  - - - '119'
-      - Bart Weghorst
-    - time: 4.237500 h
-      frac: 0.58989873
-  - - - '106'
-      - Fabiano Nahoum
-    - time: 4.259722 h
-      frac: 0.57356553
-  - - - '123'
-      - JD Guillemette
-    - time: 4.444722 h
-      frac: 0.44776754
-  - - - '127'
-      - Gerry Pesavento
-    - time: 4.579444 h
-      frac: 0.36464579
-  - - - '143'
-      - Anna Eppink
-    - time: 4.627222 h
-      frac: 0.33646406
-  - - - '120'
-      - Mike Glennon
-    - time: 4.682222 h
-      frac: 0.30474534
-  - - - '144'
-      - Tom Lanning
-    - time: 4.833056 h
-      frac: 0.22121949
-  - - - '128'
-      - Zac Majors
-    - time: 27.385833 h
-      frac: 0
-- - - - '138'
-      - Jonny Durand
-    - time: 2.293333 h
-      frac: 1
-  - - - '128'
-      - Zac Majors
-    - time: 2.437222 h
-      frac: 0.76088491
-  - - - '125'
-      - Larry Bunner
-    - time: 2.456111 h
-      frac: 0.74039152
-  - - - '142'
-      - John Simon
-    - time: 2.469167 h
-      frac: 0.72668953
-  - - - '113'
-      - Olav Opsanger
-    - time: 2.492222 h
-      frac: 0.70329207
-  - - - '131'
-      - Robin Hamilton
-    - time: 2.643056 h
-      frac: 0.56774739
-  - - - '106'
-      - Fabiano Nahoum
-    - time: 2.649722 h
-      frac: 0.56227142
-  - - - '115'
-      - Andrew Hollidge
-    - time: 2.660278 h
-      frac: 0.55367041
-  - - - '108'
-      - Raul Guerra
-    - time: 2.678889 h
-      frac: 0.53870355
-  - - - '139'
-      - Tullio Gervasoni
-    - time: 2.700556 h
-      frac: 0.5215795
-  - - - '132'
-      - James Stinnett
-    - time: 2.706944 h
-      frac: 0.51658855
-  - - - '127'
-      - Gerry Pesavento
-    - time: 2.711389 h
-      frac: 0.51313173
-  - - - '101'
-      - Davis Straub
-    - time: 2.823889 h
-      frac: 0.42929802
-  - - - '104'
-      - Christian Pollet
-    - time: 2.838056 h
-      frac: 0.41918361
-  - - - '107'
-      - Malcolm Brown
-    - time: 2.897778 h
-      frac: 0.3774708
-  - - - '121'
-      - Oleg Bondarchuk
-    - time: 3.067500 h
-      frac: 0.26580439
-  - - - '102'
-      - Richard lovelace
-    - time: 3.199722 h
-      frac: 0.1844226
-  - - - '135'
-      - Misael Rosalez
-    - time: 3.208056 h
-      frac: 0.17943128
-  - - - '133'
-      - Olav Olsen
-    - time: 3.212222 h
-      frac: 0.17694131
-  - - - '144'
-      - Tom Lanning
-    - time: 3.222500 h
-      frac: 0.17081542
-  - - - '120'
-      - Mike Glennon
-    - time: 3.228611 h
-      frac: 0.16718371
-  - - - '137'
-      - Yoko Isomoto
-    - time: 3.370000 h
-      frac: 8.523477e-2
-- - - - '131'
-      - Robin Hamilton
-    - time: 3.065556 h
-      frac: 1
-  - - - '123'
-      - JD Guillemette
-    - time: 3.500833 h
-      frac: 0.5234672
-  - - - '138'
-      - Jonny Durand
-    - time: 3.577222 h
-      frac: 0.46922978
-  - - - '139'
-      - Tullio Gervasoni
-    - time: 3.584722 h
-      frac: 0.46405568
-  - - - '128'
-      - Zac Majors
-    - time: 3.598889 h
-      frac: 0.45434984
-  - - - '113'
-      - Olav Opsanger
-    - time: 3.600000 h
-      frac: 0.45359226
-  - - - '102'
-      - Richard lovelace
-    - time: 3.627500 h
-      frac: 0.43500571
-  - - - '150'
-      - Claudia Mejia
-    - time: 3.653333 h
-      frac: 0.41782005
-  - - - '110'
-      - Cory Barnwell
-    - time: 3.761389 h
-      frac: 0.3484937
-  - - - '117'
-      - Robert Dallas
-    - time: 3.778889 h
-      frac: 0.33761552
-  - - - '115'
-      - Andrew Hollidge
-    - time: 3.802778 h
-      frac: 0.32290842
-  - - - '101'
-      - Davis Straub
-    - time: 3.830000 h
-      frac: 0.30634143
-  - - - '108'
-      - Raul Guerra
-    - time: 3.885833 h
-      frac: 0.27296425
+    - time: 4.281695 h
+      frac: 0.42369129
 - - - - '128'
       - Zac Majors
-    - time: 2.438333 h
+    - time: 3.385608 h
+      frac: 1
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.868956 h
+      frac: 0.58983224
+  - - - '125'
+      - Larry Bunner
+    - time: 3.924150 h
+      frac: 0.55917335
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.957493 h
+      frac: 0.54116071
+  - - - '121'
+      - Oleg Bondarchuk
+    - time: 4.034508 h
+      frac: 0.50083998
+  - - - '138'
+      - Jonny Durand
+    - time: 4.047224 h
+      frac: 0.49433978
+  - - - '111'
+      - Patrick Kruse
+    - time: 4.128681 h
+      frac: 0.45364405
+  - - - '132'
+      - James Stinnett
+    - time: 4.158736 h
+      frac: 0.43900942
+  - - - '131'
+      - Robin Hamilton
+    - time: 4.173729 h
+      frac: 0.43178012
+  - - - '142'
+      - John Simon
+    - time: 4.182946 h
+      frac: 0.42735828
+  - - - '119'
+      - Bart Weghorst
+    - time: 4.237292 h
+      frac: 0.40162462
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 4.259609 h
+      frac: 0.39121709
+  - - - '123'
+      - JD Guillemette
+    - time: 4.444549 h
+      frac: 0.30811222
+  - - - '127'
+      - Gerry Pesavento
+    - time: 4.579253 h
+      frac: 0.25061555
+  - - - '143'
+      - Anna Eppink
+    - time: 4.626962 h
+      frac: 0.2307781
+  - - - '120'
+      - Mike Glennon
+    - time: 4.682200 h
+      frac: 0.20812473
+  - - - '144'
+      - Tom Lanning
+    - time: 4.832960 h
+      frac: 0.14787357
+- - - - '138'
+      - Jonny Durand
+    - time: 2.293095 h
+      frac: 1
+  - - - '128'
+      - Zac Majors
+    - time: 2.437045 h
+      frac: 0.79171021
+  - - - '125'
+      - Larry Bunner
+    - time: 2.455960 h
+      frac: 0.77384212
+  - - - '142'
+      - John Simon
+    - time: 2.468931 h
+      frac: 0.76198844
+  - - - '113'
+      - Olav Opsanger
+    - time: 2.491992 h
+      frac: 0.74160812
+  - - - '131'
+      - Robin Hamilton
+    - time: 2.642852 h
+      frac: 0.62355283
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 2.649558 h
+      frac: 0.61875632
+  - - - '115'
+      - Andrew Hollidge
+    - time: 2.660096 h
+      frac: 0.61127946
+  - - - '108'
+      - Raul Guerra
+    - time: 2.678837 h
+      frac: 0.59815599
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 2.700333 h
+      frac: 0.5833621
+  - - - '132'
+      - James Stinnett
+    - time: 2.706719 h
+      frac: 0.57901823
+  - - - '127'
+      - Gerry Pesavento
+    - time: 2.711316 h
+      frac: 0.57590468
+  - - - '101'
+      - Davis Straub
+    - time: 2.823722 h
+      frac: 0.50296654
+  - - - '104'
+      - Christian Pollet
+    - time: 2.837726 h
+      frac: 0.49425934
+  - - - '107'
+      - Malcolm Brown
+    - time: 2.897641 h
+      frac: 0.45781714
+  - - - '121'
+      - Oleg Bondarchuk
+    - time: 3.065766 h
+      frac: 0.36145811
+  - - - '102'
+      - Richard lovelace
+    - time: 3.199591 h
+      frac: 0.28970811
+  - - - '135'
+      - Misael Rosalez
+    - time: 3.208028 h
+      frac: 0.28530804
+  - - - '133'
+      - Olav Olsen
+    - time: 3.211931 h
+      frac: 0.28327676
+  - - - '144'
+      - Tom Lanning
+    - time: 3.222395 h
+      frac: 0.27784537
+  - - - '120'
+      - Mike Glennon
+    - time: 3.228534 h
+      frac: 0.27466847
+  - - - '137'
+      - Yoko Isomoto
+    - time: 3.369165 h
+      frac: 0.20368199
+- - - - '131'
+      - Robin Hamilton
+    - time: 3.065334 h
+      frac: 1
+  - - - '123'
+      - JD Guillemette
+    - time: 3.500639 h
+      frac: 0.60460034
+  - - - '138'
+      - Jonny Durand
+    - time: 3.576921 h
+      frac: 0.55966085
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.584565 h
+      frac: 0.55528571
+  - - - '128'
+      - Zac Majors
+    - time: 3.598696 h
+      frac: 0.54725313
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.599732 h
+      frac: 0.54666686
+  - - - '102'
+      - Richard lovelace
+    - time: 3.627434 h
+      frac: 0.53113293
+  - - - '150'
+      - Claudia Mejia
+    - time: 3.653120 h
+      frac: 0.51695557
+  - - - '110'
+      - Cory Barnwell
+    - time: 3.761220 h
+      frac: 0.45941246
+  - - - '117'
+      - Robert Dallas
+    - time: 3.778624 h
+      frac: 0.45043585
+  - - - '115'
+      - Andrew Hollidge
+    - time: 3.802489 h
+      frac: 0.43824552
+  - - - '101'
+      - Davis Straub
+    - time: 3.829841 h
+      frac: 0.42443395
+  - - - '108'
+      - Raul Guerra
+    - time: 3.885652 h
+      frac: 0.3967524
+- - - - '128'
+      - Zac Majors
+    - time: 2.438294 h
       frac: 1
   - - - '138'
       - Jonny Durand
-    - time: 2.614722 h
-      frac: 0.72889847
+    - time: 2.614505 h
+      frac: 0.76647938
   - - - '121'
       - Oleg Bondarchuk
-    - time: 2.672222 h
-      frac: 0.67279177
+    - time: 2.669988 h
+      frac: 0.71972734
   - - - '102'
       - Richard lovelace
-    - time: 3.086111 h
-      frac: 0.35468982
+    - time: 3.085843 h
+      frac: 0.44389984
   - - - '131'
       - Robin Hamilton
-    - time: 3.104722 h
-      frac: 0.34238812
+    - time: 3.104583 h
+      frac: 0.43322241
   - - - '139'
       - Tullio Gervasoni
-    - time: 3.122778 h
-      frac: 0.33056262
+    - time: 3.122617 h
+      frac: 0.42304072
   - - - '132'
       - James Stinnett
-    - time: 3.356944 h
-      frac: 0.18547275
+    - time: 3.356759 h
+      frac: 0.29798525
   - - - '142'
       - John Simon
-    - time: 3.432500 h
-      frac: 0.14140052
+    - time: 3.431700 h
+      frac: 0.26029987
   - - - '123'
       - JD Guillemette
-    - time: 3.531944 h
-      frac: 8.505898e-2
+    - time: 3.531141 h
+      frac: 0.21172543
   - - - '108'
       - Raul Guerra
-    - time: 3.586111 h
-      frac: 5.509163e-2
+    - time: 3.586095 h
+      frac: 0.18551677
   - - - '120'
       - Mike Glennon
-    - time: 3.608611 h
-      frac: 4.278288e-2
+    - time: 3.608444 h
+      frac: 0.17497804
   - - - '104'
       - Christian Pollet
-    - time: 3.648056 h
-      frac: 2.139313e-2
+    - time: 3.647773 h
+      frac: 0.15659395
   - - - '127'
       - Gerry Pesavento
-    - time: 3.648611 h
-      frac: 2.109354e-2
+    - time: 3.648381 h
+      frac: 0.15631129
   - - - '113'
       - Olav Opsanger
-    - time: 3.766389 h
-      frac: 0
+    - time: 3.766349 h
+      frac: 0.10233326
   - - - '112'
       - Sergey Kataev
-    - time: 3.828611 h
-      frac: 0
+    - time: 3.828399 h
+      frac: 7.458579e-2
   - - - '150'
       - Claudia Mejia
-    - time: 4.019167 h
+    - time: 4.018918 h
       frac: 0
   - - - '135'
       - Misael Rosalez
-    - time: 4.027778 h
+    - time: 4.027500 h
       frac: 0
-- - - - '104'
-      - Christian Pollet
-    - time: 2.421944 h
-      frac: 1
-  - - - '131'
+- - - - '131'
       - Robin Hamilton
-    - time: 2.421944 h
+    - time: 2.421829 h
       frac: 1
+  - - - '104'
+      - Christian Pollet
+    - time: 2.421923 h
+      frac: 0.99846316
   - - - '139'
       - Tullio Gervasoni
-    - time: 2.447222 h
-      frac: 0.92567552
+    - time: 2.446145 h
+      frac: 0.93750004
   - - - '132'
       - James Stinnett
-    - time: 2.463056 h
-      frac: 0.89721128
+    - time: 2.462879 h
+      frac: 0.91138804
 - - - - '138'
       - Jonny Durand
-    - time: 1.613056 h
+    - time: 1.612808 h
       frac: 1
   - - - '142'
       - John Simon
-    - time: 1.696667 h
-      frac: 0.82343643
+    - time: 1.696522 h
+      frac: 0.83681808
   - - - '132'
       - James Stinnett
-    - time: 1.834444 h
-      frac: 0.66206825
+    - time: 1.834208 h
+      frac: 0.68792588
   - - - '101'
       - Davis Straub
-    - time: 1.975278 h
-      frac: 0.53078145
+    - time: 1.975015 h
+      frac: 0.56671125
   - - - '128'
       - Zac Majors
-    - time: 1.981389 h
-      frac: 0.52551867
+    - time: 1.981237 h
+      frac: 0.56176361
   - - - '121'
       - Oleg Bondarchuk
-    - time: 2.042778 h
-      frac: 0.47416399
+    - time: 2.040147 h
+      frac: 0.51621333
   - - - '104'
       - Christian Pollet
-    - time: 2.122500 h
-      frac: 0.41098955
+    - time: 2.122240 h
+      frac: 0.4560861
   - - - '131'
       - Robin Hamilton
-    - time: 2.156389 h
-      frac: 0.38514976
+    - time: 2.156302 h
+      frac: 0.43210406
   - - - '111'
       - Patrick Kruse
-    - time: 2.168611 h
-      frac: 0.37596333
+    - time: 2.168441 h
+      frac: 0.42367909
   - - - '106'
       - Fabiano Nahoum
-    - time: 2.238611 h
-      frac: 0.32458759
+    - time: 2.238548 h
+      frac: 0.37616694
   - - - '115'
       - Andrew Hollidge
     - time: 2.322500 h
-      frac: 0.2654793
+      frac: 0.32154811
   - - - '102'
       - Richard lovelace
-    - time: 2.345833 h
-      frac: 0.24946093
+    - time: 2.345782 h
+      frac: 0.30678981
   - - - '135'
       - Misael Rosalez
-    - time: 2.350556 h
-      frac: 0.24623993
+    - time: 2.350446 h
+      frac: 0.30385241
   - - - '124'
       - Patrick Pannese
-    - time: 2.352778 h
-      frac: 0.24472654
+    - time: 2.352737 h
+      frac: 0.30241153
   - - - '103'
       - Matt Christensen
-    - time: 2.393889 h
-      frac: 0.21699595
+    - time: 2.393650 h
+      frac: 0.27692868
   - - - '113'
       - Olav Opsanger
-    - time: 2.438056 h
-      frac: 0.18774123
+    - time: 2.437804 h
+      frac: 0.24992102
   - - - '127'
       - Gerry Pesavento
-    - time: 2.539444 h
-      frac: 0.1224861
+    - time: 2.539161 h
+      frac: 0.18967984
   - - - '123'
       - JD Guillemette
-    - time: 2.556389 h
-      frac: 0.11181814
+    - time: 2.555997 h
+      frac: 0.17989118
   - - - '114'
       - Mick Howard
-    - time: 2.657778 h
-      frac: 4.926605e-2
+    - time: 2.657526 h
+      frac: 0.12204566
   - - - '150'
       - Claudia Mejia
-    - time: 2.760000 h
-      frac: 0
+    - time: 2.759827 h
+      frac: 6.562878e-2
   - - - '119'
       - Bart Weghorst
-    - time: 2.971667 h
+    - time: 2.971389 h
       frac: 0
   - - - '117'
       - Robert Dallas
-    - time: 3.174722 h
+    - time: 3.174681 h
       frac: 0
   - - - '133'
       - Olav Olsen
-    - time: 3.448889 h
+    - time: 3.448690 h
       frac: 0
 nigh:
 - - - - '135'
@@ -4923,6 +5206,22 @@ nigh:
         - lat: 28.67227391
           lng: -82.09118666
       made: 80.213669 km
+  - - - '103'
+      - Matt Christensen
+    - togo:
+        distance: 3.019555 km
+        flipSum:
+        - 3.019555 km
+        legs:
+        - 3.019555 km
+        legsSum:
+        - 3.019555 km
+        waypoints:
+        - lat: 28.70173333
+          lng: -82.09326667
+        - lat: 28.67500076
+          lng: -82.08782459
+      made: 79.483669 km
   - - - '118'
       - Ingo Heilmann
     - togo:
@@ -5192,32 +5491,6 @@ nigh:
         - lat: 28.67482181
           lng: -82.08860618
       made: 50.914669 km
-  - - - '103'
-      - Matt Christensen
-    - togo:
-        distance: 43.496997 km
-        flipSum:
-        - 43.496997 km
-        - 30.207196 km
-        - 11.419424 km
-        legs:
-        - 13.289800 km
-        - 18.787773 km
-        - 11.419424 km
-        legsSum:
-        - 13.289800 km
-        - 32.077573 km
-        - 43.496997 km
-        waypoints:
-        - lat: 28.72825
-          lng: -82.04855
-        - lat: 28.80003646
-          lng: -81.93954155
-        - lat: 28.77106348
-          lng: -82.12947143
-        - lat: 28.67482181
-          lng: -82.08860618
-      made: 39.006669 km
   - - - '110'
       - Cory Barnwell
     - togo:
@@ -5572,6 +5845,27 @@ nigh:
         - lat: 28.53654538
           lng: -81.84763065
       made: 62.253710 km
+  - - - '137'
+      - Yoko Isomoto
+    - togo:
+        distance: 31.081556 km
+        flipSum:
+        - 31.081556 km
+        - 20.118640 km
+        legs:
+        - 10.962916 km
+        - 20.118640 km
+        legsSum:
+        - 10.962916 km
+        - 31.081556 km
+        waypoints:
+        - lat: 28.6715
+          lng: -82.00095
+        - lat: 28.71189682
+          lng: -81.8984258
+        - lat: 28.53654538
+          lng: -81.84763065
+      made: 58.444710 km
   - - - '134'
       - Kinsley Sykes
     - togo:
@@ -5724,32 +6018,6 @@ nigh:
         - lat: 28.53654538
           lng: -81.84763065
       made: 31.189710 km
-  - - - '137'
-      - Yoko Isomoto
-    - togo:
-        distance: 67.393212 km
-        flipSum:
-        - 67.393212 km
-        - 51.857945 km
-        - 20.150589 km
-        legs:
-        - 15.535267 km
-        - 31.707356 km
-        - 20.150589 km
-        legsSum:
-        - 15.535267 km
-        - 47.242623 km
-        - 67.393212 km
-        waypoints:
-        - lat: 28.60558333
-          lng: -82.0623
-        - lat: 28.645408
-          lng: -82.21486369
-        - lat: 28.71209748
-          lng: -81.89885384
-        - lat: 28.53654538
-          lng: -81.84763065
-      made: 22.133710 km
   - - - '140'
       - Bill Vickery
     - togo:
@@ -5951,6 +6219,22 @@ nigh:
         - lat: 28.52941751
           lng: -81.84650844
       made: 75.686288 km
+  - - - '145'
+      - Roger Irby
+    - togo:
+        distance: 27.433012 km
+        flipSum:
+        - 27.433012 km
+        legs:
+        - 27.433012 km
+        legsSum:
+        - 27.433012 km
+        waypoints:
+        - lat: 28.28325
+          lng: -81.82788333
+        - lat: 28.52942587
+          lng: -81.84634713
+      made: 72.871288 km
   - - - '144'
       - Tom Lanning
     - togo:
@@ -6271,32 +6555,6 @@ nigh:
         - lat: 28.52942587
           lng: -81.84634713
       made: 13.320288 km
-  - - - '145'
-      - Roger Irby
-    - togo:
-        distance: 83.543770 km
-        flipSum:
-        - 83.543770 km
-        - 80.260836 km
-        - 29.799675 km
-        legs:
-        - 3.282935 km
-        - 50.461160 km
-        - 29.799675 km
-        legsSum:
-        - 3.282935 km
-        - 53.744095 km
-        - 83.543770 km
-        waypoints:
-        - lat: 28.68223333
-          lng: -81.89263333
-        - lat: 28.71158979
-          lng: -81.89621548
-        - lat: 28.26206021
-          lng: -81.82548242
-        - lat: 28.52942587
-          lng: -81.84634713
-      made: 16.760288 km
 - - - - '113'
       - Olav Opsanger
     - togo:
@@ -7332,6 +7590,10 @@ land:
       - Anna Eppink
     - togo: 2.895830 km
       made: 79.607839 km
+  - - - '103'
+      - Matt Christensen
+    - togo: 3.019555 km
+      made: 79.484114 km
   - - - '118'
       - Ingo Heilmann
     - togo: 3.362072 km
@@ -7388,10 +7650,6 @@ land:
       - Mike Jefferson
     - togo: 42.622970 km
       made: 39.880699 km
-  - - - '103'
-      - Matt Christensen
-    - togo: 43.496997 km
-      made: 39.006672 km
   - - - '110'
       - Cory Barnwell
     - togo: 46.707845 km
@@ -7468,6 +7726,10 @@ land:
       - Matt Christensen
     - togo: 27.867402 km
       made: 61.659308 km
+  - - - '137'
+      - Yoko Isomoto
+    - togo: 31.339867 km
+      made: 58.186843 km
   - - - '134'
       - Kinsley Sykes
     - togo: 34.796464 km
@@ -7496,10 +7758,6 @@ land:
       - Peter Kelley
     - togo: 58.632401 km
       made: 30.894309 km
-  - - - '137'
-      - Yoko Isomoto
-    - togo: 67.393212 km
-      made: 22.133498 km
   - - - '140'
       - Bill Vickery
     - togo: 76.654398 km
@@ -7544,6 +7802,10 @@ land:
       - Patrick Pannese
     - togo: 24.806983 km
       made: 75.497305 km
+  - - - '145'
+      - Roger Irby
+    - togo: 27.440409 km
+      made: 72.863879 km
   - - - '144'
       - Tom Lanning
     - togo: 31.376932 km
@@ -7604,10 +7866,6 @@ land:
       - Cory Barnwell
     - togo: 87.312521 km
       made: 12.991767 km
-  - - - '145'
-      - Roger Irby
-    - togo: 102.693466 km
-      made: -2.389178 km
 - - - - '113'
       - Olav Opsanger
     - togo: 1.370318 km
