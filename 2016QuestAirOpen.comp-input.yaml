@@ -38,31 +38,31 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 10000.0 m
-      give: 9950.0 m
+      give: null
       alt: 37.000 m
     - zoneName: T33DS
       lat: 28.25847
       lng: -81.825
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: SUZANE
       lat: 27.95703
       lng: -81.60162
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: AVONPK
       lat: 27.5919
       lng: -81.52687
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: ELLSWR
       lat: 27.20555
       lng: -81.77722
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     raceKind:
       prolog:
@@ -138,31 +138,31 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 5000.0 m
-      give: 4975.0 m
+      give: null
       alt: 37.000 m
     - zoneName: GROSS
       lat: 28.64555
       lng: -82.21898
       radius: 3000.0 m
-      give: 3015.0 m
+      give: null
       alt: 37.000 m
     - zoneName: TURN33
       lat: 28.71518
       lng: -81.8967
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: T47433
       lat: 28.3764
       lng: -81.8233
       radius: 3000.0 m
-      give: 3015.0 m
+      give: null
       alt: 37.000 m
     - zoneName: QUEST
       lat: 28.53303
       lng: -81.84667
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     raceKind:
       prolog:
@@ -238,31 +238,31 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 5000.0 m
-      give: 4975.0 m
+      give: null
       alt: 37.000 m
     - zoneName: KOKEE
       lat: 28.595
       lng: -82.1498
       radius: 5000.0 m
-      give: 5025.0 m
+      give: null
       alt: 37.000 m
     - zoneName: BARON
       lat: 28.80142
       lng: -81.93573
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: PANOLK
       lat: 28.77283
       lng: -82.13307
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: CHERYL
       lat: 28.67143
       lng: -82.08718
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     raceKind:
       prolog:
@@ -338,25 +338,25 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 5000.0 m
-      give: 4975.0 m
+      give: null
       alt: 37.000 m
     - zoneName: GROSS
       lat: 28.64555
       lng: -82.21898
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: TURN33
       lat: 28.71518
       lng: -81.8967
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: QUEST
       lat: 28.53303
       lng: -81.84667
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     raceKind:
       prolog:
@@ -425,25 +425,25 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 5000.0 m
-      give: 4975.0 m
+      give: null
       alt: 37.000 m
     - zoneName: TURN33
       lat: 28.71518
       lng: -81.8967
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: T33DS
       lat: 28.25847
       lng: -81.825
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: QUEST
       lat: 28.53303
       lng: -81.84667
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     raceKind:
       prolog:
@@ -512,19 +512,19 @@ tasks:
       lat: 28.53303
       lng: -81.84667
       radius: 5000.0 m
-      give: 4975.0 m
+      give: null
       alt: 37.000 m
     - zoneName: T33DS
       lat: 28.25847
       lng: -81.825
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: QUEST
       lat: 28.53303
       lng: -81.84667
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     raceKind:
       prolog:
@@ -586,25 +586,25 @@ tasks:
       lat: 28.64147
       lng: -81.88063
       radius: 15000.0 m
-      give: 14925.0 m
+      give: null
       alt: 30.000 m
     - zoneName: WALABY
       lat: 28.25298
       lng: -81.68552
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: T27544
       lat: 28.08083
       lng: -81.6497
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     - zoneName: WALABY
       lat: 28.25298
       lng: -81.68552
       radius: 400.0 m
-      give: 402.0 m
+      give: null
       alt: 37.000 m
     raceKind:
       prolog:
