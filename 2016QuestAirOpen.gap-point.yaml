@@ -4,7 +4,7 @@ validityWorking:
     ssBestTime: 3.462787 h
     gsBestTime: 3.467076 h
     nominalDistance: 60.0 km
-    bestDistance: 160.0 km
+    bestDistance: 160.047 km
   launch:
     nominalLaunch: 1
     flying: 43
@@ -15,14 +15,15 @@ validityWorking:
     area: 43.004661
     nominalGoal: 0.2
     nominalDistance: 60.0 km
-    minimumDistance: 5.0 km
-    bestDistance: 160.0 km
+    minimumDistance: 5.000 km
+    bestDistance: 160.047 km
+  stop: null
 - time:
     nominalTime: 2.000000 h
     ssBestTime: 3.383094 h
     gsBestTime: 3.385625 h
     nominalDistance: 60.0 km
-    bestDistance: 113.6 km
+    bestDistance: 113.620 km
   launch:
     nominalLaunch: 1
     flying: 43
@@ -33,14 +34,15 @@ validityWorking:
     area: 38.3619887
     nominalGoal: 0.2
     nominalDistance: 60.0 km
-    minimumDistance: 5.0 km
-    bestDistance: 113.6 km
+    minimumDistance: 5.000 km
+    bestDistance: 113.620 km
+  stop: null
 - time:
     nominalTime: 2.000000 h
     ssBestTime: 2.289273 h
     gsBestTime: 2.293116 h
     nominalDistance: 60.0 km
-    bestDistance: 82.5 km
+    bestDistance: 82.503 km
   launch:
     nominalLaunch: 1
     flying: 42
@@ -51,14 +53,15 @@ validityWorking:
     area: 35.2502697
     nominalGoal: 0.2
     nominalDistance: 60.0 km
-    minimumDistance: 5.0 km
-    bestDistance: 82.5 km
+    minimumDistance: 5.000 km
+    bestDistance: 82.503 km
+  stop: null
 - time:
     nominalTime: 2.000000 h
     ssBestTime: 3.056609 h
     gsBestTime: 3.065356 h
     nominalDistance: 60.0 km
-    bestDistance: 89.5 km
+    bestDistance: 89.527 km
   launch:
     nominalLaunch: 1
     flying: 41
@@ -69,14 +72,15 @@ validityWorking:
     area: 35.95267
     nominalGoal: 0.2
     nominalDistance: 60.0 km
-    minimumDistance: 5.0 km
-    bestDistance: 89.5 km
+    minimumDistance: 5.000 km
+    bestDistance: 89.527 km
+  stop: null
 - time:
     nominalTime: 2.000000 h
     ssBestTime: 2.433905 h
     gsBestTime: 2.438315 h
     nominalDistance: 60.0 km
-    bestDistance: 100.3 km
+    bestDistance: 100.304 km
   launch:
     nominalLaunch: 1
     flying: 41
@@ -87,14 +91,15 @@ validityWorking:
     area: 37.0304285
     nominalGoal: 0.2
     nominalDistance: 60.0 km
-    minimumDistance: 5.0 km
-    bestDistance: 100.3 km
+    minimumDistance: 5.000 km
+    bestDistance: 100.304 km
+  stop: null
 - time:
     nominalTime: 2.000000 h
     ssBestTime: 2.412724 h
     gsBestTime: 2.421848 h
     nominalDistance: 60.0 km
-    bestDistance: 59.6 km
+    bestDistance: 59.607 km
   launch:
     nominalLaunch: 1
     flying: 41
@@ -105,14 +110,15 @@ validityWorking:
     area: 33
     nominalGoal: 0.2
     nominalDistance: 60.0 km
-    minimumDistance: 5.0 km
-    bestDistance: 59.6 km
+    minimumDistance: 5.000 km
+    bestDistance: 59.607 km
+  stop: null
 - time:
     nominalTime: 2.000000 h
     ssBestTime: 1.541877 h
     gsBestTime: 1.612827 h
     nominalDistance: 60.0 km
-    bestDistance: 69.9 km
+    bestDistance: 69.861 km
   launch:
     nominalLaunch: 1
     flying: 40
@@ -123,37 +129,45 @@ validityWorking:
     area: 33.98609
     nominalGoal: 0.2
     nominalDistance: 60.0 km
-    minimumDistance: 5.0 km
-    bestDistance: 69.9 km
+    minimumDistance: 5.000 km
+    bestDistance: 69.861 km
+  stop: null
 validity:
 - time: 1
   launch: 1
   distance: 1
   task: 1
+  stop: null
 - time: 1
   launch: 1
   distance: 1
   task: 1
+  stop: null
 - time: 1
   launch: 1
   distance: 1
   task: 1
+  stop: null
 - time: 1
   launch: 1
   distance: 1
   task: 1
+  stop: null
 - time: 1
   launch: 1
   distance: 1
   task: 1
+  stop: null
 - time: 1
   launch: 1
   distance: 1
   task: 1
+  stop: null
 - time: 0.95259767
   launch: 1
   distance: 1
   task: 0.95259767
+  stop: null
 allocation:
 - goalRatio: 0.41860465
   weight:
