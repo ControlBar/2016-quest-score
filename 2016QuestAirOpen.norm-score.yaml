@@ -299,7 +299,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:18:01Z
       timeElapsed: 3.466944 h
@@ -326,7 +326,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:29:22Z
       timeElapsed: 3.656111 h
@@ -353,7 +353,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:32:19Z
       timeElapsed: 3.705278 h
@@ -380,7 +380,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:32:26Z
       timeElapsed: 3.707222 h
@@ -407,7 +407,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:31:59Z
       timeElapsed: 3.699722 h
@@ -434,7 +434,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:32:42Z
       timeElapsed: 3.711667 h
@@ -461,7 +461,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:35:33Z
       timeElapsed: 3.759167 h
@@ -488,7 +488,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:36:54Z
       timeElapsed: 3.781667 h
@@ -515,7 +515,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:37:19Z
       timeElapsed: 3.788611 h
@@ -542,7 +542,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:37:39Z
       timeElapsed: 3.794167 h
@@ -569,7 +569,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:39:03Z
       timeElapsed: 3.817500 h
@@ -596,7 +596,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:40:12Z
       timeElapsed: 3.836667 h
@@ -623,7 +623,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:39:39Z
       timeElapsed: 3.827500 h
@@ -650,7 +650,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:46:54Z
       timeElapsed: 3.948333 h
@@ -677,7 +677,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:50:28Z
       timeElapsed: 4.007778 h
@@ -704,7 +704,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:53:04Z
       timeElapsed: 4.051111 h
@@ -731,7 +731,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:54:11Z
       timeElapsed: 4.069722 h
@@ -758,7 +758,7 @@ score:
       reach:
         extra: 160.045000 km
         flown: 160.045000 km
-      reachMade: 160.044000 km
+      landedMade: 160.044000 km
       ss: 2016-05-07T17:50:00Z
       es: 2016-05-07T21:56:08Z
       timeElapsed: 4.102222 h
@@ -785,7 +785,7 @@ score:
       reach:
         extra: 148.593000 km
         flown: 148.224000 km
-      reachMade: 148.224000 km
+      landedMade: 147.825000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -812,7 +812,7 @@ score:
       reach:
         extra: 134.512000 km
         flown: 133.504000 km
-      reachMade: 133.504000 km
+      landedMade: 133.286000 km
       ss: 2016-05-07T17:30:00Z
       es: null
       timeElapsed: null
@@ -839,7 +839,7 @@ score:
       reach:
         extra: 132.213000 km
         flown: 130.154000 km
-      reachMade: 130.154000 km
+      landedMade: 129.713000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -866,7 +866,7 @@ score:
       reach:
         extra: 141.177000 km
         flown: 138.960000 km
-      reachMade: 138.960000 km
+      landedMade: 137.480000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -893,7 +893,7 @@ score:
       reach:
         extra: 105.682000 km
         flown: 104.562000 km
-      reachMade: 104.562000 km
+      landedMade: 104.059000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -920,7 +920,7 @@ score:
       reach:
         extra: 100.007000 km
         flown: 98.772000 km
-      reachMade: 98.772000 km
+      landedMade: 98.131000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -947,7 +947,7 @@ score:
       reach:
         extra: 102.543000 km
         flown: 99.190000 km
-      reachMade: 99.190000 km
+      landedMade: 98.766000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -974,7 +974,7 @@ score:
       reach:
         extra: 98.238000 km
         flown: 95.954000 km
-      reachMade: 95.954000 km
+      landedMade: 95.475000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -1001,7 +1001,7 @@ score:
       reach:
         extra: 92.436000 km
         flown: 91.758000 km
-      reachMade: 91.758000 km
+      landedMade: 91.183000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -1028,7 +1028,7 @@ score:
       reach:
         extra: 84.405000 km
         flown: 83.377000 km
-      reachMade: 83.377000 km
+      landedMade: 82.948000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -1055,7 +1055,7 @@ score:
       reach:
         extra: 84.208000 km
         flown: 83.326000 km
-      reachMade: 83.326000 km
+      landedMade: 82.952000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -1082,7 +1082,7 @@ score:
       reach:
         extra: 83.998000 km
         flown: 83.151000 km
-      reachMade: 83.151000 km
+      landedMade: 82.929000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -1109,7 +1109,7 @@ score:
       reach:
         extra: 82.651000 km
         flown: 82.390000 km
-      reachMade: 82.390000 km
+      landedMade: 82.078000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -1136,7 +1136,7 @@ score:
       reach:
         extra: 79.423000 km
         flown: 79.188000 km
-      reachMade: 79.188000 km
+      landedMade: 79.031000 km
       ss: 2016-05-07T17:30:00Z
       es: null
       timeElapsed: null
@@ -1163,7 +1163,7 @@ score:
       reach:
         extra: 79.732000 km
         flown: 77.044000 km
-      reachMade: 77.044000 km
+      landedMade: 76.114000 km
       ss: 2016-05-07T17:30:00Z
       es: null
       timeElapsed: null
@@ -1190,7 +1190,7 @@ score:
       reach:
         extra: 79.556000 km
         flown: 76.862000 km
-      reachMade: 76.862000 km
+      landedMade: 76.345000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -1217,7 +1217,7 @@ score:
       reach:
         extra: 76.432000 km
         flown: 75.748000 km
-      reachMade: 75.748000 km
+      landedMade: 75.322000 km
       ss: 2016-05-07T17:30:00Z
       es: null
       timeElapsed: null
@@ -1244,7 +1244,7 @@ score:
       reach:
         extra: 74.520000 km
         flown: 72.338000 km
-      reachMade: 72.338000 km
+      landedMade: 71.233000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -1271,7 +1271,7 @@ score:
       reach:
         extra: 71.441000 km
         flown: 68.916000 km
-      reachMade: 68.916000 km
+      landedMade: 65.499000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -1298,7 +1298,7 @@ score:
       reach:
         extra: 54.973000 km
         flown: 52.967000 km
-      reachMade: 52.967000 km
+      landedMade: 52.131000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -1325,7 +1325,7 @@ score:
       reach:
         extra: 50.006000 km
         flown: 48.250000 km
-      reachMade: 48.250000 km
+      landedMade: 47.538000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -1352,7 +1352,7 @@ score:
       reach:
         extra: 48.282000 km
         flown: 47.762000 km
-      reachMade: 47.762000 km
+      landedMade: 47.353000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -1379,7 +1379,7 @@ score:
       reach:
         extra: 45.593000 km
         flown: 41.068000 km
-      reachMade: 41.068000 km
+      landedMade: 40.306000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -1406,7 +1406,7 @@ score:
       reach:
         extra: 34.074000 km
         flown: 33.273000 km
-      reachMade: 33.273000 km
+      landedMade: 32.813000 km
       ss: 2016-05-07T18:30:00Z
       es: null
       timeElapsed: null
@@ -1433,7 +1433,7 @@ score:
       reach:
         extra: 27.739000 km
         flown: 27.197000 km
-      reachMade: 27.197000 km
+      landedMade: 26.758000 km
       ss: 2016-05-07T17:50:00Z
       es: null
       timeElapsed: null
@@ -1460,7 +1460,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:50:00Z
       es: 2016-05-08T21:13:08Z
       timeElapsed: 3.385556 h
@@ -1487,7 +1487,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T21:22:08Z
       timeElapsed: 3.868889 h
@@ -1514,7 +1514,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T21:25:26Z
       timeElapsed: 3.923889 h
@@ -1541,7 +1541,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T21:27:26Z
       timeElapsed: 3.957222 h
@@ -1568,7 +1568,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T21:32:04Z
       timeElapsed: 4.034444 h
@@ -1595,7 +1595,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T21:32:50Z
       timeElapsed: 4.047222 h
@@ -1622,7 +1622,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T21:37:43Z
       timeElapsed: 4.128611 h
@@ -1649,7 +1649,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T21:39:31Z
       timeElapsed: 4.158611 h
@@ -1676,7 +1676,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T21:40:25Z
       timeElapsed: 4.173611 h
@@ -1703,7 +1703,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T21:40:58Z
       timeElapsed: 4.182778 h
@@ -1730,7 +1730,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T21:44:14Z
       timeElapsed: 4.237222 h
@@ -1757,7 +1757,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T21:45:34Z
       timeElapsed: 4.259444 h
@@ -1784,7 +1784,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T21:56:40Z
       timeElapsed: 4.444444 h
@@ -1811,7 +1811,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T22:04:45Z
       timeElapsed: 4.579167 h
@@ -1838,7 +1838,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T22:07:37Z
       timeElapsed: 4.626944 h
@@ -1865,7 +1865,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T22:10:55Z
       timeElapsed: 4.681944 h
@@ -1892,7 +1892,7 @@ score:
       reach:
         extra: 113.606000 km
         flown: 113.606000 km
-      reachMade: 113.605000 km
+      landedMade: 113.605000 km
       ss: 2016-05-08T17:30:00Z
       es: 2016-05-08T22:19:58Z
       timeElapsed: 4.832778 h
@@ -1919,7 +1919,7 @@ score:
       reach:
         extra: 98.261000 km
         flown: 97.700000 km
-      reachMade: 97.700000 km
+      landedMade: 97.700000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -1946,7 +1946,7 @@ score:
       reach:
         extra: 100.750000 km
         flown: 100.436000 km
-      reachMade: 100.436000 km
+      landedMade: 99.960000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -1973,7 +1973,7 @@ score:
       reach:
         extra: 99.173000 km
         flown: 98.500000 km
-      reachMade: 98.500000 km
+      landedMade: 98.478000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -2000,7 +2000,7 @@ score:
       reach:
         extra: 92.881000 km
         flown: 92.346000 km
-      reachMade: 92.346000 km
+      landedMade: 92.250000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -2027,7 +2027,7 @@ score:
       reach:
         extra: 98.690000 km
         flown: 98.710000 km
-      reachMade: 98.710000 km
+      landedMade: 98.642000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -2054,7 +2054,7 @@ score:
       reach:
         extra: 98.854000 km
         flown: 98.623000 km
-      reachMade: 98.623000 km
+      landedMade: 98.544000 km
       ss: 2016-05-08T17:50:00Z
       es: null
       timeElapsed: null
@@ -2081,7 +2081,7 @@ score:
       reach:
         extra: 95.981000 km
         flown: 94.071000 km
-      reachMade: 94.071000 km
+      landedMade: 84.646000 km
       ss: 2016-05-08T17:50:00Z
       es: null
       timeElapsed: null
@@ -2108,7 +2108,7 @@ score:
       reach:
         extra: 86.625000 km
         flown: 85.515000 km
-      reachMade: 85.515000 km
+      landedMade: 84.613000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -2135,7 +2135,7 @@ score:
       reach:
         extra: 78.154000 km
         flown: 77.451000 km
-      reachMade: 77.451000 km
+      landedMade: 77.003000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -2162,7 +2162,7 @@ score:
       reach:
         extra: 79.476000 km
         flown: 78.915000 km
-      reachMade: 78.915000 km
+      landedMade: 78.787000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -2189,7 +2189,7 @@ score:
       reach:
         extra: 79.173000 km
         flown: 77.289000 km
-      reachMade: 77.289000 km
+      landedMade: 77.053000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -2216,7 +2216,7 @@ score:
       reach:
         extra: 78.065000 km
         flown: 76.258000 km
-      reachMade: 76.258000 km
+      landedMade: 76.258000 km
       ss: 2016-05-08T17:50:00Z
       es: null
       timeElapsed: null
@@ -2243,7 +2243,7 @@ score:
       reach:
         extra: 72.340000 km
         flown: 71.778000 km
-      reachMade: 71.778000 km
+      landedMade: 71.777000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -2270,7 +2270,7 @@ score:
       reach:
         extra: 77.201000 km
         flown: 75.886000 km
-      reachMade: 75.886000 km
+      landedMade: 75.886000 km
       ss: 2016-05-08T17:50:00Z
       es: null
       timeElapsed: null
@@ -2297,7 +2297,7 @@ score:
       reach:
         extra: 73.925000 km
         flown: 71.593000 km
-      reachMade: 71.593000 km
+      landedMade: 71.527000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -2324,7 +2324,7 @@ score:
       reach:
         extra: 58.746000 km
         flown: 57.791000 km
-      reachMade: 57.791000 km
+      landedMade: 57.418000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -2351,7 +2351,7 @@ score:
       reach:
         extra: 55.112000 km
         flown: 54.573000 km
-      reachMade: 54.573000 km
+      landedMade: 54.299000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -2378,7 +2378,7 @@ score:
       reach:
         extra: 54.961000 km
         flown: 53.973000 km
-      reachMade: 53.973000 km
+      landedMade: 53.546000 km
       ss: 2016-05-08T17:50:00Z
       es: null
       timeElapsed: null
@@ -2405,7 +2405,7 @@ score:
       reach:
         extra: 55.766000 km
         flown: 52.770000 km
-      reachMade: 52.770000 km
+      landedMade: 51.736000 km
       ss: 2016-05-08T17:50:00Z
       es: null
       timeElapsed: null
@@ -2432,7 +2432,7 @@ score:
       reach:
         extra: 54.939000 km
         flown: 51.295000 km
-      reachMade: 51.295000 km
+      landedMade: 50.445000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -2459,7 +2459,7 @@ score:
       reach:
         extra: 53.212000 km
         flown: 49.907000 km
-      reachMade: 49.907000 km
+      landedMade: 49.763000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -2486,7 +2486,7 @@ score:
       reach:
         extra: 50.417000 km
         flown: 49.001000 km
-      reachMade: 49.001000 km
+      landedMade: 48.999000 km
       ss: 2016-05-08T17:50:00Z
       es: null
       timeElapsed: null
@@ -2513,7 +2513,7 @@ score:
       reach:
         extra: 40.253000 km
         flown: 38.120000 km
-      reachMade: 38.120000 km
+      landedMade: 37.843000 km
       ss: 2016-05-08T17:50:00Z
       es: null
       timeElapsed: null
@@ -2540,7 +2540,7 @@ score:
       reach:
         extra: 23.899000 km
         flown: 21.318000 km
-      reachMade: 21.318000 km
+      landedMade: 20.626000 km
       ss: 2016-05-08T17:30:00Z
       es: null
       timeElapsed: null
@@ -2567,7 +2567,7 @@ score:
       reach:
         extra: 21.950000 km
         flown: 20.686000 km
-      reachMade: 20.686000 km
+      landedMade: 20.309000 km
       ss: 2016-05-08T17:50:00Z
       es: null
       timeElapsed: null
@@ -2594,7 +2594,7 @@ score:
       reach:
         extra: 6.930000 km
         flown: 2.395000 km
-      reachMade: 5.000000 km
+      landedMade: 0.000000 km
       ss: null
       es: null
       timeElapsed: null
@@ -2621,7 +2621,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:50:00Z
       es: 2016-05-09T21:07:35Z
       timeElapsed: 2.293056 h
@@ -2648,7 +2648,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:08:34Z
       timeElapsed: 2.642778 h
@@ -2675,7 +2675,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:08:58Z
       timeElapsed: 2.649444 h
@@ -2702,7 +2702,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:50:00Z
       es: 2016-05-09T21:18:08Z
       timeElapsed: 2.468889 h
@@ -2729,7 +2729,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:09:36Z
       timeElapsed: 2.660000 h
@@ -2756,7 +2756,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:12:01Z
       timeElapsed: 2.700278 h
@@ -2783,7 +2783,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:12:24Z
       timeElapsed: 2.706667 h
@@ -2810,7 +2810,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:10:43Z
       timeElapsed: 2.678611 h
@@ -2837,7 +2837,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T19:10:00Z
       es: 2016-05-09T21:36:13Z
       timeElapsed: 2.436944 h
@@ -2864,7 +2864,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:12:40Z
       timeElapsed: 2.711111 h
@@ -2891,7 +2891,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T19:10:00Z
       es: 2016-05-09T21:37:21Z
       timeElapsed: 2.455833 h
@@ -2918,7 +2918,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T19:10:00Z
       es: 2016-05-09T21:39:31Z
       timeElapsed: 2.491944 h
@@ -2945,7 +2945,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:19:25Z
       timeElapsed: 2.823611 h
@@ -2972,7 +2972,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:20:15Z
       timeElapsed: 2.837500 h
@@ -2999,7 +2999,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:23:51Z
       timeElapsed: 2.897500 h
@@ -3026,7 +3026,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:33:56Z
       timeElapsed: 3.065556 h
@@ -3053,7 +3053,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:41:58Z
       timeElapsed: 3.199444 h
@@ -3080,7 +3080,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:42:43Z
       timeElapsed: 3.211944 h
@@ -3107,7 +3107,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:42:28Z
       timeElapsed: 3.207778 h
@@ -3134,7 +3134,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:43:20Z
       timeElapsed: 3.222222 h
@@ -3161,7 +3161,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:43:42Z
       timeElapsed: 3.228333 h
@@ -3188,7 +3188,7 @@ score:
       reach:
         extra: 82.511000 km
         flown: 82.511000 km
-      reachMade: 82.510000 km
+      landedMade: 82.510000 km
       ss: 2016-05-09T18:30:00Z
       es: 2016-05-09T21:52:09Z
       timeElapsed: 3.369167 h
@@ -3215,7 +3215,7 @@ score:
       reach:
         extra: 81.942000 km
         flown: 81.896000 km
-      reachMade: 81.896000 km
+      landedMade: 81.895000 km
       ss: 2016-05-09T18:30:00Z
       es: null
       timeElapsed: null
@@ -3242,7 +3242,7 @@ score:
       reach:
         extra: 82.404000 km
         flown: 80.219000 km
-      reachMade: 80.219000 km
+      landedMade: 79.613000 km
       ss: 2016-05-09T18:30:00Z
       es: null
       timeElapsed: null
@@ -3269,7 +3269,7 @@ score:
       reach:
         extra: 79.865000 km
         flown: 79.518000 km
-      reachMade: 79.518000 km
+      landedMade: 79.517000 km
       ss: 2016-05-09T18:30:00Z
       es: null
       timeElapsed: null
@@ -3296,7 +3296,7 @@ score:
       reach:
         extra: 79.951000 km
         flown: 79.238000 km
-      reachMade: 79.238000 km
+      landedMade: 79.238000 km
       ss: 2016-05-09T18:30:00Z
       es: null
       timeElapsed: null
@@ -3323,7 +3323,7 @@ score:
       reach:
         extra: 78.449000 km
         flown: 78.232000 km
-      reachMade: 78.232000 km
+      landedMade: 78.170000 km
       ss: 2016-05-09T18:30:00Z
       es: null
       timeElapsed: null
@@ -3350,7 +3350,7 @@ score:
       reach:
         extra: 79.041000 km
         flown: 77.841000 km
-      reachMade: 77.841000 km
+      landedMade: 77.370000 km
       ss: 2016-05-09T18:30:00Z
       es: null
       timeElapsed: null
@@ -3377,7 +3377,7 @@ score:
       reach:
         extra: 76.422000 km
         flown: 76.103000 km
-      reachMade: 76.103000 km
+      landedMade: 76.101000 km
       ss: 2016-05-09T18:30:00Z
       es: null
       timeElapsed: null
@@ -3404,7 +3404,7 @@ score:
       reach:
         extra: 76.702000 km
         flown: 76.178000 km
-      reachMade: 76.178000 km
+      landedMade: 76.097000 km
       ss: 2016-05-09T18:50:00Z
       es: null
       timeElapsed: null
@@ -3431,7 +3431,7 @@ score:
       reach:
         extra: 71.395000 km
         flown: 70.582000 km
-      reachMade: 70.582000 km
+      landedMade: 70.127000 km
       ss: 2016-05-09T18:30:00Z
       es: null
       timeElapsed: null
@@ -3458,7 +3458,7 @@ score:
       reach:
         extra: 77.058000 km
         flown: 76.324000 km
-      reachMade: 76.324000 km
+      landedMade: 76.086000 km
       ss: 2016-05-09T18:27:07Z
       es: null
       timeElapsed: null
@@ -3485,7 +3485,7 @@ score:
       reach:
         extra: 73.112000 km
         flown: 72.667000 km
-      reachMade: 72.667000 km
+      landedMade: 72.666000 km
       ss: 2016-05-09T19:10:00Z
       es: null
       timeElapsed: null
@@ -3512,7 +3512,7 @@ score:
       reach:
         extra: 67.977000 km
         flown: 65.947000 km
-      reachMade: 65.947000 km
+      landedMade: 65.669000 km
       ss: 2016-05-09T18:30:00Z
       es: null
       timeElapsed: null
@@ -3539,7 +3539,7 @@ score:
       reach:
         extra: 69.073000 km
         flown: 68.133000 km
-      reachMade: 68.133000 km
+      landedMade: 67.531000 km
       ss: 2016-05-09T18:50:00Z
       es: null
       timeElapsed: null
@@ -3566,7 +3566,7 @@ score:
       reach:
         extra: 61.177000 km
         flown: 58.949000 km
-      reachMade: 58.949000 km
+      landedMade: 58.708000 km
       ss: 2016-05-09T18:30:00Z
       es: null
       timeElapsed: null
@@ -3593,7 +3593,7 @@ score:
       reach:
         extra: 54.560000 km
         flown: 52.677000 km
-      reachMade: 52.677000 km
+      landedMade: 52.306000 km
       ss: 2016-05-09T18:30:00Z
       es: null
       timeElapsed: null
@@ -3620,7 +3620,7 @@ score:
       reach:
         extra: 56.849000 km
         flown: 50.914000 km
-      reachMade: 50.914000 km
+      landedMade: 39.879000 km
       ss: 2016-05-09T18:30:00Z
       es: null
       timeElapsed: null
@@ -3647,7 +3647,7 @@ score:
       reach:
         extra: 53.574000 km
         flown: 52.259000 km
-      reachMade: 52.259000 km
+      landedMade: 50.911000 km
       ss: 2016-05-09T18:28:44Z
       es: null
       timeElapsed: null
@@ -3674,7 +3674,7 @@ score:
       reach:
         extra: 57.953000 km
         flown: 56.172000 km
-      reachMade: 56.172000 km
+      landedMade: 55.384000 km
       ss: 2016-05-09T18:50:00Z
       es: null
       timeElapsed: null
@@ -3701,7 +3701,7 @@ score:
       reach:
         extra: 36.837000 km
         flown: 36.052000 km
-      reachMade: 36.052000 km
+      landedMade: 35.795000 km
       ss: 2016-05-09T19:10:00Z
       es: null
       timeElapsed: null
@@ -3728,7 +3728,7 @@ score:
       reach:
         extra: 36.264000 km
         flown: 33.269000 km
-      reachMade: 33.269000 km
+      landedMade: 33.253000 km
       ss: 2016-05-09T18:30:00Z
       es: null
       timeElapsed: null
@@ -3755,7 +3755,7 @@ score:
       reach:
         extra: 89.525000 km
         flown: 89.525000 km
-      reachMade: 89.524000 km
+      landedMade: 89.524000 km
       ss: 2016-05-10T18:00:00Z
       es: 2016-05-10T21:03:55Z
       timeElapsed: 3.065278 h
@@ -3782,7 +3782,7 @@ score:
       reach:
         extra: 89.525000 km
         flown: 89.525000 km
-      reachMade: 89.524000 km
+      landedMade: 89.524000 km
       ss: 2016-05-10T18:00:00Z
       es: 2016-05-10T21:34:36Z
       timeElapsed: 3.576667 h
@@ -3809,7 +3809,7 @@ score:
       reach:
         extra: 89.525000 km
         flown: 89.525000 km
-      reachMade: 89.524000 km
+      landedMade: 89.524000 km
       ss: 2016-05-10T18:00:00Z
       es: 2016-05-10T21:35:04Z
       timeElapsed: 3.584444 h
@@ -3836,7 +3836,7 @@ score:
       reach:
         extra: 89.525000 km
         flown: 89.525000 km
-      reachMade: 89.524000 km
+      landedMade: 89.524000 km
       ss: 2016-05-10T18:00:00Z
       es: 2016-05-10T21:35:55Z
       timeElapsed: 3.598611 h
@@ -3863,7 +3863,7 @@ score:
       reach:
         extra: 89.525000 km
         flown: 89.525000 km
-      reachMade: 89.524000 km
+      landedMade: 89.524000 km
       ss: 2016-05-10T18:00:00Z
       es: 2016-05-10T21:35:59Z
       timeElapsed: 3.599722 h
@@ -3890,7 +3890,7 @@ score:
       reach:
         extra: 89.525000 km
         flown: 89.525000 km
-      reachMade: 89.524000 km
+      landedMade: 89.524000 km
       ss: 2016-05-10T18:00:00Z
       es: 2016-05-10T21:37:38Z
       timeElapsed: 3.627222 h
@@ -3917,7 +3917,7 @@ score:
       reach:
         extra: 89.525000 km
         flown: 89.525000 km
-      reachMade: 89.524000 km
+      landedMade: 89.524000 km
       ss: 2016-05-10T18:00:00Z
       es: 2016-05-10T21:45:40Z
       timeElapsed: 3.761111 h
@@ -3944,7 +3944,7 @@ score:
       reach:
         extra: 89.525000 km
         flown: 89.525000 km
-      reachMade: 89.524000 km
+      landedMade: 89.524000 km
       ss: 2016-05-10T18:00:00Z
       es: 2016-05-10T21:48:08Z
       timeElapsed: 3.802222 h
@@ -3971,7 +3971,7 @@ score:
       reach:
         extra: 89.525000 km
         flown: 89.525000 km
-      reachMade: 89.524000 km
+      landedMade: 89.524000 km
       ss: 2016-05-10T18:20:00Z
       es: 2016-05-10T21:50:02Z
       timeElapsed: 3.500556 h
@@ -3998,7 +3998,7 @@ score:
       reach:
         extra: 89.525000 km
         flown: 89.525000 km
-      reachMade: 89.524000 km
+      landedMade: 89.524000 km
       ss: 2016-05-10T18:00:00Z
       es: 2016-05-10T21:49:47Z
       timeElapsed: 3.829722 h
@@ -4025,7 +4025,7 @@ score:
       reach:
         extra: 89.525000 km
         flown: 89.525000 km
-      reachMade: 89.524000 km
+      landedMade: 89.524000 km
       ss: 2016-05-10T18:20:00Z
       es: 2016-05-10T21:59:11Z
       timeElapsed: 3.653056 h
@@ -4052,7 +4052,7 @@ score:
       reach:
         extra: 89.525000 km
         flown: 89.525000 km
-      reachMade: 89.524000 km
+      landedMade: 89.524000 km
       ss: 2016-05-10T18:00:00Z
       es: 2016-05-10T21:46:43Z
       timeElapsed: 3.778611 h
@@ -4079,7 +4079,7 @@ score:
       reach:
         extra: 89.525000 km
         flown: 89.525000 km
-      reachMade: 89.524000 km
+      landedMade: 89.524000 km
       ss: 2016-05-10T18:00:00Z
       es: 2016-05-10T21:53:08Z
       timeElapsed: 3.885556 h
@@ -4106,7 +4106,7 @@ score:
       reach:
         extra: 88.609000 km
         flown: 88.376000 km
-      reachMade: 88.376000 km
+      landedMade: 88.376000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4133,7 +4133,7 @@ score:
       reach:
         extra: 83.998000 km
         flown: 82.688000 km
-      reachMade: 82.688000 km
+      landedMade: 82.417000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4160,7 +4160,7 @@ score:
       reach:
         extra: 81.996000 km
         flown: 81.933000 km
-      reachMade: 81.933000 km
+      landedMade: 81.930000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4187,7 +4187,7 @@ score:
       reach:
         extra: 85.760000 km
         flown: 83.506000 km
-      reachMade: 83.506000 km
+      landedMade: 82.530000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4214,7 +4214,7 @@ score:
       reach:
         extra: 85.245000 km
         flown: 84.749000 km
-      reachMade: 84.749000 km
+      landedMade: 84.747000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4241,7 +4241,7 @@ score:
       reach:
         extra: 84.148000 km
         flown: 83.483000 km
-      reachMade: 83.483000 km
+      landedMade: 83.443000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4268,7 +4268,7 @@ score:
       reach:
         extra: 80.131000 km
         flown: 79.748000 km
-      reachMade: 79.748000 km
+      landedMade: 79.729000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4295,7 +4295,7 @@ score:
       reach:
         extra: 78.176000 km
         flown: 77.579000 km
-      reachMade: 77.579000 km
+      landedMade: 77.504000 km
       ss: 2016-05-10T18:20:00Z
       es: null
       timeElapsed: null
@@ -4322,7 +4322,7 @@ score:
       reach:
         extra: 69.955000 km
         flown: 69.285000 km
-      reachMade: 69.285000 km
+      landedMade: 69.134000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4349,7 +4349,7 @@ score:
       reach:
         extra: 76.156000 km
         flown: 76.079000 km
-      reachMade: 76.079000 km
+      landedMade: 76.028000 km
       ss: 2016-05-10T18:20:00Z
       es: null
       timeElapsed: null
@@ -4376,7 +4376,7 @@ score:
       reach:
         extra: 72.085000 km
         flown: 70.712000 km
-      reachMade: 70.712000 km
+      landedMade: 70.712000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4403,7 +4403,7 @@ score:
       reach:
         extra: 67.343000 km
         flown: 66.511000 km
-      reachMade: 66.511000 km
+      landedMade: 66.511000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4430,7 +4430,7 @@ score:
       reach:
         extra: 70.310000 km
         flown: 69.899000 km
-      reachMade: 69.899000 km
+      landedMade: 69.537000 km
       ss: 2016-05-10T18:20:00Z
       es: null
       timeElapsed: null
@@ -4457,7 +4457,7 @@ score:
       reach:
         extra: 66.214000 km
         flown: 65.502000 km
-      reachMade: 65.502000 km
+      landedMade: 64.946000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4484,7 +4484,7 @@ score:
       reach:
         extra: 67.591000 km
         flown: 66.786000 km
-      reachMade: 66.786000 km
+      landedMade: 66.786000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4511,7 +4511,7 @@ score:
       reach:
         extra: 63.112000 km
         flown: 62.250000 km
-      reachMade: 62.250000 km
+      landedMade: 61.625000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4538,7 +4538,7 @@ score:
       reach:
         extra: 66.471000 km
         flown: 64.954000 km
-      reachMade: 64.954000 km
+      landedMade: 64.908000 km
       ss: 2016-05-10T18:20:00Z
       es: null
       timeElapsed: null
@@ -4565,7 +4565,7 @@ score:
       reach:
         extra: 62.157000 km
         flown: 61.956000 km
-      reachMade: 61.956000 km
+      landedMade: 61.952000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4592,7 +4592,7 @@ score:
       reach:
         extra: 59.889000 km
         flown: 58.442000 km
-      reachMade: 58.442000 km
+      landedMade: 58.184000 km
       ss: 2016-05-10T18:20:00Z
       es: null
       timeElapsed: null
@@ -4619,7 +4619,7 @@ score:
       reach:
         extra: 57.587000 km
         flown: 55.380000 km
-      reachMade: 55.380000 km
+      landedMade: 54.680000 km
       ss: 2016-05-10T18:20:00Z
       es: null
       timeElapsed: null
@@ -4646,7 +4646,7 @@ score:
       reach:
         extra: 52.546000 km
         flown: 50.096000 km
-      reachMade: 50.096000 km
+      landedMade: 49.104000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4673,7 +4673,7 @@ score:
       reach:
         extra: 55.099000 km
         flown: 51.674000 km
-      reachMade: 51.674000 km
+      landedMade: 50.102000 km
       ss: 2016-05-10T18:20:00Z
       es: null
       timeElapsed: null
@@ -4700,7 +4700,7 @@ score:
       reach:
         extra: 45.062000 km
         flown: 42.948000 km
-      reachMade: 42.948000 km
+      landedMade: 42.303000 km
       ss: 2016-05-10T18:20:00Z
       es: null
       timeElapsed: null
@@ -4727,7 +4727,7 @@ score:
       reach:
         extra: 43.798000 km
         flown: 42.777000 km
-      reachMade: 42.777000 km
+      landedMade: 42.777000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4754,7 +4754,7 @@ score:
       reach:
         extra: 40.522000 km
         flown: 39.166000 km
-      reachMade: 39.166000 km
+      landedMade: 38.905000 km
       ss: 2016-05-10T18:20:00Z
       es: null
       timeElapsed: null
@@ -4781,7 +4781,7 @@ score:
       reach:
         extra: 33.274000 km
         flown: 31.181000 km
-      reachMade: 31.181000 km
+      landedMade: 30.888000 km
       ss: 2016-05-10T18:20:00Z
       es: null
       timeElapsed: null
@@ -4808,7 +4808,7 @@ score:
       reach:
         extra: 24.607000 km
         flown: 21.851000 km
-      reachMade: 21.851000 km
+      landedMade: 20.944000 km
       ss: 2016-05-10T18:20:00Z
       es: null
       timeElapsed: null
@@ -4835,7 +4835,7 @@ score:
       reach:
         extra: 15.226000 km
         flown: 13.144000 km
-      reachMade: 13.144000 km
+      landedMade: 12.862000 km
       ss: 2016-05-10T18:00:00Z
       es: null
       timeElapsed: null
@@ -4862,7 +4862,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:40:00Z
       es: 2016-05-11T21:06:17Z
       timeElapsed: 2.438056 h
@@ -4889,7 +4889,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:40:00Z
       es: 2016-05-11T21:16:52Z
       timeElapsed: 2.614444 h
@@ -4916,7 +4916,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:40:00Z
       es: 2016-05-11T21:20:11Z
       timeElapsed: 2.669722 h
@@ -4943,7 +4943,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:40:00Z
       es: 2016-05-11T21:46:16Z
       timeElapsed: 3.104444 h
@@ -4970,7 +4970,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:40:00Z
       es: 2016-05-11T21:45:09Z
       timeElapsed: 3.085833 h
@@ -4997,7 +4997,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:40:00Z
       es: 2016-05-11T21:47:21Z
       timeElapsed: 3.122500 h
@@ -5024,7 +5024,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:40:00Z
       es: 2016-05-11T22:01:24Z
       timeElapsed: 3.356667 h
@@ -5051,7 +5051,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:40:00Z
       es: 2016-05-11T22:05:54Z
       timeElapsed: 3.431667 h
@@ -5078,7 +5078,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:20:00Z
       es: 2016-05-11T21:55:09Z
       timeElapsed: 3.585833 h
@@ -5105,7 +5105,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:20:00Z
       es: 2016-05-11T21:56:30Z
       timeElapsed: 3.608333 h
@@ -5132,7 +5132,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:20:00Z
       es: 2016-05-11T21:58:52Z
       timeElapsed: 3.647778 h
@@ -5159,7 +5159,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:40:00Z
       es: 2016-05-11T22:11:52Z
       timeElapsed: 3.531111 h
@@ -5186,7 +5186,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:20:00Z
       es: 2016-05-11T21:58:54Z
       timeElapsed: 3.648333 h
@@ -5213,7 +5213,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:20:00Z
       es: 2016-05-11T22:05:58Z
       timeElapsed: 3.766111 h
@@ -5240,7 +5240,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:20:00Z
       es: 2016-05-11T22:21:39Z
       timeElapsed: 4.027500 h
@@ -5267,7 +5267,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:20:00Z
       es: 2016-05-11T22:09:42Z
       timeElapsed: 3.828333 h
@@ -5294,7 +5294,7 @@ score:
       reach:
         extra: 100.296000 km
         flown: 100.296000 km
-      reachMade: 100.295000 km
+      landedMade: 100.295000 km
       ss: 2016-05-11T18:20:00Z
       es: 2016-05-11T22:21:08Z
       timeElapsed: 4.018889 h
@@ -5321,7 +5321,7 @@ score:
       reach:
         extra: 89.580000 km
         flown: 89.065000 km
-      reachMade: 89.065000 km
+      landedMade: 88.352000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5348,7 +5348,7 @@ score:
       reach:
         extra: 92.118000 km
         flown: 91.485000 km
-      reachMade: 91.485000 km
+      landedMade: 91.483000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5375,7 +5375,7 @@ score:
       reach:
         extra: 90.188000 km
         flown: 89.665000 km
-      reachMade: 89.665000 km
+      landedMade: 89.462000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5402,7 +5402,7 @@ score:
       reach:
         extra: 87.865000 km
         flown: 87.025000 km
-      reachMade: 87.025000 km
+      landedMade: 86.652000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5429,7 +5429,7 @@ score:
       reach:
         extra: 87.739000 km
         flown: 87.219000 km
-      reachMade: 87.219000 km
+      landedMade: 86.638000 km
       ss: 2016-05-11T18:40:00Z
       es: null
       timeElapsed: null
@@ -5456,7 +5456,7 @@ score:
       reach:
         extra: 84.447000 km
         flown: 82.900000 km
-      reachMade: 82.900000 km
+      landedMade: 82.900000 km
       ss: 2016-05-11T18:40:00Z
       es: null
       timeElapsed: null
@@ -5483,7 +5483,7 @@ score:
       reach:
         extra: 82.093000 km
         flown: 81.203000 km
-      reachMade: 81.203000 km
+      landedMade: 80.844000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5510,7 +5510,7 @@ score:
       reach:
         extra: 76.565000 km
         flown: 75.676000 km
-      reachMade: 75.676000 km
+      landedMade: 75.487000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5537,7 +5537,7 @@ score:
       reach:
         extra: 73.148000 km
         flown: 72.941000 km
-      reachMade: 72.941000 km
+      landedMade: 72.939000 km
       ss: 2016-05-11T18:40:00Z
       es: null
       timeElapsed: null
@@ -5564,7 +5564,7 @@ score:
       reach:
         extra: 68.595000 km
         flown: 67.645000 km
-      reachMade: 67.645000 km
+      landedMade: 67.493000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5591,7 +5591,7 @@ score:
       reach:
         extra: 69.473000 km
         flown: 69.040000 km
-      reachMade: 69.040000 km
+      landedMade: 68.920000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5618,7 +5618,7 @@ score:
       reach:
         extra: 70.751000 km
         flown: 67.428000 km
-      reachMade: 67.428000 km
+      landedMade: 67.428000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5645,7 +5645,7 @@ score:
       reach:
         extra: 64.844000 km
         flown: 63.597000 km
-      reachMade: 63.597000 km
+      landedMade: 62.553000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5672,7 +5672,7 @@ score:
       reach:
         extra: 65.223000 km
         flown: 63.710000 km
-      reachMade: 63.710000 km
+      landedMade: 63.407000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5699,7 +5699,7 @@ score:
       reach:
         extra: 65.601000 km
         flown: 64.823000 km
-      reachMade: 64.823000 km
+      landedMade: 64.823000 km
       ss: 2016-05-11T18:40:00Z
       es: null
       timeElapsed: null
@@ -5726,7 +5726,7 @@ score:
       reach:
         extra: 64.132000 km
         flown: 62.818000 km
-      reachMade: 62.818000 km
+      landedMade: 62.440000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5753,7 +5753,7 @@ score:
       reach:
         extra: 60.379000 km
         flown: 58.531000 km
-      reachMade: 58.531000 km
+      landedMade: 58.087000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5780,7 +5780,7 @@ score:
       reach:
         extra: 53.377000 km
         flown: 52.399000 km
-      reachMade: 52.399000 km
+      landedMade: 52.075000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5807,7 +5807,7 @@ score:
       reach:
         extra: 53.604000 km
         flown: 46.560000 km
-      reachMade: 46.560000 km
+      landedMade: 40.032000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5834,7 +5834,7 @@ score:
       reach:
         extra: 44.407000 km
         flown: 43.590000 km
-      reachMade: 43.590000 km
+      landedMade: 43.350000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5861,7 +5861,7 @@ score:
       reach:
         extra: 35.753000 km
         flown: 34.056000 km
-      reachMade: 34.056000 km
+      landedMade: 33.692000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5888,7 +5888,7 @@ score:
       reach:
         extra: 35.563000 km
         flown: 31.334000 km
-      reachMade: 31.334000 km
+      landedMade: 29.237000 km
       ss: 2016-05-11T18:20:00Z
       es: null
       timeElapsed: null
@@ -5915,7 +5915,7 @@ score:
       reach:
         extra: 14.024000 km
         flown: 13.309000 km
-      reachMade: 13.309000 km
+      landedMade: 12.981000 km
       ss: 2016-05-11T18:40:00Z
       es: null
       timeElapsed: null
@@ -5942,7 +5942,7 @@ score:
       reach:
         extra: 9.588000 km
         flown: 4.543000 km
-      reachMade: 5.000000 km
+      landedMade: 0.000000 km
       ss: null
       es: null
       timeElapsed: null
@@ -5969,7 +5969,7 @@ score:
       reach:
         extra: 59.601000 km
         flown: 59.601000 km
-      reachMade: 59.600000 km
+      landedMade: 59.600000 km
       ss: 2016-05-12T19:30:00Z
       es: 2016-05-12T21:55:18Z
       timeElapsed: 2.421667 h
@@ -5996,7 +5996,7 @@ score:
       reach:
         extra: 59.601000 km
         flown: 59.601000 km
-      reachMade: 59.600000 km
+      landedMade: 59.600000 km
       ss: 2016-05-12T19:30:00Z
       es: 2016-05-12T21:55:18Z
       timeElapsed: 2.421667 h
@@ -6023,7 +6023,7 @@ score:
       reach:
         extra: 59.601000 km
         flown: 59.601000 km
-      reachMade: 59.600000 km
+      landedMade: 59.600000 km
       ss: 2016-05-12T19:30:00Z
       es: 2016-05-12T21:56:46Z
       timeElapsed: 2.446111 h
@@ -6050,7 +6050,7 @@ score:
       reach:
         extra: 59.601000 km
         flown: 59.601000 km
-      reachMade: 59.600000 km
+      landedMade: 59.600000 km
       ss: 2016-05-12T19:30:00Z
       es: 2016-05-12T21:57:46Z
       timeElapsed: 2.462778 h
@@ -6077,7 +6077,7 @@ score:
       reach:
         extra: 58.858000 km
         flown: 58.618000 km
-      reachMade: 58.618000 km
+      landedMade: 58.229000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6104,7 +6104,7 @@ score:
       reach:
         extra: 55.132000 km
         flown: 54.727000 km
-      reachMade: 54.727000 km
+      landedMade: 54.447000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6131,7 +6131,7 @@ score:
       reach:
         extra: 54.735000 km
         flown: 54.439000 km
-      reachMade: 54.439000 km
+      landedMade: 54.338000 km
       ss: 2016-05-12T19:29:53Z
       es: null
       timeElapsed: null
@@ -6158,7 +6158,7 @@ score:
       reach:
         extra: 53.503000 km
         flown: 52.898000 km
-      reachMade: 52.898000 km
+      landedMade: 52.526000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6185,7 +6185,7 @@ score:
       reach:
         extra: 52.993000 km
         flown: 52.738000 km
-      reachMade: 52.738000 km
+      landedMade: 52.386000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6212,7 +6212,7 @@ score:
       reach:
         extra: 53.747000 km
         flown: 53.032000 km
-      reachMade: 53.032000 km
+      landedMade: 52.505000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6239,7 +6239,7 @@ score:
       reach:
         extra: 50.835000 km
         flown: 50.635000 km
-      reachMade: 50.635000 km
+      landedMade: 50.398000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6266,7 +6266,7 @@ score:
       reach:
         extra: 51.988000 km
         flown: 51.024000 km
-      reachMade: 51.024000 km
+      landedMade: 50.894000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6293,7 +6293,7 @@ score:
       reach:
         extra: 49.403000 km
         flown: 49.093000 km
-      reachMade: 49.093000 km
+      landedMade: 48.771000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6320,7 +6320,7 @@ score:
       reach:
         extra: 48.608000 km
         flown: 48.422000 km
-      reachMade: 48.422000 km
+      landedMade: 48.078000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6347,7 +6347,7 @@ score:
       reach:
         extra: 47.828000 km
         flown: 47.459000 km
-      reachMade: 47.459000 km
+      landedMade: 47.192000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6374,7 +6374,7 @@ score:
       reach:
         extra: 47.316000 km
         flown: 46.539000 km
-      reachMade: 46.539000 km
+      landedMade: 45.909000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6401,7 +6401,7 @@ score:
       reach:
         extra: 45.743000 km
         flown: 44.763000 km
-      reachMade: 44.763000 km
+      landedMade: 44.182000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6428,7 +6428,7 @@ score:
       reach:
         extra: 45.483000 km
         flown: 44.538000 km
-      reachMade: 44.538000 km
+      landedMade: 44.166000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6455,7 +6455,7 @@ score:
       reach:
         extra: 45.481000 km
         flown: 43.269000 km
-      reachMade: 43.269000 km
+      landedMade: 42.160000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6482,7 +6482,7 @@ score:
       reach:
         extra: 44.310000 km
         flown: 42.952000 km
-      reachMade: 42.952000 km
+      landedMade: 42.196000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6509,7 +6509,7 @@ score:
       reach:
         extra: 43.234000 km
         flown: 42.349000 km
-      reachMade: 42.349000 km
+      landedMade: 42.047000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6536,7 +6536,7 @@ score:
       reach:
         extra: 43.317000 km
         flown: 42.612000 km
-      reachMade: 42.612000 km
+      landedMade: 42.030000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6563,7 +6563,7 @@ score:
       reach:
         extra: 44.798000 km
         flown: 42.800000 km
-      reachMade: 42.800000 km
+      landedMade: 42.209000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6590,7 +6590,7 @@ score:
       reach:
         extra: 44.419000 km
         flown: 42.585000 km
-      reachMade: 42.585000 km
+      landedMade: 42.158000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6617,7 +6617,7 @@ score:
       reach:
         extra: 43.098000 km
         flown: 42.532000 km
-      reachMade: 42.532000 km
+      landedMade: 42.213000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6644,7 +6644,7 @@ score:
       reach:
         extra: 43.136000 km
         flown: 42.341000 km
-      reachMade: 42.341000 km
+      landedMade: 42.001000 km
       ss: 2016-05-12T19:29:53Z
       es: null
       timeElapsed: null
@@ -6671,7 +6671,7 @@ score:
       reach:
         extra: 40.687000 km
         flown: 38.801000 km
-      reachMade: 38.801000 km
+      landedMade: 38.801000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6698,7 +6698,7 @@ score:
       reach:
         extra: 39.919000 km
         flown: 38.798000 km
-      reachMade: 38.798000 km
+      landedMade: 38.794000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6725,7 +6725,7 @@ score:
       reach:
         extra: 39.681000 km
         flown: 38.810000 km
-      reachMade: 38.810000 km
+      landedMade: 38.810000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6752,7 +6752,7 @@ score:
       reach:
         extra: 38.614000 km
         flown: 38.409000 km
-      reachMade: 38.409000 km
+      landedMade: 38.150000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6779,7 +6779,7 @@ score:
       reach:
         extra: 29.978000 km
         flown: 28.299000 km
-      reachMade: 28.299000 km
+      landedMade: 28.129000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6806,7 +6806,7 @@ score:
       reach:
         extra: 29.641000 km
         flown: 28.231000 km
-      reachMade: 28.231000 km
+      landedMade: 28.131000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6833,7 +6833,7 @@ score:
       reach:
         extra: 28.274000 km
         flown: 27.794000 km
-      reachMade: 27.794000 km
+      landedMade: 27.442000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6860,7 +6860,7 @@ score:
       reach:
         extra: 26.513000 km
         flown: 25.382000 km
-      reachMade: 25.382000 km
+      landedMade: 25.276000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6887,7 +6887,7 @@ score:
       reach:
         extra: 26.444000 km
         flown: 25.005000 km
-      reachMade: 25.005000 km
+      landedMade: 24.673000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6914,7 +6914,7 @@ score:
       reach:
         extra: 25.374000 km
         flown: 24.770000 km
-      reachMade: 24.770000 km
+      landedMade: 24.766000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6941,7 +6941,7 @@ score:
       reach:
         extra: 23.899000 km
         flown: 22.782000 km
-      reachMade: 22.782000 km
+      landedMade: 22.737000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6968,7 +6968,7 @@ score:
       reach:
         extra: 23.638000 km
         flown: 22.013000 km
-      reachMade: 22.013000 km
+      landedMade: 20.773000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -6995,7 +6995,7 @@ score:
       reach:
         extra: 22.299000 km
         flown: 21.006000 km
-      reachMade: 21.006000 km
+      landedMade: 20.810000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -7022,7 +7022,7 @@ score:
       reach:
         extra: 22.897000 km
         flown: 19.477000 km
-      reachMade: 19.477000 km
+      landedMade: 15.726000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -7049,7 +7049,7 @@ score:
       reach:
         extra: 16.398000 km
         flown: 15.696000 km
-      reachMade: 15.696000 km
+      landedMade: 15.571000 km
       ss: 2016-05-12T19:30:00Z
       es: null
       timeElapsed: null
@@ -7076,7 +7076,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:20:00Z
       es: 2016-05-13T19:56:46Z
       timeElapsed: 1.612778 h
@@ -7103,7 +7103,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:20:00Z
       es: 2016-05-13T20:01:47Z
       timeElapsed: 1.696389 h
@@ -7130,7 +7130,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T19:58:30Z
       timeElapsed: 1.975000 h
@@ -7157,7 +7157,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:20:00Z
       es: 2016-05-13T20:10:03Z
       timeElapsed: 1.834167 h
@@ -7184,7 +7184,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T20:02:24Z
       timeElapsed: 2.040000 h
@@ -7211,7 +7211,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T20:07:20Z
       timeElapsed: 2.122222 h
@@ -7238,7 +7238,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:20:00Z
       es: 2016-05-13T20:18:52Z
       timeElapsed: 1.981111 h
@@ -7265,7 +7265,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T20:09:22Z
       timeElapsed: 2.156111 h
@@ -7292,7 +7292,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T20:10:06Z
       timeElapsed: 2.168333 h
@@ -7319,7 +7319,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T20:20:39Z
       timeElapsed: 2.344167 h
@@ -7346,7 +7346,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T20:21:01Z
       timeElapsed: 2.350278 h
@@ -7373,7 +7373,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T20:23:37Z
       timeElapsed: 2.393611 h
@@ -7400,7 +7400,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T20:21:09Z
       timeElapsed: 2.352500 h
@@ -7427,7 +7427,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:20:00Z
       es: 2016-05-13T20:34:18Z
       timeElapsed: 2.238333 h
@@ -7454,7 +7454,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T20:29:26Z
       timeElapsed: 2.490556 h
@@ -7481,7 +7481,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:20:00Z
       es: 2016-05-13T20:40:44Z
       timeElapsed: 2.345556 h
@@ -7508,7 +7508,8 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: -179769313486231590772930519078902473361797697894230657273430081157732675805500963132708477322407536021120113879871393357658789768814416622492847430639474124377767893424865485276302219601246094119453082952085005768838150682342462881473913110540827237163350510684586298239947245938479716304835356329624224137216.000000
+        km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T20:19:21Z
       timeElapsed: 2.322500 h
@@ -7535,7 +7536,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T20:32:21Z
       timeElapsed: 2.539167 h
@@ -7562,7 +7563,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:20:00Z
       es: 2016-05-13T20:46:16Z
       timeElapsed: 2.437778 h
@@ -7589,7 +7590,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:20:00Z
       es: 2016-05-13T20:53:21Z
       timeElapsed: 2.555833 h
@@ -7616,7 +7617,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T20:45:35Z
       timeElapsed: 2.759722 h
@@ -7643,7 +7644,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:20:00Z
       es: 2016-05-13T20:59:27Z
       timeElapsed: 2.657500 h
@@ -7670,7 +7671,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T21:26:55Z
       timeElapsed: 3.448611 h
@@ -7697,7 +7698,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T20:58:17Z
       timeElapsed: 2.971389 h
@@ -7724,7 +7725,7 @@ score:
       reach:
         extra: 73.349000 km
         flown: 73.349000 km
-      reachMade: 73.348000 km
+      landedMade: 73.348000 km
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T21:10:28Z
       timeElapsed: 3.174444 h
@@ -7751,7 +7752,7 @@ score:
       reach:
         extra: 57.691000 km
         flown: 55.990000 km
-      reachMade: 55.990000 km
+      landedMade: 55.724000 km
       ss: 2016-05-13T18:00:00Z
       es: null
       timeElapsed: null
@@ -7778,7 +7779,7 @@ score:
       reach:
         extra: 57.832000 km
         flown: 55.429000 km
-      reachMade: 55.429000 km
+      landedMade: 53.618000 km
       ss: 2016-05-13T18:00:00Z
       es: null
       timeElapsed: null
@@ -7805,7 +7806,7 @@ score:
       reach:
         extra: 56.147000 km
         flown: 54.667000 km
-      reachMade: 54.667000 km
+      landedMade: 54.306000 km
       ss: 2016-05-13T18:00:00Z
       es: null
       timeElapsed: null
@@ -7832,7 +7833,7 @@ score:
       reach:
         extra: 46.975000 km
         flown: 44.675000 km
-      reachMade: 44.675000 km
+      landedMade: 44.142000 km
       ss: 2016-05-13T18:00:00Z
       es: null
       timeElapsed: null
@@ -7859,7 +7860,7 @@ score:
       reach:
         extra: 37.755000 km
         flown: 35.845000 km
-      reachMade: 35.845000 km
+      landedMade: 35.660000 km
       ss: 2016-05-13T18:40:00Z
       es: null
       timeElapsed: null
@@ -7886,7 +7887,7 @@ score:
       reach:
         extra: 38.720000 km
         flown: 35.868000 km
-      reachMade: 35.868000 km
+      landedMade: 35.658000 km
       ss: 2016-05-13T18:00:00Z
       es: null
       timeElapsed: null
@@ -7913,7 +7914,7 @@ score:
       reach:
         extra: 27.958000 km
         flown: 27.507000 km
-      reachMade: 27.507000 km
+      landedMade: 27.397000 km
       ss: 2016-05-13T18:00:00Z
       es: null
       timeElapsed: null
@@ -7940,7 +7941,7 @@ score:
       reach:
         extra: 20.632000 km
         flown: 17.782000 km
-      reachMade: 17.782000 km
+      landedMade: 17.244000 km
       ss: 2016-05-13T18:40:00Z
       es: null
       timeElapsed: null
@@ -7967,7 +7968,7 @@ score:
       reach:
         extra: 19.298000 km
         flown: 17.499000 km
-      reachMade: 17.499000 km
+      landedMade: 17.180000 km
       ss: 2016-05-13T18:00:00Z
       es: null
       timeElapsed: null
@@ -7994,7 +7995,7 @@ score:
       reach:
         extra: 13.442000 km
         flown: 10.495000 km
-      reachMade: 10.495000 km
+      landedMade: 10.101000 km
       ss: 2016-05-13T18:00:00Z
       es: null
       timeElapsed: null
@@ -8021,7 +8022,7 @@ score:
       reach:
         extra: 8.581000 km
         flown: 6.771000 km
-      reachMade: 6.771000 km
+      landedMade: 6.315000 km
       ss: 2016-05-13T18:20:00Z
       es: null
       timeElapsed: null
@@ -8048,7 +8049,7 @@ score:
       reach:
         extra: 7.057000 km
         flown: 2.071000 km
-      reachMade: 5.000000 km
+      landedMade: 0.775000 km
       ss: null
       es: null
       timeElapsed: null
@@ -8075,7 +8076,7 @@ score:
       reach:
         extra: 6.635000 km
         flown: 2.671000 km
-      reachMade: 5.000000 km
+      landedMade: 0.678000 km
       ss: null
       es: null
       timeElapsed: null
@@ -8102,7 +8103,7 @@ score:
       reach:
         extra: 6.337000 km
         flown: 2.595000 km
-      reachMade: 5.000000 km
+      landedMade: 0.690000 km
       ss: null
       es: null
       timeElapsed: null
@@ -8129,7 +8130,7 @@ score:
       reach:
         extra: 6.541000 km
         flown: 2.312000 km
-      reachMade: 5.000000 km
+      landedMade: 0.675000 km
       ss: null
       es: null
       timeElapsed: null
