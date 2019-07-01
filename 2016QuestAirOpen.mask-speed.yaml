@@ -1,0 +1,1472 @@
+ssBestTime:
+- 3.462787 h
+- 3.383094 h
+- 2.289273 h
+- 3.056609 h
+- 2.433905 h
+- 2.412724 h
+- 1.541877 h
+gsBestTime:
+- 3.467076 h
+- 3.385625 h
+- 2.293116 h
+- 3.065356 h
+- 2.438315 h
+- 2.421848 h
+- 1.612827 h
+taskDistance:
+- 160.046610 km
+- 113.619887 km
+- 82.502697 km
+- 89.526700 km
+- 100.304285 km
+- 59.606660 km
+- 69.860900 km
+taskSpeedDistance:
+- 150.446610 km
+- 109.019887 km
+- 77.902697 km
+- 84.926700 km
+- 95.704285 km
+- 25.203449 km
+- 37.674442 km
+ssSpeed:
+- - - - '138'
+      - Jonny Durand
+    - time: 3.462787 h
+      frac: 1
+  - - - '121'
+      - Oleg Bondarchuk
+    - time: 3.643577 h
+      frac: 0.78866368
+  - - - '133'
+      - Olav Olsen
+    - time: 3.658342 h
+      frac: 0.77730818
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.688745 h
+      frac: 0.75478727
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.699625 h
+      frac: 0.74697741
+  - - - '115'
+      - Andrew Hollidge
+    - time: 3.700789 h
+      frac: 0.74614959
+  - - - '131'
+      - Robin Hamilton
+    - time: 3.704170 h
+      frac: 0.7437512
+  - - - '128'
+      - Zac Majors
+    - time: 3.755114 h
+      frac: 0.70885864
+  - - - '125'
+      - Larry Bunner
+    - time: 3.775192 h
+      frac: 0.69567546
+  - - - '107'
+      - Malcolm Brown
+    - time: 3.779349 h
+      frac: 0.69298206
+  - - - '132'
+      - James Stinnett
+    - time: 3.786365 h
+      frac: 0.6884626
+  - - - '142'
+      - John Simon
+    - time: 3.817096 h
+      frac: 0.66903699
+  - - - '119'
+      - Bart Weghorst
+    - time: 3.829291 h
+      frac: 0.66148584
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 3.942235 h
+      frac: 0.59509603
+  - - - '111'
+      - Patrick Kruse
+    - time: 4.003844 h
+      frac: 0.56111261
+  - - - '109'
+      - Michael Williams
+    - time: 4.039009 h
+      frac: 0.54229628
+  - - - '127'
+      - Gerry Pesavento
+    - time: 4.043122 h
+      frac: 0.54012092
+  - - - '114'
+      - Mick Howard
+    - time: 4.044980 h
+      frac: 0.53913945
+- - - - '128'
+      - Zac Majors
+    - time: 3.383094 h
+      frac: 1
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.843706 h
+      frac: 0.60269943
+  - - - '125'
+      - Larry Bunner
+    - time: 3.882524 h
+      frac: 0.58068024
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.937706 h
+      frac: 0.55033548
+  - - - '121'
+      - Oleg Bondarchuk
+    - time: 4.012811 h
+      frac: 0.51060528
+  - - - '138'
+      - Jonny Durand
+    - time: 4.041182 h
+      frac: 0.49601443
+  - - - '111'
+      - Patrick Kruse
+    - time: 4.085965 h
+      frac: 0.47340218
+  - - - '132'
+      - James Stinnett
+    - time: 4.120007 h
+      frac: 0.45653317
+  - - - '131'
+      - Robin Hamilton
+    - time: 4.154708 h
+      frac: 0.43960322
+  - - - '142'
+      - John Simon
+    - time: 4.169027 h
+      frac: 0.43269174
+  - - - '119'
+      - Bart Weghorst
+    - time: 4.218708 h
+      frac: 0.40902925
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 4.251325 h
+      frac: 0.39374928
+  - - - '123'
+      - JD Guillemette
+    - time: 4.428541 h
+      frac: 0.31383259
+  - - - '127'
+      - Gerry Pesavento
+    - time: 4.541532 h
+      frac: 0.26524253
+  - - - '143'
+      - Anna Eppink
+    - time: 4.610134 h
+      frac: 0.23651356
+  - - - '120'
+      - Mike Glennon
+    - time: 4.660830 h
+      frac: 0.21562662
+  - - - '144'
+      - Tom Lanning
+    - time: 4.804695 h
+      frac: 0.15780262
+- - - - '138'
+      - Jonny Durand
+    - time: 2.289273 h
+      frac: 1
+  - - - '128'
+      - Zac Majors
+    - time: 2.435289 h
+      frac: 0.78960524
+  - - - '125'
+      - Larry Bunner
+    - time: 2.448633 h
+      frac: 0.7769747
+  - - - '142'
+      - John Simon
+    - time: 2.455870 h
+      frac: 0.770273
+  - - - '113'
+      - Olav Opsanger
+    - time: 2.475004 h
+      frac: 0.75300368
+  - - - '131'
+      - Robin Hamilton
+    - time: 2.594063 h
+      frac: 0.65636176
+  - - - '115'
+      - Andrew Hollidge
+    - time: 2.609110 h
+      frac: 0.64514322
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 2.647161 h
+      frac: 0.61752841
+  - - - '108'
+      - Raul Guerra
+    - time: 2.667000 h
+      frac: 0.60352152
+  - - - '127'
+      - Gerry Pesavento
+    - time: 2.685285 h
+      frac: 0.59082754
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 2.689397 h
+      frac: 0.58799987
+  - - - '132'
+      - James Stinnett
+    - time: 2.691888 h
+      frac: 0.58629184
+  - - - '104'
+      - Christian Pollet
+    - time: 2.773131 h
+      frac: 0.53235884
+  - - - '101'
+      - Davis Straub
+    - time: 2.803363 h
+      frac: 0.51307703
+  - - - '107'
+      - Malcolm Brown
+    - time: 2.884802 h
+      frac: 0.46292329
+  - - - '121'
+      - Oleg Bondarchuk
+    - time: 3.022819 h
+      frac: 0.38285691
+  - - - '135'
+      - Misael Rosalez
+    - time: 3.157345 h
+      frac: 0.30954085
+  - - - '102'
+      - Richard lovelace
+    - time: 3.191793 h
+      frac: 0.29139295
+  - - - '133'
+      - Olav Olsen
+    - time: 3.202518 h
+      frac: 0.28579021
+  - - - '144'
+      - Tom Lanning
+    - time: 3.208952 h
+      frac: 0.28243977
+  - - - '120'
+      - Mike Glennon
+    - time: 3.220274 h
+      frac: 0.27656239
+  - - - '137'
+      - Yoko Isomoto
+    - time: 3.317052 h
+      frac: 0.22725903
+- - - - '131'
+      - Robin Hamilton
+    - time: 3.056609 h
+      frac: 1
+  - - - '123'
+      - JD Guillemette
+    - time: 3.491102 h
+      frac: 0.60471712
+  - - - '138'
+      - Jonny Durand
+    - time: 3.571724 h
+      frac: 0.5572187
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.577395 h
+      frac: 0.55397463
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.587592 h
+      frac: 0.54817138
+  - - - '128'
+      - Zac Majors
+    - time: 3.593207 h
+      frac: 0.54499175
+  - - - '102'
+      - Richard lovelace
+    - time: 3.614717 h
+      frac: 0.53291236
+  - - - '150'
+      - Claudia Mejia
+    - time: 3.652181 h
+      frac: 0.51223635
+  - - - '117'
+      - Robert Dallas
+    - time: 3.723947 h
+      frac: 0.47380044
+  - - - '110'
+      - Cory Barnwell
+    - time: 3.752861 h
+      frac: 0.458709
+  - - - '115'
+      - Andrew Hollidge
+    - time: 3.784348 h
+      frac: 0.44251029
+  - - - '101'
+      - Davis Straub
+    - time: 3.817549 h
+      frac: 0.42568049
+  - - - '108'
+      - Raul Guerra
+    - time: 3.879567 h
+      frac: 0.39488457
+- - - - '128'
+      - Zac Majors
+    - time: 2.433905 h
+      frac: 1
+  - - - '138'
+      - Jonny Durand
+    - time: 2.609958 h
+      frac: 0.76647767
+  - - - '121'
+      - Oleg Bondarchuk
+    - time: 2.633017 h
+      frac: 0.74650837
+  - - - '102'
+      - Richard lovelace
+    - time: 3.054276 h
+      frac: 0.45924558
+  - - - '131'
+      - Robin Hamilton
+    - time: 3.098429 h
+      frac: 0.43388347
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.114717 h
+      frac: 0.42466982
+  - - - '132'
+      - James Stinnett
+    - time: 3.290060 h
+      frac: 0.32970315
+  - - - '142'
+      - John Simon
+    - time: 3.403504 h
+      frac: 0.27172793
+  - - - '127'
+      - Gerry Pesavento
+    - time: 3.409500 h
+      frac: 0.26872878
+  - - - '120'
+      - Mike Glennon
+    - time: 3.459022 h
+      frac: 0.24418667
+  - - - '104'
+      - Christian Pollet
+    - time: 3.489320 h
+      frac: 0.22936656
+  - - - '123'
+      - JD Guillemette
+    - time: 3.499531 h
+      frac: 0.22440442
+  - - - '108'
+      - Raul Guerra
+    - time: 3.508942 h
+      frac: 0.21984455
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.606381 h
+      frac: 0.17338828
+  - - - '112'
+      - Sergey Kataev
+    - time: 3.678189 h
+      frac: 0.13997344
+  - - - '150'
+      - Claudia Mejia
+    - time: 3.930946 h
+      frac: 2.713024e-2
+  - - - '135'
+      - Misael Rosalez
+    - time: 3.993092 h
+      frac: 3.8897e-4
+- - - - '131'
+      - Robin Hamilton
+    - time: 2.412724 h
+      frac: 1
+  - - - '104'
+      - Christian Pollet
+    - time: 2.414660 h
+      frac: 0.98841707
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 2.438990 h
+      frac: 0.93411756
+  - - - '132'
+      - James Stinnett
+    - time: 2.451896 h
+      frac: 0.91400241
+- - - - '138'
+      - Jonny Durand
+    - time: 1.541877 h
+      frac: 1
+  - - - '142'
+      - John Simon
+    - time: 1.619303 h
+      frac: 0.84275557
+  - - - '132'
+      - James Stinnett
+    - time: 1.797232 h
+      frac: 0.65159797
+  - - - '128'
+      - Zac Majors
+    - time: 1.906615 h
+      frac: 0.55811976
+  - - - '101'
+      - Davis Straub
+    - time: 1.968684 h
+      frac: 0.50931283
+  - - - '121'
+      - Oleg Bondarchuk
+    - time: 2.030954 h
+      frac: 0.46267747
+  - - - '131'
+      - Robin Hamilton
+    - time: 2.110315 h
+      frac: 0.40601895
+  - - - '104'
+      - Christian Pollet
+    - time: 2.116253 h
+      frac: 0.40189004
+  - - - '111'
+      - Patrick Kruse
+    - time: 2.154026 h
+      frac: 0.37594655
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 2.161147 h
+      frac: 0.37111615
+  - - - '120'
+      - Mike Glennon
+    - time: 2.301136 h
+      frac: 0.27959461
+  - - - '115'
+      - Andrew Hollidge
+    - time: 2.322500 h
+      frac: 0.26614346
+  - - - '102'
+      - Richard lovelace
+    - time: 2.329675 h
+      frac: 0.26165352
+  - - - '135'
+      - Misael Rosalez
+    - time: 2.342497 h
+      frac: 0.25366366
+  - - - '113'
+      - Olav Opsanger
+    - time: 2.361257 h
+      frac: 0.24204987
+  - - - '103'
+      - Matt Christensen
+    - time: 2.386147 h
+      frac: 0.22677769
+  - - - '123'
+      - JD Guillemette
+    - time: 2.477273 h
+      frac: 0.17209466
+  - - - '127'
+      - Gerry Pesavento
+    - time: 2.523527 h
+      frac: 0.14502245
+  - - - '114'
+      - Mick Howard
+    - time: 2.622615 h
+      frac: 8.84149e-2
+  - - - '150'
+      - Claudia Mejia
+    - time: 2.675973 h
+      frac: 5.865213e-2
+  - - - '119'
+      - Bart Weghorst
+    - time: 2.770003 h
+      frac: 7.31323e-3
+  - - - '117'
+      - Robert Dallas
+    - time: 3.122028 h
+      frac: 0
+  - - - '133'
+      - Olav Olsen
+    - time: 3.444049 h
+      frac: 0
+gsSpeed:
+- - - - '138'
+      - Jonny Durand
+    - time: 3.467076 h
+      frac: 1
+  - - - '121'
+      - Oleg Bondarchuk
+    - time: 3.656385 h
+      frac: 0.78216556
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.699962 h
+      frac: 0.7499039
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.705372 h
+      frac: 0.74604503
+  - - - '131'
+      - Robin Hamilton
+    - time: 3.707365 h
+      frac: 0.74463136
+  - - - '115'
+      - Andrew Hollidge
+    - time: 3.711913 h
+      frac: 0.74141935
+  - - - '128'
+      - Zac Majors
+    - time: 3.759207 h
+      frac: 0.70910868
+  - - - '125'
+      - Larry Bunner
+    - time: 3.781872 h
+      frac: 0.69425097
+  - - - '107'
+      - Malcolm Brown
+    - time: 3.788782 h
+      frac: 0.68979293
+  - - - '132'
+      - James Stinnett
+    - time: 3.794406 h
+      frac: 0.6861886
+  - - - '142'
+      - John Simon
+    - time: 3.817726 h
+      frac: 0.67145542
+  - - - '133'
+      - Olav Olsen
+    - time: 3.827562 h
+      frac: 0.66533978
+  - - - '119'
+      - Bart Weghorst
+    - time: 3.836729 h
+      frac: 0.65969012
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 3.948382 h
+      frac: 0.59421772
+  - - - '111'
+      - Patrick Kruse
+    - time: 4.007891 h
+      frac: 0.56142453
+  - - - '127'
+      - Gerry Pesavento
+    - time: 4.051284 h
+      frac: 0.53826776
+  - - - '114'
+      - Mick Howard
+    - time: 4.069894 h
+      frac: 0.52851315
+  - - - '109'
+      - Michael Williams
+    - time: 4.102456 h
+      frac: 0.51168372
+- - - - '128'
+      - Zac Majors
+    - time: 3.385625 h
+      frac: 1
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.868973 h
+      frac: 0.58983326
+  - - - '125'
+      - Larry Bunner
+    - time: 3.924173 h
+      frac: 0.55917128
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.957511 h
+      frac: 0.54116131
+  - - - '121'
+      - Oleg Bondarchuk
+    - time: 4.034525 h
+      frac: 0.50084099
+  - - - '138'
+      - Jonny Durand
+    - time: 4.047246 h
+      frac: 0.49433879
+  - - - '111'
+      - Patrick Kruse
+    - time: 4.128699 h
+      frac: 0.45364475
+  - - - '132'
+      - James Stinnett
+    - time: 4.158755 h
+      frac: 0.43900994
+  - - - '131'
+      - Robin Hamilton
+    - time: 4.173750 h
+      frac: 0.43177934
+  - - - '142'
+      - John Simon
+    - time: 4.182973 h
+      frac: 0.42735481
+  - - - '119'
+      - Bart Weghorst
+    - time: 4.237323 h
+      frac: 0.40161956
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 4.259631 h
+      frac: 0.39121599
+  - - - '123'
+      - JD Guillemette
+    - time: 4.444571 h
+      frac: 0.30811151
+  - - - '127'
+      - Gerry Pesavento
+    - time: 4.579275 h
+      frac: 0.25061523
+  - - - '143'
+      - Anna Eppink
+    - time: 4.626982 h
+      frac: 0.23077864
+  - - - '120'
+      - Mike Glennon
+    - time: 4.682222 h
+      frac: 0.20812417
+  - - - '144'
+      - Tom Lanning
+    - time: 4.832986 h
+      frac: 0.14787172
+- - - - '138'
+      - Jonny Durand
+    - time: 2.293116 h
+      frac: 1
+  - - - '128'
+      - Zac Majors
+    - time: 2.437068 h
+      frac: 0.79170969
+  - - - '125'
+      - Larry Bunner
+    - time: 2.455995 h
+      frac: 0.77382989
+  - - - '142'
+      - John Simon
+    - time: 2.468965 h
+      frac: 0.76197735
+  - - - '113'
+      - Olav Opsanger
+    - time: 2.492015 h
+      frac: 0.74160721
+  - - - '131'
+      - Robin Hamilton
+    - time: 2.642876 h
+      frac: 0.62355208
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 2.649583 h
+      frac: 0.61875472
+  - - - '115'
+      - Andrew Hollidge
+    - time: 2.660135 h
+      frac: 0.61126801
+  - - - '108'
+      - Raul Guerra
+    - time: 2.678871 h
+      frac: 0.59814866
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 2.700357 h
+      frac: 0.58336166
+  - - - '132'
+      - James Stinnett
+    - time: 2.706751 h
+      frac: 0.57901202
+  - - - '127'
+      - Gerry Pesavento
+    - time: 2.711362 h
+      frac: 0.57588937
+  - - - '101'
+      - Davis Straub
+    - time: 2.823755 h
+      frac: 0.50296043
+  - - - '104'
+      - Christian Pollet
+    - time: 2.837772 h
+      frac: 0.49424563
+  - - - '107'
+      - Malcolm Brown
+    - time: 2.897681 h
+      frac: 0.4578078
+  - - - '121'
+      - Oleg Bondarchuk
+    - time: 3.065796 h
+      frac: 0.36145566
+  - - - '102'
+      - Richard lovelace
+    - time: 3.199623 h
+      frac: 0.28970516
+  - - - '135'
+      - Misael Rosalez
+    - time: 3.208061 h
+      frac: 0.28530404
+  - - - '133'
+      - Olav Olsen
+    - time: 3.211970 h
+      frac: 0.2832696
+  - - - '144'
+      - Tom Lanning
+    - time: 3.222441 h
+      frac: 0.27783508
+  - - - '120'
+      - Mike Glennon
+    - time: 3.228572 h
+      frac: 0.27466216
+  - - - '137'
+      - Yoko Isomoto
+    - time: 3.369201 h
+      frac: 0.20367738
+- - - - '131'
+      - Robin Hamilton
+    - time: 3.065356 h
+      frac: 1
+  - - - '123'
+      - JD Guillemette
+    - time: 3.500659 h
+      frac: 0.60460208
+  - - - '138'
+      - Jonny Durand
+    - time: 3.576938 h
+      frac: 0.55966511
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.584584 h
+      frac: 0.55528869
+  - - - '128'
+      - Zac Majors
+    - time: 3.598714 h
+      frac: 0.54725644
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.599750 h
+      frac: 0.54667044
+  - - - '102'
+      - Richard lovelace
+    - time: 3.627456 h
+      frac: 0.53113377
+  - - - '150'
+      - Claudia Mejia
+    - time: 3.653158 h
+      frac: 0.51694809
+  - - - '110'
+      - Cory Barnwell
+    - time: 3.761244 h
+      frac: 0.45941272
+  - - - '117'
+      - Robert Dallas
+    - time: 3.778652 h
+      frac: 0.45043448
+  - - - '115'
+      - Andrew Hollidge
+    - time: 3.802511 h
+      frac: 0.43824689
+  - - - '101'
+      - Davis Straub
+    - time: 3.829868 h
+      frac: 0.42443316
+  - - - '108'
+      - Raul Guerra
+    - time: 3.885680 h
+      frac: 0.39675098
+- - - - '128'
+      - Zac Majors
+    - time: 2.438315 h
+      frac: 1
+  - - - '138'
+      - Jonny Durand
+    - time: 2.614525 h
+      frac: 0.76648013
+  - - - '121'
+      - Oleg Bondarchuk
+    - time: 2.670011 h
+      frac: 0.71972618
+  - - - '102'
+      - Richard lovelace
+    - time: 3.085865 h
+      frac: 0.44390096
+  - - - '131'
+      - Robin Hamilton
+    - time: 3.104604 h
+      frac: 0.43322331
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 3.122636 h
+      frac: 0.42304315
+  - - - '132'
+      - James Stinnett
+    - time: 3.356776 h
+      frac: 0.2979893
+  - - - '142'
+      - John Simon
+    - time: 3.431723 h
+      frac: 0.26030094
+  - - - '123'
+      - JD Guillemette
+    - time: 3.531166 h
+      frac: 0.21172553
+  - - - '108'
+      - Raul Guerra
+    - time: 3.586118 h
+      frac: 0.185518
+  - - - '120'
+      - Mike Glennon
+    - time: 3.608467 h
+      frac: 0.17497925
+  - - - '104'
+      - Christian Pollet
+    - time: 3.647799 h
+      frac: 0.15659375
+  - - - '127'
+      - Gerry Pesavento
+    - time: 3.648403 h
+      frac: 0.15631283
+  - - - '113'
+      - Olav Opsanger
+    - time: 3.766372 h
+      frac: 0.10233433
+  - - - '112'
+      - Sergey Kataev
+    - time: 3.828424 h
+      frac: 7.458607e-2
+  - - - '150'
+      - Claudia Mejia
+    - time: 4.018940 h
+      frac: 0
+  - - - '135'
+      - Misael Rosalez
+    - time: 4.027522 h
+      frac: 0
+- - - - '131'
+      - Robin Hamilton
+    - time: 2.421848 h
+      frac: 1
+  - - - '104'
+      - Christian Pollet
+    - time: 2.421934 h
+      frac: 0.99854442
+  - - - '139'
+      - Tullio Gervasoni
+    - time: 2.446164 h
+      frac: 0.93749923
+  - - - '132'
+      - James Stinnett
+    - time: 2.462898 h
+      frac: 0.91138752
+- - - - '138'
+      - Jonny Durand
+    - time: 1.612827 h
+      frac: 1
+  - - - '142'
+      - John Simon
+    - time: 1.696545 h
+      frac: 0.83681293
+  - - - '132'
+      - James Stinnett
+    - time: 1.834233 h
+      frac: 0.68792139
+  - - - '101'
+      - Davis Straub
+    - time: 1.975049 h
+      frac: 0.56670126
+  - - - '128'
+      - Zac Majors
+    - time: 1.981260 h
+      frac: 0.56176187
+  - - - '121'
+      - Oleg Bondarchuk
+    - time: 2.040177 h
+      frac: 0.51620654
+  - - - '104'
+      - Christian Pollet
+    - time: 2.122260 h
+      frac: 0.45608734
+  - - - '131'
+      - Robin Hamilton
+    - time: 2.156328 h
+      frac: 0.43210101
+  - - - '111'
+      - Patrick Kruse
+    - time: 2.168466 h
+      frac: 0.42367713
+  - - - '106'
+      - Fabiano Nahoum
+    - time: 2.238574 h
+      frac: 0.37616464
+  - - - '115'
+      - Andrew Hollidge
+    - time: 2.322500 h
+      frac: 0.32156267
+  - - - '120'
+      - Mike Glennon
+    - time: 2.344180 h
+      frac: 0.30781497
+  - - - '102'
+      - Richard lovelace
+    - time: 2.345812 h
+      frac: 0.30678551
+  - - - '135'
+      - Misael Rosalez
+    - time: 2.350483 h
+      frac: 0.30384333
+  - - - '103'
+      - Matt Christensen
+    - time: 2.393685 h
+      frac: 0.27692143
+  - - - '113'
+      - Olav Opsanger
+    - time: 2.437827 h
+      frac: 0.24992125
+  - - - '127'
+      - Gerry Pesavento
+    - time: 2.539177 h
+      frac: 0.1896841
+  - - - '123'
+      - JD Guillemette
+    - time: 2.556029 h
+      frac: 0.17988621
+  - - - '114'
+      - Mick Howard
+    - time: 2.657590 h
+      frac: 0.12202415
+  - - - '150'
+      - Claudia Mejia
+    - time: 2.759850 h
+      frac: 6.563008e-2
+  - - - '119'
+      - Bart Weghorst
+    - time: 2.971419 h
+      frac: 0
+  - - - '117'
+      - Robert Dallas
+    - time: 3.174718 h
+      frac: 0
+  - - - '133'
+      - Olav Olsen
+    - time: 3.448725 h
+      frac: 0
+altStopped:
+- - - - '143'
+      - Anna Eppink
+    - 3.000 m
+  - - - '140'
+      - Bill Vickery
+    - 19.000 m
+  - - - '104'
+      - Christian Pollet
+    - 42.000 m
+  - - - '150'
+      - Claudia Mejia
+    - 14.000 m
+  - - - '110'
+      - Cory Barnwell
+    - 21.000 m
+  - - - '101'
+      - Davis Straub
+    - 11.000 m
+  - - - '118'
+      - Ingo Heilmann
+    - 1614.000 m
+  - - - '123'
+      - JD Guillemette
+    - 41.000 m
+  - - - '126'
+      - Jeff Kannard
+    - 26.000 m
+  - - - '116'
+      - Jeffery Bohl
+    - 41.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - 30.000 m
+  - - - '103'
+      - Matt Christensen
+    - 42.000 m
+  - - - '120'
+      - Mike Glennon
+    - 25.000 m
+  - - - '129'
+      - Mike Jefferson
+    - 12.000 m
+  - - - '135'
+      - Misael Rosalez
+    - -3.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - 25.000 m
+  - - - '124'
+      - Patrick Pannese
+    - 19.000 m
+  - - - '146'
+      - Peter Kelley
+    - 12.000 m
+  - - - '108'
+      - Raul Guerra
+    - 28.000 m
+  - - - '102'
+      - Richard lovelace
+    - 29.000 m
+  - - - '117'
+      - Robert Dallas
+    - 30.000 m
+  - - - '112'
+      - Sergey Kataev
+    - 93.000 m
+  - - - '144'
+      - Tom Lanning
+    - 17.000 m
+  - - - '137'
+      - Yoko Isomoto
+    - 22.000 m
+- - - - '115'
+      - Andrew Hollidge
+    - 12.000 m
+  - - - '140'
+      - Bill Vickery
+    - -13.000 m
+  - - - '104'
+      - Christian Pollet
+    - -3.000 m
+  - - - '150'
+      - Claudia Mejia
+    - 62.000 m
+  - - - '110'
+      - Cory Barnwell
+    - -1.000 m
+  - - - '101'
+      - Davis Straub
+    - -2.000 m
+  - - - '118'
+      - Ingo Heilmann
+    - 577.000 m
+  - - - '126'
+      - Jeff Kannard
+    - -2.000 m
+  - - - '116'
+      - Jeffery Bohl
+    - 14.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - 8.000 m
+  - - - '107'
+      - Malcolm Brown
+    - 6.000 m
+  - - - '103'
+      - Matt Christensen
+    - 30.000 m
+  - - - '109'
+      - Michael Williams
+    - 4.000 m
+  - - - '114'
+      - Mick Howard
+    - -6.000 m
+  - - - '129'
+      - Mike Jefferson
+    - -17.000 m
+  - - - '135'
+      - Misael Rosalez
+    - 0.000 m
+  - - - '133'
+      - Olav Olsen
+    - 2.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - 1.000 m
+  - - - '124'
+      - Patrick Pannese
+    - 4.000 m
+  - - - '146'
+      - Peter Kelley
+    - 3.000 m
+  - - - '108'
+      - Raul Guerra
+    - 11.000 m
+  - - - '102'
+      - Richard lovelace
+    - 17.000 m
+  - - - '117'
+      - Robert Dallas
+    - 1.000 m
+  - - - '145'
+      - Roger Irby
+    - -7.000 m
+  - - - '112'
+      - Sergey Kataev
+    - 59.000 m
+  - - - '137'
+      - Yoko Isomoto
+    - 5.000 m
+- - - - '143'
+      - Anna Eppink
+    - -19.000 m
+  - - - '119'
+      - Bart Weghorst
+    - -27.000 m
+  - - - '140'
+      - Bill Vickery
+    - -32.000 m
+  - - - '110'
+      - Cory Barnwell
+    - -20.000 m
+  - - - '118'
+      - Ingo Heilmann
+    - -22.000 m
+  - - - '123'
+      - JD Guillemette
+    - -5.000 m
+  - - - '126'
+      - Jeff Kannard
+    - -24.000 m
+  - - - '116'
+      - Jeffery Bohl
+    - -7.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - -10.000 m
+  - - - '103'
+      - Matt Christensen
+    - 0.000 m
+  - - - '114'
+      - Mick Howard
+    - -11.000 m
+  - - - '129'
+      - Mike Jefferson
+    - -28.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - -19.000 m
+  - - - '111'
+      - Patrick Kruse
+    - -139.000 m
+  - - - '124'
+      - Patrick Pannese
+    - -15.000 m
+  - - - '146'
+      - Peter Kelley
+    - -8.000 m
+  - - - '117'
+      - Robert Dallas
+    - -19.000 m
+  - - - '145'
+      - Roger Irby
+    - -35.000 m
+  - - - '112'
+      - Sergey Kataev
+    - 38.000 m
+- - - - '143'
+      - Anna Eppink
+    - -50.000 m
+  - - - '119'
+      - Bart Weghorst
+    - -34.000 m
+  - - - '140'
+      - Bill Vickery
+    - -41.000 m
+  - - - '104'
+      - Christian Pollet
+    - -26.000 m
+  - - - '106'
+      - Fabiano Nahoum
+    - -19.000 m
+  - - - '127'
+      - Gerry Pesavento
+    - -16.000 m
+  - - - '118'
+      - Ingo Heilmann
+    - -23.000 m
+  - - - '132'
+      - James Stinnett
+    - -14.000 m
+  - - - '126'
+      - Jeff Kannard
+    - -24.000 m
+  - - - '116'
+      - Jeffery Bohl
+    - -8.000 m
+  - - - '142'
+      - John Simon
+    - -28.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - -19.000 m
+  - - - '125'
+      - Larry Bunner
+    - 6.000 m
+  - - - '103'
+      - Matt Christensen
+    - -12.000 m
+  - - - '114'
+      - Mick Howard
+    - -14.000 m
+  - - - '120'
+      - Mike Glennon
+    - 0.000 m
+  - - - '129'
+      - Mike Jefferson
+    - -5.000 m
+  - - - '135'
+      - Misael Rosalez
+    - -33.000 m
+  - - - '133'
+      - Olav Olsen
+    - -4.000 m
+  - - - '121'
+      - Oleg Bondarchuk
+    - 0.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - -24.000 m
+  - - - '111'
+      - Patrick Kruse
+    - -124.000 m
+  - - - '124'
+      - Patrick Pannese
+    - -21.000 m
+  - - - '146'
+      - Peter Kelley
+    - -30.000 m
+  - - - '145'
+      - Roger Irby
+    - -50.000 m
+  - - - '112'
+      - Sergey Kataev
+    - 126.000 m
+  - - - '144'
+      - Tom Lanning
+    - -15.000 m
+  - - - '137'
+      - Yoko Isomoto
+    - 0.000 m
+- - - - '115'
+      - Andrew Hollidge
+    - 0.000 m
+  - - - '143'
+      - Anna Eppink
+    - -15.000 m
+  - - - '119'
+      - Bart Weghorst
+    - -16.000 m
+  - - - '140'
+      - Bill Vickery
+    - -33.000 m
+  - - - '110'
+      - Cory Barnwell
+    - -24.000 m
+  - - - '101'
+      - Davis Straub
+    - -22.000 m
+  - - - '106'
+      - Fabiano Nahoum
+    - -14.000 m
+  - - - '118'
+      - Ingo Heilmann
+    - -26.000 m
+  - - - '126'
+      - Jeff Kannard
+    - -6.000 m
+  - - - '116'
+      - Jeffery Bohl
+    - 0.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - -4.000 m
+  - - - '125'
+      - Larry Bunner
+    - -1.000 m
+  - - - '103'
+      - Matt Christensen
+    - 6.000 m
+  - - - '109'
+      - Michael Williams
+    - -7.000 m
+  - - - '114'
+      - Mick Howard
+    - -6.000 m
+  - - - '129'
+      - Mike Jefferson
+    - -15.000 m
+  - - - '133'
+      - Olav Olsen
+    - -17.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - -13.000 m
+  - - - '111'
+      - Patrick Kruse
+    - -132.000 m
+  - - - '124'
+      - Patrick Pannese
+    - -6.000 m
+  - - - '146'
+      - Peter Kelley
+    - -7.000 m
+  - - - '117'
+      - Robert Dallas
+    - -19.000 m
+  - - - '145'
+      - Roger Irby
+    - 0.000 m
+  - - - '144'
+      - Tom Lanning
+    - -8.000 m
+- - - - '115'
+      - Andrew Hollidge
+    - 8.000 m
+  - - - '143'
+      - Anna Eppink
+    - -12.000 m
+  - - - '119'
+      - Bart Weghorst
+    - -4.000 m
+  - - - '140'
+      - Bill Vickery
+    - -14.000 m
+  - - - '150'
+      - Claudia Mejia
+    - 1.000 m
+  - - - '110'
+      - Cory Barnwell
+    - 6.000 m
+  - - - '101'
+      - Davis Straub
+    - -7.000 m
+  - - - '106'
+      - Fabiano Nahoum
+    - -5.000 m
+  - - - '127'
+      - Gerry Pesavento
+    - 4.000 m
+  - - - '118'
+      - Ingo Heilmann
+    - -4.000 m
+  - - - '123'
+      - JD Guillemette
+    - 19.000 m
+  - - - '126'
+      - Jeff Kannard
+    - 5.000 m
+  - - - '116'
+      - Jeffery Bohl
+    - 7.000 m
+  - - - '142'
+      - John Simon
+    - -1.000 m
+  - - - '138'
+      - Jonny Durand
+    - 9.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - -2.000 m
+  - - - '125'
+      - Larry Bunner
+    - 12.000 m
+  - - - '103'
+      - Matt Christensen
+    - 13.000 m
+  - - - '109'
+      - Michael Williams
+    - 4.000 m
+  - - - '114'
+      - Mick Howard
+    - 5.000 m
+  - - - '120'
+      - Mike Glennon
+    - 5.000 m
+  - - - '129'
+      - Mike Jefferson
+    - -6.000 m
+  - - - '135'
+      - Misael Rosalez
+    - -16.000 m
+  - - - '133'
+      - Olav Olsen
+    - 3.000 m
+  - - - '113'
+      - Olav Opsanger
+    - 6.000 m
+  - - - '121'
+      - Oleg Bondarchuk
+    - 0.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - -1.000 m
+  - - - '111'
+      - Patrick Kruse
+    - -120.000 m
+  - - - '124'
+      - Patrick Pannese
+    - 0.000 m
+  - - - '146'
+      - Peter Kelley
+    - 9.000 m
+  - - - '108'
+      - Raul Guerra
+    - 8.000 m
+  - - - '102'
+      - Richard lovelace
+    - 1.000 m
+  - - - '117'
+      - Robert Dallas
+    - -1.000 m
+  - - - '145'
+      - Roger Irby
+    - -11.000 m
+  - - - '112'
+      - Sergey Kataev
+    - 57.000 m
+  - - - '144'
+      - Tom Lanning
+    - -5.000 m
+  - - - '128'
+      - Zac Majors
+    - -20.000 m
+- - - - '143'
+      - Anna Eppink
+    - 19.000 m
+  - - - '140'
+      - Bill Vickery
+    - 3.000 m
+  - - - '110'
+      - Cory Barnwell
+    - 33.000 m
+  - - - '118'
+      - Ingo Heilmann
+    - 5.000 m
+  - - - '126'
+      - Jeff Kannard
+    - 14.000 m
+  - - - '116'
+      - Jeffery Bohl
+    - 18.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - 15.000 m
+  - - - '125'
+      - Larry Bunner
+    - 28.000 m
+  - - - '129'
+      - Mike Jefferson
+    - 25.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - 4.000 m
+  - - - '124'
+      - Patrick Pannese
+    - 25.000 m
+  - - - '146'
+      - Peter Kelley
+    - 40.000 m
+  - - - '108'
+      - Raul Guerra
+    - 29.000 m
+  - - - '145'
+      - Roger Irby
+    - 0.000 m
+  - - - '112'
+      - Sergey Kataev
+    - 68.000 m
+  - - - '144'
+      - Tom Lanning
+    - 22.000 m
+  - - - '139'
+      - Tullio Gervasoni
+    - 38.000 m

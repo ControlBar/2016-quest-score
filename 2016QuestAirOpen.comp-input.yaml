@@ -19,7 +19,7 @@ nominal:
   launch: 1
   goal: 0.2
   distance: 60.0 km
-  free: 5.0 km
+  free: 5.000 km
   time: 2.000000 h
 compTweak:
   arrivalWeightScaling: null
@@ -1598,9 +1598,14 @@ pilotGroups:
     - '115'
     - Andrew Hollidge
     awardedReach:
-      awardedMade: 73.349000 km
-      awardedTask: 73.348000 km
-      awardedFrac: 1.000013633636909
+      extra:
+        awardedMade: 73.349000 km
+        awardedTask: 73.348000 km
+        awardedFrac: 1.000013633636909
+      flown:
+        awardedMade: 73.349000 km
+        awardedTask: 73.348000 km
+        awardedFrac: 1.000013633636909
     awardedVelocity:
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T20:19:21Z

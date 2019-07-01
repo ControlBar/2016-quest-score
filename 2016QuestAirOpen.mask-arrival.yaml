@@ -1,0 +1,465 @@
+pilotsAtEss:
+- 18
+- 17
+- 22
+- 13
+- 17
+- 4
+- 23
+arrivalRank:
+- - - - '138'
+      - Jonny Durand
+    - rank: '1'
+      frac: 1
+  - - - '121'
+      - Oleg Bondarchuk
+    - rank: '2'
+      frac: 0.88415381
+  - - - '113'
+      - Olav Opsanger
+    - rank: '3'
+      frac: 0.78018107
+  - - - '139'
+      - Tullio Gervasoni
+    - rank: '4'
+      frac: 0.68743056
+  - - - '131'
+      - Robin Hamilton
+    - rank: '5'
+      frac: 0.60525103
+  - - - '115'
+      - Andrew Hollidge
+    - rank: '6'
+      frac: 0.53299126
+  - - - '128'
+      - Zac Majors
+    - rank: '7'
+      frac: 0.47
+  - - - '125'
+      - Larry Bunner
+    - rank: '8'
+      frac: 0.41562603
+  - - - '107'
+      - Malcolm Brown
+    - rank: '9'
+      frac: 0.36921811
+  - - - '132'
+      - James Stinnett
+    - rank: '10'
+      frac: 0.330125
+  - - - '142'
+      - John Simon
+    - rank: '11'
+      frac: 0.29769547
+  - - - '133'
+      - Olav Olsen
+    - rank: '12'
+      frac: 0.27127829
+  - - - '119'
+      - Bart Weghorst
+    - rank: '13'
+      frac: 0.25022222
+  - - - '106'
+      - Fabiano Nahoum
+    - rank: '14'
+      frac: 0.23387603
+  - - - '111'
+      - Patrick Kruse
+    - rank: '15'
+      frac: 0.22158848
+  - - - '127'
+      - Gerry Pesavento
+    - rank: '16'
+      frac: 0.21270833
+  - - - '114'
+      - Mick Howard
+    - rank: '17'
+      frac: 0.20658436
+  - - - '109'
+      - Michael Williams
+    - rank: '18'
+      frac: 0.20256533
+- - - - '128'
+      - Zac Majors
+    - rank: '1'
+      frac: 1
+  - - - '113'
+      - Olav Opsanger
+    - rank: '2'
+      frac: 0.87771545
+  - - - '125'
+      - Larry Bunner
+    - rank: '3'
+      frac: 0.76869937
+  - - - '139'
+      - Tullio Gervasoni
+    - rank: '4'
+      frac: 0.67217871
+  - - - '121'
+      - Oleg Bondarchuk
+    - rank: '5'
+      frac: 0.58738042
+  - - - '138'
+      - Jonny Durand
+    - rank: '6'
+      frac: 0.51353145
+  - - - '111'
+      - Patrick Kruse
+    - rank: '7'
+      frac: 0.44985874
+  - - - '132'
+      - James Stinnett
+    - rank: '8'
+      frac: 0.39558925
+  - - - '131'
+      - Robin Hamilton
+    - rank: '9'
+      frac: 0.34994993
+  - - - '142'
+      - John Simon
+    - rank: '10'
+      frac: 0.31216772
+  - - - '119'
+      - Bart Weghorst
+    - rank: '11'
+      frac: 0.28146957
+  - - - '106'
+      - Fabiano Nahoum
+    - rank: '12'
+      frac: 0.25708243
+  - - - '123'
+      - JD Guillemette
+    - rank: '13'
+      frac: 0.23823326
+  - - - '127'
+      - Gerry Pesavento
+    - rank: '14'
+      frac: 0.22414899
+  - - - '143'
+      - Anna Eppink
+    - rank: '15'
+      frac: 0.21405658
+  - - - '120'
+      - Mike Glennon
+    - rank: '16'
+      frac: 0.20718298
+  - - - '144'
+      - Tom Lanning
+    - rank: '17'
+      frac: 0.20275514
+- - - - '138'
+      - Jonny Durand
+    - rank: '1'
+      frac: 1
+  - - - '131'
+      - Robin Hamilton
+    - rank: '2'
+      frac: 0.90431452
+  - - - '106'
+      - Fabiano Nahoum
+    - rank: '3'
+      frac: 0.81665665
+  - - - '115'
+      - Andrew Hollidge
+    - rank: '4'
+      frac: 0.7366697
+  - - - '108'
+      - Raul Guerra
+    - rank: '5'
+      frac: 0.66399699
+  - - - '139'
+      - Tullio Gervasoni
+    - rank: '6'
+      frac: 0.59828184
+  - - - '132'
+      - James Stinnett
+    - rank: '7'
+      frac: 0.53916754
+  - - - '127'
+      - Gerry Pesavento
+    - rank: '8'
+      frac: 0.48629743
+  - - - '142'
+      - John Simon
+    - rank: '9'
+      frac: 0.4393148
+  - - - '101'
+      - Davis Straub
+    - rank: '10'
+      frac: 0.39786298
+  - - - '104'
+      - Christian Pollet
+    - rank: '11'
+      frac: 0.36158527
+  - - - '107'
+      - Malcolm Brown
+    - rank: '12'
+      frac: 0.330125
+  - - - '121'
+      - Oleg Bondarchuk
+    - rank: '13'
+      frac: 0.30312547
+  - - - '128'
+      - Zac Majors
+    - rank: '14'
+      frac: 0.28023
+  - - - '125'
+      - Larry Bunner
+    - rank: '15'
+      frac: 0.26108189
+  - - - '113'
+      - Olav Opsanger
+    - rank: '16'
+      frac: 0.24532447
+  - - - '102'
+      - Richard lovelace
+    - rank: '17'
+      frac: 0.23260105
+  - - - '135'
+      - Misael Rosalez
+    - rank: '18'
+      frac: 0.22255494
+  - - - '133'
+      - Olav Olsen
+    - rank: '19'
+      frac: 0.21482945
+  - - - '144'
+      - Tom Lanning
+    - rank: '20'
+      frac: 0.2090679
+  - - - '120'
+      - Mike Glennon
+    - rank: '21'
+      frac: 0.2049136
+  - - - '137'
+      - Yoko Isomoto
+    - rank: '22'
+      frac: 0.20200986
+- - - - '131'
+      - Robin Hamilton
+    - rank: '1'
+      frac: 1
+  - - - '138'
+      - Jonny Durand
+    - rank: '2'
+      frac: 0.84279472
+  - - - '139'
+      - Tullio Gervasoni
+    - rank: '3'
+      frac: 0.70787255
+  - - - '128'
+      - Zac Majors
+    - rank: '4'
+      frac: 0.59350478
+  - - - '113'
+      - Olav Opsanger
+    - rank: '5'
+      frac: 0.49796268
+  - - - '102'
+      - Richard lovelace
+    - rank: '6'
+      frac: 0.41951752
+  - - - '110'
+      - Cory Barnwell
+    - rank: '7'
+      frac: 0.3564406
+  - - - '117'
+      - Robert Dallas
+    - rank: '8'
+      frac: 0.30700319
+  - - - '115'
+      - Andrew Hollidge
+    - rank: '9'
+      frac: 0.26947656
+  - - - '101'
+      - Davis Straub
+    - rank: '10'
+      frac: 0.242132
+  - - - '123'
+      - JD Guillemette
+    - rank: '11'
+      frac: 0.22324078
+  - - - '108'
+      - Raul Guerra
+    - rank: '12'
+      frac: 0.21107419
+  - - - '150'
+      - Claudia Mejia
+    - rank: '13'
+      frac: 0.2039035
+- - - - '128'
+      - Zac Majors
+    - rank: '1'
+      frac: 1
+  - - - '138'
+      - Jonny Durand
+    - rank: '2'
+      frac: 0.87771545
+  - - - '121'
+      - Oleg Bondarchuk
+    - rank: '3'
+      frac: 0.76869937
+  - - - '102'
+      - Richard lovelace
+    - rank: '4'
+      frac: 0.67217871
+  - - - '131'
+      - Robin Hamilton
+    - rank: '5'
+      frac: 0.58738042
+  - - - '139'
+      - Tullio Gervasoni
+    - rank: '6'
+      frac: 0.51353145
+  - - - '108'
+      - Raul Guerra
+    - rank: '7'
+      frac: 0.44985874
+  - - - '120'
+      - Mike Glennon
+    - rank: '8'
+      frac: 0.39558925
+  - - - '104'
+      - Christian Pollet
+    - rank: '9'
+      frac: 0.34994993
+  - - - '127'
+      - Gerry Pesavento
+    - rank: '10'
+      frac: 0.31216772
+  - - - '132'
+      - James Stinnett
+    - rank: '11'
+      frac: 0.28146957
+  - - - '142'
+      - John Simon
+    - rank: '12'
+      frac: 0.25708243
+  - - - '113'
+      - Olav Opsanger
+    - rank: '13'
+      frac: 0.23823326
+  - - - '112'
+      - Sergey Kataev
+    - rank: '14'
+      frac: 0.22414899
+  - - - '123'
+      - JD Guillemette
+    - rank: '15'
+      frac: 0.21405658
+  - - - '150'
+      - Claudia Mejia
+    - rank: '16'
+      frac: 0.20718298
+  - - - '135'
+      - Misael Rosalez
+    - rank: '17'
+      frac: 0.20275514
+- - - - '131'
+      - Robin Hamilton
+    - rank: '1'
+      frac: 1
+  - - - '104'
+      - Christian Pollet
+    - rank: '2'
+      frac: 0.56792188
+  - - - '139'
+      - Tullio Gervasoni
+    - rank: '3'
+      frac: 0.330125
+  - - - '132'
+      - James Stinnett
+    - rank: '4'
+      frac: 0.22726562
+- - - - '138'
+      - Jonny Durand
+    - rank: '1'
+      frac: 1
+  - - - '101'
+      - Davis Straub
+    - rank: '2'
+      frac: 0.90830525
+  - - - '142'
+      - John Simon
+    - rank: '3'
+      frac: 0.82396943
+  - - - '121'
+      - Oleg Bondarchuk
+    - rank: '4'
+      frac: 0.74668036
+  - - - '104'
+      - Christian Pollet
+    - rank: '5'
+      frac: 0.67612591
+  - - - '131'
+      - Robin Hamilton
+    - rank: '6'
+      frac: 0.61199392
+  - - - '132'
+      - James Stinnett
+    - rank: '7'
+      frac: 0.55397222
+  - - - '111'
+      - Patrick Kruse
+    - rank: '8'
+      frac: 0.50174866
+  - - - '128'
+      - Zac Majors
+    - rank: '9'
+      frac: 0.4550111
+  - - - '115'
+      - Andrew Hollidge
+    - rank: '10'
+      frac: 0.41344736
+  - - - '120'
+      - Mike Glennon
+    - rank: '11'
+      frac: 0.37674529
+  - - - '135'
+      - Misael Rosalez
+    - rank: '12'
+      frac: 0.34459275
+  - - - '103'
+      - Matt Christensen
+    - rank: '13'
+      frac: 0.31667757
+  - - - '127'
+      - Gerry Pesavento
+    - rank: '14'
+      frac: 0.2926876
+  - - - '106'
+      - Fabiano Nahoum
+    - rank: '15'
+      frac: 0.27231068
+  - - - '102'
+      - Richard lovelace
+    - rank: '16'
+      frac: 0.25523465
+  - - - '150'
+      - Claudia Mejia
+    - rank: '17'
+      frac: 0.24114737
+  - - - '113'
+      - Olav Opsanger
+    - rank: '18'
+      frac: 0.22973666
+  - - - '123'
+      - JD Guillemette
+    - rank: '19'
+      frac: 0.22069039
+  - - - '119'
+      - Bart Weghorst
+    - rank: '20'
+      frac: 0.21369639
+  - - - '114'
+      - Mick Howard
+    - rank: '21'
+      frac: 0.20844251
+  - - - '117'
+      - Robert Dallas
+    - rank: '22'
+      frac: 0.20461659
+  - - - '133'
+      - Olav Olsen
+    - rank: '23'
+      frac: 0.20190647
