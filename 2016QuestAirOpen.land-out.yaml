@@ -7,6 +7,56 @@ bestDistance:
 - 100.304285 km
 - 59.606660 km
 - 69.860900 km
+chunking:
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1600
+  - 160.0 km
+  sumOf: 4800
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1136
+  - 113.6 km
+  sumOf: 3281
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 825
+  - 82.5 km
+  sumOf: 2342
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 895
+  - 89.5 km
+  sumOf: 2605
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 1003
+  - 100.3 km
+  sumOf: 2876
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 596
+  - 59.6 km
+  sumOf: 1750
+- startChunk:
+  - 0
+  - 0.0 km
+  endChunk:
+  - 698
+  - 69.8 km
+  sumOf: 1492
 landout:
 - 24
 - 26
@@ -23,16 +73,8 @@ lookahead:
 - 125
 - 48
 - 116
-sumOfDifficulty:
-- 100
-- 87
-- 80
-- 114
-- 87
-- 105
-- 29
 difficulty:
-- - chunk: 218
+- - chunk: 267
     startChunk: 26.7 km
     endChunk: 26.8 km
     endAhead: 46.8 km
@@ -43,9 +85,9 @@ difficulty:
     - - '144'
       - Tom Lanning
     downward: 3
-    rel: 1.5e-2
-    frac: 1.5e-2
-  - chunk: 279
+    rel: 3.125e-4
+    frac: 4.197917e-2
+  - chunk: 328
     startChunk: 32.8 km
     endChunk: 32.9 km
     endAhead: 52.9 km
@@ -56,9 +98,9 @@ difficulty:
     - - '129'
       - Mike Jefferson
     downward: 5
-    rel: 2.5e-2
-    frac: 4.0e-2
-  - chunk: 354
+    rel: 5.2083e-4
+    frac: 6.666667e-2
+  - chunk: 403
     startChunk: 40.3 km
     endChunk: 40.4 km
     endAhead: 60.4 km
@@ -69,9 +111,9 @@ difficulty:
     - - '126'
       - Jeff Kannard
     downward: 4
-    rel: 2.0e-2
-    frac: 6.0e-2
-  - chunk: 424
+    rel: 4.1667e-4
+    frac: 9.791667e-2
+  - chunk: 473
     startChunk: 47.3 km
     endChunk: 47.4 km
     endAhead: 67.4 km
@@ -82,9 +124,9 @@ difficulty:
     - - '101'
       - Davis Straub
     downward: 5
-    rel: 2.5e-2
-    frac: 8.5e-2
-  - chunk: 426
+    rel: 5.2083e-4
+    frac: 0.12625
+  - chunk: 475
     startChunk: 47.5 km
     endChunk: 47.6 km
     endAhead: 67.6 km
@@ -95,9 +137,9 @@ difficulty:
     - - '134'
       - Kinsley Sykes
     downward: 4
-    rel: 2.0e-2
-    frac: 0.105
-  - chunk: 472
+    rel: 4.1667e-4
+    frac: 0.12708333
+  - chunk: 521
     startChunk: 52.1 km
     endChunk: 52.2 km
     endAhead: 72.2 km
@@ -108,9 +150,9 @@ difficulty:
     - - '112'
       - Sergey Kataev
     downward: 4
-    rel: 2.0e-2
-    frac: 0.125
-  - chunk: 581
+    rel: 4.1667e-4
+    frac: 0.14239583
+  - chunk: 630
     startChunk: 63.0 km
     endChunk: 63.1 km
     endAhead: 83.1 km
@@ -120,10 +162,10 @@ difficulty:
     downers:
     - - '118'
       - Ingo Heilmann
-    downward: 8
-    rel: 4.0e-2
-    frac: 0.165
-  - chunk: 605
+    downward: 9
+    rel: 9.375e-4
+    frac: 0.19989583
+  - chunk: 654
     startChunk: 65.4 km
     endChunk: 65.5 km
     endAhead: 85.5 km
@@ -133,10 +175,10 @@ difficulty:
     downers:
     - - '137'
       - Yoko Isomoto
-    downward: 7
-    rel: 3.5e-2
-    frac: 0.2
-  - chunk: 663
+    downward: 8
+    rel: 8.3333e-4
+    frac: 0.21989583
+  - chunk: 712
     startChunk: 71.2 km
     endChunk: 71.3 km
     endAhead: 91.3 km
@@ -147,9 +189,9 @@ difficulty:
     - - '141'
       - Patrick Halfhill
     downward: 7
-    rel: 3.5e-2
-    frac: 0.235
-  - chunk: 704
+    rel: 7.2917e-4
+    frac: 0.2621875
+  - chunk: 753
     startChunk: 75.3 km
     endChunk: 75.4 km
     endAhead: 95.4 km
@@ -159,10 +201,10 @@ difficulty:
     downers:
     - - '103'
       - Matt Christensen
-    downward: 6
-    rel: 3.0e-2
-    frac: 0.265
-  - chunk: 712
+    downward: 7
+    rel: 7.2917e-4
+    frac: 0.29208333
+  - chunk: 761
     startChunk: 76.1 km
     endChunk: 76.2 km
     endAhead: 96.2 km
@@ -172,10 +214,10 @@ difficulty:
     downers:
     - - '108'
       - Raul Guerra
-    downward: 6
-    rel: 3.0e-2
-    frac: 0.295
-  - chunk: 714
+    downward: 7
+    rel: 7.2917e-4
+    frac: 0.2978125
+  - chunk: 763
     startChunk: 76.3 km
     endChunk: 76.4 km
     endAhead: 96.4 km
@@ -185,10 +227,10 @@ difficulty:
     downers:
     - - '124'
       - Patrick Pannese
-    downward: 5
-    rel: 2.5e-2
-    frac: 0.32
-  - chunk: 771
+    downward: 6
+    rel: 6.25e-4
+    frac: 0.2990625
+  - chunk: 820
     startChunk: 82.0 km
     endChunk: 82.1 km
     endAhead: 102.1 km
@@ -198,10 +240,10 @@ difficulty:
     downers:
     - - '102'
       - Richard lovelace
-    downward: 6
-    rel: 3.0e-2
-    frac: 0.35
-  - chunk: 780
+    downward: 7
+    rel: 7.2917e-4
+    frac: 0.33625
+  - chunk: 829
     startChunk: 82.9 km
     endChunk: 83.0 km
     endAhead: 103.0 km
@@ -214,10 +256,10 @@ difficulty:
       - JD Guillemette
     - - '104'
       - Christian Pollet
-    downward: 5
-    rel: 2.5e-2
-    frac: 0.375
-  - chunk: 863
+    downward: 6
+    rel: 6.25e-4
+    frac: 0.341875
+  - chunk: 912
     startChunk: 91.2 km
     endChunk: 91.3 km
     endAhead: 111.3 km
@@ -228,9 +270,9 @@ difficulty:
     - - '140'
       - Bill Vickery
     downward: 5
-    rel: 2.5e-2
-    frac: 0.4
-  - chunk: 905
+    rel: 5.2083e-4
+    frac: 0.38395833
+  - chunk: 954
     startChunk: 95.4 km
     endChunk: 95.5 km
     endAhead: 115.5 km
@@ -241,9 +283,9 @@ difficulty:
     - - '116'
       - Jeffery Bohl
     downward: 4
-    rel: 2.0e-2
-    frac: 0.42
-  - chunk: 932
+    rel: 4.1667e-4
+    frac: 0.40145833
+  - chunk: 981
     startChunk: 98.1 km
     endChunk: 98.2 km
     endAhead: 118.2 km
@@ -254,9 +296,9 @@ difficulty:
     - - '117'
       - Robert Dallas
     downward: 3
-    rel: 1.5e-2
-    frac: 0.435
-  - chunk: 938
+    rel: 3.125e-4
+    frac: 0.40989583
+  - chunk: 987
     startChunk: 98.7 km
     endChunk: 98.8 km
     endAhead: 118.8 km
@@ -267,9 +309,9 @@ difficulty:
     - - '150'
       - Claudia Mejia
     downward: 2
-    rel: 1.0e-2
-    frac: 0.445
-  - chunk: 991
+    rel: 2.0833e-4
+    frac: 0.41114583
+  - chunk: 1040
     startChunk: 104.0 km
     endChunk: 104.1 km
     endAhead: 124.1 km
@@ -280,9 +322,9 @@ difficulty:
     - - '110'
       - Cory Barnwell
     downward: 1
-    rel: 5.0e-3
-    frac: 0.45
-  - chunk: 1248
+    rel: 1.0417e-4
+    frac: 0.41666667
+  - chunk: 1297
     startChunk: 129.7 km
     endChunk: 129.8 km
     endAhead: 149.8 km
@@ -293,9 +335,9 @@ difficulty:
     - - '143'
       - Anna Eppink
     downward: 4
-    rel: 2.0e-2
-    frac: 0.47
-  - chunk: 1283
+    rel: 4.1667e-4
+    frac: 0.46947917
+  - chunk: 1332
     startChunk: 133.2 km
     endChunk: 133.3 km
     endAhead: 153.3 km
@@ -306,9 +348,9 @@ difficulty:
     - - '120'
       - Mike Glennon
     downward: 3
-    rel: 1.5e-2
-    frac: 0.485
-  - chunk: 1325
+    rel: 3.125e-4
+    frac: 0.48041667
+  - chunk: 1374
     startChunk: 137.4 km
     endChunk: 137.5 km
     endAhead: 157.5 km
@@ -319,9 +361,9 @@ difficulty:
     - - '146'
       - Peter Kelley
     downward: 2
-    rel: 1.0e-2
-    frac: 0.495
-  - chunk: 1429
+    rel: 2.0833e-4
+    frac: 0.48916667
+  - chunk: 1478
     startChunk: 147.8 km
     endChunk: 147.9 km
     endAhead: 167.9 km
@@ -332,12 +374,12 @@ difficulty:
     - - '135'
       - Misael Rosalez
     downward: 1
-    rel: 5.0e-3
+    rel: 1.0417e-4
     frac: 0.5
-- - chunk: 0
-    startChunk: 5.0 km
-    endChunk: 5.0 km
-    endAhead: 18.1 km
+- - chunk: 5
+    startChunk: 0.5 km
+    endChunk: 0.6 km
+    endAhead: 13.7 km
     down: 1
     downs:
     - 0.531 km
@@ -345,9 +387,9 @@ difficulty:
     - - '118'
       - Ingo Heilmann
     downward: 1
-    rel: 5.74713e-3
-    frac: 5.74713e-3
-  - chunk: 154
+    rel: 1.5239e-4
+    frac: 9.1436e-4
+  - chunk: 203
     startChunk: 20.3 km
     endChunk: 20.4 km
     endAhead: 33.5 km
@@ -358,9 +400,9 @@ difficulty:
     - - '104'
       - Christian Pollet
     downward: 2
-    rel: 1.149425e-2
-    frac: 1.724138e-2
-  - chunk: 157
+    rel: 3.0479e-4
+    frac: 4.038403e-2
+  - chunk: 206
     startChunk: 20.6 km
     endChunk: 20.7 km
     endAhead: 33.8 km
@@ -371,9 +413,9 @@ difficulty:
     - - '114'
       - Mick Howard
     downward: 1
-    rel: 5.74713e-3
-    frac: 2.298851e-2
-  - chunk: 329
+    rel: 1.5239e-4
+    frac: 4.084121e-2
+  - chunk: 378
     startChunk: 37.8 km
     endChunk: 37.9 km
     endAhead: 51.0 km
@@ -384,9 +426,9 @@ difficulty:
     - - '129'
       - Mike Jefferson
     downward: 4
-    rel: 2.298851e-2
-    frac: 4.597701e-2
-  - chunk: 440
+    rel: 6.0957e-4
+    frac: 6.644316e-2
+  - chunk: 489
     startChunk: 48.9 km
     endChunk: 49.0 km
     endAhead: 62.1 km
@@ -397,9 +439,9 @@ difficulty:
     - - '146'
       - Peter Kelley
     downward: 7
-    rel: 4.022989e-2
-    frac: 8.62069e-2
-  - chunk: 448
+    rel: 1.06675e-3
+    frac: 0.16473636
+  - chunk: 497
     startChunk: 49.7 km
     endChunk: 49.8 km
     endAhead: 62.9 km
@@ -410,9 +452,9 @@ difficulty:
     - - '140'
       - Bill Vickery
     downward: 6
-    rel: 3.448276e-2
-    frac: 0.12068966
-  - chunk: 455
+    rel: 9.1436e-4
+    frac: 0.1720512
+  - chunk: 504
     startChunk: 50.4 km
     endChunk: 50.5 km
     endAhead: 63.6 km
@@ -423,9 +465,9 @@ difficulty:
     - - '141'
       - Patrick Halfhill
     downward: 5
-    rel: 2.873563e-2
-    frac: 0.14942529
-  - chunk: 468
+    rel: 7.6196e-4
+    frac: 0.17738494
+  - chunk: 517
     startChunk: 51.7 km
     endChunk: 51.8 km
     endAhead: 64.9 km
@@ -436,9 +478,9 @@ difficulty:
     - - '109'
       - Michael Williams
     downward: 4
-    rel: 2.298851e-2
-    frac: 0.17241379
-  - chunk: 486
+    rel: 6.0957e-4
+    frac: 0.18530936
+  - chunk: 535
     startChunk: 53.5 km
     endChunk: 53.6 km
     endAhead: 66.7 km
@@ -449,9 +491,9 @@ difficulty:
     - - '134'
       - Kinsley Sykes
     downward: 3
-    rel: 1.724138e-2
-    frac: 0.18965517
-  - chunk: 493
+    rel: 4.5718e-4
+    frac: 0.19353856
+  - chunk: 542
     startChunk: 54.2 km
     endChunk: 54.3 km
     endAhead: 67.4 km
@@ -462,9 +504,9 @@ difficulty:
     - - '112'
       - Sergey Kataev
     downward: 2
-    rel: 1.149425e-2
-    frac: 0.20114943
-  - chunk: 525
+    rel: 3.0479e-4
+    frac: 0.19567205
+  - chunk: 574
     startChunk: 57.4 km
     endChunk: 57.5 km
     endAhead: 70.6 km
@@ -475,9 +517,9 @@ difficulty:
     - - '133'
       - Olav Olsen
     downward: 1
-    rel: 5.74713e-3
-    frac: 0.20689655
-  - chunk: 666
+    rel: 1.5239e-4
+    frac: 0.20054861
+  - chunk: 715
     startChunk: 71.5 km
     endChunk: 71.6 km
     endAhead: 84.7 km
@@ -488,9 +530,9 @@ difficulty:
     - - '115'
       - Andrew Hollidge
     downward: 7
-    rel: 4.022989e-2
-    frac: 0.24712644
-  - chunk: 668
+    rel: 1.06675e-3
+    frac: 0.29853703
+  - chunk: 717
     startChunk: 71.7 km
     endChunk: 71.8 km
     endAhead: 84.9 km
@@ -500,10 +542,10 @@ difficulty:
     downers:
     - - '126'
       - Jeff Kannard
-    downward: 6
-    rel: 3.448276e-2
-    frac: 0.2816092
-  - chunk: 709
+    downward: 8
+    rel: 1.21914e-3
+    frac: 0.30097531
+  - chunk: 758
     startChunk: 75.8 km
     endChunk: 75.9 km
     endAhead: 89.0 km
@@ -513,10 +555,10 @@ difficulty:
     downers:
     - - '145'
       - Roger Irby
-    downward: 5
-    rel: 2.873563e-2
-    frac: 0.31034483
-  - chunk: 713
+    downward: 7
+    rel: 1.06675e-3
+    frac: 0.34471198
+  - chunk: 762
     startChunk: 76.2 km
     endChunk: 76.3 km
     endAhead: 89.4 km
@@ -526,10 +568,10 @@ difficulty:
     downers:
     - - '124'
       - Patrick Pannese
-    downward: 4
-    rel: 2.298851e-2
-    frac: 0.33333333
-  - chunk: 721
+    downward: 6
+    rel: 9.1436e-4
+    frac: 0.3483694
+  - chunk: 770
     startChunk: 77.0 km
     endChunk: 77.1 km
     endAhead: 90.2 km
@@ -542,10 +584,10 @@ difficulty:
       - Richard lovelace
     - - '150'
       - Claudia Mejia
-    downward: 3
-    rel: 1.724138e-2
-    frac: 0.35057471
-  - chunk: 738
+    downward: 5
+    rel: 7.6196e-4
+    frac: 0.3544651
+  - chunk: 787
     startChunk: 78.7 km
     endChunk: 78.8 km
     endAhead: 91.9 km
@@ -555,10 +597,10 @@ difficulty:
     downers:
     - - '135'
       - Misael Rosalez
-    downward: 2
-    rel: 1.149425e-2
-    frac: 0.36206897
-  - chunk: 797
+    downward: 3
+    rel: 4.5718e-4
+    frac: 0.36223712
+  - chunk: 846
     startChunk: 84.6 km
     endChunk: 84.7 km
     endAhead: 97.8 km
@@ -571,10 +613,10 @@ difficulty:
       - Robert Dallas
     - - '108'
       - Raul Guerra
-    downward: 3
-    rel: 1.724138e-2
-    frac: 0.37931034
-  - chunk: 873
+    downward: 4
+    rel: 6.0957e-4
+    frac: 0.38875343
+  - chunk: 922
     startChunk: 92.2 km
     endChunk: 92.3 km
     endAhead: 105.4 km
@@ -585,9 +627,9 @@ difficulty:
     - - '101'
       - Davis Straub
     downward: 6
-    rel: 3.448276e-2
-    frac: 0.4137931
-  - chunk: 927
+    rel: 9.1436e-4
+    frac: 0.45123438
+  - chunk: 976
     startChunk: 97.6 km
     endChunk: 97.7 km
     endAhead: 110.8 km
@@ -598,9 +640,9 @@ difficulty:
     - - '137'
       - Yoko Isomoto
     downward: 5
-    rel: 2.873563e-2
-    frac: 0.44252874
-  - chunk: 935
+    rel: 7.6196e-4
+    frac: 0.49238037
+  - chunk: 984
     startChunk: 98.4 km
     endChunk: 98.5 km
     endAhead: 111.6 km
@@ -611,9 +653,9 @@ difficulty:
     - - '116'
       - Jeffery Bohl
     downward: 4
-    rel: 2.298851e-2
-    frac: 0.46551724
-  - chunk: 936
+    rel: 6.0957e-4
+    frac: 0.49725693
+  - chunk: 985
     startChunk: 98.5 km
     endChunk: 98.6 km
     endAhead: 111.7 km
@@ -624,9 +666,9 @@ difficulty:
     - - '110'
       - Cory Barnwell
     downward: 3
-    rel: 1.724138e-2
-    frac: 0.48275862
-  - chunk: 937
+    rel: 4.5718e-4
+    frac: 0.49771411
+  - chunk: 986
     startChunk: 98.6 km
     endChunk: 98.7 km
     endAhead: 111.8 km
@@ -637,9 +679,9 @@ difficulty:
     - - '103'
       - Matt Christensen
     downward: 2
-    rel: 1.149425e-2
-    frac: 0.49425287
-  - chunk: 950
+    rel: 3.0479e-4
+    frac: 0.4980189
+  - chunk: 999
     startChunk: 99.9 km
     endChunk: 100.0 km
     endAhead: 113.1 km
@@ -650,12 +692,12 @@ difficulty:
     - - '107'
       - Malcolm Brown
     downward: 1
-    rel: 5.74713e-3
+    rel: 1.5239e-4
     frac: 0.5
-- - chunk: 0
-    startChunk: 5.0 km
-    endChunk: 5.0 km
-    endAhead: 18.0 km
+- - chunk: 1
+    startChunk: 0.1 km
+    endChunk: 0.2 km
+    endAhead: 13.2 km
     down: 1
     downs:
     - 0.140 km
@@ -663,9 +705,9 @@ difficulty:
     - - '126'
       - Jeff Kannard
     downward: 1
-    rel: 6.25e-3
-    frac: 6.25e-3
-  - chunk: 283
+    rel: 2.1349e-4
+    frac: 4.2699e-4
+  - chunk: 332
     startChunk: 33.2 km
     endChunk: 33.3 km
     endAhead: 46.3 km
@@ -676,9 +718,9 @@ difficulty:
     - - '146'
       - Peter Kelley
     downward: 3
-    rel: 1.875e-2
-    frac: 2.5e-2
-  - chunk: 308
+    rel: 6.4048e-4
+    frac: 6.426132e-2
+  - chunk: 357
     startChunk: 35.7 km
     endChunk: 35.8 km
     endAhead: 48.8 km
@@ -689,9 +731,9 @@ difficulty:
     - - '110'
       - Cory Barnwell
     downward: 2
-    rel: 1.25e-2
-    frac: 3.75e-2
-  - chunk: 349
+    rel: 4.2699e-4
+    frac: 7.493595e-2
+  - chunk: 398
     startChunk: 39.8 km
     endChunk: 39.9 km
     endAhead: 52.9 km
@@ -702,9 +744,9 @@ difficulty:
     - - '129'
       - Mike Jefferson
     downward: 2
-    rel: 1.25e-2
-    frac: 5.0e-2
-  - chunk: 474
+    rel: 4.2699e-4
+    frac: 8.475662e-2
+  - chunk: 523
     startChunk: 52.3 km
     endChunk: 52.4 km
     endAhead: 65.4 km
@@ -715,9 +757,9 @@ difficulty:
     - - '140'
       - Bill Vickery
     downward: 3
-    rel: 1.875e-2
-    frac: 6.875e-2
-  - chunk: 504
+    rel: 6.4048e-4
+    frac: 0.1470965
+  - chunk: 553
     startChunk: 55.3 km
     endChunk: 55.4 km
     endAhead: 68.4 km
@@ -728,9 +770,9 @@ difficulty:
     - - '111'
       - Patrick Kruse
     downward: 4
-    rel: 2.5e-2
-    frac: 9.375e-2
-  - chunk: 537
+    rel: 8.5397e-4
+    frac: 0.16737831
+  - chunk: 586
     startChunk: 58.6 km
     endChunk: 58.7 km
     endAhead: 71.7 km
@@ -741,9 +783,9 @@ difficulty:
     - - '134'
       - Kinsley Sykes
     downward: 4
-    rel: 2.5e-2
-    frac: 0.11875
-  - chunk: 607
+    rel: 8.5397e-4
+    frac: 0.19171648
+  - chunk: 656
     startChunk: 65.6 km
     endChunk: 65.7 km
     endAhead: 78.7 km
@@ -753,10 +795,10 @@ difficulty:
     downers:
     - - '119'
       - Bart Weghorst
-    downward: 7
-    rel: 4.375e-2
-    frac: 0.1625
-  - chunk: 626
+    downward: 8
+    rel: 1.70794e-3
+    frac: 0.26409052
+  - chunk: 675
     startChunk: 67.5 km
     endChunk: 67.6 km
     endAhead: 80.6 km
@@ -766,10 +808,10 @@ difficulty:
     downers:
     - - '123'
       - JD Guillemette
-    downward: 9
-    rel: 5.625e-2
-    frac: 0.21875
-  - chunk: 652
+    downward: 10
+    rel: 2.13493e-3
+    frac: 0.29974381
+  - chunk: 701
     startChunk: 70.1 km
     endChunk: 70.2 km
     endAhead: 83.2 km
@@ -779,10 +821,10 @@ difficulty:
     downers:
     - - '112'
       - Sergey Kataev
-    downward: 9
-    rel: 5.625e-2
-    frac: 0.275
-  - chunk: 677
+    downward: 10
+    rel: 2.13493e-3
+    frac: 0.35247652
+  - chunk: 726
     startChunk: 72.6 km
     endChunk: 72.7 km
     endAhead: 85.7 km
@@ -792,10 +834,10 @@ difficulty:
     downers:
     - - '114'
       - Mick Howard
-    downward: 8
-    rel: 5.0e-2
-    frac: 0.325
-  - chunk: 711
+    downward: 9
+    rel: 1.92143e-3
+    frac: 0.40051238
+  - chunk: 760
     startChunk: 76.0 km
     endChunk: 76.1 km
     endAhead: 89.1 km
@@ -808,10 +850,10 @@ difficulty:
       - Roger Irby
     - - '141'
       - Patrick Halfhill
-    downward: 7
-    rel: 4.375e-2
-    frac: 0.36875
-  - chunk: 724
+    downward: 8
+    rel: 1.70794e-3
+    frac: 0.45858241
+  - chunk: 773
     startChunk: 77.3 km
     endChunk: 77.4 km
     endAhead: 90.4 km
@@ -822,9 +864,9 @@ difficulty:
     - - '116'
       - Jeffery Bohl
     downward: 6
-    rel: 3.75e-2
-    frac: 0.40625
-  - chunk: 733
+    rel: 1.28096e-3
+    frac: 0.47523484
+  - chunk: 782
     startChunk: 78.2 km
     endChunk: 78.3 km
     endAhead: 91.3 km
@@ -835,9 +877,9 @@ difficulty:
     - - '117'
       - Robert Dallas
     downward: 5
-    rel: 3.125e-2
-    frac: 0.4375
-  - chunk: 742
+    rel: 1.06746e-3
+    frac: 0.48484202
+  - chunk: 791
     startChunk: 79.1 km
     endChunk: 79.2 km
     endAhead: 92.2 km
@@ -848,9 +890,9 @@ difficulty:
     - - '118'
       - Ingo Heilmann
     downward: 4
-    rel: 2.5e-2
-    frac: 0.4625
-  - chunk: 745
+    rel: 8.5397e-4
+    frac: 0.49252775
+  - chunk: 794
     startChunk: 79.4 km
     endChunk: 79.5 km
     endAhead: 92.5 km
@@ -861,9 +903,9 @@ difficulty:
     - - '103'
       - Matt Christensen
     downward: 3
-    rel: 1.875e-2
-    frac: 0.48125
-  - chunk: 747
+    rel: 6.4048e-4
+    frac: 0.49444919
+  - chunk: 796
     startChunk: 79.6 km
     endChunk: 79.7 km
     endAhead: 92.7 km
@@ -874,9 +916,9 @@ difficulty:
     - - '143'
       - Anna Eppink
     downward: 2
-    rel: 1.25e-2
-    frac: 0.49375
-  - chunk: 769
+    rel: 4.2699e-4
+    frac: 0.49530316
+  - chunk: 818
     startChunk: 81.8 km
     endChunk: 81.9 km
     endAhead: 94.9 km
@@ -887,12 +929,12 @@ difficulty:
     - - '124'
       - Patrick Pannese
     downward: 1
-    rel: 6.25e-3
+    rel: 2.1349e-4
     frac: 0.5
-- - chunk: 0
-    startChunk: 5.0 km
-    endChunk: 5.0 km
-    endAhead: 14.6 km
+- - chunk: 47
+    startChunk: 4.7 km
+    endChunk: 4.8 km
+    endAhead: 14.4 km
     down: 1
     downs:
     - 4.746 km
@@ -900,9 +942,9 @@ difficulty:
     - - '126'
       - Jeff Kannard
     downward: 3
-    rel: 1.315789e-2
-    frac: 1.315789e-2
-  - chunk: 11
+    rel: 5.7582e-4
+    frac: 2.130518e-2
+  - chunk: 60
     startChunk: 6.0 km
     endChunk: 6.1 km
     endAhead: 15.7 km
@@ -913,9 +955,9 @@ difficulty:
     - - '116'
       - Jeffery Bohl
     downward: 2
-    rel: 8.77193e-3
-    frac: 2.192982e-2
-  - chunk: 79
+    rel: 3.8388e-4
+    frac: 2.629559e-2
+  - chunk: 128
     startChunk: 12.8 km
     endChunk: 12.9 km
     endAhead: 22.5 km
@@ -926,9 +968,9 @@ difficulty:
     - - '140'
       - Bill Vickery
     downward: 1
-    rel: 4.38596e-3
-    frac: 2.631579e-2
-  - chunk: 259
+    rel: 1.9194e-4
+    frac: 3.934741e-2
+  - chunk: 308
     startChunk: 30.8 km
     endChunk: 30.9 km
     endAhead: 40.5 km
@@ -939,9 +981,9 @@ difficulty:
     - - '146'
       - Peter Kelley
     downward: 2
-    rel: 8.77193e-3
-    frac: 3.508772e-2
-  - chunk: 340
+    rel: 3.8388e-4
+    frac: 6.065259e-2
+  - chunk: 389
     startChunk: 38.9 km
     endChunk: 39.0 km
     endAhead: 48.6 km
@@ -952,9 +994,9 @@ difficulty:
     - - '145'
       - Roger Irby
     downward: 3
-    rel: 1.315789e-2
-    frac: 4.824561e-2
-  - chunk: 374
+    rel: 5.7582e-4
+    frac: 9.923225e-2
+  - chunk: 423
     startChunk: 42.3 km
     endChunk: 42.4 km
     endAhead: 52.0 km
@@ -965,9 +1007,9 @@ difficulty:
     - - '104'
       - Christian Pollet
     downward: 4
-    rel: 1.754386e-2
-    frac: 6.578947e-2
-  - chunk: 378
+    rel: 7.6775e-4
+    frac: 0.12130518
+  - chunk: 427
     startChunk: 42.7 km
     endChunk: 42.8 km
     endAhead: 52.4 km
@@ -978,9 +1020,9 @@ difficulty:
     - - '143'
       - Anna Eppink
     downward: 3
-    rel: 1.315789e-2
-    frac: 7.894737e-2
-  - chunk: 442
+    rel: 5.7582e-4
+    frac: 0.12360845
+  - chunk: 491
     startChunk: 49.1 km
     endChunk: 49.2 km
     endAhead: 58.8 km
@@ -991,9 +1033,9 @@ difficulty:
     - - '119'
       - Bart Weghorst
     downward: 4
-    rel: 1.754386e-2
-    frac: 9.649123e-2
-  - chunk: 451
+    rel: 7.6775e-4
+    frac: 0.15700576
+  - chunk: 500
     startChunk: 50.0 km
     endChunk: 50.1 km
     endAhead: 59.7 km
@@ -1004,9 +1046,9 @@ difficulty:
     - - '142'
       - John Simon
     downward: 3
-    rel: 1.315789e-2
-    frac: 0.10964912
-  - chunk: 498
+    rel: 5.7582e-4
+    frac: 0.1621881
+  - chunk: 547
     startChunk: 54.7 km
     endChunk: 54.8 km
     endAhead: 64.4 km
@@ -1017,9 +1059,9 @@ difficulty:
     - - '134'
       - Kinsley Sykes
     downward: 4
-    rel: 1.754386e-2
-    frac: 0.12719298
-  - chunk: 532
+    rel: 7.6775e-4
+    frac: 0.19001919
+  - chunk: 581
     startChunk: 58.1 km
     endChunk: 58.2 km
     endAhead: 67.8 km
@@ -1029,10 +1071,10 @@ difficulty:
     downers:
     - - '137'
       - Yoko Isomoto
-    downward: 6
-    rel: 2.631579e-2
-    frac: 0.15350877
-  - chunk: 567
+    downward: 7
+    rel: 1.34357e-3
+    frac: 0.22456814
+  - chunk: 616
     startChunk: 61.6 km
     endChunk: 61.7 km
     endAhead: 71.3 km
@@ -1042,10 +1084,10 @@ difficulty:
     downers:
     - - '103'
       - Matt Christensen
-    downward: 8
-    rel: 3.508772e-2
-    frac: 0.18859649
-  - chunk: 570
+    downward: 9
+    rel: 1.72745e-3
+    frac: 0.2731286
+  - chunk: 619
     startChunk: 61.9 km
     endChunk: 62.0 km
     endAhead: 71.6 km
@@ -1055,10 +1097,10 @@ difficulty:
     downers:
     - - '127'
       - Gerry Pesavento
-    downward: 7
-    rel: 3.070175e-2
-    frac: 0.21929825
-  - chunk: 600
+    downward: 8
+    rel: 1.53551e-3
+    frac: 0.27773512
+  - chunk: 649
     startChunk: 64.9 km
     endChunk: 65.0 km
     endAhead: 74.6 km
@@ -1071,10 +1113,10 @@ difficulty:
       - Mike Jefferson
     - - '133'
       - Olav Olsen
-    downward: 6
-    rel: 2.631579e-2
-    frac: 0.24561404
-  - chunk: 616
+    downward: 7
+    rel: 1.34357e-3
+    frac: 0.31804223
+  - chunk: 665
     startChunk: 66.5 km
     endChunk: 66.6 km
     endAhead: 76.2 km
@@ -1085,9 +1127,9 @@ difficulty:
     - - '132'
       - James Stinnett
     downward: 6
-    rel: 2.631579e-2
-    frac: 0.27192982
-  - chunk: 618
+    rel: 1.15163e-3
+    frac: 0.33358925
+  - chunk: 667
     startChunk: 66.7 km
     endChunk: 66.8 km
     endAhead: 76.4 km
@@ -1098,9 +1140,9 @@ difficulty:
     - - '141'
       - Patrick Halfhill
     downward: 5
-    rel: 2.192982e-2
-    frac: 0.29385965
-  - chunk: 642
+    rel: 9.5969e-4
+    frac: 0.33550864
+  - chunk: 691
     startChunk: 69.1 km
     endChunk: 69.2 km
     endAhead: 78.8 km
@@ -1111,9 +1153,9 @@ difficulty:
     - - '106'
       - Fabiano Nahoum
     downward: 5
-    rel: 2.192982e-2
-    frac: 0.31578947
-  - chunk: 646
+    rel: 9.5969e-4
+    frac: 0.356238
+  - chunk: 695
     startChunk: 69.5 km
     endChunk: 69.6 km
     endAhead: 79.2 km
@@ -1124,9 +1166,9 @@ difficulty:
     - - '121'
       - Oleg Bondarchuk
     downward: 4
-    rel: 1.754386e-2
-    frac: 0.33333333
-  - chunk: 658
+    rel: 7.6775e-4
+    frac: 0.35930902
+  - chunk: 707
     startChunk: 70.7 km
     endChunk: 70.8 km
     endAhead: 80.4 km
@@ -1137,9 +1179,9 @@ difficulty:
     - - '118'
       - Ingo Heilmann
     downward: 4
-    rel: 1.754386e-2
-    frac: 0.35087719
-  - chunk: 711
+    rel: 7.6775e-4
+    frac: 0.36737044
+  - chunk: 760
     startChunk: 76.0 km
     endChunk: 76.1 km
     endAhead: 85.7 km
@@ -1150,9 +1192,9 @@ difficulty:
     - - '124'
       - Patrick Pannese
     downward: 7
-    rel: 3.070175e-2
-    frac: 0.38157895
-  - chunk: 726
+    rel: 1.34357e-3
+    frac: 0.41880998
+  - chunk: 775
     startChunk: 77.5 km
     endChunk: 77.6 km
     endAhead: 87.2 km
@@ -1163,9 +1205,9 @@ difficulty:
     - - '112'
       - Sergey Kataev
     downward: 6
-    rel: 2.631579e-2
-    frac: 0.40789474
-  - chunk: 748
+    rel: 1.15163e-3
+    frac: 0.43608445
+  - chunk: 797
     startChunk: 79.7 km
     endChunk: 79.8 km
     endAhead: 89.4 km
@@ -1176,9 +1218,9 @@ difficulty:
     - - '114'
       - Mick Howard
     downward: 6
-    rel: 2.631579e-2
-    frac: 0.43421053
-  - chunk: 770
+    rel: 1.15163e-3
+    frac: 0.45911708
+  - chunk: 819
     startChunk: 81.9 km
     endChunk: 82.0 km
     endAhead: 91.6 km
@@ -1189,9 +1231,9 @@ difficulty:
     - - '125'
       - Larry Bunner
     downward: 5
-    rel: 2.192982e-2
-    frac: 0.45614035
-  - chunk: 775
+    rel: 9.5969e-4
+    frac: 0.48023033
+  - chunk: 824
     startChunk: 82.4 km
     endChunk: 82.5 km
     endAhead: 92.1 km
@@ -1202,9 +1244,9 @@ difficulty:
     - - '111'
       - Patrick Kruse
     downward: 4
-    rel: 1.754386e-2
-    frac: 0.47368421
-  - chunk: 776
+    rel: 7.6775e-4
+    frac: 0.4840691
+  - chunk: 825
     startChunk: 82.5 km
     endChunk: 82.6 km
     endAhead: 92.2 km
@@ -1215,9 +1257,9 @@ difficulty:
     - - '120'
       - Mike Glennon
     downward: 3
-    rel: 1.315789e-2
-    frac: 0.48684211
-  - chunk: 798
+    rel: 5.7582e-4
+    frac: 0.48464491
+  - chunk: 847
     startChunk: 84.7 km
     endChunk: 84.8 km
     endAhead: 94.4 km
@@ -1228,9 +1270,9 @@ difficulty:
     - - '135'
       - Misael Rosalez
     downward: 2
-    rel: 8.77193e-3
-    frac: 0.49561404
-  - chunk: 834
+    rel: 3.8388e-4
+    frac: 0.49309021
+  - chunk: 883
     startChunk: 88.3 km
     endChunk: 88.4 km
     endAhead: 98.0 km
@@ -1241,22 +1283,22 @@ difficulty:
     - - '144'
       - Tom Lanning
     downward: 1
-    rel: 4.38596e-3
+    rel: 1.9194e-4
     frac: 0.5
 - - chunk: 0
-    startChunk: 5.0 km
-    endChunk: 5.0 km
-    endAhead: 17.5 km
+    startChunk: 0.0 km
+    endChunk: 0.1 km
+    endAhead: 12.6 km
     down: 1
     downs:
     - -0.201 km
     downers:
     - - '140'
       - Bill Vickery
-    downward: 2
-    rel: 1.149425e-2
-    frac: 1.149425e-2
-  - chunk: 80
+    downward: 1
+    rel: 1.7385e-4
+    frac: 1.7385e-4
+  - chunk: 129
     startChunk: 12.9 km
     endChunk: 13.0 km
     endAhead: 25.5 km
@@ -1267,9 +1309,9 @@ difficulty:
     - - '110'
       - Cory Barnwell
     downward: 1
-    rel: 5.74713e-3
-    frac: 1.724138e-2
-  - chunk: 243
+    rel: 1.7385e-4
+    frac: 2.190542e-2
+  - chunk: 292
     startChunk: 29.2 km
     endChunk: 29.3 km
     endAhead: 41.8 km
@@ -1280,9 +1322,9 @@ difficulty:
     - - '118'
       - Ingo Heilmann
     downward: 3
-    rel: 1.724138e-2
-    frac: 3.448276e-2
-  - chunk: 287
+    rel: 5.2156e-4
+    frac: 6.05007e-2
+  - chunk: 336
     startChunk: 33.6 km
     endChunk: 33.7 km
     endAhead: 46.2 km
@@ -1293,9 +1335,9 @@ difficulty:
     - - '134'
       - Kinsley Sykes
     downward: 3
-    rel: 1.724138e-2
-    frac: 5.172414e-2
-  - chunk: 352
+    rel: 5.2156e-4
+    frac: 8.049374e-2
+  - chunk: 401
     startChunk: 40.1 km
     endChunk: 40.2 km
     endAhead: 52.7 km
@@ -1306,9 +1348,9 @@ difficulty:
     - - '109'
       - Michael Williams
     downward: 3
-    rel: 1.724138e-2
-    frac: 6.896552e-2
-  - chunk: 385
+    rel: 5.2156e-4
+    frac: 0.10413769
+  - chunk: 434
     startChunk: 43.4 km
     endChunk: 43.5 km
     endAhead: 56.0 km
@@ -1319,9 +1361,9 @@ difficulty:
     - - '133'
       - Olav Olsen
     downward: 2
-    rel: 1.149425e-2
-    frac: 8.045977e-2
-  - chunk: 471
+    rel: 3.4771e-4
+    frac: 0.11561196
+  - chunk: 520
     startChunk: 52.0 km
     endChunk: 52.1 km
     endAhead: 64.6 km
@@ -1332,9 +1374,9 @@ difficulty:
     - - '146'
       - Peter Kelley
     downward: 5
-    rel: 2.873563e-2
-    frac: 0.1091954
-  - chunk: 532
+    rel: 8.6926e-4
+    frac: 0.15073018
+  - chunk: 581
     startChunk: 58.1 km
     endChunk: 58.2 km
     endAhead: 70.7 km
@@ -1344,10 +1386,10 @@ difficulty:
     downers:
     - - '141'
       - Patrick Halfhill
-    downward: 7
-    rel: 4.022989e-2
-    frac: 0.14942529
-  - chunk: 575
+    downward: 8
+    rel: 1.39082e-3
+    frac: 0.21731572
+  - chunk: 624
     startChunk: 62.4 km
     endChunk: 62.5 km
     endAhead: 75.0 km
@@ -1357,10 +1399,10 @@ difficulty:
     downers:
     - - '103'
       - Matt Christensen
-    downward: 7
-    rel: 4.022989e-2
-    frac: 0.18965517
-  - chunk: 576
+    downward: 8
+    rel: 1.39082e-3
+    frac: 0.27329624
+  - chunk: 625
     startChunk: 62.5 km
     endChunk: 62.6 km
     endAhead: 75.1 km
@@ -1370,10 +1412,10 @@ difficulty:
     downers:
     - - '106'
       - Fabiano Nahoum
-    downward: 6
-    rel: 3.448276e-2
-    frac: 0.22413793
-  - chunk: 585
+    downward: 7
+    rel: 1.21697e-3
+    frac: 0.27451321
+  - chunk: 634
     startChunk: 63.4 km
     endChunk: 63.5 km
     endAhead: 76.0 km
@@ -1383,10 +1425,10 @@ difficulty:
     downers:
     - - '119'
       - Bart Weghorst
-    downward: 6
-    rel: 3.448276e-2
-    frac: 0.25862069
-  - chunk: 599
+    downward: 7
+    rel: 1.21697e-3
+    frac: 0.28477051
+  - chunk: 648
     startChunk: 64.8 km
     endChunk: 64.9 km
     endAhead: 77.4 km
@@ -1396,10 +1438,10 @@ difficulty:
     downers:
     - - '143'
       - Anna Eppink
-    downward: 5
-    rel: 2.873563e-2
-    frac: 0.28735632
-  - chunk: 625
+    downward: 6
+    rel: 1.04312e-3
+    frac: 0.29937413
+  - chunk: 674
     startChunk: 67.4 km
     endChunk: 67.5 km
     endAhead: 80.0 km
@@ -1412,10 +1454,10 @@ difficulty:
       - Jeffery Bohl
     - - '115'
       - Andrew Hollidge
-    downward: 4
-    rel: 2.298851e-2
-    frac: 0.31034483
-  - chunk: 640
+    downward: 5
+    rel: 8.6926e-4
+    frac: 0.32197497
+  - chunk: 689
     startChunk: 68.9 km
     endChunk: 69.0 km
     endAhead: 81.5 km
@@ -1426,9 +1468,9 @@ difficulty:
     - - '144'
       - Tom Lanning
     downward: 4
-    rel: 2.298851e-2
-    frac: 0.33333333
-  - chunk: 679
+    rel: 6.9541e-4
+    frac: 0.33084145
+  - chunk: 728
     startChunk: 72.8 km
     endChunk: 72.9 km
     endAhead: 85.4 km
@@ -1439,9 +1481,9 @@ difficulty:
     - - '145'
       - Roger Irby
     downward: 4
-    rel: 2.298851e-2
-    frac: 0.35632184
-  - chunk: 705
+    rel: 6.9541e-4
+    frac: 0.35535466
+  - chunk: 754
     startChunk: 75.4 km
     endChunk: 75.5 km
     endAhead: 88.0 km
@@ -1451,10 +1493,10 @@ difficulty:
     downers:
     - - '124'
       - Patrick Pannese
-    downward: 4
-    rel: 2.298851e-2
-    frac: 0.37931034
-  - chunk: 759
+    downward: 5
+    rel: 8.6926e-4
+    frac: 0.37343533
+  - chunk: 808
     startChunk: 80.8 km
     endChunk: 80.9 km
     endAhead: 93.4 km
@@ -1464,10 +1506,10 @@ difficulty:
     downers:
     - - '114'
       - Mick Howard
-    downward: 6
-    rel: 3.448276e-2
-    frac: 0.4137931
-  - chunk: 780
+    downward: 7
+    rel: 1.21697e-3
+    frac: 0.42976356
+  - chunk: 829
     startChunk: 82.9 km
     endChunk: 83.0 km
     endAhead: 95.5 km
@@ -1477,10 +1519,10 @@ difficulty:
     downers:
     - - '101'
       - Davis Straub
-    downward: 5
-    rel: 2.873563e-2
-    frac: 0.44252874
-  - chunk: 817
+    downward: 6
+    rel: 1.04312e-3
+    frac: 0.45166898
+  - chunk: 866
     startChunk: 86.6 km
     endChunk: 86.7 km
     endAhead: 99.2 km
@@ -1493,10 +1535,10 @@ difficulty:
       - Larry Bunner
     - - '111'
       - Patrick Kruse
-    downward: 4
-    rel: 2.298851e-2
-    frac: 0.46551724
-  - chunk: 834
+    downward: 5
+    rel: 8.6926e-4
+    frac: 0.48383171
+  - chunk: 883
     startChunk: 88.3 km
     endChunk: 88.4 km
     endAhead: 100.9 km
@@ -1507,9 +1549,9 @@ difficulty:
     - - '126'
       - Jeff Kannard
     downward: 3
-    rel: 1.724138e-2
-    frac: 0.48275862
-  - chunk: 845
+    rel: 5.2156e-4
+    frac: 0.49269819
+  - chunk: 894
     startChunk: 89.4 km
     endChunk: 89.5 km
     endAhead: 102.0 km
@@ -1520,9 +1562,9 @@ difficulty:
     - - '117'
       - Robert Dallas
     downward: 2
-    rel: 1.149425e-2
-    frac: 0.49425287
-  - chunk: 865
+    rel: 3.4771e-4
+    frac: 0.49652295
+  - chunk: 914
     startChunk: 91.4 km
     endChunk: 91.5 km
     endAhead: 104.0 km
@@ -1533,12 +1575,12 @@ difficulty:
     - - '129'
       - Mike Jefferson
     downward: 1
-    rel: 5.74713e-3
+    rel: 1.7385e-4
     frac: 0.5
-- - chunk: 0
-    startChunk: 5.0 km
-    endChunk: 5.0 km
-    endAhead: 9.8 km
+- - chunk: 21
+    startChunk: 2.1 km
+    endChunk: 2.2 km
+    endAhead: 7.0 km
     down: 1
     downs:
     - 2.161 km
@@ -1546,9 +1588,9 @@ difficulty:
     - - '117'
       - Robert Dallas
     downward: 1
-    rel: 4.7619e-3
-    frac: 4.7619e-3
-  - chunk: 87
+    rel: 2.8571e-4
+    frac: 6.28571e-3
+  - chunk: 136
     startChunk: 13.6 km
     endChunk: 13.7 km
     endAhead: 18.5 km
@@ -1559,9 +1601,9 @@ difficulty:
     - - '123'
       - JD Guillemette
     downward: 4
-    rel: 1.904762e-2
-    frac: 2.380952e-2
-  - chunk: 106
+    rel: 1.14286e-3
+    frac: 3.857143e-2
+  - chunk: 155
     startChunk: 15.5 km
     endChunk: 15.6 km
     endAhead: 20.4 km
@@ -1572,9 +1614,9 @@ difficulty:
     - - '126'
       - Jeff Kannard
     downward: 3
-    rel: 1.428571e-2
-    frac: 3.809524e-2
-  - chunk: 108
+    rel: 8.5714e-4
+    frac: 5.485714e-2
+  - chunk: 157
     startChunk: 15.7 km
     endChunk: 15.8 km
     endAhead: 20.6 km
@@ -1585,9 +1627,9 @@ difficulty:
     - - '134'
       - Kinsley Sykes
     downward: 2
-    rel: 9.52381e-3
-    frac: 4.761905e-2
-  - chunk: 126
+    rel: 5.7143e-4
+    frac: 5.6e-2
+  - chunk: 175
     startChunk: 17.5 km
     endChunk: 17.6 km
     endAhead: 22.4 km
@@ -1598,9 +1640,9 @@ difficulty:
     - - '150'
       - Claudia Mejia
     downward: 3
-    rel: 1.428571e-2
-    frac: 6.190476e-2
-  - chunk: 158
+    rel: 8.5714e-4
+    frac: 7.0e-2
+  - chunk: 207
     startChunk: 20.7 km
     endChunk: 20.8 km
     endAhead: 25.6 km
@@ -1611,9 +1653,9 @@ difficulty:
     - - '143'
       - Anna Eppink
     downward: 6
-    rel: 2.857143e-2
-    frac: 9.047619e-2
-  - chunk: 159
+    rel: 1.71429e-3
+    frac: 0.102
+  - chunk: 208
     startChunk: 20.8 km
     endChunk: 20.9 km
     endAhead: 25.7 km
@@ -1624,9 +1666,9 @@ difficulty:
     - - '129'
       - Mike Jefferson
     downward: 5
-    rel: 2.380952e-2
-    frac: 0.11428571
-  - chunk: 178
+    rel: 1.42857e-3
+    frac: 0.10342857
+  - chunk: 227
     startChunk: 22.7 km
     endChunk: 22.8 km
     endAhead: 27.6 km
@@ -1637,9 +1679,9 @@ difficulty:
     - - '140'
       - Bill Vickery
     downward: 5
-    rel: 2.380952e-2
-    frac: 0.13809524
-  - chunk: 197
+    rel: 1.42857e-3
+    frac: 0.12542857
+  - chunk: 246
     startChunk: 24.6 km
     endChunk: 24.7 km
     endAhead: 29.5 km
@@ -1649,10 +1691,10 @@ difficulty:
     downers:
     - - '144'
       - Tom Lanning
-    downward: 5
-    rel: 2.380952e-2
-    frac: 0.16190476
-  - chunk: 198
+    downward: 6
+    rel: 1.71429e-3
+    frac: 0.15457143
+  - chunk: 247
     startChunk: 24.7 km
     endChunk: 24.8 km
     endAhead: 29.6 km
@@ -1662,10 +1704,10 @@ difficulty:
     downers:
     - - '146'
       - Peter Kelley
-    downward: 4
-    rel: 1.904762e-2
-    frac: 0.18095238
-  - chunk: 203
+    downward: 5
+    rel: 1.42857e-3
+    frac: 0.156
+  - chunk: 252
     startChunk: 25.2 km
     endChunk: 25.3 km
     endAhead: 30.1 km
@@ -1675,10 +1717,10 @@ difficulty:
     downers:
     - - '120'
       - Mike Glennon
-    downward: 3
-    rel: 1.428571e-2
-    frac: 0.1952381
-  - chunk: 225
+    downward: 4
+    rel: 1.14286e-3
+    frac: 0.16171429
+  - chunk: 274
     startChunk: 27.4 km
     endChunk: 27.5 km
     endAhead: 32.3 km
@@ -1688,10 +1730,10 @@ difficulty:
     downers:
     - - '145'
       - Roger Irby
-    downward: 2
-    rel: 9.52381e-3
-    frac: 0.2047619
-  - chunk: 232
+    downward: 3
+    rel: 8.5714e-4
+    frac: 0.18057143
+  - chunk: 281
     startChunk: 28.1 km
     endChunk: 28.2 km
     endAhead: 33.0 km
@@ -1704,10 +1746,10 @@ difficulty:
       - Raul Guerra
     - - '101'
       - Davis Straub
-    downward: 1
-    rel: 4.7619e-3
-    frac: 0.20952381
-  - chunk: 332
+    downward: 2
+    rel: 5.7143e-4
+    frac: 0.18457143
+  - chunk: 381
     startChunk: 38.1 km
     endChunk: 38.2 km
     endAhead: 43.0 km
@@ -1717,10 +1759,10 @@ difficulty:
     downers:
     - - '109'
       - Michael Williams
-    downward: 6
-    rel: 2.857143e-2
-    frac: 0.23809524
-  - chunk: 338
+    downward: 11
+    rel: 3.14286e-3
+    frac: 0.24971429
+  - chunk: 387
     startChunk: 38.7 km
     endChunk: 38.8 km
     endAhead: 43.6 km
@@ -1730,10 +1772,10 @@ difficulty:
     downers:
     - - '115'
       - Andrew Hollidge
-    downward: 5
-    rel: 2.380952e-2
-    frac: 0.26190476
-  - chunk: 339
+    downward: 10
+    rel: 2.85714e-3
+    frac: 0.26685714
+  - chunk: 388
     startChunk: 38.8 km
     endChunk: 38.9 km
     endAhead: 43.7 km
@@ -1746,10 +1788,10 @@ difficulty:
       - Bart Weghorst
     - - '135'
       - Misael Rosalez
-    downward: 4
-    rel: 1.904762e-2
-    frac: 0.28095238
-  - chunk: 371
+    downward: 9
+    rel: 2.57143e-3
+    frac: 0.26942857
+  - chunk: 420
     startChunk: 42.0 km
     endChunk: 42.1 km
     endAhead: 46.9 km
@@ -1762,10 +1804,10 @@ difficulty:
       - Richard lovelace
     - - '106'
       - Fabiano Nahoum
-    downward: 4
-    rel: 1.904762e-2
-    frac: 0.3
-  - chunk: 372
+    downward: 9
+    rel: 2.57143e-3
+    frac: 0.34885714
+  - chunk: 421
     startChunk: 42.1 km
     endChunk: 42.2 km
     endAhead: 47.0 km
@@ -1781,10 +1823,10 @@ difficulty:
       - Jeffery Bohl
     - - '114'
       - Mick Howard
-    downward: 3
-    rel: 1.428571e-2
-    frac: 0.31428571
-  - chunk: 373
+    downward: 7
+    rel: 2.0e-3
+    frac: 0.35085714
+  - chunk: 422
     startChunk: 42.2 km
     endChunk: 42.3 km
     endAhead: 47.1 km
@@ -1797,10 +1839,10 @@ difficulty:
       - Olav Olsen
     - - '127'
       - Gerry Pesavento
-    downward: 2
-    rel: 9.52381e-3
-    frac: 0.32380952
-  - chunk: 392
+    downward: 4
+    rel: 1.14286e-3
+    frac: 0.352
+  - chunk: 441
     startChunk: 44.1 km
     endChunk: 44.2 km
     endAhead: 49.0 km
@@ -1813,10 +1855,10 @@ difficulty:
       - Sergey Kataev
     - - '124'
       - Patrick Pannese
-    downward: 4
-    rel: 1.904762e-2
-    frac: 0.34285714
-  - chunk: 422
+    downward: 5
+    rel: 1.42857e-3
+    frac: 0.37114286
+  - chunk: 471
     startChunk: 47.1 km
     endChunk: 47.2 km
     endAhead: 52.0 km
@@ -1827,9 +1869,9 @@ difficulty:
     - - '128'
       - Zac Majors
     downward: 5
-    rel: 2.380952e-2
-    frac: 0.36666667
-  - chunk: 431
+    rel: 1.42857e-3
+    frac: 0.40428571
+  - chunk: 480
     startChunk: 48.0 km
     endChunk: 48.1 km
     endAhead: 52.9 km
@@ -1839,10 +1881,10 @@ difficulty:
     downers:
     - - '138'
       - Jonny Durand
-    downward: 6
-    rel: 2.857143e-2
-    frac: 0.3952381
-  - chunk: 438
+    downward: 7
+    rel: 2.0e-3
+    frac: 0.41771429
+  - chunk: 487
     startChunk: 48.7 km
     endChunk: 48.8 km
     endAhead: 53.6 km
@@ -1852,10 +1894,10 @@ difficulty:
     downers:
     - - '121'
       - Oleg Bondarchuk
-    downward: 5
-    rel: 2.380952e-2
-    frac: 0.41904762
-  - chunk: 455
+    downward: 6
+    rel: 1.71429e-3
+    frac: 0.42971429
+  - chunk: 504
     startChunk: 50.4 km
     endChunk: 50.5 km
     endAhead: 55.3 km
@@ -1865,10 +1907,10 @@ difficulty:
     downers:
     - - '142'
       - John Simon
-    downward: 5
-    rel: 2.380952e-2
-    frac: 0.44285714
-  - chunk: 459
+    downward: 6
+    rel: 1.71429e-3
+    frac: 0.45628571
+  - chunk: 508
     startChunk: 50.8 km
     endChunk: 50.9 km
     endAhead: 55.7 km
@@ -1878,10 +1920,10 @@ difficulty:
     downers:
     - - '118'
       - Ingo Heilmann
-    downward: 4
-    rel: 1.904762e-2
-    frac: 0.46190476
-  - chunk: 474
+    downward: 5
+    rel: 1.42857e-3
+    frac: 0.462
+  - chunk: 523
     startChunk: 52.3 km
     endChunk: 52.4 km
     endAhead: 57.2 km
@@ -1891,10 +1933,10 @@ difficulty:
     downers:
     - - '103'
       - Matt Christensen
-    downward: 3
-    rel: 1.428571e-2
-    frac: 0.47619048
-  - chunk: 476
+    downward: 4
+    rel: 1.14286e-3
+    frac: 0.47914286
+  - chunk: 525
     startChunk: 52.5 km
     endChunk: 52.6 km
     endAhead: 57.4 km
@@ -1907,10 +1949,10 @@ difficulty:
       - Cory Barnwell
     - - '111'
       - Patrick Kruse
-    downward: 2
-    rel: 9.52381e-3
-    frac: 0.48571429
-  - chunk: 495
+    downward: 3
+    rel: 8.5714e-4
+    frac: 0.48085714
+  - chunk: 544
     startChunk: 54.4 km
     endChunk: 54.5 km
     endAhead: 59.3 km
@@ -1921,9 +1963,9 @@ difficulty:
     - - '125'
       - Larry Bunner
     downward: 2
-    rel: 9.52381e-3
-    frac: 0.4952381
-  - chunk: 533
+    rel: 5.7143e-4
+    frac: 0.48914286
+  - chunk: 582
     startChunk: 58.2 km
     endChunk: 58.3 km
     endAhead: 63.1 km
@@ -1934,19 +1976,18 @@ difficulty:
     - - '113'
       - Olav Opsanger
     downward: 1
-    rel: 4.7619e-3
+    rel: 2.8571e-4
     frac: 0.5
 - - chunk: 0
-    startChunk: 5.0 km
-    endChunk: 5.0 km
-    endAhead: 16.6 km
-    down: 5
+    startChunk: 0.0 km
+    endChunk: 0.1 km
+    endAhead: 11.7 km
+    down: 4
     downs:
     - -2.815 km
     - -2.802 km
     - -2.729 km
     - -2.717 km
-    - 2.822 km
     downers:
     - - '145'
       - Roger Irby
@@ -1956,12 +1997,23 @@ difficulty:
       - Kinsley Sykes
     - - '126'
       - Jeff Kannard
+    downward: 6
+    rel: 2.01072e-3
+    frac: 2.01072e-3
+  - chunk: 28
+    startChunk: 2.8 km
+    endChunk: 2.9 km
+    endAhead: 14.5 km
+    down: 1
+    downs:
+    - 2.822 km
+    downers:
     - - '140'
       - Bill Vickery
     downward: 5
-    rel: 8.62069e-2
-    frac: 8.62069e-2
-  - chunk: 17
+    rel: 1.6756e-3
+    frac: 2.91555e-2
+  - chunk: 66
     startChunk: 6.6 km
     endChunk: 6.7 km
     endAhead: 18.3 km
@@ -1972,9 +2024,9 @@ difficulty:
     - - '116'
       - Jeffery Bohl
     downward: 4
-    rel: 6.896552e-2
-    frac: 0.15517241
-  - chunk: 85
+    rel: 1.34048e-3
+    frac: 8.009383e-2
+  - chunk: 134
     startChunk: 13.4 km
     endChunk: 13.5 km
     endAhead: 25.1 km
@@ -1985,9 +2037,9 @@ difficulty:
     - - '112'
       - Sergey Kataev
     downward: 4
-    rel: 6.896552e-2
-    frac: 0.22413793
-  - chunk: 87
+    rel: 1.34048e-3
+    frac: 0.15214477
+  - chunk: 136
     startChunk: 13.6 km
     endChunk: 13.7 km
     endAhead: 25.3 km
@@ -1998,9 +2050,9 @@ difficulty:
     - - '118'
       - Ingo Heilmann
     downward: 3
-    rel: 5.172414e-2
-    frac: 0.27586207
-  - chunk: 88
+    rel: 1.00536e-3
+    frac: 0.1541555
+  - chunk: 137
     startChunk: 13.7 km
     endChunk: 13.8 km
     endAhead: 25.4 km
@@ -2011,9 +2063,9 @@ difficulty:
     - - '146'
       - Peter Kelley
     downward: 2
-    rel: 3.448276e-2
-    frac: 0.31034483
-  - chunk: 190
+    rel: 6.7024e-4
+    frac: 0.15482574
+  - chunk: 239
     startChunk: 23.9 km
     endChunk: 24.0 km
     endAhead: 35.6 km
@@ -2023,10 +2075,10 @@ difficulty:
     downers:
     - - '125'
       - Larry Bunner
-    downward: 2
-    rel: 3.448276e-2
-    frac: 0.34482759
-  - chunk: 272
+    downward: 5
+    rel: 1.6756e-3
+    frac: 0.23458445
+  - chunk: 321
     startChunk: 32.1 km
     endChunk: 32.2 km
     endAhead: 43.8 km
@@ -2045,10 +2097,10 @@ difficulty:
       - Mike Jefferson
     - - '143'
       - Anna Eppink
-    downward: 2
-    rel: 3.448276e-2
-    frac: 0.37931034
-  - chunk: 357
+    downward: 5
+    rel: 1.6756e-3
+    frac: 0.35489276
+  - chunk: 406
     startChunk: 40.6 km
     endChunk: 40.7 km
     endAhead: 52.3 km
@@ -2058,10 +2110,10 @@ difficulty:
     downers:
     - - '108'
       - Raul Guerra
-    downward: 3
-    rel: 5.172414e-2
-    frac: 0.43103448
-  - chunk: 452
+    downward: 2
+    rel: 6.7024e-4
+    frac: 0.39041555
+  - chunk: 501
     startChunk: 50.1 km
     endChunk: 50.2 km
     endAhead: 61.8 km
@@ -2072,9 +2124,9 @@ difficulty:
     - - '139'
       - Tullio Gervasoni
     downward: 2
-    rel: 3.448276e-2
-    frac: 0.46551724
-  - chunk: 473
+    rel: 6.7024e-4
+    frac: 0.45408847
+  - chunk: 522
     startChunk: 52.2 km
     endChunk: 52.3 km
     endAhead: 63.9 km
@@ -2085,9 +2137,9 @@ difficulty:
     - - '144'
       - Tom Lanning
     downward: 1
-    rel: 1.724138e-2
-    frac: 0.48275862
-  - chunk: 649
+    rel: 3.3512e-4
+    frac: 0.46112601
+  - chunk: 698
     startChunk: 69.8 km
     endChunk: 69.9 km
     endAhead: 81.5 km
@@ -2098,5 +2150,5 @@ difficulty:
     - - '115'
       - Andrew Hollidge
     downward: 1
-    rel: 1.724138e-2
+    rel: 3.3512e-4
     frac: 0.5
