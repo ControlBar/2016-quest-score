@@ -18,8 +18,8 @@ bolster:
   mean: 40.248684 km
   stdDev: 12.636017 km
 - max: 69.860900 km
-  mean: 55.135365 km
-  stdDev: 22.453083 km
+  mean: 50.244110 km
+  stdDev: 26.004941 km
 reach:
 - max: 160.046610 km
   mean: 115.601015 km
@@ -40,8 +40,8 @@ reach:
   mean: 40.248684 km
   stdDev: 12.636017 km
 - max: 69.860900 km
-  mean: 54.955326 km
-  stdDev: 22.867021 km
+  mean: 49.488382 km
+  stdDev: 27.355998 km
 reachRank:
 - - - - '138'
       - Jonny Durand
@@ -1183,6 +1183,22 @@ reachRank:
       - Bill Vickery
     - frac: 4.692038e-2
       reach: 3.277900 km
+  - - - '145'
+      - Roger Irby
+    - frac: -1.176767e-2
+      reach: -0.822100 km
+  - - - '141'
+      - Patrick Halfhill
+    - frac: -1.285555e-2
+      reach: -0.898100 km
+  - - - '134'
+      - Kinsley Sykes
+    - frac: -1.690645e-2
+      reach: -1.181100 km
+  - - - '126'
+      - Jeff Kannard
+    - frac: -2.035616e-2
+      reach: -1.422100 km
 nigh:
 - - - - '135'
       - Misael Rosalez
@@ -2705,3 +2721,39 @@ nigh:
         legsSum: []
         waypoints: []
       made: 3.277900 km
+  - - - '126'
+      - Jeff Kannard
+    - togo:
+        distance: 71.283000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: -1.422100 km
+  - - - '134'
+      - Kinsley Sykes
+    - togo:
+        distance: 71.042000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: -1.181100 km
+  - - - '141'
+      - Patrick Halfhill
+    - togo:
+        distance: 70.759000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: -0.898100 km
+  - - - '145'
+      - Roger Irby
+    - togo:
+        distance: 70.683000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: -0.822100 km

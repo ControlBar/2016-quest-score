@@ -7979,6 +7979,114 @@ score:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 3.000 m
+  - - - '126'
+      - Jeff Kannard
+    - place: 37=
+      total: 14
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0.769
+        distance: 14.094
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 13.325
+      landedMade: -2.717 km
+      reach:
+        extra: -1.422 km
+        flown: -1.422 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 14.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - place: 37=
+      total: 14
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0.769
+        distance: 14.094
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 13.325
+      landedMade: -2.729 km
+      reach:
+        extra: -1.181 km
+        flown: -1.181 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 15.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - place: 37=
+      total: 14
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0.769
+        distance: 14.094
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 13.325
+      landedMade: -2.802 km
+      reach:
+        extra: -0.898 km
+        flown: -0.898 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 4.000 m
+  - - - '145'
+      - Roger Irby
+    - place: 37=
+      total: 14
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0.769
+        distance: 14.094
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 13.325
+      landedMade: -2.815 km
+      reach:
+        extra: -0.822 km
+        flown: -0.822 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 0.000 m
 scoreDf:
 - - - - '138'
       - Jonny Durand
@@ -15621,6 +15729,114 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 3.000 m
+  - - - '126'
+      - Jeff Kannard
+    - place: 36=
+      total: 14
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0.769
+        distance: 14.094
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 13.325
+      landedMade: -2.717 km
+      reach:
+        extra: -1.422 km
+        flown: -1.422 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 14.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - place: 36=
+      total: 14
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0.769
+        distance: 14.094
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 13.325
+      landedMade: -2.729 km
+      reach:
+        extra: -1.181 km
+        flown: -1.181 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 15.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - place: 36=
+      total: 14
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0.769
+        distance: 14.094
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 13.325
+      landedMade: -2.802 km
+      reach:
+        extra: -0.898 km
+        flown: -0.898 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 4.000 m
+  - - - '145'
+      - Roger Irby
+    - place: 36=
+      total: 14
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 0.769
+        distance: 14.094
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 13.325
+      landedMade: -2.815 km
+      reach:
+        extra: -0.822 km
+        flown: -0.822 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 0.000 m
 scoreDfNoTrack:
 - []
 - []
