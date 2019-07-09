@@ -5,7 +5,7 @@ bestEffort:
 - 89.526700 km
 - 100.304285 km
 - 59.606660 km
-- 69.860900 km
+- 84.460900 km
 land:
 - - - - '135'
       - Misael Rosalez
@@ -641,69 +641,69 @@ land:
       made: 2.161437 km
 - - - - '115'
       - Andrew Hollidge
-    - togo: 9.184692 km
-      made: 60.676208 km
+    - togo: 11.104170 km
+      made: 73.356730 km
   - - - '144'
       - Tom Lanning
     - togo: 17.625027 km
-      made: 52.235873 km
+      made: 66.835873 km
   - - - '112'
       - Sergey Kataev
     - togo: 19.041259 km
-      made: 50.819641 km
+      made: 65.419641 km
   - - - '139'
       - Tullio Gervasoni
     - togo: 19.731872 km
-      made: 50.129028 km
+      made: 64.729028 km
   - - - '108'
       - Raul Guerra
     - togo: 29.211831 km
-      made: 40.649069 km
+      made: 55.249069 km
   - - - '143'
       - Anna Eppink
     - togo: 37.694404 km
-      made: 32.166496 km
+      made: 46.766496 km
   - - - '129'
       - Mike Jefferson
     - togo: 37.696337 km
-      made: 32.164563 km
+      made: 46.764563 km
   - - - '124'
       - Patrick Pannese
     - togo: 37.737585 km
-      made: 32.123315 km
+      made: 46.723315 km
   - - - '125'
       - Larry Bunner
     - togo: 45.956286 km
-      made: 23.904614 km
+      made: 38.504614 km
   - - - '146'
       - Peter Kelley
     - togo: 56.105366 km
-      made: 13.755534 km
+      made: 28.355534 km
   - - - '118'
       - Ingo Heilmann
     - togo: 56.173805 km
-      made: 13.687095 km
+      made: 28.287095 km
   - - - '116'
       - Jeffery Bohl
     - togo: 63.251640 km
-      made: 6.609260 km
+      made: 21.209260 km
   - - - '140'
       - Bill Vickery
     - togo: 67.038840 km
-      made: 2.822060 km
+      made: 17.422060 km
   - - - '126'
       - Jeff Kannard
     - togo: 72.577493 km
-      made: -2.716593 km
+      made: 11.883407 km
   - - - '134'
       - Kinsley Sykes
     - togo: 72.589466 km
-      made: -2.728566 km
+      made: 11.871434 km
   - - - '141'
       - Patrick Halfhill
     - togo: 72.662895 km
-      made: -2.801995 km
+      made: 11.798005 km
   - - - '145'
       - Roger Irby
     - togo: 72.675812 km
-      made: -2.814912 km
+      made: 11.785088 km

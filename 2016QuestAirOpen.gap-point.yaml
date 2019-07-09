@@ -143,22 +143,22 @@ validityWorking:
     gsBestTime: 1.612827 h
     nominalDistance: 60.0 km
     reachMax:
-      extra: 69.860900 km
-      flown: 69.860900 km
+      extra: 84.460900 km
+      flown: 84.460900 km
   launch:
     nominalLaunch: 1
     flying: 40
     present: 40
   distance:
-    sum: 1855.0 km
+    sum: 2413.0 km
     flying: 40
-    area: 33.98609
+    area: 35.44609
     nominalGoal: 0.2
     nominalDistance: 60.0 km
     minimumDistance: 5.000 km
     reachMax:
-      extra: 69.860900 km
-      flown: 69.860900 km
+      extra: 84.460900 km
+      flown: 84.460900 km
   stop: null
 validity:
 - time: 1
@@ -7009,56 +7009,56 @@ score:
 - - - - '138'
       - Jonny Durand
     - place: '1'
-      total: 851
+      total: 884
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 33.1
         arrival: 72.5
         time: 406.2
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:24:15.42038573244Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T19:56:46.17616819189Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 1.541877 h
         gsElapsed: 1.612827 h
-        ssVelocity: 24.43 km / h
-        gsVelocity: 23.36 km / h
+        ssVelocity: 45.31 km / h
+        gsVelocity: 43.32 km / h
       stoppedAlt: null
   - - - '142'
       - John Simon
     - place: '2'
-      total: 772
+      total: 802
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 30
         arrival: 60.3
         time: 339.9
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:24:38.073523381896Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T20:01:47.56348426419Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 1.619303 h
         gsElapsed: 1.696545 h
-        ssVelocity: 23.27 km / h
-        gsVelocity: 22.21 km / h
+        ssVelocity: 43.14 km / h
+        gsVelocity: 41.18 km / h
       stoppedAlt: null
   - - - '101'
       - Davis Straub
@@ -7073,347 +7073,401 @@ score:
         arrival: 66.1
         time: 230.2
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:00:22.913716658125Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T19:58:30.175879274408Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 1.968684 h
         gsElapsed: 1.975049 h
-        ssVelocity: 19.14 km / h
-        gsVelocity: 19.08 km / h
+        ssVelocity: 35.49 km / h
+        gsVelocity: 35.37 km / h
       stoppedAlt: null
   - - - '132'
       - James Stinnett
     - place: '4'
-      total: 693
+      total: 711
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 17.7
         arrival: 41.2
         time: 279.4
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:22:13.20176401366Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T20:10:03.23863138346Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 1.797232 h
         gsElapsed: 1.834233 h
-        ssVelocity: 20.96 km / h
-        gsVelocity: 20.54 km / h
+        ssVelocity: 38.87 km / h
+        gsVelocity: 38.09 km / h
       stoppedAlt: null
   - - - '121'
       - Oleg Bondarchuk
     - place: '5'
-      total: 684
+      total: 703
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 47.6
+        leading: 65.8
         arrival: 54.8
         time: 209.7
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:00:33.20306290078Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:02:24.63663614713Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.030954 h
         gsElapsed: 2.040177 h
-        ssVelocity: 18.55 km / h
-        gsVelocity: 18.47 km / h
+        ssVelocity: 34.40 km / h
+        gsVelocity: 34.24 km / h
       stoppedAlt: null
   - - - '104'
       - Christian Pollet
     - place: '6'
-      total: 663
+      total: 679
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 55.6
+        leading: 71.1
         arrival: 49.9
         time: 185.2
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:00:21.627494769526Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:07:20.137220631977Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.116253 h
         gsElapsed: 2.122260 h
-        ssVelocity: 17.80 km / h
-        gsVelocity: 17.75 km / h
+        ssVelocity: 33.01 km / h
+        gsVelocity: 32.92 km / h
       stoppedAlt: null
   - - - '128'
       - Zac Majors
     - place: '7'
-      total: 635
+      total: 656
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 21.6
         arrival: 34.1
         time: 228.2
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:24:28.722099668306Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T20:18:52.53672018051Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 1.906615 h
         gsElapsed: 1.981260 h
-        ssVelocity: 19.76 km / h
-        gsVelocity: 19.02 km / h
+        ssVelocity: 36.64 km / h
+        gsVelocity: 35.26 km / h
       stoppedAlt: null
   - - - '131'
       - Robin Hamilton
     - place: '8'
-      total: 618
+      total: 644
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 24.3
+        leading: 50.4
         arrival: 45.3
         time: 175.5
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:02:45.645069746404Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:09:22.78044312254Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.110315 h
         gsElapsed: 2.156328 h
-        ssVelocity: 17.85 km / h
-        gsVelocity: 17.47 km / h
+        ssVelocity: 33.10 km / h
+        gsVelocity: 32.40 km / h
       stoppedAlt: null
   - - - '111'
       - Patrick Kruse
     - place: '9'
-      total: 612
+      total: 636
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 29.9
+        leading: 54.1
         arrival: 37.5
         time: 172.1
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:00:51.98224049101Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:10:06.476183803775Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.154026 h
         gsElapsed: 2.168466 h
-        ssVelocity: 17.49 km / h
-        gsVelocity: 17.37 km / h
+        ssVelocity: 32.43 km / h
+        gsVelocity: 32.22 km / h
       stoppedAlt: null
   - - - '120'
       - Mike Glennon
     - place: '10'
+      total: 593
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 186.179
+        distance: 372.359
+        leading: 66.9
+        arrival: 28.4
+        time: 125
+        reach: 186.179
+      landedMade: 84.461 km
+      reach:
+        extra: 84.461 km
+        flown: 84.461 km
+      velocity:
+        ss: 2016-05-13T18:02:34.957574807092Z
+        gs: 2016-05-13T18:00:00Z
+        es: 2016-05-13T20:20:39.047617218704Z
+        ssDistance: 69.861 km
+        ssElapsed: 2.301136 h
+        gsElapsed: 2.344180 h
+        ssVelocity: 30.36 km / h
+        gsVelocity: 29.80 km / h
+      stoppedAlt: null
+  - - - '135'
+      - Misael Rosalez
+    - place: '11'
+      total: 587
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 186.179
+        distance: 372.359
+        leading: 65.6
+        arrival: 26
+        time: 123.4
+        reach: 186.179
+      landedMade: 84.461 km
+      reach:
+        extra: 84.461 km
+        flown: 84.461 km
+      velocity:
+        ss: 2016-05-13T18:00:28.751041588886Z
+        gs: 2016-05-13T18:00:00Z
+        es: 2016-05-13T20:21:01.740550324042Z
+        ssDistance: 69.861 km
+        ssElapsed: 2.342497 h
+        gsElapsed: 2.350483 h
+        ssVelocity: 29.82 km / h
+        gsVelocity: 29.72 km / h
+      stoppedAlt: null
+  - - - '103'
+      - Matt Christensen
+    - place: '12'
       total: 575
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 49.3
-        arrival: 28.4
-        time: 125
-        reach: 186.179
-      landedMade: 69.861 km
-      reach:
-        extra: 69.861 km
-        flown: 69.861 km
-      velocity:
-        ss: 2016-05-13T18:02:34.957574807092Z
-        gs: 2016-05-13T18:00:00Z
-        es: 2016-05-13T20:20:39.047617218704Z
-        ssDistance: 37.674 km
-        ssElapsed: 2.301136 h
-        gsElapsed: 2.344180 h
-        ssVelocity: 16.37 km / h
-        gsVelocity: 16.07 km / h
-      stoppedAlt: null
-  - - - '135'
-      - Misael Rosalez
-    - place: '11'
-      total: 569
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 186.179
-        distance: 372.359
-        leading: 47.3
-        arrival: 26
-        time: 123.4
-        reach: 186.179
-      landedMade: 69.861 km
-      reach:
-        extra: 69.861 km
-        flown: 69.861 km
-      velocity:
-        ss: 2016-05-13T18:00:28.751041588886Z
-        gs: 2016-05-13T18:00:00Z
-        es: 2016-05-13T20:21:01.740550324042Z
-        ssDistance: 37.674 km
-        ssElapsed: 2.342497 h
-        gsElapsed: 2.350483 h
-        ssVelocity: 16.08 km / h
-        gsVelocity: 16.03 km / h
-      stoppedAlt: null
-  - - - '103'
-      - Matt Christensen
-    - place: '12'
-      total: 557
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 186.179
-        distance: 372.359
-        leading: 48.3
+        leading: 66.3
         arrival: 23.9
         time: 112.5
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:00:27.137254248145Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:23:37.265158282964Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.386147 h
         gsElapsed: 2.393685 h
-        ssVelocity: 15.79 km / h
-        gsVelocity: 15.74 km / h
+        ssVelocity: 29.28 km / h
+        gsVelocity: 29.19 km / h
       stoppedAlt: null
   - - - '106'
       - Fabiano Nahoum
     - place: '13'
-      total: 544
+      total: 559
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 14.3
         arrival: 19.3
         time: 152.8
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:24:38.73570307131Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T20:34:18.86570163108Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.161147 h
         gsElapsed: 2.238574 h
-        ssVelocity: 17.43 km / h
-        gsVelocity: 16.83 km / h
+        ssVelocity: 32.33 km / h
+        gsVelocity: 31.21 km / h
       stoppedAlt: null
   - - - '110'
       - Cory Barnwell
-    - place: 14=
-      total: 515
+    - place: '14'
+      total: 539
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 32.2
+        leading: 55.6
         arrival: 22.1
         time: 88.6
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:00:24.267590966621Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:29:26.969427196027Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.484084 h
         gsElapsed: 2.490825 h
-        ssVelocity: 15.17 km / h
-        gsVelocity: 15.13 km / h
+        ssVelocity: 28.12 km / h
+        gsVelocity: 28.05 km / h
       stoppedAlt: null
   - - - '102'
       - Richard lovelace
-    - place: 14=
-      total: 515
+    - place: '15'
+      total: 524
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 8.7
         arrival: 18.1
         time: 124.6
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:20:58.09322455501Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T20:40:44.923448158974Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.329675 h
         gsElapsed: 2.345812 h
-        ssVelocity: 16.17 km / h
-        gsVelocity: 16.06 km / h
+        ssVelocity: 29.99 km / h
+        gsVelocity: 29.78 km / h
+      stoppedAlt: null
+  - - - '113'
+      - Olav Opsanger
+    - place: 16=
+      total: 507
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 186.179
+        distance: 372.359
+        leading: 17.1
+        arrival: 16.5
+        time: 101.5
+        reach: 186.179
+      landedMade: 84.461 km
+      reach:
+        extra: 84.461 km
+        flown: 84.461 km
+      velocity:
+        ss: 2016-05-13T18:24:35.6510025125Z
+        gs: 2016-05-13T18:20:00Z
+        es: 2016-05-13T20:46:16.177503936695Z
+        ssDistance: 69.861 km
+        ssElapsed: 2.361257 h
+        gsElapsed: 2.437827 h
+        ssVelocity: 29.59 km / h
+        gsVelocity: 28.66 km / h
+      stoppedAlt: null
+  - - - '127'
+      - Gerry Pesavento
+    - place: 16=
+      total: 507
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 186.179
+        distance: 372.359
+        leading: 37
+        arrival: 20.6
+        time: 77
+        reach: 186.179
+      landedMade: 84.461 km
+      reach:
+        extra: 84.461 km
+        flown: 84.461 km
+      velocity:
+        ss: 2016-05-13T18:00:56.340929402988Z
+        gs: 2016-05-13T18:00:00Z
+        es: 2016-05-13T20:32:21.038383168744Z
+        ssDistance: 69.861 km
+        ssElapsed: 2.523527 h
+        gsElapsed: 2.539177 h
+        ssVelocity: 27.68 km / h
+        gsVelocity: 27.51 km / h
       stoppedAlt: null
   - - - '115'
       - Andrew Hollidge
-    - place: '16'
+    - place: '18'
       total: 494
       penalties:
       - penalty-points: 16
@@ -7425,253 +7479,199 @@ score:
         arrival: 31.1
         time: 130.6
         reach: 161.702
-      landedMade: 60.676 km
+      landedMade: 73.357 km
       reach:
-        extra: 60.676 km
-        flown: 60.676 km
+        extra: 73.357 km
+        flown: 73.357 km
       velocity:
         ss: 2016-05-13T18:00:00Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:19:21Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.322500 h
         gsElapsed: 2.322500 h
-        ssVelocity: 16.22 km / h
-        gsVelocity: 16.22 km / h
-      stoppedAlt: null
-  - - - '113'
-      - Olav Opsanger
-    - place: '17'
-      total: 490
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 186.179
-        distance: 372.359
-        leading: 0
-        arrival: 16.5
-        time: 101.5
-        reach: 186.179
-      landedMade: 69.861 km
-      reach:
-        extra: 69.861 km
-        flown: 69.861 km
-      velocity:
-        ss: 2016-05-13T18:24:35.6510025125Z
-        gs: 2016-05-13T18:20:00Z
-        es: 2016-05-13T20:46:16.177503936695Z
-        ssDistance: 37.674 km
-        ssElapsed: 2.361257 h
-        gsElapsed: 2.437827 h
-        ssVelocity: 15.96 km / h
-        gsVelocity: 15.45 km / h
-      stoppedAlt: null
-  - - - '127'
-      - Gerry Pesavento
-    - place: '18'
-      total: 474
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 186.179
-        distance: 372.359
-        leading: 4.1
-        arrival: 20.6
-        time: 77
-        reach: 186.179
-      landedMade: 69.861 km
-      reach:
-        extra: 69.861 km
-        flown: 69.861 km
-      velocity:
-        ss: 2016-05-13T18:00:56.340929402988Z
-        gs: 2016-05-13T18:00:00Z
-        es: 2016-05-13T20:32:21.038383168744Z
-        ssDistance: 37.674 km
-        ssElapsed: 2.523527 h
-        gsElapsed: 2.539177 h
-        ssVelocity: 14.93 km / h
-        gsVelocity: 14.84 km / h
+        ssVelocity: 30.08 km / h
+        gsVelocity: 30.08 km / h
       stoppedAlt: null
   - - - '123'
       - JD Guillemette
     - place: '19'
-      total: 461
+      total: 469
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 7.8
         arrival: 15.9
         time: 73.1
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:24:43.521913665788Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T20:53:21.705824103029Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.477273 h
         gsElapsed: 2.556029 h
-        ssVelocity: 15.21 km / h
-        gsVelocity: 14.74 km / h
+        ssVelocity: 28.20 km / h
+        gsVelocity: 27.33 km / h
       stoppedAlt: null
   - - - '114'
       - Mick Howard
     - place: '20'
-      total: 437
+      total: 444
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 7.1
         arrival: 15.1
         time: 49.6
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:22:05.907798269898Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T20:59:27.322332895536Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.622615 h
         gsElapsed: 2.657590 h
-        ssVelocity: 14.37 km / h
-        gsVelocity: 14.18 km / h
+        ssVelocity: 26.64 km / h
+        gsVelocity: 26.29 km / h
       stoppedAlt: null
   - - - '150'
       - Claudia Mejia
     - place: '21'
-      total: 416
+      total: 442
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 26.2
         arrival: 17.2
         time: 26.7
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:05:01.955681170947Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:45:35.458982187949Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.675973 h
         gsElapsed: 2.759850 h
-        ssVelocity: 14.08 km / h
-        gsVelocity: 13.65 km / h
+        ssVelocity: 26.11 km / h
+        gsVelocity: 25.31 km / h
       stoppedAlt: null
   - - - '133'
       - Olav Olsen
     - place: '22'
-      total: 390
+      total: 423
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 2.7
+        leading: 36.1
         arrival: 14.6
         time: 0
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:00:16.832986167314Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T21:26:55.410869787082Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 3.444049 h
         gsElapsed: 3.448725 h
-        ssVelocity: 10.94 km / h
-        gsVelocity: 10.92 km / h
+        ssVelocity: 20.28 km / h
+        gsVelocity: 20.26 km / h
       stoppedAlt: null
   - - - '119'
       - Bart Weghorst
     - place: '23'
-      total: 388
+      total: 400
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 12.6
         arrival: 15.4
         time: 0
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:12:05.096689738852Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:58:17.10846668492Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.770003 h
         gsElapsed: 2.971419 h
-        ssVelocity: 13.60 km / h
-        gsVelocity: 12.68 km / h
+        ssVelocity: 25.22 km / h
+        gsVelocity: 23.51 km / h
       stoppedAlt: null
   - - - '117'
       - Robert Dallas
     - place: '24'
-      total: 387
+      total: 392
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 4.9
         arrival: 14.8
         time: 0
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:03:09.685473058068Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T21:10:28.986187270353Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 3.122028 h
         gsElapsed: 3.174718 h
-        ssVelocity: 12.07 km / h
-        gsVelocity: 11.87 km / h
+        ssVelocity: 22.38 km / h
+        gsVelocity: 22.01 km / h
       stoppedAlt: null
   - - - '144'
       - Tom Lanning
     - place: '25'
-      total: 319
+      total: 366
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 175.416
-        distance: 315.334
-        leading: 3.6
+        effort: 181.16
+        distance: 329.075
+        leading: 36.6
         arrival: 0
         time: 0
-        reach: 139.918
-      landedMade: 52.236 km
+        reach: 147.915
+      landedMade: 66.836 km
       reach:
-        extra: 52.502 km
-        flown: 52.502 km
+        extra: 67.102 km
+        flown: 67.102 km
       velocity:
         ss: 2016-05-13T18:01:04.329245237204Z
         gs: 2016-05-13T18:00:00Z
@@ -7682,50 +7682,23 @@ score:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 22.000 m
-  - - - '112'
-      - Sergey Kataev
-    - place: 26=
-      total: 308
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 171.828
-        distance: 308.204
-        leading: 0
-        arrival: 0
-        time: 0
-        reach: 136.376
-      landedMade: 50.820 km
-      reach:
-        extra: 51.173 km
-        flown: 51.173 km
-      velocity:
-        ss: 2016-05-13T18:03:33.837039182034Z
-        gs: 2016-05-13T18:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      stoppedAlt: 68.000 m
   - - - '139'
       - Tullio Gervasoni
-    - place: 26=
-      total: 308
+    - place: '26'
+      total: 349
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 169.138
-        distance: 307.56
-        leading: 0
+        effort: 177.376
+        distance: 324.054
+        leading: 25.2
         arrival: 0
         time: 0
-        reach: 138.423
-      landedMade: 50.129 km
+        reach: 146.678
+      landedMade: 64.729 km
       reach:
-        extra: 51.941 km
-        flown: 51.941 km
+        extra: 66.541 km
+        flown: 66.541 km
       velocity:
         ss: 2016-05-13T18:00:20.20473886517Z
         gs: 2016-05-13T18:00:00Z
@@ -7736,23 +7709,50 @@ score:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 38.000 m
-  - - - '108'
-      - Raul Guerra
-    - place: '28'
-      total: 240
+  - - - '112'
+      - Sergey Kataev
+    - place: '27'
+      total: 324
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 130.313
-        distance: 240.063
+        effort: 178.998
+        distance: 323.983
         leading: 0
         arrival: 0
         time: 0
-        reach: 109.75
-      landedMade: 40.649 km
+        reach: 144.985
+      landedMade: 65.420 km
       reach:
-        extra: 41.182 km
-        flown: 41.182 km
+        extra: 65.773 km
+        flown: 65.773 km
+      velocity:
+        ss: 2016-05-13T18:03:33.837039182034Z
+        gs: 2016-05-13T18:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 68.000 m
+  - - - '108'
+      - Raul Guerra
+    - place: '28'
+      total: 276
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 150.503
+        distance: 273.465
+        leading: 3
+        arrival: 0
+        time: 0
+        reach: 122.962
+      landedMade: 55.249 km
+      reach:
+        extra: 55.782 km
+        flown: 55.782 km
       velocity:
         ss: 2016-05-13T18:00:18.51191853935Z
         gs: 2016-05-13T18:00:00Z
@@ -7766,20 +7766,20 @@ score:
   - - - '124'
       - Patrick Pannese
     - place: 29=
-      total: 199
+      total: 237
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 112.246
-        distance: 198.888
+        effort: 133.592
+        distance: 237.44
         leading: 0
         arrival: 0
         time: 0
-        reach: 86.642
-      landedMade: 32.123 km
+        reach: 103.848
+      landedMade: 46.723 km
       reach:
-        extra: 32.511 km
-        flown: 32.511 km
+        extra: 47.111 km
+        flown: 47.111 km
       velocity:
         ss: null
         gs: null
@@ -7793,20 +7793,20 @@ score:
   - - - '129'
       - Mike Jefferson
     - place: 29=
-      total: 199
+      total: 237
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 112.246
-        distance: 198.525
+        effort: 133.592
+        distance: 237.14
         leading: 0
         arrival: 0
         time: 0
-        reach: 86.279
-      landedMade: 32.165 km
+        reach: 103.548
+      landedMade: 46.765 km
       reach:
-        extra: 32.375 km
-        flown: 32.375 km
+        extra: 46.975 km
+        flown: 46.975 km
       velocity:
         ss: 2016-05-13T18:05:39.90013354731Z
         gs: 2016-05-13T18:00:00Z
@@ -7819,21 +7819,21 @@ score:
       stoppedAlt: 25.000 m
   - - - '143'
       - Anna Eppink
-    - place: '31'
-      total: 198
+    - place: 29=
+      total: 237
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 112.246
-        distance: 198.464
+        effort: 133.592
+        distance: 237.089
         leading: 0
         arrival: 0
         time: 0
-        reach: 86.218
-      landedMade: 32.166 km
+        reach: 103.497
+      landedMade: 46.766 km
       reach:
-        extra: 32.352 km
-        flown: 32.352 km
+        extra: 46.952 km
+        flown: 46.952 km
       velocity:
         ss: 2016-05-13T18:54:46.433736543185Z
         gs: 2016-05-13T18:40:00Z
@@ -7847,20 +7847,20 @@ score:
   - - - '125'
       - Larry Bunner
     - place: '32'
-      total: 140
+      total: 195
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 75.856
-        distance: 139.855
+        effort: 109.654
+        distance: 194.774
         leading: 0
         arrival: 0
         time: 0
-        reach: 64
-      landedMade: 23.905 km
+        reach: 85.12
+      landedMade: 38.505 km
       reach:
-        extra: 24.015 km
-        flown: 24.015 km
+        extra: 38.615 km
+        flown: 38.615 km
       velocity:
         ss: 2016-05-13T18:00:21.67774967682Z
         gs: 2016-05-13T18:00:00Z
@@ -7874,20 +7874,20 @@ score:
   - - - '146'
       - Peter Kelley
     - place: '33'
-      total: 85
+      total: 150
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 47.025
-        distance: 85.105
+        effort: 86.256
+        distance: 149.936
         leading: 0
         arrival: 0
         time: 0
-        reach: 38.08
-      landedMade: 13.756 km
+        reach: 63.681
+      landedMade: 28.356 km
       reach:
-        extra: 14.289 km
-        flown: 14.289 km
+        extra: 28.889 km
+        flown: 28.889 km
       velocity:
         ss: 2016-05-13T18:54:37.604933131519Z
         gs: 2016-05-13T18:40:00Z
@@ -7901,20 +7901,20 @@ score:
   - - - '118'
       - Ingo Heilmann
     - place: '34'
-      total: 84
+      total: 149
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 46.769
-        distance: 84.095
+        effort: 86.101
+        distance: 149.158
         leading: 0
         arrival: 0
         time: 0
-        reach: 37.326
-      landedMade: 13.687 km
+        reach: 63.057
+      landedMade: 28.287 km
       reach:
-        extra: 14.006 km
-        flown: 14.006 km
+        extra: 28.606 km
+        flown: 28.606 km
       velocity:
         ss: 2016-05-13T18:00:44.710968943262Z
         gs: 2016-05-13T18:00:00Z
@@ -7928,20 +7928,20 @@ score:
   - - - '116'
       - Jeffery Bohl
     - place: '35'
-      total: 45
+      total: 119
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 26.268
-        distance: 44.928
+        effort: 71.738
+        distance: 119.356
         leading: 0
         arrival: 0
         time: 0
-        reach: 18.66
-      landedMade: 6.609 km
+        reach: 47.618
+      landedMade: 21.209 km
       reach:
-        extra: 7.002 km
-        flown: 7.002 km
+        extra: 21.602 km
+        flown: 21.602 km
       velocity:
         ss: 2016-05-13T18:01:28.311733486909Z
         gs: 2016-05-13T18:00:00Z
@@ -7955,20 +7955,20 @@ score:
   - - - '140'
       - Bill Vickery
     - place: '36'
-      total: 25
+      total: 102
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 11.66
-        distance: 24.985
+        effort: 62.935
+        distance: 102.344
         leading: 0
         arrival: 0
         time: 0
-        reach: 13.325
-      landedMade: 2.822 km
+        reach: 39.409
+      landedMade: 17.422 km
       reach:
-        extra: 3.278 km
-        flown: 3.278 km
+        extra: 17.878 km
+        flown: 17.878 km
       velocity:
         ss: 2016-05-13T18:34:25.457881252408Z
         gs: 2016-05-13T18:20:00Z
@@ -7979,104 +7979,23 @@ score:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 3.000 m
-  - - - '126'
-      - Jeff Kannard
-    - place: 37=
-      total: 14
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0.769
-        distance: 14.094
-        leading: 0
-        arrival: 0
-        time: 0
-        reach: 13.325
-      landedMade: -2.717 km
-      reach:
-        extra: -1.422 km
-        flown: -1.422 km
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      stoppedAlt: 14.000 m
-  - - - '134'
-      - Kinsley Sykes
-    - place: 37=
-      total: 14
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0.769
-        distance: 14.094
-        leading: 0
-        arrival: 0
-        time: 0
-        reach: 13.325
-      landedMade: -2.729 km
-      reach:
-        extra: -1.181 km
-        flown: -1.181 km
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      stoppedAlt: 15.000 m
-  - - - '141'
-      - Patrick Halfhill
-    - place: 37=
-      total: 14
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0.769
-        distance: 14.094
-        leading: 0
-        arrival: 0
-        time: 0
-        reach: 13.325
-      landedMade: -2.802 km
-      reach:
-        extra: -0.898 km
-        flown: -0.898 km
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      stoppedAlt: 4.000 m
   - - - '145'
       - Roger Irby
     - place: 37=
-      total: 14
+      total: 78
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.769
-        distance: 14.094
+        effort: 47.722
+        distance: 78.094
         leading: 0
         arrival: 0
         time: 0
-        reach: 13.325
-      landedMade: -2.815 km
+        reach: 30.371
+      landedMade: 11.785 km
       reach:
-        extra: -0.822 km
-        flown: -0.822 km
+        extra: 13.778 km
+        flown: 13.778 km
       velocity:
         ss: null
         gs: null
@@ -8087,6 +8006,87 @@ score:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 0.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - place: 37=
+      total: 78
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 47.722
+        distance: 77.926
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 30.203
+      landedMade: 11.798 km
+      reach:
+        extra: 13.702 km
+        flown: 13.702 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 4.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - place: 37=
+      total: 78
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 48.031
+        distance: 77.611
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 29.58
+      landedMade: 11.871 km
+      reach:
+        extra: 13.419 km
+        flown: 13.419 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 15.000 m
+  - - - '126'
+      - Jeff Kannard
+    - place: '40'
+      total: 77
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 48.031
+        distance: 77.08
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 29.048
+      landedMade: 11.883 km
+      reach:
+        extra: 13.178 km
+        flown: 13.178 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 14.000 m
 scoreDf:
 - - - - '138'
       - Jonny Durand
@@ -14787,56 +14787,56 @@ scoreDf:
 - - - - '138'
       - Jonny Durand
     - place: '1'
-      total: 851
+      total: 884
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 33.1
         arrival: 72.5
         time: 406.2
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:24:15.42038573244Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T19:56:46.17616819189Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 1.541877 h
         gsElapsed: 1.612827 h
-        ssVelocity: 24.43 km / h
-        gsVelocity: 23.36 km / h
+        ssVelocity: 45.31 km / h
+        gsVelocity: 43.32 km / h
       stoppedAlt: null
   - - - '142'
       - John Simon
     - place: '2'
-      total: 772
+      total: 802
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 30
         arrival: 60.3
         time: 339.9
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:24:38.073523381896Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T20:01:47.56348426419Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 1.619303 h
         gsElapsed: 1.696545 h
-        ssVelocity: 23.27 km / h
-        gsVelocity: 22.21 km / h
+        ssVelocity: 43.14 km / h
+        gsVelocity: 41.18 km / h
       stoppedAlt: null
   - - - '101'
       - Davis Straub
@@ -14851,577 +14851,577 @@ scoreDf:
         arrival: 66.1
         time: 230.2
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:00:22.913716658125Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T19:58:30.175879274408Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 1.968684 h
         gsElapsed: 1.975049 h
-        ssVelocity: 19.14 km / h
-        gsVelocity: 19.08 km / h
+        ssVelocity: 35.49 km / h
+        gsVelocity: 35.37 km / h
       stoppedAlt: null
   - - - '132'
       - James Stinnett
     - place: '4'
-      total: 693
+      total: 711
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 17.7
         arrival: 41.2
         time: 279.4
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:22:13.20176401366Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T20:10:03.23863138346Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 1.797232 h
         gsElapsed: 1.834233 h
-        ssVelocity: 20.96 km / h
-        gsVelocity: 20.54 km / h
+        ssVelocity: 38.87 km / h
+        gsVelocity: 38.09 km / h
       stoppedAlt: null
   - - - '121'
       - Oleg Bondarchuk
     - place: '5'
-      total: 684
+      total: 703
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 47.6
+        leading: 65.8
         arrival: 54.8
         time: 209.7
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:00:33.20306290078Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:02:24.63663614713Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.030954 h
         gsElapsed: 2.040177 h
-        ssVelocity: 18.55 km / h
-        gsVelocity: 18.47 km / h
+        ssVelocity: 34.40 km / h
+        gsVelocity: 34.24 km / h
       stoppedAlt: null
   - - - '104'
       - Christian Pollet
     - place: '6'
-      total: 663
+      total: 679
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 55.6
+        leading: 71.1
         arrival: 49.9
         time: 185.2
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:00:21.627494769526Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:07:20.137220631977Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.116253 h
         gsElapsed: 2.122260 h
-        ssVelocity: 17.80 km / h
-        gsVelocity: 17.75 km / h
+        ssVelocity: 33.01 km / h
+        gsVelocity: 32.92 km / h
       stoppedAlt: null
   - - - '128'
       - Zac Majors
     - place: '7'
-      total: 635
+      total: 656
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 21.6
         arrival: 34.1
         time: 228.2
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:24:28.722099668306Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T20:18:52.53672018051Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 1.906615 h
         gsElapsed: 1.981260 h
-        ssVelocity: 19.76 km / h
-        gsVelocity: 19.02 km / h
+        ssVelocity: 36.64 km / h
+        gsVelocity: 35.26 km / h
       stoppedAlt: null
   - - - '131'
       - Robin Hamilton
     - place: '8'
-      total: 618
+      total: 644
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 24.3
+        leading: 50.4
         arrival: 45.3
         time: 175.5
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:02:45.645069746404Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:09:22.78044312254Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.110315 h
         gsElapsed: 2.156328 h
-        ssVelocity: 17.85 km / h
-        gsVelocity: 17.47 km / h
+        ssVelocity: 33.10 km / h
+        gsVelocity: 32.40 km / h
       stoppedAlt: null
   - - - '111'
       - Patrick Kruse
     - place: '9'
-      total: 612
+      total: 636
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 29.9
+        leading: 54.1
         arrival: 37.5
         time: 172.1
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:00:51.98224049101Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:10:06.476183803775Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.154026 h
         gsElapsed: 2.168466 h
-        ssVelocity: 17.49 km / h
-        gsVelocity: 17.37 km / h
+        ssVelocity: 32.43 km / h
+        gsVelocity: 32.22 km / h
       stoppedAlt: null
   - - - '120'
       - Mike Glennon
     - place: '10'
+      total: 593
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 186.179
+        distance: 372.359
+        leading: 66.9
+        arrival: 28.4
+        time: 125
+        reach: 186.179
+      landedMade: 84.461 km
+      reach:
+        extra: 84.461 km
+        flown: 84.461 km
+      velocity:
+        ss: 2016-05-13T18:02:34.957574807092Z
+        gs: 2016-05-13T18:00:00Z
+        es: 2016-05-13T20:20:39.047617218704Z
+        ssDistance: 69.861 km
+        ssElapsed: 2.301136 h
+        gsElapsed: 2.344180 h
+        ssVelocity: 30.36 km / h
+        gsVelocity: 29.80 km / h
+      stoppedAlt: null
+  - - - '135'
+      - Misael Rosalez
+    - place: '11'
+      total: 587
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 186.179
+        distance: 372.359
+        leading: 65.6
+        arrival: 26
+        time: 123.4
+        reach: 186.179
+      landedMade: 84.461 km
+      reach:
+        extra: 84.461 km
+        flown: 84.461 km
+      velocity:
+        ss: 2016-05-13T18:00:28.751041588886Z
+        gs: 2016-05-13T18:00:00Z
+        es: 2016-05-13T20:21:01.740550324042Z
+        ssDistance: 69.861 km
+        ssElapsed: 2.342497 h
+        gsElapsed: 2.350483 h
+        ssVelocity: 29.82 km / h
+        gsVelocity: 29.72 km / h
+      stoppedAlt: null
+  - - - '103'
+      - Matt Christensen
+    - place: '12'
       total: 575
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 49.3
-        arrival: 28.4
-        time: 125
-        reach: 186.179
-      landedMade: 69.861 km
-      reach:
-        extra: 69.861 km
-        flown: 69.861 km
-      velocity:
-        ss: 2016-05-13T18:02:34.957574807092Z
-        gs: 2016-05-13T18:00:00Z
-        es: 2016-05-13T20:20:39.047617218704Z
-        ssDistance: 37.674 km
-        ssElapsed: 2.301136 h
-        gsElapsed: 2.344180 h
-        ssVelocity: 16.37 km / h
-        gsVelocity: 16.07 km / h
-      stoppedAlt: null
-  - - - '135'
-      - Misael Rosalez
-    - place: '11'
-      total: 569
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 186.179
-        distance: 372.359
-        leading: 47.3
-        arrival: 26
-        time: 123.4
-        reach: 186.179
-      landedMade: 69.861 km
-      reach:
-        extra: 69.861 km
-        flown: 69.861 km
-      velocity:
-        ss: 2016-05-13T18:00:28.751041588886Z
-        gs: 2016-05-13T18:00:00Z
-        es: 2016-05-13T20:21:01.740550324042Z
-        ssDistance: 37.674 km
-        ssElapsed: 2.342497 h
-        gsElapsed: 2.350483 h
-        ssVelocity: 16.08 km / h
-        gsVelocity: 16.03 km / h
-      stoppedAlt: null
-  - - - '103'
-      - Matt Christensen
-    - place: '12'
-      total: 557
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 186.179
-        distance: 372.359
-        leading: 48.3
+        leading: 66.3
         arrival: 23.9
         time: 112.5
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:00:27.137254248145Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:23:37.265158282964Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.386147 h
         gsElapsed: 2.393685 h
-        ssVelocity: 15.79 km / h
-        gsVelocity: 15.74 km / h
+        ssVelocity: 29.28 km / h
+        gsVelocity: 29.19 km / h
       stoppedAlt: null
   - - - '106'
       - Fabiano Nahoum
     - place: '13'
-      total: 544
+      total: 559
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 14.3
         arrival: 19.3
         time: 152.8
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:24:38.73570307131Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T20:34:18.86570163108Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.161147 h
         gsElapsed: 2.238574 h
-        ssVelocity: 17.43 km / h
-        gsVelocity: 16.83 km / h
+        ssVelocity: 32.33 km / h
+        gsVelocity: 31.21 km / h
       stoppedAlt: null
   - - - '110'
       - Cory Barnwell
-    - place: 14=
-      total: 515
+    - place: '14'
+      total: 539
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 32.2
+        leading: 55.6
         arrival: 22.1
         time: 88.6
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:00:24.267590966621Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:29:26.969427196027Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.484084 h
         gsElapsed: 2.490825 h
-        ssVelocity: 15.17 km / h
-        gsVelocity: 15.13 km / h
+        ssVelocity: 28.12 km / h
+        gsVelocity: 28.05 km / h
       stoppedAlt: null
   - - - '102'
       - Richard lovelace
-    - place: 14=
-      total: 515
+    - place: '15'
+      total: 524
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 8.7
         arrival: 18.1
         time: 124.6
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:20:58.09322455501Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T20:40:44.923448158974Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.329675 h
         gsElapsed: 2.345812 h
-        ssVelocity: 16.17 km / h
-        gsVelocity: 16.06 km / h
+        ssVelocity: 29.99 km / h
+        gsVelocity: 29.78 km / h
       stoppedAlt: null
   - - - '113'
       - Olav Opsanger
-    - place: '16'
-      total: 490
+    - place: 16=
+      total: 507
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 17.1
         arrival: 16.5
         time: 101.5
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:24:35.6510025125Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T20:46:16.177503936695Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.361257 h
         gsElapsed: 2.437827 h
-        ssVelocity: 15.96 km / h
-        gsVelocity: 15.45 km / h
+        ssVelocity: 29.59 km / h
+        gsVelocity: 28.66 km / h
       stoppedAlt: null
   - - - '127'
       - Gerry Pesavento
-    - place: '17'
-      total: 474
+    - place: 16=
+      total: 507
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 4.1
+        leading: 37
         arrival: 20.6
         time: 77
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:00:56.340929402988Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:32:21.038383168744Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.523527 h
         gsElapsed: 2.539177 h
-        ssVelocity: 14.93 km / h
-        gsVelocity: 14.84 km / h
+        ssVelocity: 27.68 km / h
+        gsVelocity: 27.51 km / h
       stoppedAlt: null
   - - - '123'
       - JD Guillemette
     - place: '18'
-      total: 461
+      total: 469
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 7.8
         arrival: 15.9
         time: 73.1
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:24:43.521913665788Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T20:53:21.705824103029Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.477273 h
         gsElapsed: 2.556029 h
-        ssVelocity: 15.21 km / h
-        gsVelocity: 14.74 km / h
+        ssVelocity: 28.20 km / h
+        gsVelocity: 27.33 km / h
       stoppedAlt: null
   - - - '114'
       - Mick Howard
     - place: '19'
-      total: 437
+      total: 444
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 7.1
         arrival: 15.1
         time: 49.6
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:22:05.907798269898Z
         gs: 2016-05-13T18:20:00Z
         es: 2016-05-13T20:59:27.322332895536Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.622615 h
         gsElapsed: 2.657590 h
-        ssVelocity: 14.37 km / h
-        gsVelocity: 14.18 km / h
+        ssVelocity: 26.64 km / h
+        gsVelocity: 26.29 km / h
       stoppedAlt: null
   - - - '150'
       - Claudia Mejia
     - place: '20'
-      total: 416
+      total: 442
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 26.2
         arrival: 17.2
         time: 26.7
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:05:01.955681170947Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:45:35.458982187949Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.675973 h
         gsElapsed: 2.759850 h
-        ssVelocity: 14.08 km / h
-        gsVelocity: 13.65 km / h
+        ssVelocity: 26.11 km / h
+        gsVelocity: 25.31 km / h
       stoppedAlt: null
   - - - '133'
       - Olav Olsen
     - place: '21'
-      total: 390
+      total: 423
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 2.7
+        leading: 36.1
         arrival: 14.6
         time: 0
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:00:16.832986167314Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T21:26:55.410869787082Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 3.444049 h
         gsElapsed: 3.448725 h
-        ssVelocity: 10.94 km / h
-        gsVelocity: 10.92 km / h
+        ssVelocity: 20.28 km / h
+        gsVelocity: 20.26 km / h
       stoppedAlt: null
   - - - '119'
       - Bart Weghorst
     - place: '22'
-      total: 388
+      total: 400
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 12.6
         arrival: 15.4
         time: 0
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:12:05.096689738852Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:58:17.10846668492Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.770003 h
         gsElapsed: 2.971419 h
-        ssVelocity: 13.60 km / h
-        gsVelocity: 12.68 km / h
+        ssVelocity: 25.22 km / h
+        gsVelocity: 23.51 km / h
       stoppedAlt: null
   - - - '117'
       - Robert Dallas
     - place: '23'
-      total: 387
+      total: 392
       penalties: []
       penaltyReason: ''
       breakdown:
         effort: 186.179
         distance: 372.359
-        leading: 0
+        leading: 4.9
         arrival: 14.8
         time: 0
         reach: 186.179
-      landedMade: 69.861 km
+      landedMade: 84.461 km
       reach:
-        extra: 69.861 km
-        flown: 69.861 km
+        extra: 84.461 km
+        flown: 84.461 km
       velocity:
         ss: 2016-05-13T18:03:09.685473058068Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T21:10:28.986187270353Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 3.122028 h
         gsElapsed: 3.174718 h
-        ssVelocity: 12.07 km / h
-        gsVelocity: 11.87 km / h
+        ssVelocity: 22.38 km / h
+        gsVelocity: 22.01 km / h
       stoppedAlt: null
   - - - '144'
       - Tom Lanning
     - place: '24'
-      total: 319
+      total: 366
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 175.416
-        distance: 315.334
-        leading: 3.6
+        effort: 181.16
+        distance: 329.075
+        leading: 36.6
         arrival: 0
         time: 0
-        reach: 139.918
-      landedMade: 52.236 km
+        reach: 147.915
+      landedMade: 66.836 km
       reach:
-        extra: 52.502 km
-        flown: 52.502 km
+        extra: 67.102 km
+        flown: 67.102 km
       velocity:
         ss: 2016-05-13T18:01:04.329245237204Z
         gs: 2016-05-13T18:00:00Z
@@ -15432,50 +15432,23 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 22.000 m
-  - - - '112'
-      - Sergey Kataev
-    - place: 25=
-      total: 308
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 171.828
-        distance: 308.204
-        leading: 0
-        arrival: 0
-        time: 0
-        reach: 136.376
-      landedMade: 50.820 km
-      reach:
-        extra: 51.173 km
-        flown: 51.173 km
-      velocity:
-        ss: 2016-05-13T18:03:33.837039182034Z
-        gs: 2016-05-13T18:00:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      stoppedAlt: 68.000 m
   - - - '139'
       - Tullio Gervasoni
-    - place: 25=
-      total: 308
+    - place: '25'
+      total: 349
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 169.138
-        distance: 307.56
-        leading: 0
+        effort: 177.376
+        distance: 324.054
+        leading: 25.2
         arrival: 0
         time: 0
-        reach: 138.423
-      landedMade: 50.129 km
+        reach: 146.678
+      landedMade: 64.729 km
       reach:
-        extra: 51.941 km
-        flown: 51.941 km
+        extra: 66.541 km
+        flown: 66.541 km
       velocity:
         ss: 2016-05-13T18:00:20.20473886517Z
         gs: 2016-05-13T18:00:00Z
@@ -15486,23 +15459,50 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 38.000 m
-  - - - '108'
-      - Raul Guerra
-    - place: '27'
-      total: 240
+  - - - '112'
+      - Sergey Kataev
+    - place: '26'
+      total: 324
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 130.313
-        distance: 240.063
+        effort: 178.998
+        distance: 323.983
         leading: 0
         arrival: 0
         time: 0
-        reach: 109.75
-      landedMade: 40.649 km
+        reach: 144.985
+      landedMade: 65.420 km
       reach:
-        extra: 41.182 km
-        flown: 41.182 km
+        extra: 65.773 km
+        flown: 65.773 km
+      velocity:
+        ss: 2016-05-13T18:03:33.837039182034Z
+        gs: 2016-05-13T18:00:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 68.000 m
+  - - - '108'
+      - Raul Guerra
+    - place: '27'
+      total: 276
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 150.503
+        distance: 273.465
+        leading: 3
+        arrival: 0
+        time: 0
+        reach: 122.962
+      landedMade: 55.249 km
+      reach:
+        extra: 55.782 km
+        flown: 55.782 km
       velocity:
         ss: 2016-05-13T18:00:18.51191853935Z
         gs: 2016-05-13T18:00:00Z
@@ -15516,20 +15516,20 @@ scoreDf:
   - - - '124'
       - Patrick Pannese
     - place: 28=
-      total: 199
+      total: 237
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 112.246
-        distance: 198.888
+        effort: 133.592
+        distance: 237.44
         leading: 0
         arrival: 0
         time: 0
-        reach: 86.642
-      landedMade: 32.123 km
+        reach: 103.848
+      landedMade: 46.723 km
       reach:
-        extra: 32.511 km
-        flown: 32.511 km
+        extra: 47.111 km
+        flown: 47.111 km
       velocity:
         ss: null
         gs: null
@@ -15543,20 +15543,20 @@ scoreDf:
   - - - '129'
       - Mike Jefferson
     - place: 28=
-      total: 199
+      total: 237
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 112.246
-        distance: 198.525
+        effort: 133.592
+        distance: 237.14
         leading: 0
         arrival: 0
         time: 0
-        reach: 86.279
-      landedMade: 32.165 km
+        reach: 103.548
+      landedMade: 46.765 km
       reach:
-        extra: 32.375 km
-        flown: 32.375 km
+        extra: 46.975 km
+        flown: 46.975 km
       velocity:
         ss: 2016-05-13T18:05:39.90013354731Z
         gs: 2016-05-13T18:00:00Z
@@ -15569,21 +15569,21 @@ scoreDf:
       stoppedAlt: 25.000 m
   - - - '143'
       - Anna Eppink
-    - place: '30'
-      total: 198
+    - place: 28=
+      total: 237
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 112.246
-        distance: 198.464
+        effort: 133.592
+        distance: 237.089
         leading: 0
         arrival: 0
         time: 0
-        reach: 86.218
-      landedMade: 32.166 km
+        reach: 103.497
+      landedMade: 46.766 km
       reach:
-        extra: 32.352 km
-        flown: 32.352 km
+        extra: 46.952 km
+        flown: 46.952 km
       velocity:
         ss: 2016-05-13T18:54:46.433736543185Z
         gs: 2016-05-13T18:40:00Z
@@ -15597,20 +15597,20 @@ scoreDf:
   - - - '125'
       - Larry Bunner
     - place: '31'
-      total: 140
+      total: 195
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 75.856
-        distance: 139.855
+        effort: 109.654
+        distance: 194.774
         leading: 0
         arrival: 0
         time: 0
-        reach: 64
-      landedMade: 23.905 km
+        reach: 85.12
+      landedMade: 38.505 km
       reach:
-        extra: 24.015 km
-        flown: 24.015 km
+        extra: 38.615 km
+        flown: 38.615 km
       velocity:
         ss: 2016-05-13T18:00:21.67774967682Z
         gs: 2016-05-13T18:00:00Z
@@ -15624,20 +15624,20 @@ scoreDf:
   - - - '146'
       - Peter Kelley
     - place: '32'
-      total: 85
+      total: 150
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 47.025
-        distance: 85.105
+        effort: 86.256
+        distance: 149.936
         leading: 0
         arrival: 0
         time: 0
-        reach: 38.08
-      landedMade: 13.756 km
+        reach: 63.681
+      landedMade: 28.356 km
       reach:
-        extra: 14.289 km
-        flown: 14.289 km
+        extra: 28.889 km
+        flown: 28.889 km
       velocity:
         ss: 2016-05-13T18:54:37.604933131519Z
         gs: 2016-05-13T18:40:00Z
@@ -15651,20 +15651,20 @@ scoreDf:
   - - - '118'
       - Ingo Heilmann
     - place: '33'
-      total: 84
+      total: 149
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 46.769
-        distance: 84.095
+        effort: 86.101
+        distance: 149.158
         leading: 0
         arrival: 0
         time: 0
-        reach: 37.326
-      landedMade: 13.687 km
+        reach: 63.057
+      landedMade: 28.287 km
       reach:
-        extra: 14.006 km
-        flown: 14.006 km
+        extra: 28.606 km
+        flown: 28.606 km
       velocity:
         ss: 2016-05-13T18:00:44.710968943262Z
         gs: 2016-05-13T18:00:00Z
@@ -15678,20 +15678,20 @@ scoreDf:
   - - - '116'
       - Jeffery Bohl
     - place: '34'
-      total: 45
+      total: 119
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 26.268
-        distance: 44.928
+        effort: 71.738
+        distance: 119.356
         leading: 0
         arrival: 0
         time: 0
-        reach: 18.66
-      landedMade: 6.609 km
+        reach: 47.618
+      landedMade: 21.209 km
       reach:
-        extra: 7.002 km
-        flown: 7.002 km
+        extra: 21.602 km
+        flown: 21.602 km
       velocity:
         ss: 2016-05-13T18:01:28.311733486909Z
         gs: 2016-05-13T18:00:00Z
@@ -15705,20 +15705,20 @@ scoreDf:
   - - - '140'
       - Bill Vickery
     - place: '35'
-      total: 25
+      total: 102
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 11.66
-        distance: 24.985
+        effort: 62.935
+        distance: 102.344
         leading: 0
         arrival: 0
         time: 0
-        reach: 13.325
-      landedMade: 2.822 km
+        reach: 39.409
+      landedMade: 17.422 km
       reach:
-        extra: 3.278 km
-        flown: 3.278 km
+        extra: 17.878 km
+        flown: 17.878 km
       velocity:
         ss: 2016-05-13T18:34:25.457881252408Z
         gs: 2016-05-13T18:20:00Z
@@ -15729,104 +15729,23 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 3.000 m
-  - - - '126'
-      - Jeff Kannard
-    - place: 36=
-      total: 14
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0.769
-        distance: 14.094
-        leading: 0
-        arrival: 0
-        time: 0
-        reach: 13.325
-      landedMade: -2.717 km
-      reach:
-        extra: -1.422 km
-        flown: -1.422 km
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      stoppedAlt: 14.000 m
-  - - - '134'
-      - Kinsley Sykes
-    - place: 36=
-      total: 14
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0.769
-        distance: 14.094
-        leading: 0
-        arrival: 0
-        time: 0
-        reach: 13.325
-      landedMade: -2.729 km
-      reach:
-        extra: -1.181 km
-        flown: -1.181 km
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      stoppedAlt: 15.000 m
-  - - - '141'
-      - Patrick Halfhill
-    - place: 36=
-      total: 14
-      penalties: []
-      penaltyReason: ''
-      breakdown:
-        effort: 0.769
-        distance: 14.094
-        leading: 0
-        arrival: 0
-        time: 0
-        reach: 13.325
-      landedMade: -2.802 km
-      reach:
-        extra: -0.898 km
-        flown: -0.898 km
-      velocity:
-        ss: null
-        gs: null
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      stoppedAlt: 4.000 m
   - - - '145'
       - Roger Irby
     - place: 36=
-      total: 14
+      total: 78
       penalties: []
       penaltyReason: ''
       breakdown:
-        effort: 0.769
-        distance: 14.094
+        effort: 47.722
+        distance: 78.094
         leading: 0
         arrival: 0
         time: 0
-        reach: 13.325
-      landedMade: -2.815 km
+        reach: 30.371
+      landedMade: 11.785 km
       reach:
-        extra: -0.822 km
-        flown: -0.822 km
+        extra: 13.778 km
+        flown: 13.778 km
       velocity:
         ss: null
         gs: null
@@ -15837,6 +15756,87 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       stoppedAlt: 0.000 m
+  - - - '141'
+      - Patrick Halfhill
+    - place: 36=
+      total: 78
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 47.722
+        distance: 77.926
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 30.203
+      landedMade: 11.798 km
+      reach:
+        extra: 13.702 km
+        flown: 13.702 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 4.000 m
+  - - - '134'
+      - Kinsley Sykes
+    - place: 36=
+      total: 78
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 48.031
+        distance: 77.611
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 29.58
+      landedMade: 11.871 km
+      reach:
+        extra: 13.419 km
+        flown: 13.419 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 15.000 m
+  - - - '126'
+      - Jeff Kannard
+    - place: '39'
+      total: 77
+      penalties: []
+      penaltyReason: ''
+      breakdown:
+        effort: 48.031
+        distance: 77.08
+        leading: 0
+        arrival: 0
+        time: 0
+        reach: 29.048
+      landedMade: 11.883 km
+      reach:
+        extra: 13.178 km
+        flown: 13.178 km
+      velocity:
+        ss: null
+        gs: null
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      stoppedAlt: 14.000 m
 scoreDfNoTrack:
 - []
 - []
@@ -15858,17 +15858,17 @@ scoreDfNoTrack:
         arrival: 31.1
         time: 130.6
         reach: 161.702
-      landedMade: 60.676 km
+      landedMade: 73.357 km
       reach:
-        extra: 60.676 km
-        flown: 60.676 km
+        extra: 73.357 km
+        flown: 73.357 km
       velocity:
         ss: 2016-05-13T18:00:00Z
         gs: 2016-05-13T18:00:00Z
         es: 2016-05-13T20:19:21Z
-        ssDistance: 37.674 km
+        ssDistance: 69.861 km
         ssElapsed: 2.322500 h
         gsElapsed: 2.322500 h
-        ssVelocity: 16.22 km / h
-        gsVelocity: 16.22 km / h
+        ssVelocity: 30.08 km / h
+        gsVelocity: 30.08 km / h
       stoppedAlt: null
