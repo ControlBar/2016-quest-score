@@ -641,12 +641,16 @@ land:
       made: 2.161437 km
 - - - - '115'
       - Andrew Hollidge
-    - togo: 0.000000 km
-      made: 69.860900 km
+    - togo: 9.184692 km
+      made: 60.676208 km
   - - - '144'
       - Tom Lanning
     - togo: 17.625027 km
       made: 52.235873 km
+  - - - '112'
+      - Sergey Kataev
+    - togo: 19.041259 km
+      made: 50.819641 km
   - - - '139'
       - Tullio Gervasoni
     - togo: 19.731872 km
@@ -667,10 +671,6 @@ land:
       - Patrick Pannese
     - togo: 37.737585 km
       made: 32.123315 km
-  - - - '110'
-      - Cory Barnwell
-    - togo: 37.740425 km
-      made: 32.120475 km
   - - - '125'
       - Larry Bunner
     - togo: 45.956286 km
@@ -683,10 +683,6 @@ land:
       - Ingo Heilmann
     - togo: 56.173805 km
       made: 13.687095 km
-  - - - '112'
-      - Sergey Kataev
-    - togo: 56.364622 km
-      made: 13.496278 km
   - - - '116'
       - Jeffery Bohl
     - togo: 63.251640 km

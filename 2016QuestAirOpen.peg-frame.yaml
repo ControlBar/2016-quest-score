@@ -6421,7 +6421,7 @@ timing:
   lastLanding: 2016-05-12T21:59:46Z
 - zonesSum:
   - 0
-  - 28
+  - 34
   - 30
   - 27
   - 24
@@ -6445,15 +6445,19 @@ timing:
     - 2016-05-13T18:00:21.627494769526Z
     - 2016-05-13T18:00:21.67774967682Z
     - 2016-05-13T18:00:22.913716658125Z
+    - 2016-05-13T18:00:24.267590966621Z
     - 2016-05-13T18:00:27.137254248145Z
     - 2016-05-13T18:00:28.751041588886Z
     - 2016-05-13T18:00:33.20306290078Z
+    - 2016-05-13T18:00:44.710968943262Z
     - 2016-05-13T18:00:51.98224049101Z
     - 2016-05-13T18:00:56.340929402988Z
     - 2016-05-13T18:01:04.329245237204Z
+    - 2016-05-13T18:01:28.311733486909Z
     - 2016-05-13T18:02:34.957574807092Z
     - 2016-05-13T18:02:45.645069746404Z
     - 2016-05-13T18:03:09.685473058068Z
+    - 2016-05-13T18:03:33.837039182034Z
     - 2016-05-13T18:05:01.955681170947Z
     - 2016-05-13T18:05:39.90013354731Z
     - 2016-05-13T18:12:05.096689738852Z
@@ -6466,6 +6470,8 @@ timing:
     - 2016-05-13T18:24:38.073523381896Z
     - 2016-05-13T18:24:38.73570307131Z
     - 2016-05-13T18:24:43.521913665788Z
+    - 2016-05-13T18:34:25.457881252408Z
+    - 2016-05-13T18:54:37.604933131519Z
     - 2016-05-13T18:54:46.433736543185Z
   - - 2016-05-13T18:44:51.402872733162Z
     - 2016-05-13T18:49:20.093654704256Z
@@ -6562,24 +6568,32 @@ timing:
       - Larry Bunner
     - - '101'
       - Davis Straub
+    - - '110'
+      - Cory Barnwell
     - - '103'
       - Matt Christensen
     - - '135'
       - Misael Rosalez
     - - '121'
       - Oleg Bondarchuk
+    - - '118'
+      - Ingo Heilmann
     - - '111'
       - Patrick Kruse
     - - '127'
       - Gerry Pesavento
     - - '144'
       - Tom Lanning
+    - - '116'
+      - Jeffery Bohl
     - - '120'
       - Mike Glennon
     - - '131'
       - Robin Hamilton
     - - '117'
       - Robert Dallas
+    - - '112'
+      - Sergey Kataev
     - - '150'
       - Claudia Mejia
     - - '129'
@@ -6604,6 +6618,10 @@ timing:
       - Fabiano Nahoum
     - - '123'
       - JD Guillemette
+    - - '140'
+      - Bill Vickery
+    - - '146'
+      - Peter Kelley
     - - '143'
       - Anna Eppink
   - - - '101'
@@ -29676,7 +29694,27 @@ tagging:
       - Bill Vickery
     - zonesTag:
       - null
-      - null
+      - inter:
+          fixFrac: 1676.7289406262043
+          time: 2016-05-13T18:34:25.457881252408Z
+          lat: 28.51537226
+          lng: -81.82605477
+          alt: 754.44
+        cross:
+          crossingPair:
+          - fix: 1676
+            time: 2016-05-13T18:34:24Z
+            lat: 28.51556667
+            lng: -81.82593333
+            alt: 761
+          - fix: 1677
+            time: 2016-05-13T18:34:26Z
+            lat: 28.5153
+            lng: -81.8261
+            alt: 752
+          inZone:
+          - true
+          - false
       - null
       - null
       - null
@@ -29860,7 +29898,27 @@ tagging:
       - Cory Barnwell
     - zonesTag:
       - null
-      - null
+      - inter:
+          fixFrac: 295.42253032220793
+          time: 2016-05-13T18:00:24.267590966621Z
+          lat: 28.50943357
+          lng: -81.84915716
+          alt: 903.15
+        cross:
+          crossingPair:
+          - fix: 295
+            time: 2016-05-13T18:00:23Z
+            lat: 28.50961667
+            lng: -81.84915
+            alt: 904
+          - fix: 296
+            time: 2016-05-13T18:00:26Z
+            lat: 28.50918333
+            lng: -81.84916667
+            alt: 902
+          inZone:
+          - true
+          - false
       - inter:
           fixFrac: 1336.8707909414386
           time: 2016-05-13T18:53:57.612372824314Z
@@ -30192,7 +30250,27 @@ tagging:
       - Ingo Heilmann
     - zonesTag:
       - null
-      - null
+      - inter:
+          fixFrac: 745.710968943263
+          time: 2016-05-13T18:00:44.710968943262Z
+          lat: 28.50959335
+          lng: -81.84830015
+          alt: 841.29
+        cross:
+          crossingPair:
+          - fix: 745
+            time: 2016-05-13T18:00:44Z
+            lat: 28.5097
+            lng: -81.8483
+            alt: 842
+          - fix: 746
+            time: 2016-05-13T18:00:45Z
+            lat: 28.50955
+            lng: -81.8483
+            alt: 841
+          inZone:
+          - true
+          - false
       - null
       - null
       - null
@@ -30384,7 +30462,27 @@ tagging:
       - Jeffery Bohl
     - zonesTag:
       - null
-      - null
+      - inter:
+          fixFrac: 456.10391116230346
+          time: 2016-05-13T18:01:28.311733486909Z
+          lat: 28.50952445
+          lng: -81.8486668
+          alt: 807.1
+        cross:
+          crossingPair:
+          - fix: 456
+            time: 2016-05-13T18:01:28Z
+            lat: 28.50958333
+            lng: -81.84866667
+            alt: 807
+          - fix: 457
+            time: 2016-05-13T18:01:31Z
+            lat: 28.50901667
+            lng: -81.84866667
+            alt: 808
+          inZone:
+          - true
+          - false
       - null
       - null
       - null
@@ -31432,7 +31530,27 @@ tagging:
       - Peter Kelley
     - zonesTag:
       - null
-      - null
+      - inter:
+          fixFrac: 631.2016443771734
+          time: 2016-05-13T18:54:37.604933131519Z
+          lat: 28.51647574
+          lng: -81.82285646
+          alt: 1299.78
+        cross:
+          crossingPair:
+          - fix: 631
+            time: 2016-05-13T18:54:37Z
+            lat: 28.51658333
+            lng: -81.8229
+            alt: 1302
+          - fix: 632
+            time: 2016-05-13T18:54:40Z
+            lat: 28.51605
+            lng: -81.82268333
+            alt: 1291
+          inZone:
+          - true
+          - false
       - null
       - null
       - null
@@ -31760,7 +31878,27 @@ tagging:
       - Sergey Kataev
     - zonesTag:
       - null
-      - null
+      - inter:
+          fixFrac: 368.2790130606787
+          time: 2016-05-13T18:03:33.837039182034Z
+          lat: 28.523757
+          lng: -81.80559802
+          alt: 964.16
+        cross:
+          crossingPair:
+          - fix: 368
+            time: 2016-05-13T18:03:33Z
+            lat: 28.52385
+            lng: -81.80561667
+            alt: 965
+          - fix: 369
+            time: 2016-05-13T18:03:36Z
+            lat: 28.52351667
+            lng: -81.80555
+            alt: 962
+          inZone:
+          - true
+          - false
       - inter:
           fixFrac: 2207.880073189245
           time: 2016-05-13T19:36:15.880073189245Z

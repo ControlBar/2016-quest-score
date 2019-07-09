@@ -579,8 +579,8 @@ tasks:
     - zoneName: GRASSO
       lat: 28.64147
       lng: -81.88063
-      radius: 15000.0 m
-      give: 14925.0 m
+      radius: 400.0 m
+      give: 398.0 m
       alt: 30.000 m
     - zoneName: GRASSO
       lat: 28.64147
@@ -612,7 +612,7 @@ tasks:
           center:
           - 28.64147000 deg
           - -81.88063000 deg
-          radius: 15000.0 m
+          radius: 400.0 m
       race:
       - cylinder:
           center:
@@ -1600,12 +1600,12 @@ pilotGroups:
     awardedReach:
       extra:
         awardedMade: 73.349000 km
-        awardedTask: 73.348000 km
-        awardedFrac: 1.000013633636909
+        awardedTask: 84.452000 km
+        awardedFrac: 0.8685288684696633
       flown:
         awardedMade: 73.349000 km
-        awardedTask: 73.348000 km
-        awardedFrac: 1.000013633636909
+        awardedTask: 84.452000 km
+        awardedFrac: 0.8685288684696633
     awardedVelocity:
       ss: 2016-05-13T18:00:00Z
       es: 2016-05-13T20:19:21Z

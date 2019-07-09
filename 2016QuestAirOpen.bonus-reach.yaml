@@ -18,8 +18,8 @@ bolster:
   mean: 40.248684 km
   stdDev: 12.636017 km
 - max: 69.860900 km
-  mean: 58.889933 km
-  stdDev: 18.093911 km
+  mean: 55.135365 km
+  stdDev: 22.453083 km
 reach:
 - max: 160.046610 km
   mean: 115.601015 km
@@ -40,8 +40,8 @@ reach:
   mean: 40.248684 km
   stdDev: 12.636017 km
 - max: 69.860900 km
-  mean: 58.740535 km
-  stdDev: 18.552789 km
+  mean: 54.955326 km
+  stdDev: 22.867021 km
 reachRank:
 - - - - '138'
       - Jonny Durand
@@ -1035,11 +1035,7 @@ reachRank:
       - Jeff Kannard
     - frac: 0.26335413
       reach: 15.697660 km
-- - - - '115'
-      - Andrew Hollidge
-    - frac: 1.00001363
-      reach: 0.069862 km
-  - - - '138'
+- - - - '138'
       - Jonny Durand
     - frac: 1
       reach: 69.860900 km
@@ -1091,6 +1087,10 @@ reachRank:
       - Matt Christensen
     - frac: 1
       reach: 69.860900 km
+  - - - '110'
+      - Cory Barnwell
+    - frac: 1
+      reach: 69.860900 km
   - - - '127'
       - Gerry Pesavento
     - frac: 1
@@ -1131,6 +1131,10 @@ reachRank:
       - Olav Olsen
     - frac: 1
       reach: 69.860900 km
+  - - - '115'
+      - Andrew Hollidge
+    - frac: 0.86852887
+      reach: 0.060676 km
   - - - '144'
       - Tom Lanning
     - frac: 0.75152052
@@ -1139,6 +1143,10 @@ reachRank:
       - Tullio Gervasoni
     - frac: 0.74349028
       reach: 51.940900 km
+  - - - '112'
+      - Sergey Kataev
+    - frac: 0.732497
+      reach: 51.172900 km
   - - - '108'
       - Raul Guerra
     - frac: 0.58948425
@@ -1147,10 +1155,6 @@ reachRank:
       - Patrick Pannese
     - frac: 0.46536618
       reach: 32.510900 km
-  - - - '110'
-      - Cory Barnwell
-    - frac: 0.46443576
-      reach: 32.445900 km
   - - - '129'
       - Mike Jefferson
     - frac: 0.46341945
@@ -1159,14 +1163,26 @@ reachRank:
       - Anna Eppink
     - frac: 0.46309023
       reach: 32.351900 km
-  - - - '112'
-      - Sergey Kataev
-    - frac: 0.4615443
-      reach: 32.243900 km
   - - - '125'
       - Larry Bunner
     - frac: 0.34375309
       reach: 24.014900 km
+  - - - '146'
+      - Peter Kelley
+    - frac: 0.20453358
+      reach: 14.288900 km
+  - - - '118'
+      - Ingo Heilmann
+    - frac: 0.20048267
+      reach: 14.005900 km
+  - - - '116'
+      - Jeffery Bohl
+    - frac: 0.10022631
+      reach: 7.001900 km
+  - - - '140'
+      - Bill Vickery
+    - frac: 4.692038e-2
+      reach: 3.277900 km
 nigh:
 - - - - '135'
       - Misael Rosalez
@@ -2590,6 +2606,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 52.501900 km
+  - - - '112'
+      - Sergey Kataev
+    - togo:
+        distance: 18.688000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 51.172900 km
   - - - '139'
       - Tullio Gervasoni
     - togo:
@@ -2635,15 +2660,6 @@ nigh:
         legsSum: []
         waypoints: []
       made: 32.510900 km
-  - - - '110'
-      - Cory Barnwell
-    - togo:
-        distance: 37.415000 km
-        flipSum: []
-        legs: []
-        legsSum: []
-        waypoints: []
-      made: 32.445900 km
   - - - '125'
       - Larry Bunner
     - togo:
@@ -2653,12 +2669,39 @@ nigh:
         legsSum: []
         waypoints: []
       made: 24.014900 km
-  - - - '112'
-      - Sergey Kataev
+  - - - '146'
+      - Peter Kelley
     - togo:
-        distance: 37.617000 km
+        distance: 55.572000 km
         flipSum: []
         legs: []
         legsSum: []
         waypoints: []
-      made: 32.243900 km
+      made: 14.288900 km
+  - - - '118'
+      - Ingo Heilmann
+    - togo:
+        distance: 55.855000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 14.005900 km
+  - - - '116'
+      - Jeffery Bohl
+    - togo:
+        distance: 62.859000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 7.001900 km
+  - - - '140'
+      - Bill Vickery
+    - togo:
+        distance: 66.583000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 3.277900 km

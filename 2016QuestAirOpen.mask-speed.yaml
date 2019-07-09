@@ -463,6 +463,10 @@ ssSpeed:
       - JD Guillemette
     - time: 2.477273 h
       frac: 0.17209466
+  - - - '110'
+      - Cory Barnwell
+    - time: 2.484084 h
+      frac: 0.16808092
   - - - '127'
       - Gerry Pesavento
     - time: 2.523527 h
@@ -916,6 +920,10 @@ gsSpeed:
       - Olav Opsanger
     - time: 2.437827 h
       frac: 0.24992125
+  - - - '110'
+      - Cory Barnwell
+    - time: 2.490825 h
+      frac: 0.21813251
   - - - '127'
       - Gerry Pesavento
     - time: 2.539177 h
@@ -1425,9 +1433,6 @@ altStopped:
   - - - '140'
       - Bill Vickery
     - 3.000 m
-  - - - '110'
-      - Cory Barnwell
-    - 33.000 m
   - - - '118'
       - Ingo Heilmann
     - 5.000 m

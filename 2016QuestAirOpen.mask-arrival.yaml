@@ -5,7 +5,7 @@ pilotsAtEss:
 - 13
 - 17
 - 4
-- 23
+- 24
 arrivalRank:
 - - - - '138'
       - Jonny Durand
@@ -378,88 +378,92 @@ arrivalRank:
   - - - '101'
       - Davis Straub
     - rank: '2'
-      frac: 0.90830525
+      frac: 0.91197678
   - - - '142'
       - John Simon
     - rank: '3'
-      frac: 0.82396943
+      frac: 0.83072396
   - - - '121'
       - Oleg Bondarchuk
     - rank: '4'
-      frac: 0.74668036
+      frac: 0.7559668
   - - - '104'
       - Christian Pollet
     - rank: '5'
-      frac: 0.67612591
+      frac: 0.68743056
   - - - '131'
       - Robin Hamilton
     - rank: '6'
-      frac: 0.61199392
+      frac: 0.62484049
   - - - '132'
       - James Stinnett
     - rank: '7'
-      frac: 0.55397222
+      frac: 0.56792188
   - - - '111'
       - Patrick Kruse
     - rank: '8'
-      frac: 0.50174866
+      frac: 0.51639996
   - - - '128'
       - Zac Majors
     - rank: '9'
-      frac: 0.4550111
+      frac: 0.47
   - - - '115'
       - Andrew Hollidge
     - rank: '10'
-      frac: 0.41344736
+      frac: 0.42844727
   - - - '120'
       - Mike Glennon
     - rank: '11'
-      frac: 0.37674529
+      frac: 0.39146701
   - - - '135'
       - Misael Rosalez
     - rank: '12'
-      frac: 0.34459275
+      frac: 0.35878451
   - - - '103'
       - Matt Christensen
     - rank: '13'
-      frac: 0.31667757
+      frac: 0.330125
+  - - - '110'
+      - Cory Barnwell
+    - rank: '14'
+      frac: 0.30521376
   - - - '127'
       - Gerry Pesavento
-    - rank: '14'
-      frac: 0.2926876
+    - rank: '15'
+      frac: 0.28377604
   - - - '106'
       - Fabiano Nahoum
-    - rank: '15'
-      frac: 0.27231068
+    - rank: '16'
+      frac: 0.26553711
   - - - '102'
       - Richard lovelace
-    - rank: '16'
-      frac: 0.25523465
+    - rank: '17'
+      frac: 0.25022222
   - - - '150'
       - Claudia Mejia
-    - rank: '17'
-      frac: 0.24114737
+    - rank: '18'
+      frac: 0.23755664
   - - - '113'
       - Olav Opsanger
-    - rank: '18'
-      frac: 0.22973666
+    - rank: '19'
+      frac: 0.22726562
   - - - '123'
       - JD Guillemette
-    - rank: '19'
-      frac: 0.22069039
+    - rank: '20'
+      frac: 0.21907444
   - - - '119'
       - Bart Weghorst
-    - rank: '20'
-      frac: 0.21369639
+    - rank: '21'
+      frac: 0.21270833
   - - - '114'
       - Mick Howard
-    - rank: '21'
-      frac: 0.20844251
+    - rank: '22'
+      frac: 0.20789258
   - - - '117'
       - Robert Dallas
-    - rank: '22'
-      frac: 0.20461659
+    - rank: '23'
+      frac: 0.20435243
   - - - '133'
       - Olav Olsen
-    - rank: '23'
-      frac: 0.20190647
+    - rank: '24'
+      frac: 0.20181315

@@ -76,7 +76,7 @@ sumDistance:
 - 2638.821000 km
 - 3016.259685 km
 - 1445.196060 km
-- 1778.367800 km
+- 1855.008500 km
 leadAreaToCoef:
 - 0.00000002454498 km^-2 s^-1
 - 0.00000004674294 km^-2 s^-1
@@ -1359,6 +1359,11 @@ leadRank:
     - area: 12261496.2632 km^2 s
       coef: 4.79929348
       frac: 0.4655773
+  - - - '110'
+      - Cory Barnwell
+    - area: 13151801.7919 km^2 s
+      coef: 5.1477695
+      frac: 0.31690986
   - - - '111'
       - Patrick Kruse
     - area: 13297324.1268 km^2 s
@@ -1454,20 +1459,15 @@ leadRank:
     - area: 19334553.4492 km^2 s
       coef: 7.56777103
       frac: 0
-  - - - '110'
-      - Cory Barnwell
-    - area: 23271101.0637 km^2 s
-      coef: 9.10858195
+  - - - '112'
+      - Sergey Kataev
+    - area: 21950475.3535 km^2 s
+      coef: 8.59167355
       frac: 0
   - - - '124'
       - Patrick Pannese
     - area: 23535338.0957 km^2 s
       coef: 9.21200742
-      frac: 0
-  - - - '112'
-      - Sergey Kataev
-    - area: 27013653.0002 km^2 s
-      coef: 10.57346068
       frac: 0
   - - - '129'
       - Mike Jefferson
@@ -1483,4 +1483,24 @@ leadRank:
       - Anna Eppink
     - area: 33859957.2889 km^2 s
       coef: 13.25318449
+      frac: 0
+  - - - '118'
+      - Ingo Heilmann
+    - area: 40518217.2527 km^2 s
+      coef: 15.85930555
+      frac: 0
+  - - - '146'
+      - Peter Kelley
+    - area: 45747754.4475 km^2 s
+      coef: 17.90620775
+      frac: 0
+  - - - '116'
+      - Jeffery Bohl
+    - area: 49743515.1990 km^2 s
+      coef: 19.47019538
+      frac: 0
+  - - - '140'
+      - Bill Vickery
+    - area: 56029915.9684 km^2 s
+      coef: 21.93076639
       frac: 0
