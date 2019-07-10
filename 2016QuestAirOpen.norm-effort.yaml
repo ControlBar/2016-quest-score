@@ -12,49 +12,49 @@ chunking:
   - 0
   - 0.0 km
   endChunk:
-  - 0
+  - 1612
   - 161.2 km
   sumOf: 4800
 - startChunk:
   - 0
   - 0.0 km
   endChunk:
-  - 0
+  - 1142
   - 114.2 km
   sumOf: 3326
 - startChunk:
   - 0
   - 0.0 km
   endChunk:
-  - 0
+  - 832
   - 83.2 km
   sumOf: 2480
 - startChunk:
   - 0
   - 0.0 km
   endChunk:
-  - 0
+  - 902
   - 90.2 km
   sumOf: 2688
 - startChunk:
   - 0
   - 0.0 km
   endChunk:
-  - 0
+  - 1012
   - 101.2 km
   sumOf: 2926
 - startChunk:
   - 0
   - 0.0 km
   endChunk:
-  - 0
+  - 602
   - 60.2 km
   sumOf: 1776
 - startChunk:
   - 0
   - 0.0 km
   endChunk:
-  - 0
+  - 852
   - 85.2 km
   sumOf: 2438
 landout:
