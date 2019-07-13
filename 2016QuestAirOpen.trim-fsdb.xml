@@ -1,0 +1,1980 @@
+<Fs version="3.4">
+  <FsCompetition name="QuestAir Open" location="Groveland, Florida, USA" from="2016-05-07" to="2016-05-13" utc_offset="-4" discipline="hg">
+    <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" score_back_time="15"/>
+    <FsParticipants>
+      <FsParticipant id="101" name="Davis Straub"/>
+      <FsParticipant id="102" name="Richard lovelace"/>
+      <FsParticipant id="103" name="Matt Christensen"/>
+      <FsParticipant id="104" name="Christian Pollet"/>
+      <FsParticipant id="106" name="Fabiano Nahoum"/>
+      <FsParticipant id="107" name="Malcolm Brown"/>
+      <FsParticipant id="108" name="Raul Guerra"/>
+      <FsParticipant id="109" name="Michael Williams"/>
+      <FsParticipant id="110" name="Cory Barnwell"/>
+      <FsParticipant id="111" name="Patrick Kruse"/>
+      <FsParticipant id="112" name="Sergey Kataev"/>
+      <FsParticipant id="113" name="Olav Opsanger"/>
+      <FsParticipant id="114" name="Mick Howard"/>
+      <FsParticipant id="115" name="Andrew Hollidge"/>
+      <FsParticipant id="116" name="Jeffery Bohl"/>
+      <FsParticipant id="117" name="Robert Dallas"/>
+      <FsParticipant id="118" name="Ingo Heilmann"/>
+      <FsParticipant id="119" name="Bart Weghorst"/>
+      <FsParticipant id="120" name="Mike Glennon"/>
+      <FsParticipant id="121" name="Oleg Bondarchuk"/>
+      <FsParticipant id="123" name="JD Guillemette"/>
+      <FsParticipant id="124" name="Patrick Pannese"/>
+      <FsParticipant id="125" name="Larry Bunner"/>
+      <FsParticipant id="126" name="Jeff Kannard"/>
+      <FsParticipant id="127" name="Gerry Pesavento"/>
+      <FsParticipant id="128" name="Zac Majors"/>
+      <FsParticipant id="129" name="Mike Jefferson"/>
+      <FsParticipant id="131" name="Robin Hamilton"/>
+      <FsParticipant id="132" name="James Stinnett"/>
+      <FsParticipant id="133" name="Olav Olsen"/>
+      <FsParticipant id="134" name="Kinsley Sykes"/>
+      <FsParticipant id="135" name="Misael Rosalez"/>
+      <FsParticipant id="137" name="Yoko Isomoto"/>
+      <FsParticipant id="138" name="Jonny Durand"/>
+      <FsParticipant id="139" name="Tullio Gervasoni"/>
+      <FsParticipant id="140" name="Bill Vickery"/>
+      <FsParticipant id="141" name="Patrick Halfhill"/>
+      <FsParticipant id="142" name="John Simon"/>
+      <FsParticipant id="143" name="Anna Eppink"/>
+      <FsParticipant id="144" name="Tom Lanning"/>
+      <FsParticipant id="145" name="Roger Irby"/>
+      <FsParticipant id="146" name="Peter Kelley"/>
+      <FsParticipant id="150" name="Claudia Mejia"/>
+    </FsParticipants>
+    <FsTasks>
+      <FsTask id="1" name="QUEST-ELLSWR" tracklog_folder="flights\QAtask1">
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" score_back_time="15"/>
+        <FsTaskDefinition ss="2" es="6" goal="CIRCLE" groundstart="0">
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-07T12:30:00-04:00" close="2016-05-07T20:00:00-04:00"/>
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="10000" open="2016-05-07T13:30:00-04:00" close="2016-05-07T20:00:00-04:00"/>
+          <FsTurnpoint id="T33DS" lat="28.25847" lon="-81.825" altitude="37" radius="400" open="2016-05-07T13:30:00-04:00" close="2016-05-07T20:00:00-04:00"/>
+          <FsTurnpoint id="SUZANE" lat="27.95703" lon="-81.60162" altitude="37" radius="400" open="2016-05-07T13:30:00-04:00" close="2016-05-07T20:00:00-04:00"/>
+          <FsTurnpoint id="AVONPK" lat="27.5919" lon="-81.52687" altitude="37" radius="400" open="2016-05-07T13:30:00-04:00" close="2016-05-07T20:00:00-04:00"/>
+          <FsTurnpoint id="ELLSWR" lat="27.20555" lon="-81.77722" altitude="37" radius="400" open="2016-05-07T13:30:00-04:00" close="2016-05-07T20:00:00-04:00"/>
+          <FsStartGate open="2016-05-07T13:30:00-04:00"/>
+          <FsStartGate open="2016-05-07T13:50:00-04:00"/>
+          <FsStartGate open="2016-05-07T14:10:00-04:00"/>
+          <FsStartGate open="2016-05-07T14:30:00-04:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" score_back_time="20" cancel_reason="" stop_time="2016-05-07T16:44:00-04:00"/>
+        <FsParticipants>
+          <FsParticipant id="101">
+            <FsFlightData tracklog_filename="t1.straub.101.IGC"/>
+            <FsResult rank="40" points="121" distance="47.762" ss_time="00:00:00" distance_points="121.2" linear_distance_points="68.66" difficulty_distance_points="52.54" time_points="0" arrival_points="0" leading_points="0" real_distance="47.762" last_distance="47.353"/>
+          </FsParticipant>
+          <FsParticipant id="102">
+            <FsFlightData tracklog_filename="t1.lovelace.102.igc"/>
+            <FsResult rank="30" points="278" distance="82.39" ss_time="00:00:00" distance_points="274.5" linear_distance_points="118.44" difficulty_distance_points="156.08" time_points="0" arrival_points="0" leading_points="3.6" real_distance="82.39" last_distance="82.078"/>
+          </FsParticipant>
+          <FsParticipant id="103">
+            <FsFlightData tracklog_filename="T1.christensen.103.IGC"/>
+            <FsResult rank="35" points="241" distance="75.748" ss_time="00:00:00" distance_points="241.1" linear_distance_points="108.89" difficulty_distance_points="132.19" time_points="0" arrival_points="0" leading_points="0" real_distance="75.748" last_distance="75.322"/>
+          </FsParticipant>
+          <FsParticipant id="104">
+            <FsFlightData tracklog_filename="T1.pollet.104.IGC"/>
+            <FsResult rank="28" points="279" distance="83.326" ss_time="00:00:00" distance_points="278.9" linear_distance_points="119.78" difficulty_distance_points="159.08" time_points="0" arrival_points="0" leading_points="0" real_distance="83.326" last_distance="82.952"/>
+          </FsParticipant>
+          <FsParticipant id="106">
+            <FsFlightData tracklog_filename="T1.Nahoum.106.igc"/>
+            <FsResult rank="14" points="754" distance="160.044" ss_time="03:56:54" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="224.5" arrival_points="15.8" leading_points="53.2" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="107">
+            <FsFlightData tracklog_filename="t1.brown.107.igc"/>
+            <FsResult rank="9" points="813" distance="160.044" ss_time="03:47:19" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="260.7" arrival_points="24.9" leading_points="67.4" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="108">
+            <FsFlightData tracklog_filename="T1.Guerra.108.igc"/>
+            <FsResult rank="33" points="248" distance="77.044" ss_time="00:00:00" distance_points="247.9" linear_distance_points="110.75" difficulty_distance_points="137.18" time_points="0" arrival_points="0" leading_points="0" real_distance="77.044" last_distance="76.114"/>
+          </FsParticipant>
+          <FsParticipant id="109">
+            <FsFlightData tracklog_filename="T1.williams.109.IGC"/>
+            <FsResult rank="18" points="730" distance="160.044" ss_time="04:06:08" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="193.4" arrival_points="13.7" leading_points="62.7" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="110">
+            <FsFlightData tracklog_filename="T1.barnwell.110.IGC"/>
+            <FsResult rank="23" points="347" distance="104.562" ss_time="00:00:00" distance_points="343.6" linear_distance_points="150.31" difficulty_distance_points="193.26" time_points="0" arrival_points="0" leading_points="3.3" real_distance="104.562" last_distance="104.059"/>
+          </FsParticipant>
+          <FsParticipant id="111">
+            <FsFlightData tracklog_filename="T1.kruse.111.IGC"/>
+            <FsResult rank="15" points="750" distance="160.044" ss_time="04:00:28" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="212.2" arrival_points="15" leading_points="62.2" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="112">
+            <FsFlightData tracklog_filename="T1.Kataev.112.igc"/>
+            <FsResult rank="38" points="133" distance="52.967" ss_time="00:00:00" distance_points="132.9" linear_distance_points="76.14" difficulty_distance_points="56.78" time_points="0" arrival_points="0" leading_points="0" real_distance="52.967" last_distance="52.131"/>
+          </FsParticipant>
+          <FsParticipant id="113">
+            <FsFlightData tracklog_filename="T1.opsanger.113.igc"/>
+            <FsResult rank="5" points="863" distance="160.044" ss_time="03:41:59" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="283.4" arrival_points="52.6" leading_points="67.3" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="114">
+            <FsFlightData tracklog_filename="T1.howard.114.IGC"/>
+            <FsResult rank="17" points="733" distance="160.044" ss_time="04:04:11" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="199.7" arrival_points="13.9" leading_points="58.8" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="115">
+            <FsFlightData tracklog_filename="t1.hollidge.115.igc"/>
+            <FsResult rank="6" points="843" distance="160.044" ss_time="03:42:42" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="280.2" arrival_points="36" leading_points="66.2" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="116">
+            <FsFlightData tracklog_filename="T1.bohl.116.IGC"/>
+            <FsResult rank="26" points="332" distance="95.954" ss_time="00:00:00" distance_points="324.3" linear_distance_points="137.94" difficulty_distance_points="186.34" time_points="0" arrival_points="0" leading_points="7.8" real_distance="95.954" last_distance="95.475"/>
+          </FsParticipant>
+          <FsParticipant id="117">
+            <FsFlightData tracklog_filename="T1.dallas.117.IGC"/>
+            <FsResult rank="24" points="335" distance="98.772" ss_time="00:00:00" distance_points="332.3" linear_distance_points="141.99" difficulty_distance_points="190.35" time_points="0" arrival_points="0" leading_points="2.6" real_distance="98.772" last_distance="98.131"/>
+          </FsParticipant>
+          <FsParticipant id="118">
+            <FsFlightData tracklog_filename="T1.Heilmann.118.IGC"/>
+            <FsResult rank="32" points="258" distance="79.188" ss_time="00:00:00" distance_points="258.2" linear_distance_points="113.83" difficulty_distance_points="144.33" time_points="0" arrival_points="0" leading_points="0" real_distance="79.188" last_distance="79.031"/>
+          </FsParticipant>
+          <FsParticipant id="119">
+            <FsFlightData tracklog_filename="T1.Weghorst.119.IGC"/>
+            <FsResult rank="12" points="793" distance="160.044" ss_time="03:50:12" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="249.3" arrival_points="16.9" leading_points="66.6" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="120">
+            <FsFlightData tracklog_filename="T1.Glennon.120.igc"/>
+            <FsResult rank="20" points="470" distance="133.504" ss_time="00:00:00" distance_points="412.4" linear_distance_points="191.92" difficulty_distance_points="220.44" time_points="0" arrival_points="0" leading_points="57.2" real_distance="133.504" last_distance="133.286"/>
+          </FsParticipant>
+          <FsParticipant id="121">
+            <FsFlightData tracklog_filename="t1.bondarchuk.121.igc"/>
+            <FsResult rank="2" points="888" distance="160.044" ss_time="03:39:22" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="295.6" arrival_points="59.7" leading_points="72.1" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="123">
+            <FsFlightData tracklog_filename="T1.guillemette.123.IGC"/>
+            <FsResult rank="30" points="278" distance="83.151" ss_time="00:00:00" distance_points="278.1" linear_distance_points="119.53" difficulty_distance_points="158.61" time_points="0" arrival_points="0" leading_points="0.2" real_distance="83.151" last_distance="82.929"/>
+          </FsParticipant>
+          <FsParticipant id="124">
+            <FsFlightData tracklog_filename="T1.Pannese.124.IGC"/>
+            <FsResult rank="34" points="247" distance="76.862" ss_time="00:00:00" distance_points="247" linear_distance_points="110.49" difficulty_distance_points="136.5" time_points="0" arrival_points="0" leading_points="0" real_distance="76.862" last_distance="76.345"/>
+          </FsParticipant>
+          <FsParticipant id="125">
+            <FsFlightData tracklog_filename="T1.bunner.125.igc"/>
+            <FsResult rank="8" points="816" distance="160.044" ss_time="03:46:54" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="262.4" arrival_points="28" leading_points="65.4" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="126">
+            <FsFlightData tracklog_filename="t1.kanard.126.IGC"/>
+            <FsResult rank="41" points="102" distance="41.068" ss_time="00:00:00" distance_points="102" linear_distance_points="59.04" difficulty_distance_points="42.95" time_points="0" arrival_points="0" leading_points="0" real_distance="41.068" last_distance="40.306"/>
+          </FsParticipant>
+          <FsParticipant id="127">
+            <FsFlightData tracklog_filename="t1.pesavento.127.igc"/>
+            <FsResult rank="16" points="738" distance="160.044" ss_time="04:03:04" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="203.4" arrival_points="14.4" leading_points="59.7" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="128">
+            <FsFlightData tracklog_filename="T1.majors.128.IGC"/>
+            <FsResult rank="7" points="833" distance="160.044" ss_time="03:45:33" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="268" arrival_points="31.7" leading_points="73.1" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="129">
+            <FsFlightData tracklog_filename="T1.Jefferson.129.IGC"/>
+            <FsResult rank="42" points="76" distance="33.273" ss_time="00:00:00" distance_points="76.1" linear_distance_points="47.83" difficulty_distance_points="28.24" time_points="0" arrival_points="0" leading_points="0" real_distance="33.273" last_distance="32.813"/>
+          </FsParticipant>
+          <FsParticipant id="131">
+            <FsFlightData tracklog_filename="t1.hamilton.131.igc"/>
+            <FsResult rank="4" points="868" distance="160.044" ss_time="03:42:26" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="281.4" arrival_points="40.8" leading_points="85.4" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="132">
+            <FsFlightData tracklog_filename="T1.stinnett.132.IGC"/>
+            <FsResult rank="10" points="807" distance="160.044" ss_time="03:47:39" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="259.3" arrival_points="22.3" leading_points="65.6" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="133">
+            <FsFlightData tracklog_filename="T1.olsen.133.igc"/>
+            <FsResult rank="13" points="777" distance="160.044" ss_time="03:49:39" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="251.4" arrival_points="18.3" leading_points="46.9" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="134">
+            <FsFlightData tracklog_filename="T1.sykes.134.IGC"/>
+            <FsResult rank="39" points="122" distance="48.25" ss_time="00:00:00" distance_points="122.3" linear_distance_points="69.36" difficulty_distance_points="52.99" time_points="0" arrival_points="0" leading_points="0" real_distance="48.25" last_distance="47.538"/>
+          </FsParticipant>
+          <FsParticipant id="135">
+            <FsFlightData tracklog_filename="t1.rosalez.135.igc"/>
+            <FsResult rank="19" points="495" distance="148.224" ss_time="00:00:00" distance_points="443.1" linear_distance_points="213.08" difficulty_distance_points="230.07" time_points="0" arrival_points="0" leading_points="51.4" real_distance="148.224" last_distance="147.825"/>
+          </FsParticipant>
+          <FsParticipant id="137">
+            <FsFlightData tracklog_filename="t1.Isamoto.137.igc"/>
+            <FsResult rank="37" points="202" distance="68.916" ss_time="00:00:00" distance_points="201.9" linear_distance_points="99.07" difficulty_distance_points="102.83" time_points="0" arrival_points="0" leading_points="0" real_distance="68.916" last_distance="65.499"/>
+          </FsParticipant>
+          <FsParticipant id="138">
+            <FsFlightData tracklog_filename="t1.durand.138.igc"/>
+            <FsResult rank="1" points="1000" distance="160.044" ss_time="03:28:01" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="377.9" arrival_points="67.5" leading_points="94.5" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="139">
+            <FsFlightData tracklog_filename="T1.gervasoni.139.igc"/>
+            <FsResult rank="3" points="873" distance="160.044" ss_time="03:42:19" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="281.9" arrival_points="46.4" leading_points="84.6" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="140">
+            <FsFlightData tracklog_filename="t1.vickery.140.igc"/>
+            <FsResult rank="27" points="310" distance="91.758" ss_time="00:00:00" distance_points="310.2" linear_distance_points="131.9" difficulty_distance_points="178.32" time_points="0" arrival_points="0" leading_points="0" real_distance="91.758" last_distance="91.183"/>
+          </FsParticipant>
+          <FsParticipant id="141">
+            <FsFlightData tracklog_filename="t1.halfhill.141.IGC"/>
+            <FsResult rank="36" points="222" distance="72.338" ss_time="00:00:00" distance_points="221.6" linear_distance_points="103.99" difficulty_distance_points="117.58" time_points="0" arrival_points="0" leading_points="0" real_distance="72.338" last_distance="71.233"/>
+          </FsParticipant>
+          <FsParticipant id="142">
+            <FsFlightData tracklog_filename="T1.Simon.142.igc"/>
+            <FsResult rank="11" points="795" distance="160.044" ss_time="03:49:03" distance_points="460.1" linear_distance_points="230.07" difficulty_distance_points="230.07" time_points="253.8" arrival_points="20.1" leading_points="60.7" real_distance="160.044" last_distance="160.044"/>
+          </FsParticipant>
+          <FsParticipant id="143">
+            <FsFlightData tracklog_filename="T1.Eppink.143.igc"/>
+            <FsResult rank="21" points="448" distance="130.154" ss_time="00:00:00" distance_points="402.7" linear_distance_points="187.1" difficulty_distance_points="215.62" time_points="0" arrival_points="0" leading_points="45.3" real_distance="130.154" last_distance="129.713"/>
+          </FsParticipant>
+          <FsParticipant id="144">
+            <FsFlightData tracklog_filename="T1.lanning.144.igc"/>
+            <FsResult rank="43" points="57" distance="27.197" ss_time="00:00:00" distance_points="57.2" linear_distance_points="39.1" difficulty_distance_points="18.11" time_points="0" arrival_points="0" leading_points="0" real_distance="27.197" last_distance="26.758"/>
+          </FsParticipant>
+          <FsParticipant id="145">
+            <FsFlightData tracklog_filename="t1.irbyg.145.igc"/>
+            <FsResult rank="28" points="279" distance="83.377" ss_time="00:00:00" distance_points="279" linear_distance_points="119.86" difficulty_distance_points="159.18" time_points="0" arrival_points="0" leading_points="0" real_distance="83.377" last_distance="82.948"/>
+          </FsParticipant>
+          <FsParticipant id="146">
+            <FsFlightData tracklog_filename="t1.kelley.146.igc"/>
+            <FsResult rank="22" points="441" distance="138.96" ss_time="00:00:00" distance_points="425.4" linear_distance_points="199.76" difficulty_distance_points="225.64" time_points="0" arrival_points="0" leading_points="16" real_distance="138.96" last_distance="137.48"/>
+          </FsParticipant>
+          <FsParticipant id="150">
+            <FsFlightData tracklog_filename="T1.LaNube.150.igc"/>
+            <FsResult rank="25" points="333" distance="99.19" ss_time="00:00:00" distance_points="333.3" linear_distance_points="142.59" difficulty_distance_points="190.71" time_points="0" arrival_points="0" leading_points="0" real_distance="99.19" last_distance="98.766"/>
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="150.41" task_distance="160.044" no_of_pilots_present="43" no_of_pilots_flying="43" no_of_pilots_lo="25" goalratio="0.418604651162791" arrival_weight="0.0674832058812432" leading_weight="0.0944764882337404" time_weight="0.377905952934962" distance_weight="0.460134352950055" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="9.635"/>
+          <FsTaskDistToTp tp_no="3" distance="30.103"/>
+          <FsTaskDistToTp tp_no="4" distance="69.972"/>
+          <FsTaskDistToTp tp_no="5" distance="111.020"/>
+          <FsTaskDistToTp tp_no="6" distance="160.045"/>
+          <FsTaskDifficulty chunks="1611" start_chunks="0" end_chunks="161.2" look_ahead="192" sum_of_difficulty="4800" no_of_pilots_lo="25">
+            <FsChunk chunk="271" start="27.1" end="27.2" end_ahead="46.3" down="1" downward="2" rel="0.0003125" frac="0.0391666666666667">
+              <FsDown id="144" down="27.197"/>
+            </FsChunk>
+            <FsChunk chunk="332" start="33.2" end="33.3" end_ahead="52.4" down="1" downward="3" rel="0.000416666666666667" frac="0.0611458333333334">
+              <FsDown id="129" down="33.273"/>
+            </FsChunk>
+            <FsChunk chunk="410" start="41" end="41.1" end_ahead="60.2" down="1" downward="3" rel="0.000416666666666667" frac="0.0931249999999998">
+              <FsDown id="126" down="41.068"/>
+            </FsChunk>
+            <FsChunk chunk="477" start="47.7" end="47.8" end_ahead="66.9" down="1" downward="2" rel="0.0003125" frac="0.114062499999999">
+              <FsDown id="101" down="47.762"/>
+            </FsChunk>
+            <FsChunk chunk="482" start="48.2" end="48.3" end_ahead="67.4" down="1" downward="1" rel="0.000208333333333333" frac="0.115104166666666">
+              <FsDown id="134" down="48.25"/>
+            </FsChunk>
+            <FsChunk chunk="529" start="52.9" end="53" end_ahead="72.1" down="1" downward="1" rel="0.000208333333333333" frac="0.123333333333333">
+              <FsDown id="112" down="52.967"/>
+            </FsChunk>
+            <FsChunk chunk="689" start="68.9" end="69" end_ahead="88.1" down="1" downward="9" rel="0.00104166666666667" frac="0.223333333333332">
+              <FsDown id="137" down="68.916"/>
+            </FsChunk>
+            <FsChunk chunk="723" start="72.3" end="72.4" end_ahead="91.5" down="1" downward="8" rel="0.0009375" frac="0.255208333333332">
+              <FsDown id="141" down="72.338"/>
+            </FsChunk>
+            <FsChunk chunk="757" start="75.7" end="75.8" end_ahead="94.9" down="1" downward="8" rel="0.0009375" frac="0.286874999999999">
+              <FsDown id="103" down="75.748"/>
+            </FsChunk>
+            <FsChunk chunk="768" start="76.8" end="76.9" end_ahead="96" down="1" downward="8" rel="0.0009375" frac="0.296145833333332">
+              <FsDown id="124" down="76.862"/>
+            </FsChunk>
+            <FsChunk chunk="770" start="77" end="77.1" end_ahead="96.2" down="1" downward="7" rel="0.000833333333333333" frac="0.297812499999999">
+              <FsDown id="108" down="77.044"/>
+            </FsChunk>
+            <FsChunk chunk="791" start="79.1" end="79.2" end_ahead="98.3" down="1" downward="6" rel="0.000729166666666667" frac="0.313124999999999">
+              <FsDown id="118" down="79.188"/>
+            </FsChunk>
+            <FsChunk chunk="823" start="82.3" end="82.4" end_ahead="101.5" down="1" downward="7" rel="0.000833333333333333" frac="0.338541666666666">
+              <FsDown id="102" down="82.39"/>
+            </FsChunk>
+            <FsChunk chunk="831" start="83.1" end="83.2" end_ahead="102.3" down="1" downward="6" rel="0.000729166666666667" frac="0.344374999999999">
+              <FsDown id="123" down="83.151"/>
+            </FsChunk>
+            <FsChunk chunk="833" start="83.3" end="83.4" end_ahead="102.5" down="2" downward="4" rel="0.000625" frac="0.345624999999999">
+              <FsDown id="104" down="83.326"/>
+              <FsDown id="145" down="83.377"/>
+            </FsChunk>
+            <FsChunk chunk="917" start="91.7" end="91.8" end_ahead="110.9" down="1" downward="4" rel="0.000520833333333333" frac="0.387291666666668">
+              <FsDown id="140" down="91.758"/>
+            </FsChunk>
+            <FsChunk chunk="959" start="95.9" end="96" end_ahead="115.1" down="1" downward="3" rel="0.000416666666666667" frac="0.404791666666668">
+              <FsDown id="116" down="95.954"/>
+            </FsChunk>
+            <FsChunk chunk="987" start="98.7" end="98.8" end_ahead="117.9" down="1" downward="2" rel="0.0003125" frac="0.413541666666668">
+              <FsDown id="117" down="98.772"/>
+            </FsChunk>
+            <FsChunk chunk="991" start="99.1" end="99.2" end_ahead="118.3" down="1" downward="1" rel="0.000208333333333333" frac="0.414375000000001">
+              <FsDown id="150" down="99.19"/>
+            </FsChunk>
+            <FsChunk chunk="1045" start="104.5" end="104.6" end_ahead="123.7" down="1" downward="0" rel="0.000104166666666667" frac="0.420000000000002">
+              <FsDown id="110" down="104.562"/>
+            </FsChunk>
+            <FsChunk chunk="1301" start="130.1" end="130.2" end_ahead="149.3" down="1" downward="3" rel="0.000416666666666667" frac="0.468437500000001">
+              <FsDown id="143" down="130.154"/>
+            </FsChunk>
+            <FsChunk chunk="1335" start="133.5" end="133.6" end_ahead="152.7" down="1" downward="2" rel="0.0003125" frac="0.479062500000001">
+              <FsDown id="120" down="133.504"/>
+            </FsChunk>
+            <FsChunk chunk="1389" start="138.9" end="139" end_ahead="158.1" down="1" downward="1" rel="0.000208333333333333" frac="0.490312499999999">
+              <FsDown id="146" down="138.96"/>
+            </FsChunk>
+            <FsChunk chunk="1482" start="148.2" end="148.3" end_ahead="167.4" down="1" downward="0" rel="0.000104166666666667" frac="0.500000000000001">
+              <FsDown id="135" down="148.224"/>
+            </FsChunk>
+          </FsTaskDifficulty>
+        </FsTaskScoreParams>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="28.52943" lon="-81.84633"/>
+          <FsTurnpoint lat="28.44308" lon="-81.83825"/>
+          <FsTurnpoint lat="28.25961" lon="-81.82113"/>
+          <FsTurnpoint lat="27.95572" lon="-81.60541"/>
+          <FsTurnpoint lat="27.59251" lon="-81.53087"/>
+          <FsTurnpoint lat="27.20869" lon="-81.77523"/>
+        </FsTaskShortestRoute>
+      </FsTask>
+      <FsTask id="2" name="QUEST-QUEST" tracklog_folder="flights\QAtask2">
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" score_back_time="15"/>
+        <FsTaskDefinition ss="2" es="6" goal="CIRCLE" groundstart="0">
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-08T12:30:00-04:00" close="2016-05-08T20:00:00-04:00"/>
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="5000" open="2016-05-08T13:30:00-04:00" close="2016-05-08T20:00:00-04:00"/>
+          <FsTurnpoint id="GROSS" lat="28.64555" lon="-82.21898" altitude="37" radius="3000" open="2016-05-08T13:30:00-04:00" close="2016-05-08T20:00:00-04:00"/>
+          <FsTurnpoint id="TURN33" lat="28.71518" lon="-81.8967" altitude="37" radius="400" open="2016-05-08T13:30:00-04:00" close="2016-05-08T20:00:00-04:00"/>
+          <FsTurnpoint id="T47433" lat="28.3764" lon="-81.8233" altitude="37" radius="3000" open="2016-05-08T13:30:00-04:00" close="2016-05-08T20:00:00-04:00"/>
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-08T13:30:00-04:00" close="2016-05-08T20:00:00-04:00"/>
+          <FsStartGate open="2016-05-08T13:30:00-04:00"/>
+          <FsStartGate open="2016-05-08T13:50:00-04:00"/>
+          <FsStartGate open="2016-05-08T14:10:00-04:00"/>
+          <FsStartGate open="2016-05-08T14:30:00-04:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" score_back_time="15" cancel_reason="" stop_time="2016-05-08T19:02:00-04:00"/>
+        <FsParticipants>
+          <FsParticipant id="101">
+            <FsFlightData tracklog_filename="t2.straub.101.IGC"/>
+            <FsResult rank="21" points="475" distance="92.346" ss_time="00:00:00" distance_points="404.9" linear_distance_points="192.33" difficulty_distance_points="212.55" time_points="0" arrival_points="0" leading_points="70.2" real_distance="92.346" last_distance="92.25"/>
+          </FsParticipant>
+          <FsParticipant id="102">
+            <FsFlightData tracklog_filename="t2.lovelace.102.igc"/>
+            <FsResult rank="26" points="366" distance="77.451" ss_time="00:00:00" distance_points="325.9" linear_distance_points="161.31" difficulty_distance_points="164.62" time_points="0" arrival_points="0" leading_points="39.7" real_distance="77.451" last_distance="77.003"/>
+          </FsParticipant>
+          <FsParticipant id="103">
+            <FsFlightData tracklog_filename="T2.christensen.103.IGC"/>
+            <FsResult rank="22" points="469" distance="98.71" ss_time="00:00:00" distance_points="441" linear_distance_points="205.59" difficulty_distance_points="235.41" time_points="0" arrival_points="0" leading_points="28" real_distance="98.71" last_distance="98.642"/>
+          </FsParticipant>
+          <FsParticipant id="104">
+            <FsFlightData tracklog_filename="t2.polet.104.igc"/>
+            <FsResult rank="42" points="65" distance="20.686" ss_time="00:00:00" distance_points="64.9" linear_distance_points="43.08" difficulty_distance_points="21.83" time_points="0" arrival_points="0" leading_points="0" real_distance="20.686" last_distance="20.309"/>
+          </FsParticipant>
+          <FsParticipant id="106">
+            <FsFlightData tracklog_filename="T2.Nahoum.106.igc"/>
+            <FsResult rank="12" points="710" distance="113.605" ss_time="04:15:34" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="144.3" arrival_points="16.9" leading_points="75.9" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="107">
+            <FsFlightData tracklog_filename="T2.Brown.107.igc"/>
+            <FsResult rank="19" points="490" distance="100.436" ss_time="00:00:00" distance_points="445.8" linear_distance_points="209.18" difficulty_distance_points="236.61" time_points="0" arrival_points="0" leading_points="43.9" real_distance="100.436" last_distance="99.96"/>
+          </FsParticipant>
+          <FsParticipant id="108">
+            <FsFlightData tracklog_filename="t2.guerra.108.igc"/>
+            <FsResult rank="24" points="447" distance="94.071" ss_time="00:00:00" distance_points="415.8" linear_distance_points="195.92" difficulty_distance_points="219.86" time_points="0" arrival_points="0" leading_points="31.3" real_distance="94.071" last_distance="84.646"/>
+          </FsParticipant>
+          <FsParticipant id="109">
+            <FsFlightData tracklog_filename="T2.williams.109.IGC"/>
+            <FsResult rank="36" points="201" distance="52.77" ss_time="00:00:00" distance_points="201.2" linear_distance_points="109.91" difficulty_distance_points="91.28" time_points="0" arrival_points="0" leading_points="0" real_distance="52.77" last_distance="51.736"/>
+          </FsParticipant>
+          <FsParticipant id="110">
+            <FsFlightData tracklog_filename="T2.barnwell.110.igc"/>
+            <FsResult rank="23" points="467" distance="98.623" ss_time="00:00:00" distance_points="440.7" linear_distance_points="205.4" difficulty_distance_points="235.29" time_points="0" arrival_points="0" leading_points="26.5" real_distance="98.623" last_distance="98.544"/>
+          </FsParticipant>
+          <FsParticipant id="111">
+            <FsFlightData tracklog_filename="t2.kruse.111.igc"/>
+            <FsResult rank="7" points="744" distance="113.605" ss_time="04:07:43" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="167.3" arrival_points="29.6" leading_points="74.3" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="112">
+            <FsFlightData tracklog_filename="t2.kataev.112.igc"/>
+            <FsResult rank="34" points="208" distance="54.573" ss_time="00:00:00" distance_points="208.3" linear_distance_points="113.66" difficulty_distance_points="94.6" time_points="0" arrival_points="0" leading_points="0" real_distance="54.573" last_distance="54.299"/>
+          </FsParticipant>
+          <FsParticipant id="113">
+            <FsFlightData tracklog_filename="T2.opsanger.113.igc"/>
+            <FsResult rank="2" points="841" distance="113.605" ss_time="03:52:08" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="217.5" arrival_points="57.8" leading_points="92.2" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="114">
+            <FsFlightData tracklog_filename="T2.howard.114.IGC"/>
+            <FsResult rank="41" points="67" distance="21.318" ss_time="00:00:00" distance_points="66.7" linear_distance_points="44.4" difficulty_distance_points="22.27" time_points="0" arrival_points="0" leading_points="0" real_distance="21.318" last_distance="20.626"/>
+          </FsParticipant>
+          <FsParticipant id="115">
+            <FsFlightData tracklog_filename="t2.hollidge.115.igc"/>
+            <FsResult rank="32" points="313" distance="71.593" ss_time="00:00:00" distance_points="291.5" linear_distance_points="149.11" difficulty_distance_points="142.39" time_points="0" arrival_points="0" leading_points="21.6" real_distance="71.593" last_distance="71.527"/>
+          </FsParticipant>
+          <FsParticipant id="116">
+            <FsFlightData tracklog_filename="t2.bohl.116.IGC"/>
+            <FsResult rank="20" points="481" distance="98.5" ss_time="00:00:00" distance_points="440.2" linear_distance_points="205.15" difficulty_distance_points="235.04" time_points="0" arrival_points="0" leading_points="40.9" real_distance="98.5" last_distance="98.478"/>
+          </FsParticipant>
+          <FsParticipant id="117">
+            <FsFlightData tracklog_filename="T2.dallas.117.IGC"/>
+            <FsResult rank="25" points="399" distance="85.515" ss_time="00:00:00" distance_points="358" linear_distance_points="178.1" difficulty_distance_points="179.89" time_points="0" arrival_points="0" leading_points="40.7" real_distance="85.515" last_distance="84.613"/>
+          </FsParticipant>
+          <FsParticipant id="118">
+            <FsFlightData tracklog_filename="T2.Heilmann.118.IGC"/>
+            <FsResult rank="43" points="14" distance="5" ss_time="00:00:00" distance_points="14" linear_distance_points="10.41" difficulty_distance_points="3.63" time_points="0" arrival_points="0" leading_points="0" real_distance="5" last_distance="0"/>
+          </FsParticipant>
+          <FsParticipant id="119">
+            <FsFlightData tracklog_filename="T2.weghorst.119.IGC"/>
+            <FsResult rank="11" points="716" distance="113.605" ss_time="04:14:14" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="148.1" arrival_points="18.5" leading_points="76.2" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="120">
+            <FsFlightData tracklog_filename="t2.glennon.120.igc"/>
+            <FsResult rank="16" points="637" distance="113.605" ss_time="04:40:55" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="76.8" arrival_points="13.6" leading_points="72.9" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="121">
+            <FsFlightData tracklog_filename="t2.bondarchuk.121.igc"/>
+            <FsResult rank="5" points="787" distance="113.605" ss_time="04:02:04" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="184.7" arrival_points="38.7" leading_points="90.2" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="123">
+            <FsFlightData tracklog_filename="T2.guillemette.123.IGC"/>
+            <FsResult rank="13" points="674" distance="113.605" ss_time="04:26:40" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="113.6" arrival_points="15.7" leading_points="71" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="124">
+            <FsFlightData tracklog_filename="T2.Pannese.124.IGC"/>
+            <FsResult rank="29" points="350" distance="76.258" ss_time="00:00:00" distance_points="320.3" linear_distance_points="158.82" difficulty_distance_points="161.44" time_points="0" arrival_points="0" leading_points="30" real_distance="76.258" last_distance="76.258"/>
+          </FsParticipant>
+          <FsParticipant id="125">
+            <FsFlightData tracklog_filename="T2.Bunner.125.igc"/>
+            <FsResult rank="3" points="813" distance="113.605" ss_time="03:55:26" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="206.2" arrival_points="50.6" leading_points="83.3" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="126">
+            <FsFlightData tracklog_filename="t2.kannard.126.IGC"/>
+            <FsResult rank="30" points="336" distance="71.778" ss_time="00:00:00" distance_points="292.6" linear_distance_points="149.49" difficulty_distance_points="143.12" time_points="0" arrival_points="0" leading_points="43.1" real_distance="71.778" last_distance="71.777"/>
+          </FsParticipant>
+          <FsParticipant id="127">
+            <FsFlightData tracklog_filename="t2.pesavento.127.IGC"/>
+            <FsResult rank="14" points="649" distance="113.605" ss_time="04:34:45" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="92.4" arrival_points="14.8" leading_points="68.1" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="128">
+            <FsFlightData tracklog_filename="T2.majors.128.IGC"/>
+            <FsResult rank="1" points="973" distance="113.605" ss_time="03:23:08" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="368.7" arrival_points="65.8" leading_points="64.8" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="129">
+            <FsFlightData tracklog_filename="t2.jefferson.129.igc"/>
+            <FsResult rank="40" points="114" distance="38.12" ss_time="00:00:00" distance_points="113.5" linear_distance_points="79.39" difficulty_distance_points="34.12" time_points="0" arrival_points="0" leading_points="0" real_distance="38.12" last_distance="37.843"/>
+          </FsParticipant>
+          <FsParticipant id="131">
+            <FsFlightData tracklog_filename="T2.HAMILTON.131.IGC"/>
+            <FsResult rank="9" points="732" distance="113.605" ss_time="04:10:25" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="159.2" arrival_points="23" leading_points="76.7" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="132">
+            <FsFlightData tracklog_filename="T2.Stinnett.132.IGC"/>
+            <FsResult rank="8" points="738" distance="113.605" ss_time="04:09:31" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="161.9" arrival_points="26" leading_points="76.8" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="133">
+            <FsFlightData tracklog_filename="T2.olsen.133.igc"/>
+            <FsResult rank="33" points="231" distance="57.791" ss_time="00:00:00" distance_points="217.2" linear_distance_points="120.36" difficulty_distance_points="96.82" time_points="0" arrival_points="0" leading_points="13.9" real_distance="57.791" last_distance="57.418"/>
+          </FsParticipant>
+          <FsParticipant id="134">
+            <FsFlightData tracklog_filename="T2.sykes.134.IGC"/>
+            <FsResult rank="35" points="206" distance="53.973" ss_time="00:00:00" distance_points="206.2" linear_distance_points="112.41" difficulty_distance_points="93.79" time_points="0" arrival_points="0" leading_points="0" real_distance="53.973" last_distance="53.546"/>
+          </FsParticipant>
+          <FsParticipant id="135">
+            <FsFlightData tracklog_filename="t2.rosalesz.135.igc"/>
+            <FsResult rank="27" points="362" distance="78.915" ss_time="00:00:00" distance_points="331" linear_distance_points="164.36" difficulty_distance_points="166.69" time_points="0" arrival_points="0" leading_points="30.8" real_distance="78.915" last_distance="78.787"/>
+          </FsParticipant>
+          <FsParticipant id="137">
+            <FsFlightData tracklog_filename="t2.isomoto.137.igc"/>
+            <FsResult rank="18" points="491" distance="97.7" ss_time="00:00:00" distance_points="436.2" linear_distance_points="203.48" difficulty_distance_points="232.77" time_points="0" arrival_points="0" leading_points="54.9" real_distance="97.7" last_distance="97.7"/>
+          </FsParticipant>
+          <FsParticipant id="138">
+            <FsFlightData tracklog_filename="t2.durand.138.igc"/>
+            <FsResult rank="6" points="774" distance="113.605" ss_time="04:02:50" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="182.3" arrival_points="33.8" leading_points="84.7" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="139">
+            <FsFlightData tracklog_filename="t2.gervasoni.139.igc"/>
+            <FsResult rank="4" points="805" distance="113.605" ss_time="03:57:26" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="199.6" arrival_points="44.3" leading_points="87.4" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="140">
+            <FsFlightData tracklog_filename="T2.vickery.140.igc"/>
+            <FsResult rank="38" points="186" distance="49.907" ss_time="00:00:00" distance_points="186.2" linear_distance_points="103.94" difficulty_distance_points="82.26" time_points="0" arrival_points="0" leading_points="0" real_distance="49.907" last_distance="49.763"/>
+          </FsParticipant>
+          <FsParticipant id="141">
+            <FsFlightData tracklog_filename="t2.halfhill.141.IGC"/>
+            <FsResult rank="37" points="194" distance="51.295" ss_time="00:00:00" distance_points="194" linear_distance_points="106.83" difficulty_distance_points="87.13" time_points="0" arrival_points="0" leading_points="0" real_distance="51.295" last_distance="50.445"/>
+          </FsParticipant>
+          <FsParticipant id="142">
+            <FsFlightData tracklog_filename="T2.Simon.142.igc"/>
+            <FsResult rank="10" points="730" distance="113.605" ss_time="04:10:58" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="157.6" arrival_points="20.6" leading_points="78.6" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="143">
+            <FsFlightData tracklog_filename="t2.eppink.143.IGC"/>
+            <FsResult rank="15" points="644" distance="113.605" ss_time="04:37:37" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="85.1" arrival_points="14.1" leading_points="71.1" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="144">
+            <FsFlightData tracklog_filename="T2.lanning.144.igc"/>
+            <FsResult rank="17" points="603" distance="113.605" ss_time="04:49:58" distance_points="473.2" linear_distance_points="236.61" difficulty_distance_points="236.61" time_points="54.5" arrival_points="13.4" leading_points="61.8" real_distance="113.605" last_distance="113.605"/>
+          </FsParticipant>
+          <FsParticipant id="145">
+            <FsFlightData tracklog_filename="T2.irby.145.igc"/>
+            <FsResult rank="31" points="332" distance="75.886" ss_time="00:00:00" distance_points="318.2" linear_distance_points="158.05" difficulty_distance_points="160.15" time_points="0" arrival_points="0" leading_points="14.1" real_distance="75.886" last_distance="75.886"/>
+          </FsParticipant>
+          <FsParticipant id="146">
+            <FsFlightData tracklog_filename="t2.kelley.146.igc"/>
+            <FsResult rank="39" points="180" distance="49.001" ss_time="00:00:00" distance_points="180.5" linear_distance_points="102.06" difficulty_distance_points="78.4" time_points="0" arrival_points="0" leading_points="0" real_distance="49.001" last_distance="48.999"/>
+          </FsParticipant>
+          <FsParticipant id="150">
+            <FsFlightData tracklog_filename="t2.lanuve.150.igc"/>
+            <FsResult rank="28" points="355" distance="77.289" ss_time="00:00:00" distance_points="325.3" linear_distance_points="160.97" difficulty_distance_points="164.31" time_points="0" arrival_points="0" leading_points="29.4" real_distance="77.289" last_distance="77.053"/>
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="109.01" task_distance="113.605" no_of_pilots_present="43" no_of_pilots_flying="43" no_of_pilots_lo="26" goalratio="0.395348837209302" arrival_weight="0.0658481721735193" leading_weight="0.092187441042927" time_weight="0.368749764171708" distance_weight="0.473214622611846" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="4.596"/>
+          <FsTaskDistToTp tp_no="3" distance="35.180"/>
+          <FsTaskDistToTp tp_no="4" distance="64.407"/>
+          <FsTaskDistToTp tp_no="5" distance="99.450"/>
+          <FsTaskDistToTp tp_no="6" distance="113.606"/>
+          <FsTaskDifficulty chunks="1141" start_chunks="0" end_chunks="114.2" look_ahead="131" sum_of_difficulty="3326" no_of_pilots_lo="26">
+            <FsChunk chunk="50" start="5" end="5.1" end_ahead="18.1" down="1" downward="0" rel="0.000150330727600722" frac="0.0076668671076368">
+              <FsDown id="118" down="5"/>
+            </FsChunk>
+            <FsChunk chunk="206" start="20.6" end="20.7" end_ahead="33.7" down="1" downward="1" rel="0.000300661455201443" frac="0.0460012026458206">
+              <FsDown id="104" down="20.686"/>
+            </FsChunk>
+            <FsChunk chunk="213" start="21.3" end="21.4" end_ahead="34.4" down="1" downward="0" rel="0.000150330727600722" frac="0.0470535177390257">
+              <FsDown id="114" down="21.318"/>
+            </FsChunk>
+            <FsChunk chunk="381" start="38.1" end="38.2" end_ahead="51.2" down="1" downward="2" rel="0.000450992182802165" frac="0.0720084185207452">
+              <FsDown id="129" down="38.12"/>
+            </FsChunk>
+            <FsChunk chunk="490" start="49" end="49.1" end_ahead="62.1" down="1" downward="6" rel="0.00105231509320505" frac="0.165664461815995">
+              <FsDown id="146" down="49.001"/>
+            </FsChunk>
+            <FsChunk chunk="499" start="49.9" end="50" end_ahead="63" down="1" downward="5" rel="0.00090198436560433" frac="0.173782321106434">
+              <FsDown id="140" down="49.907"/>
+            </FsChunk>
+            <FsChunk chunk="512" start="51.2" end="51.3" end_ahead="64.3" down="1" downward="4" rel="0.000751653638003608" frac="0.183553818400481">
+              <FsDown id="141" down="51.295"/>
+            </FsChunk>
+            <FsChunk chunk="527" start="52.7" end="52.8" end_ahead="65.8" down="1" downward="3" rel="0.000601322910402886" frac="0.192573662056524">
+              <FsDown id="109" down="52.77"/>
+            </FsChunk>
+            <FsChunk chunk="539" start="53.9" end="54" end_ahead="67" down="1" downward="2" rel="0.000450992182802165" frac="0.19798556825015">
+              <FsDown id="134" down="53.973"/>
+            </FsChunk>
+            <FsChunk chunk="545" start="54.5" end="54.6" end_ahead="67.6" down="1" downward="1" rel="0.000300661455201443" frac="0.199789536981359">
+              <FsDown id="112" down="54.573"/>
+            </FsChunk>
+            <FsChunk chunk="577" start="57.7" end="57.8" end_ahead="70.8" down="1" downward="0" rel="0.000150330727600722" frac="0.204600120264582">
+              <FsDown id="133" down="57.791"/>
+            </FsChunk>
+            <FsChunk chunk="715" start="71.5" end="71.6" end_ahead="84.6" down="1" downward="6" rel="0.00105231509320505" frac="0.300060132291039">
+              <FsDown id="115" down="71.593"/>
+            </FsChunk>
+            <FsChunk chunk="717" start="71.7" end="71.8" end_ahead="84.8" down="1" downward="5" rel="0.00090198436560433" frac="0.301864101022247">
+              <FsDown id="126" down="71.778"/>
+            </FsChunk>
+            <FsChunk chunk="758" start="75.8" end="75.9" end_ahead="88.9" down="1" downward="5" rel="0.00090198436560433" frac="0.337793144918821">
+              <FsDown id="145" down="75.886"/>
+            </FsChunk>
+            <FsChunk chunk="762" start="76.2" end="76.3" end_ahead="89.3" down="1" downward="4" rel="0.000751653638003608" frac="0.340799759470835">
+              <FsDown id="124" down="76.258"/>
+            </FsChunk>
+            <FsChunk chunk="772" start="77.2" end="77.3" end_ahead="90.3" down="1" downward="3" rel="0.000601322910402886" frac="0.346812988574864">
+              <FsDown id="150" down="77.289"/>
+            </FsChunk>
+            <FsChunk chunk="774" start="77.4" end="77.5" end_ahead="90.5" down="1" downward="2" rel="0.000450992182802165" frac="0.347714972940468">
+              <FsDown id="102" down="77.451"/>
+            </FsChunk>
+            <FsChunk chunk="789" start="78.9" end="79" end_ahead="92" down="1" downward="1" rel="0.000300661455201443" frac="0.35222489476849">
+              <FsDown id="135" down="78.915"/>
+            </FsChunk>
+            <FsChunk chunk="855" start="85.5" end="85.6" end_ahead="98.6" down="1" downward="4" rel="0.000751653638003608" frac="0.380036079374623">
+              <FsDown id="117" down="85.515"/>
+            </FsChunk>
+            <FsChunk chunk="923" start="92.3" end="92.4" end_ahead="105.4" down="1" downward="6" rel="0.00105231509320505" frac="0.448737221888152">
+              <FsDown id="101" down="92.346"/>
+            </FsChunk>
+            <FsChunk chunk="940" start="94" end="94.1" end_ahead="107.1" down="1" downward="5" rel="0.00090198436560433" frac="0.464070956103426">
+              <FsDown id="108" down="94.071"/>
+            </FsChunk>
+            <FsChunk chunk="977" start="97.7" end="97.8" end_ahead="110.8" down="1" downward="4" rel="0.000751653638003608" frac="0.49188214070956">
+              <FsDown id="137" down="97.7"/>
+            </FsChunk>
+            <FsChunk chunk="985" start="98.5" end="98.6" end_ahead="111.6" down="1" downward="3" rel="0.000601322910402886" frac="0.496692723992783">
+              <FsDown id="116" down="98.5"/>
+            </FsChunk>
+            <FsChunk chunk="986" start="98.6" end="98.7" end_ahead="111.7" down="1" downward="2" rel="0.000450992182802165" frac="0.497143716175585">
+              <FsDown id="110" down="98.623"/>
+            </FsChunk>
+            <FsChunk chunk="987" start="98.7" end="98.8" end_ahead="111.8" down="1" downward="1" rel="0.000300661455201443" frac="0.497444377630786">
+              <FsDown id="103" down="98.71"/>
+            </FsChunk>
+            <FsChunk chunk="1004" start="100.4" end="100.5" end_ahead="113.5" down="1" downward="0" rel="0.000150330727600722" frac="0.499999999999999">
+              <FsDown id="107" down="100.436"/>
+            </FsChunk>
+          </FsTaskDifficulty>
+        </FsTaskScoreParams>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="28.53429" lon="-81.8505"/>
+          <FsTurnpoint lat="28.54871" lon="-81.89459"/>
+          <FsTurnpoint lat="28.64432" lon="-82.18832"/>
+          <FsTurnpoint lat="28.71211" lon="-81.89886"/>
+          <FsTurnpoint lat="28.40312" lon="-81.82823"/>
+          <FsTurnpoint lat="28.52945" lon="-81.84616"/>
+        </FsTaskShortestRoute>
+      </FsTask>
+      <FsTask id="3" name="QUEST-CHERYL" tracklog_folder="flights\QAtask3">
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" score_back_time="15"/>
+        <FsTaskDefinition ss="2" es="6" goal="CIRCLE" groundstart="0">
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-09T13:30:00-04:00" close="2016-05-09T20:00:00-04:00"/>
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="5000" open="2016-05-09T14:30:00-04:00" close="2016-05-09T20:00:00-04:00"/>
+          <FsTurnpoint id="KOKEE" lat="28.595" lon="-82.1498" altitude="37" radius="5000" open="2016-05-09T14:30:00-04:00" close="2016-05-09T20:00:00-04:00"/>
+          <FsTurnpoint id="BARON" lat="28.80142" lon="-81.93573" altitude="37" radius="400" open="2016-05-09T14:30:00-04:00" close="2016-05-09T20:00:00-04:00"/>
+          <FsTurnpoint id="PANOLK" lat="28.77283" lon="-82.13307" altitude="37" radius="400" open="2016-05-09T14:30:00-04:00" close="2016-05-09T20:00:00-04:00"/>
+          <FsTurnpoint id="CHERYL" lat="28.67143" lon="-82.08718" altitude="37" radius="400" open="2016-05-09T14:30:00-04:00" close="2016-05-09T20:00:00-04:00"/>
+          <FsStartGate open="2016-05-09T14:30:00-04:00"/>
+          <FsStartGate open="2016-05-09T14:50:00-04:00"/>
+          <FsStartGate open="2016-05-09T15:10:00-04:00"/>
+          <FsStartGate open="2016-05-09T15:30:00-04:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" score_back_time="20" cancel_reason="" stop_time="2016-05-09T18:52:00-04:00"/>
+        <FsParticipants>
+          <FsParticipant id="101">
+            <FsFlightData tracklog_filename="t3.straub.101.IGC"/>
+            <FsResult rank="13" points="744" distance="82.51" ss_time="02:49:25" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="206.5" arrival_points="29.2" leading_points="94.7" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="102">
+            <FsFlightData tracklog_filename="t3.lovelace.102.igc"/>
+            <FsResult rank="17" points="649" distance="82.51" ss_time="03:11:58" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="119" arrival_points="17.1" leading_points="99.2" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="103">
+            <FsFlightData tracklog_filename="t3.christensen.103.igc"/>
+            <FsResult rank="25" points="470" distance="79.518" ss_time="00:00:00" distance_points="403.5" linear_distance_points="199.25" difficulty_distance_points="204.28" time_points="0" arrival_points="0" leading_points="66.8" real_distance="79.518" last_distance="79.517"/>
+          </FsParticipant>
+          <FsParticipant id="104">
+            <FsFlightData tracklog_filename="t3.polet.104.igc"/>
+            <FsResult rank="14" points="720" distance="82.51" ss_time="02:50:15" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="203" arrival_points="26.5" leading_points="76.9" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="106">
+            <FsFlightData tracklog_filename="T3.Nahoum.106.igc"/>
+            <FsResult rank="3" points="823" distance="82.51" ss_time="02:38:58" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="254.1" arrival_points="59.9" leading_points="95.8" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="107">
+            <FsFlightData tracklog_filename="t3.brown.107.igc"/>
+            <FsResult rank="15" points="715" distance="82.51" ss_time="02:53:51" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="188" arrival_points="24.2" leading_points="89.6" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="108">
+            <FsFlightData tracklog_filename="T3.Guerra.108.igc"/>
+            <FsResult rank="8" points="789" distance="82.51" ss_time="02:40:43" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="245.6" arrival_points="48.7" leading_points="81.3" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="110">
+            <FsFlightData tracklog_filename="T3.barnwell.110.IGC"/>
+            <FsResult rank="41" points="111" distance="36.052" ss_time="00:00:00" distance_points="111" linear_distance_points="90.34" difficulty_distance_points="20.67" time_points="0" arrival_points="0" leading_points="0" real_distance="36.052" last_distance="35.795"/>
+          </FsParticipant>
+          <FsParticipant id="111">
+            <FsFlightData tracklog_filename="t3.kruse.111.IGC"/>
+            <FsResult rank="40" points="218" distance="56.172" ss_time="00:00:00" distance_points="213.5" linear_distance_points="140.75" difficulty_distance_points="72.71" time_points="0" arrival_points="0" leading_points="4.2" real_distance="56.172" last_distance="55.384"/>
+          </FsParticipant>
+          <FsParticipant id="112">
+            <FsFlightData tracklog_filename="t3.kataev.112.igc"/>
+            <FsResult rank="31" points="376" distance="70.582" ss_time="00:00:00" distance_points="323.6" linear_distance_points="176.86" difficulty_distance_points="146.74" time_points="0" arrival_points="0" leading_points="52.7" real_distance="70.582" last_distance="70.127"/>
+          </FsParticipant>
+          <FsParticipant id="113">
+            <FsFlightData tracklog_filename="T3.opsanger.113.igc"/>
+            <FsResult rank="12" points="751" distance="82.51" ss_time="02:29:31" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="304.5" arrival_points="18" leading_points="14.6" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="114">
+            <FsFlightData tracklog_filename="T3.Howard.114.IGC"/>
+            <FsResult rank="33" points="346" distance="72.667" ss_time="00:00:00" distance_points="346.2" linear_distance_points="182.09" difficulty_distance_points="164.07" time_points="0" arrival_points="0" leading_points="0" real_distance="72.667" last_distance="72.666"/>
+          </FsParticipant>
+          <FsParticipant id="115">
+            <FsFlightData tracklog_filename="t3.hollidge.115.igc"/>
+            <FsResult rank="5" points="808" distance="82.51" ss_time="02:39:36" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="251" arrival_points="54" leading_points="89.2" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="116">
+            <FsFlightData tracklog_filename="T3.Bohl.116.IGC"/>
+            <FsResult rank="28" points="454" distance="77.841" ss_time="00:00:00" distance_points="393.7" linear_distance_points="195.05" difficulty_distance_points="198.67" time_points="0" arrival_points="0" leading_points="59.8" real_distance="77.841" last_distance="77.37"/>
+          </FsParticipant>
+          <FsParticipant id="117">
+            <FsFlightData tracklog_filename="T3.dallas.117.IGC"/>
+            <FsResult rank="27" points="456" distance="78.232" ss_time="00:00:00" distance_points="396.3" linear_distance_points="196.03" difficulty_distance_points="200.27" time_points="0" arrival_points="0" leading_points="59.3" real_distance="78.232" last_distance="78.17"/>
+          </FsParticipant>
+          <FsParticipant id="118">
+            <FsFlightData tracklog_filename="T3.Heilmann.118.IGC"/>
+            <FsResult rank="26" points="459" distance="79.238" ss_time="00:00:00" distance_points="402.1" linear_distance_points="198.55" difficulty_distance_points="203.59" time_points="0" arrival_points="0" leading_points="56.6" real_distance="79.238" last_distance="79.238"/>
+          </FsParticipant>
+          <FsParticipant id="119">
+            <FsFlightData tracklog_filename="T3.Weghorst.119.IGC"/>
+            <FsResult rank="34" points="344" distance="65.947" ss_time="00:00:00" distance_points="273.9" linear_distance_points="165.25" difficulty_distance_points="108.61" time_points="0" arrival_points="0" leading_points="69.7" real_distance="65.947" last_distance="65.669"/>
+          </FsParticipant>
+          <FsParticipant id="120">
+            <FsFlightData tracklog_filename="T3.Glennon.120.igc"/>
+            <FsResult rank="21" points="617" distance="82.51" ss_time="03:13:42" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="112.8" arrival_points="15" leading_points="75.5" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="121">
+            <FsFlightData tracklog_filename="t3.bondarchuk.121.igc"/>
+            <FsResult rank="16" points="685" distance="82.51" ss_time="03:03:56" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="148.4" arrival_points="22.2" leading_points="101.2" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="123">
+            <FsFlightData tracklog_filename="T3.guillemette.123.IGC"/>
+            <FsResult rank="35" points="323" distance="68.133" ss_time="00:00:00" distance_points="296.1" linear_distance_points="170.72" difficulty_distance_points="125.41" time_points="0" arrival_points="0" leading_points="27.1" real_distance="68.133" last_distance="67.531"/>
+          </FsParticipant>
+          <FsParticipant id="124">
+            <FsFlightData tracklog_filename="T3.Pannese.124.IGC"/>
+            <FsResult rank="23" points="491" distance="81.896" ss_time="00:00:00" distance_points="412" linear_distance_points="205.21" difficulty_distance_points="206.75" time_points="0" arrival_points="0" leading_points="78.9" real_distance="81.896" last_distance="81.895"/>
+          </FsParticipant>
+          <FsParticipant id="125">
+            <FsFlightData tracklog_filename="T3.Bunner.125.igc"/>
+            <FsResult rank="11" points="766" distance="82.51" ss_time="02:27:21" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="317.7" arrival_points="19.1" leading_points="16" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="126">
+            <FsFlightData tracklog_filename="T3.kannard.126.IGC"/>
+            <FsResult rank="38" points="224" distance="52.259" ss_time="00:00:00" distance_points="194.3" linear_distance_points="130.95" difficulty_distance_points="63.34" time_points="0" arrival_points="0" leading_points="54.7" real_distance="52.259" last_distance="50.911"/>
+          </FsParticipant>
+          <FsParticipant id="127">
+            <FsFlightData tracklog_filename="t3.pesavento.127.IGC"/>
+            <FsResult rank="10" points="776" distance="82.51" ss_time="02:42:40" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="236.5" arrival_points="35.7" leading_points="90.5" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="128">
+            <FsFlightData tracklog_filename="T3.majors.128.IGC"/>
+            <FsResult rank="9" points="778" distance="82.51" ss_time="02:26:13" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="325.1" arrival_points="20.5" leading_points="18.7" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="129">
+            <FsFlightData tracklog_filename="t3.jefferson.129.igc"/>
+            <FsResult rank="38" points="224" distance="50.914" ss_time="00:00:00" distance_points="186.5" linear_distance_points="127.58" difficulty_distance_points="58.9" time_points="0" arrival_points="0" leading_points="37.3" real_distance="50.914" last_distance="39.879"/>
+          </FsParticipant>
+          <FsParticipant id="131">
+            <FsFlightData tracklog_filename="t3.hamilton.131.igc"/>
+            <FsResult rank="2" points="833" distance="82.51" ss_time="02:38:34" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="256" arrival_points="66.3" leading_points="97.5" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="132">
+            <FsFlightData tracklog_filename="t3.stinnett.132.IGC"/>
+            <FsResult rank="7" points="793" distance="82.51" ss_time="02:42:24" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="237.7" arrival_points="39.5" leading_points="102.6" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="133">
+            <FsFlightData tracklog_filename="T3.olsen.133.igc"/>
+            <FsResult rank="18" points="628" distance="82.51" ss_time="03:12:43" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="116.3" arrival_points="15.7" leading_points="82.6" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="134">
+            <FsFlightData tracklog_filename="T3.sykes.134.IGC"/>
+            <FsResult rank="36" points="262" distance="58.949" ss_time="00:00:00" distance_points="228" linear_distance_points="147.71" difficulty_distance_points="80.32" time_points="0" arrival_points="0" leading_points="34" real_distance="58.949" last_distance="58.708"/>
+          </FsParticipant>
+          <FsParticipant id="135">
+            <FsFlightData tracklog_filename="t3.rosalez.135.igc"/>
+            <FsResult rank="19" points="621" distance="82.51" ss_time="03:12:28" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="117.2" arrival_points="16.3" leading_points="74.1" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="137">
+            <FsFlightData tracklog_filename="t3.isomoto.137.igc"/>
+            <FsResult rank="22" points="591" distance="82.51" ss_time="03:22:09" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="83.6" arrival_points="14.8" leading_points="79.2" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="138">
+            <FsFlightData tracklog_filename="t3.durand.138.igc"/>
+            <FsResult rank="1" points="961" distance="82.51" ss_time="02:17:35" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="410.6" arrival_points="73.3" leading_points="63.8" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="139">
+            <FsFlightData tracklog_filename="t3.gervasoni.139.igc"/>
+            <FsResult rank="6" points="794" distance="82.51" ss_time="02:42:01" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="239.5" arrival_points="43.9" leading_points="96.8" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="140">
+            <FsFlightData tracklog_filename="T3.vickery.140.igc"/>
+            <FsResult rank="37" points="225" distance="52.677" ss_time="00:00:00" distance_points="196.3" linear_distance_points="132" difficulty_distance_points="64.32" time_points="0" arrival_points="0" leading_points="28.4" real_distance="52.677" last_distance="52.306"/>
+          </FsParticipant>
+          <FsParticipant id="141">
+            <FsFlightData tracklog_filename="t3.halfhill.141.IGC"/>
+            <FsResult rank="29" points="440" distance="76.103" ss_time="00:00:00" distance_points="380.5" linear_distance_points="190.7" difficulty_distance_points="189.84" time_points="0" arrival_points="0" leading_points="59.5" real_distance="76.103" last_distance="76.101"/>
+          </FsParticipant>
+          <FsParticipant id="142">
+            <FsFlightData tracklog_filename="T3.Simon.142.igc"/>
+            <FsResult rank="4" points="819" distance="82.51" ss_time="02:28:08" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="312.8" arrival_points="32.2" leading_points="60.8" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="143">
+            <FsFlightData tracklog_filename="t3.eppink.143.IGC"/>
+            <FsResult rank="24" points="482" distance="80.219" ss_time="00:00:00" distance_points="406.4" linear_distance_points="201.01" difficulty_distance_points="205.43" time_points="0" arrival_points="0" leading_points="75.6" real_distance="80.219" last_distance="79.613"/>
+          </FsParticipant>
+          <FsParticipant id="144">
+            <FsFlightData tracklog_filename="T3.lanning.144.igc"/>
+            <FsResult rank="20" points="619" distance="82.51" ss_time="03:13:20" distance_points="413.5" linear_distance_points="206.75" difficulty_distance_points="206.75" time_points="114.1" arrival_points="15.3" leading_points="76.6" real_distance="82.51" last_distance="82.51"/>
+          </FsParticipant>
+          <FsParticipant id="145">
+            <FsFlightData tracklog_filename="t3.irby.145.igc"/>
+            <FsResult rank="30" points="402" distance="76.178" ss_time="00:00:00" distance_points="381.2" linear_distance_points="190.88" difficulty_distance_points="190.28" time_points="0" arrival_points="0" leading_points="20.5" real_distance="76.178" last_distance="76.097"/>
+          </FsParticipant>
+          <FsParticipant id="146">
+            <FsFlightData tracklog_filename="t3.kelley.146.igc"/>
+            <FsResult rank="42" points="102" distance="33.269" ss_time="00:00:00" distance_points="101.8" linear_distance_points="83.36" difficulty_distance_points="18.4" time_points="0" arrival_points="0" leading_points="0" real_distance="33.269" last_distance="33.253"/>
+          </FsParticipant>
+          <FsParticipant id="150">
+            <FsFlightData tracklog_filename="T3.LaNubenew.150.igc"/>
+            <FsResult rank="32" points="366" distance="76.324" ss_time="00:00:00" distance_points="382.4" linear_distance_points="191.25" difficulty_distance_points="191.11" time_points="0" arrival_points="0" leading_points="41.2" real_distance="76.324" last_distance="76.086"/>
+          </FsParticipant>
+          <FsParticipant id="109"/>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="77.915" task_distance="82.51" no_of_pilots_present="42" no_of_pilots_flying="42" no_of_pilots_lo="20" goalratio="0.523809523809524" arrival_weight="0.0733125337436562" leading_weight="0.102637547241119" time_weight="0.410550188964475" distance_weight="0.41349973005075" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="4.595"/>
+          <FsTaskDistToTp tp_no="3" distance="25.817"/>
+          <FsTaskDistToTp tp_no="4" distance="52.279"/>
+          <FsTaskDistToTp tp_no="5" distance="71.092"/>
+          <FsTaskDistToTp tp_no="6" distance="82.511"/>
+          <FsTaskDifficulty chunks="831" start_chunks="0" end_chunks="83.2" look_ahead="124" sum_of_difficulty="2480" no_of_pilots_lo="20">
+            <FsChunk chunk="332" start="33.2" end="33.3" end_ahead="45.6" down="1" downward="1" rel="0.000403225806451613" frac="0.0443548387096775">
+              <FsDown id="146" down="33.269"/>
+            </FsChunk>
+            <FsChunk chunk="360" start="36" end="36.1" end_ahead="48.4" down="1" downward="0" rel="0.000201612903225806" frac="0.05">
+              <FsDown id="110" down="36.052"/>
+            </FsChunk>
+            <FsChunk chunk="509" start="50.9" end="51" end_ahead="63.3" down="1" downward="4" rel="0.00100806451612903" frac="0.142338709677419">
+              <FsDown id="129" down="50.914"/>
+            </FsChunk>
+            <FsChunk chunk="522" start="52.2" end="52.3" end_ahead="64.6" down="1" downward="3" rel="0.000806451612903226" frac="0.152822580645161">
+              <FsDown id="126" down="52.259"/>
+            </FsChunk>
+            <FsChunk chunk="526" start="52.6" end="52.7" end_ahead="65" down="1" downward="2" rel="0.000604838709677419" frac="0.155241935483871">
+              <FsDown id="140" down="52.677"/>
+            </FsChunk>
+            <FsChunk chunk="561" start="56.1" end="56.2" end_ahead="68.5" down="1" downward="3" rel="0.000806451612903226" frac="0.175403225806452">
+              <FsDown id="111" down="56.172"/>
+            </FsChunk>
+            <FsChunk chunk="589" start="58.9" end="59" end_ahead="71.3" down="1" downward="3" rel="0.000806451612903226" frac="0.193951612903226">
+              <FsDown id="134" down="58.949"/>
+            </FsChunk>
+            <FsChunk chunk="659" start="65.9" end="66" end_ahead="78.3" down="1" downward="8" rel="0.00181451612903226" frac="0.261895161290322">
+              <FsDown id="119" down="65.947"/>
+            </FsChunk>
+            <FsChunk chunk="681" start="68.1" end="68.2" end_ahead="80.5" down="1" downward="10" rel="0.00221774193548387" frac="0.302620967741935">
+              <FsDown id="123" down="68.133"/>
+            </FsChunk>
+            <FsChunk chunk="705" start="70.5" end="70.6" end_ahead="82.9" down="1" downward="10" rel="0.00221774193548387" frac="0.353225806451612">
+              <FsDown id="112" down="70.582"/>
+            </FsChunk>
+            <FsChunk chunk="726" start="72.6" end="72.7" end_ahead="85" down="1" downward="9" rel="0.00201612903225806" frac="0.395564516129031">
+              <FsDown id="114" down="72.667"/>
+            </FsChunk>
+            <FsChunk chunk="761" start="76.1" end="76.2" end_ahead="88.5" down="2" downward="7" rel="0.00181451612903226" frac="0.459072580645161">
+              <FsDown id="141" down="76.103"/>
+              <FsDown id="145" down="76.178"/>
+            </FsChunk>
+            <FsChunk chunk="763" start="76.3" end="76.4" end_ahead="88.7" down="1" downward="6" rel="0.00141129032258065" frac="0.461895161290322">
+              <FsDown id="150" down="76.324"/>
+            </FsChunk>
+            <FsChunk chunk="778" start="77.8" end="77.9" end_ahead="90.2" down="1" downward="5" rel="0.00120967741935484" frac="0.480040322580645">
+              <FsDown id="116" down="77.841"/>
+            </FsChunk>
+            <FsChunk chunk="782" start="78.2" end="78.3" end_ahead="90.6" down="1" downward="4" rel="0.00100806451612903" frac="0.484072580645161">
+              <FsDown id="117" down="78.232"/>
+            </FsChunk>
+            <FsChunk chunk="792" start="79.2" end="79.3" end_ahead="91.6" down="1" downward="3" rel="0.000806451612903226" frac="0.492137096774193">
+              <FsDown id="118" down="79.238"/>
+            </FsChunk>
+            <FsChunk chunk="795" start="79.5" end="79.6" end_ahead="91.9" down="1" downward="2" rel="0.000604838709677419" frac="0.493951612903225">
+              <FsDown id="103" down="79.518"/>
+            </FsChunk>
+            <FsChunk chunk="802" start="80.2" end="80.3" end_ahead="92.6" down="1" downward="1" rel="0.000403225806451613" frac="0.496774193548387">
+              <FsDown id="143" down="80.219"/>
+            </FsChunk>
+            <FsChunk chunk="818" start="81.8" end="81.9" end_ahead="94.2" down="1" downward="0" rel="0.000201612903225806" frac="0.5">
+              <FsDown id="124" down="81.896"/>
+            </FsChunk>
+          </FsTaskDifficulty>
+        </FsTaskScoreParams>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="28.53418" lon="-81.85054"/>
+          <FsTurnpoint lat="28.54744" lon="-81.8951"/>
+          <FsTurnpoint lat="28.60849" lon="-82.10101"/>
+          <FsTurnpoint lat="28.79954" lon="-81.93923"/>
+          <FsTurnpoint lat="28.77103" lon="-82.12952"/>
+          <FsTurnpoint lat="28.67481" lon="-82.08862"/>
+        </FsTaskShortestRoute>
+      </FsTask>
+      <FsTask id="4" name="QUEST-QUEST" tracklog_folder="flights\QAtask4">
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" score_back_time="15"/>
+        <FsTaskDefinition ss="2" es="5" goal="CIRCLE" groundstart="0">
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-10T13:00:00-04:00" close="2016-05-10T20:00:00-04:00"/>
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="5000" open="2016-05-10T14:00:00-04:00" close="2016-05-10T20:00:00-04:00"/>
+          <FsTurnpoint id="GROSS" lat="28.64555" lon="-82.21898" altitude="37" radius="400" open="2016-05-10T14:00:00-04:00" close="2016-05-10T20:00:00-04:00"/>
+          <FsTurnpoint id="TURN33" lat="28.71518" lon="-81.8967" altitude="37" radius="400" open="2016-05-10T14:00:00-04:00" close="2016-05-10T20:00:00-04:00"/>
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-10T14:00:00-04:00" close="2016-05-10T20:00:00-04:00"/>
+          <FsStartGate open="2016-05-10T14:00:00-04:00"/>
+          <FsStartGate open="2016-05-10T14:20:00-04:00"/>
+          <FsStartGate open="2016-05-10T14:40:00-04:00"/>
+          <FsStartGate open="2016-05-10T15:00:00-04:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" score_back_time="20" cancel_reason="" stop_time="2016-05-10T17:06:00-04:00"/>
+        <FsParticipants>
+          <FsParticipant id="101">
+            <FsFlightData tracklog_filename="t4.straub.101.IGC"/>
+            <FsResult rank="10" points="728" distance="89.524" ss_time="03:49:47" distance_points="525.6" linear_distance_points="262.79" difficulty_distance_points="262.79" time_points="141" arrival_points="14.4" leading_points="46.6" real_distance="89.524" last_distance="89.524"/>
+          </FsParticipant>
+          <FsParticipant id="102">
+            <FsFlightData tracklog_filename="t4.lovelace.102.igc"/>
+            <FsResult rank="6" points="772" distance="89.524" ss_time="03:37:38" distance_points="525.6" linear_distance_points="262.79" difficulty_distance_points="262.79" time_points="176.4" arrival_points="24.9" leading_points="45.2" real_distance="89.524" last_distance="89.524"/>
+          </FsParticipant>
+          <FsParticipant id="103">
+            <FsFlightData tracklog_filename="T4.christensen.103.IGC"/>
+            <FsResult rank="29" points="357" distance="62.25" ss_time="00:00:00" distance_points="324.3" linear_distance_points="182.73" difficulty_distance_points="141.61" time_points="0" arrival_points="0" leading_points="33.1" real_distance="62.25" last_distance="61.625"/>
+          </FsParticipant>
+          <FsParticipant id="104">
+            <FsFlightData tracklog_filename="t4.polet.104.igc"/>
+            <FsResult rank="36" points="186" distance="42.948" ss_time="00:00:00" distance_points="185.8" linear_distance_points="126.07" difficulty_distance_points="59.73" time_points="0" arrival_points="0" leading_points="0" real_distance="42.948" last_distance="42.303"/>
+          </FsParticipant>
+          <FsParticipant id="106">
+            <FsFlightData tracklog_filename="T4.Nahoum.106.igc"/>
+            <FsResult rank="22" points="446" distance="69.285" ss_time="00:00:00" distance_points="384" linear_distance_points="203.38" difficulty_distance_points="180.61" time_points="0" arrival_points="0" leading_points="61.9" real_distance="69.285" last_distance="69.134"/>
+          </FsParticipant>
+          <FsParticipant id="108">
+            <FsFlightData tracklog_filename="t4.guerra.108.igc"/>
+            <FsResult rank="13" points="698" distance="89.524" ss_time="03:53:08" distance_points="525.6" linear_distance_points="262.79" difficulty_distance_points="262.79" time_points="131.8" arrival_points="12.5" leading_points="28.5" real_distance="89.524" last_distance="89.524"/>
+          </FsParticipant>
+          <FsParticipant id="110">
+            <FsFlightData tracklog_filename="T4.Barnwell.110.IGC"/>
+            <FsResult rank="7" points="748" distance="89.524" ss_time="03:45:40" distance_points="525.6" linear_distance_points="262.79" difficulty_distance_points="262.79" time_points="152.6" arrival_points="21.1" leading_points="48.5" real_distance="89.524" last_distance="89.524"/>
+          </FsParticipant>
+          <FsParticipant id="111">
+            <FsFlightData tracklog_filename="t4.kruse.111.IGC"/>
+            <FsResult rank="15" points="546" distance="82.688" ss_time="00:00:00" distance_points="496.6" linear_distance_points="242.72" difficulty_distance_points="253.85" time_points="0" arrival_points="0" leading_points="49.8" real_distance="82.688" last_distance="82.417"/>
+          </FsParticipant>
+          <FsParticipant id="112">
+            <FsFlightData tracklog_filename="t4.kataev.112.igc"/>
+            <FsResult rank="21" points="451" distance="77.579" ss_time="00:00:00" distance_points="451.5" linear_distance_points="227.73" difficulty_distance_points="223.76" time_points="0" arrival_points="0" leading_points="0" real_distance="77.579" last_distance="77.504"/>
+          </FsParticipant>
+          <FsParticipant id="113">
+            <FsFlightData tracklog_filename="T4.opsanger.113.igc"/>
+            <FsResult rank="5" points="799" distance="89.524" ss_time="03:35:59" distance_points="525.6" linear_distance_points="262.79" difficulty_distance_points="262.79" time_points="181.5" arrival_points="29.5" leading_points="62" real_distance="89.524" last_distance="89.524"/>
+          </FsParticipant>
+          <FsParticipant id="114">
+            <FsFlightData tracklog_filename="T4.Howard.114.IGC"/>
+            <FsResult rank="20" points="472" distance="79.748" ss_time="00:00:00" distance_points="471.5" linear_distance_points="234.09" difficulty_distance_points="237.46" time_points="0" arrival_points="0" leading_points="0" real_distance="79.748" last_distance="79.729"/>
+          </FsParticipant>
+          <FsParticipant id="115">
+            <FsFlightData tracklog_filename="t4.hollidge.115.igc"/>
+            <FsResult rank="8" points="744" distance="89.524" ss_time="03:48:08" distance_points="525.6" linear_distance_points="262.79" difficulty_distance_points="262.79" time_points="145.6" arrival_points="16" leading_points="56.4" real_distance="89.524" last_distance="89.524"/>
+          </FsParticipant>
+          <FsParticipant id="116">
+            <FsFlightData tracklog_filename="T4.Bohl.116.IGC"/>
+            <FsResult rank="18" points="531" distance="83.483" ss_time="00:00:00" distance_points="501.9" linear_distance_points="245.06" difficulty_distance_points="256.87" time_points="0" arrival_points="0" leading_points="29.2" real_distance="83.483" last_distance="83.443"/>
+          </FsParticipant>
+          <FsParticipant id="117">
+            <FsFlightData tracklog_filename="T4.Dallas.117.IGC"/>
+            <FsResult rank="12" points="711" distance="89.524" ss_time="03:46:43" distance_points="525.6" linear_distance_points="262.79" difficulty_distance_points="262.79" time_points="149.6" arrival_points="18.2" leading_points="17.5" real_distance="89.524" last_distance="89.524"/>
+          </FsParticipant>
+          <FsParticipant id="118">
+            <FsFlightData tracklog_filename="T4.Heilmann.118.IGC"/>
+            <FsResult rank="24" points="422" distance="70.712" ss_time="00:00:00" distance_points="393.5" linear_distance_points="207.57" difficulty_distance_points="185.88" time_points="0" arrival_points="0" leading_points="28.8" real_distance="70.712" last_distance="70.712"/>
+          </FsParticipant>
+          <FsParticipant id="119">
+            <FsFlightData tracklog_filename="T4.Weghorst.119.IGC"/>
+            <FsResult rank="34" points="241" distance="50.096" ss_time="00:00:00" distance_points="226.2" linear_distance_points="147.05" difficulty_distance_points="79.18" time_points="0" arrival_points="0" leading_points="14.9" real_distance="50.096" last_distance="49.104"/>
+          </FsParticipant>
+          <FsParticipant id="120">
+            <FsFlightData tracklog_filename="T4.Glennon.120.igc"/>
+            <FsResult rank="17" points="536" distance="83.506" ss_time="00:00:00" distance_points="502.1" linear_distance_points="245.12" difficulty_distance_points="256.94" time_points="0" arrival_points="0" leading_points="33.7" real_distance="83.506" last_distance="82.53"/>
+          </FsParticipant>
+          <FsParticipant id="121">
+            <FsFlightData tracklog_filename="t4.bondarchuk.121.igc"/>
+            <FsResult rank="26" points="414" distance="69.899" ss_time="00:00:00" distance_points="388.1" linear_distance_points="205.18" difficulty_distance_points="182.91" time_points="0" arrival_points="0" leading_points="26.4" real_distance="69.899" last_distance="69.537"/>
+          </FsParticipant>
+          <FsParticipant id="123">
+            <FsFlightData tracklog_filename="T4.guillemette.123.IGC"/>
+            <FsResult rank="9" points="740" distance="89.524" ss_time="03:30:02" distance_points="525.6" linear_distance_points="262.79" difficulty_distance_points="262.79" time_points="200.8" arrival_points="13.2" leading_points="0.3" real_distance="89.524" last_distance="89.524"/>
+          </FsParticipant>
+          <FsParticipant id="124">
+            <FsFlightData tracklog_filename="T4.Pannese.124.IGC"/>
+            <FsResult rank="23" points="437" distance="76.079" ss_time="00:00:00" distance_points="436.9" linear_distance_points="223.32" difficulty_distance_points="213.57" time_points="0" arrival_points="0" leading_points="0" real_distance="76.079" last_distance="76.028"/>
+          </FsParticipant>
+          <FsParticipant id="125">
+            <FsFlightData tracklog_filename="T4.Bunner.125.igc"/>
+            <FsResult rank="16" points="538" distance="81.933" ss_time="00:00:00" distance_points="490.7" linear_distance_points="240.51" difficulty_distance_points="250.24" time_points="0" arrival_points="0" leading_points="46.8" real_distance="81.933" last_distance="81.93"/>
+          </FsParticipant>
+          <FsParticipant id="127">
+            <FsFlightData tracklog_filename="t4.pesavento.127.IGC"/>
+            <FsResult rank="31" points="348" distance="61.956" ss_time="00:00:00" distance_points="321.2" linear_distance_points="181.87" difficulty_distance_points="139.36" time_points="0" arrival_points="0" leading_points="27" real_distance="61.956" last_distance="61.952"/>
+          </FsParticipant>
+          <FsParticipant id="128">
+            <FsFlightData tracklog_filename="T4.majors.128.IGC"/>
+            <FsResult rank="4" points="816" distance="89.524" ss_time="03:35:55" distance_points="525.6" linear_distance_points="262.79" difficulty_distance_points="262.79" time_points="181.7" arrival_points="35.2" leading_points="73.9" real_distance="89.524" last_distance="89.524"/>
+          </FsParticipant>
+          <FsParticipant id="129">
+            <FsFlightData tracklog_filename="T4.Jefferson.129.IGC"/>
+            <FsResult rank="30" points="351" distance="64.954" ss_time="00:00:00" distance_points="350.7" linear_distance_points="190.67" difficulty_distance_points="160.06" time_points="0" arrival_points="0" leading_points="0" real_distance="64.954" last_distance="64.908"/>
+          </FsParticipant>
+          <FsParticipant id="131">
+            <FsFlightData tracklog_filename="t4.HAMILTON.131.igc"/>
+            <FsResult rank="1" points="1000" distance="89.524" ss_time="03:03:55" distance_points="525.6" linear_distance_points="262.79" difficulty_distance_points="262.79" time_points="332.1" arrival_points="59.3" leading_points="83" real_distance="89.524" last_distance="89.524"/>
+          </FsParticipant>
+          <FsParticipant id="132">
+            <FsFlightData tracklog_filename="T4.Stinnett.132.IGC"/>
+            <FsResult rank="25" points="417" distance="66.511" ss_time="00:00:00" distance_points="363.5" linear_distance_points="195.24" difficulty_distance_points="168.31" time_points="0" arrival_points="0" leading_points="53.7" real_distance="66.511" last_distance="66.511"/>
+          </FsParticipant>
+          <FsParticipant id="133">
+            <FsFlightData tracklog_filename="T4.olsen.133.igc"/>
+            <FsResult rank="27" points="404" distance="65.502" ss_time="00:00:00" distance_points="355.6" linear_distance_points="192.27" difficulty_distance_points="163.28" time_points="0" arrival_points="0" leading_points="48.3" real_distance="65.502" last_distance="64.946"/>
+          </FsParticipant>
+          <FsParticipant id="134">
+            <FsFlightData tracklog_filename="T4.sykes.134.IGC"/>
+            <FsResult rank="33" points="259" distance="55.38" ss_time="00:00:00" distance_points="259.3" linear_distance_points="162.56" difficulty_distance_points="96.71" time_points="0" arrival_points="0" leading_points="0" real_distance="55.38" last_distance="54.68"/>
+          </FsParticipant>
+          <FsParticipant id="135">
+            <FsFlightData tracklog_filename="t4.rosalez.135.igc"/>
+            <FsResult rank="18" points="531" distance="84.749" ss_time="00:00:00" distance_points="508.1" linear_distance_points="248.77" difficulty_distance_points="259.32" time_points="0" arrival_points="0" leading_points="23.3" real_distance="84.749" last_distance="84.747"/>
+          </FsParticipant>
+          <FsParticipant id="137">
+            <FsFlightData tracklog_filename="Yoko Isomoto.20160510-170000.137.igc"/>
+            <FsResult rank="32" points="285" distance="58.442" ss_time="00:00:00" distance_points="285.5" linear_distance_points="171.55" difficulty_distance_points="113.95" time_points="0" arrival_points="0" leading_points="0" real_distance="58.442" last_distance="58.184"/>
+          </FsParticipant>
+          <FsParticipant id="138">
+            <FsFlightData tracklog_filename="t4.durand.138.igc"/>
+            <FsResult rank="2" points="825" distance="89.524" ss_time="03:34:36" distance_points="525.6" linear_distance_points="262.79" difficulty_distance_points="262.79" time_points="185.9" arrival_points="50" leading_points="63.2" real_distance="89.524" last_distance="89.524"/>
+          </FsParticipant>
+          <FsParticipant id="139">
+            <FsFlightData tracklog_filename="t4.gervasoni.139.igc"/>
+            <FsResult rank="3" points="820" distance="89.524" ss_time="03:35:04" distance_points="525.6" linear_distance_points="262.79" difficulty_distance_points="262.79" time_points="184.4" arrival_points="42" leading_points="67.7" real_distance="89.524" last_distance="89.524"/>
+          </FsParticipant>
+          <FsParticipant id="140">
+            <FsFlightData tracklog_filename="T4.vickery.140.igc"/>
+            <FsResult rank="41" points="49" distance="13.144" ss_time="00:00:00" distance_points="48.9" linear_distance_points="38.58" difficulty_distance_points="10.31" time_points="0" arrival_points="0" leading_points="0" real_distance="13.144" last_distance="12.862"/>
+          </FsParticipant>
+          <FsParticipant id="141">
+            <FsFlightData tracklog_filename="t4.halfhill.141.IGC"/>
+            <FsResult rank="28" points="377" distance="66.786" ss_time="00:00:00" distance_points="365.6" linear_distance_points="196.04" difficulty_distance_points="169.57" time_points="0" arrival_points="0" leading_points="10.9" real_distance="66.786" last_distance="66.786"/>
+          </FsParticipant>
+          <FsParticipant id="142">
+            <FsFlightData tracklog_filename="T4.Simon.142.igc"/>
+            <FsResult rank="35" points="235" distance="51.674" ss_time="00:00:00" distance_points="235.4" linear_distance_points="151.68" difficulty_distance_points="83.73" time_points="0" arrival_points="0" leading_points="0" real_distance="51.674" last_distance="50.102"/>
+          </FsParticipant>
+          <FsParticipant id="143">
+            <FsFlightData tracklog_filename="t4.eppink.143.IGC"/>
+            <FsResult rank="37" points="185" distance="42.777" ss_time="00:00:00" distance_points="184.8" linear_distance_points="125.57" difficulty_distance_points="59.28" time_points="0" arrival_points="0" leading_points="0" real_distance="42.777" last_distance="42.777"/>
+          </FsParticipant>
+          <FsParticipant id="144">
+            <FsFlightData tracklog_filename="T4.lanning.144.igc"/>
+            <FsResult rank="14" points="552" distance="88.376" ss_time="00:00:00" distance_points="522.2" linear_distance_points="259.42" difficulty_distance_points="262.79" time_points="0" arrival_points="0" leading_points="29.8" real_distance="88.376" last_distance="88.376"/>
+          </FsParticipant>
+          <FsParticipant id="145">
+            <FsFlightData tracklog_filename="t4.irby.145.igc"/>
+            <FsResult rank="38" points="164" distance="39.166" ss_time="00:00:00" distance_points="164.2" linear_distance_points="114.97" difficulty_distance_points="49.21" time_points="0" arrival_points="0" leading_points="0" real_distance="39.166" last_distance="38.905"/>
+          </FsParticipant>
+          <FsParticipant id="146">
+            <FsFlightData tracklog_filename="t4.kelley.146.igc"/>
+            <FsResult rank="39" points="121" distance="31.181" ss_time="00:00:00" distance_points="121.3" linear_distance_points="91.53" difficulty_distance_points="29.8" time_points="0" arrival_points="0" leading_points="0" real_distance="31.181" last_distance="30.888"/>
+          </FsParticipant>
+          <FsParticipant id="150">
+            <FsFlightData tracklog_filename="t4.lanube.150.igc"/>
+            <FsResult rank="11" points="721" distance="89.524" ss_time="03:39:11" distance_points="525.6" linear_distance_points="262.79" difficulty_distance_points="262.79" time_points="171.7" arrival_points="12.1" leading_points="12.1" real_distance="89.524" last_distance="89.524"/>
+          </FsParticipant>
+          <FsParticipant id="126">
+            <FsFlightData tracklog_filename="t4.kannard.126.IGC"/>
+            <FsResult rank="40" points="83" distance="21.851" ss_time="00:00:00" distance_points="83.3" linear_distance_points="64.14" difficulty_distance_points="19.11" time_points="0" arrival_points="0" leading_points="0" real_distance="21.851" last_distance="20.944"/>
+          </FsParticipant>
+          <FsParticipant id="109"/>
+          <FsParticipant id="107"/>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="84.929" task_distance="89.524" no_of_pilots_present="41" no_of_pilots_flying="41" no_of_pilots_lo="28" goalratio="0.317073170731707" arrival_weight="0.0593026925755575" leading_weight="0.0830237696057805" time_weight="0.332095078423122" distance_weight="0.52557845939554" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="4.595"/>
+          <FsTaskDistToTp tp_no="3" distance="37.661"/>
+          <FsTaskDistToTp tp_no="4" distance="69.376"/>
+          <FsTaskDistToTp tp_no="5" distance="89.525"/>
+          <FsTaskDifficulty chunks="901" start_chunks="0" end_chunks="90.2" look_ahead="96" sum_of_difficulty="2688" no_of_pilots_lo="28">
+            <FsChunk chunk="131" start="13.1" end="13.2" end_ahead="22.7" down="1" downward="1" rel="0.00037202380952381" frac="0.01953125">
+              <FsDown id="140" down="13.144"/>
+            </FsChunk>
+            <FsChunk chunk="218" start="21.8" end="21.9" end_ahead="31.4" down="1" downward="1" rel="0.00037202380952381" frac="0.0362723214285713">
+              <FsDown id="126" down="21.851"/>
+            </FsChunk>
+            <FsChunk chunk="311" start="31.1" end="31.2" end_ahead="40.7" down="1" downward="1" rel="0.00037202380952381" frac="0.0565476190476189">
+              <FsDown id="146" down="31.181"/>
+            </FsChunk>
+            <FsChunk chunk="391" start="39.1" end="39.2" end_ahead="48.7" down="1" downward="2" rel="0.000558035714285714" frac="0.0933779761904759">
+              <FsDown id="145" down="39.166"/>
+            </FsChunk>
+            <FsChunk chunk="427" start="42.7" end="42.8" end_ahead="52.3" down="1" downward="3" rel="0.000744047619047619" frac="0.11235119047619">
+              <FsDown id="143" down="42.777"/>
+            </FsChunk>
+            <FsChunk chunk="429" start="42.9" end="43" end_ahead="52.5" down="1" downward="2" rel="0.000558035714285714" frac="0.113467261904762">
+              <FsDown id="104" down="42.948"/>
+            </FsChunk>
+            <FsChunk chunk="500" start="50" end="50.1" end_ahead="59.6" down="1" downward="3" rel="0.000744047619047619" frac="0.150111607142857">
+              <FsDown id="119" down="50.096"/>
+            </FsChunk>
+            <FsChunk chunk="516" start="51.6" end="51.7" end_ahead="61.2" down="1" downward="2" rel="0.000558035714285714" frac="0.159040178571429">
+              <FsDown id="142" down="51.674"/>
+            </FsChunk>
+            <FsChunk chunk="553" start="55.3" end="55.4" end_ahead="64.9" down="1" downward="3" rel="0.000744047619047619" frac="0.183407738095238">
+              <FsDown id="134" down="55.38"/>
+            </FsChunk>
+            <FsChunk chunk="584" start="58.4" end="58.5" end_ahead="68" down="1" downward="6" rel="0.00130208333333333" frac="0.216331845238095">
+              <FsDown id="137" down="58.442"/>
+            </FsChunk>
+            <FsChunk chunk="619" start="61.9" end="62" end_ahead="71.5" down="1" downward="8" rel="0.00167410714285714" frac="0.264322916666667">
+              <FsDown id="127" down="61.956"/>
+            </FsChunk>
+            <FsChunk chunk="622" start="62.2" end="62.3" end_ahead="71.8" down="1" downward="7" rel="0.00148809523809524" frac="0.268787202380953">
+              <FsDown id="103" down="62.25"/>
+            </FsChunk>
+            <FsChunk chunk="649" start="64.9" end="65" end_ahead="74.5" down="1" downward="6" rel="0.00130208333333333" frac="0.303943452380952">
+              <FsDown id="129" down="64.954"/>
+            </FsChunk>
+            <FsChunk chunk="655" start="65.5" end="65.6" end_ahead="75.1" down="1" downward="5" rel="0.00111607142857143" frac="0.310639880952381">
+              <FsDown id="133" down="65.502"/>
+            </FsChunk>
+            <FsChunk chunk="665" start="66.5" end="66.6" end_ahead="76.1" down="1" downward="5" rel="0.00111607142857143" frac="0.320126488095238">
+              <FsDown id="132" down="66.511"/>
+            </FsChunk>
+            <FsChunk chunk="667" start="66.7" end="66.8" end_ahead="76.3" down="1" downward="4" rel="0.000930059523809524" frac="0.321986607142857">
+              <FsDown id="141" down="66.786"/>
+            </FsChunk>
+            <FsChunk chunk="692" start="69.2" end="69.3" end_ahead="78.8" down="1" downward="4" rel="0.000930059523809524" frac="0.343005952380953">
+              <FsDown id="106" down="69.285"/>
+            </FsChunk>
+            <FsChunk chunk="698" start="69.8" end="69.9" end_ahead="79.4" down="1" downward="3" rel="0.000744047619047619" frac="0.347470238095238">
+              <FsDown id="121" down="69.899"/>
+            </FsChunk>
+            <FsChunk chunk="707" start="70.7" end="70.8" end_ahead="80.3" down="1" downward="3" rel="0.000744047619047619" frac="0.353608630952381">
+              <FsDown id="118" down="70.712"/>
+            </FsChunk>
+            <FsChunk chunk="760" start="76" end="76.1" end_ahead="85.6" down="1" downward="7" rel="0.00148809523809524" frac="0.40531994047619">
+              <FsDown id="124" down="76.079"/>
+            </FsChunk>
+            <FsChunk chunk="775" start="77.5" end="77.6" end_ahead="87.1" down="1" downward="6" rel="0.00130208333333333" frac="0.42485119047619">
+              <FsDown id="112" down="77.579"/>
+            </FsChunk>
+            <FsChunk chunk="797" start="79.7" end="79.8" end_ahead="89.3" down="1" downward="6" rel="0.00130208333333333" frac="0.45126488095238">
+              <FsDown id="114" down="79.748"/>
+            </FsChunk>
+            <FsChunk chunk="819" start="81.9" end="82" end_ahead="91.5" down="1" downward="5" rel="0.00111607142857143" frac="0.475818452380952">
+              <FsDown id="125" down="81.933"/>
+            </FsChunk>
+            <FsChunk chunk="826" start="82.6" end="82.7" end_ahead="92.2" down="1" downward="4" rel="0.000930059523809524" frac="0.482328869047619">
+              <FsDown id="111" down="82.688"/>
+            </FsChunk>
+            <FsChunk chunk="834" start="83.4" end="83.5" end_ahead="93" down="1" downward="3" rel="0.000744047619047619" frac="0.48828125">
+              <FsDown id="116" down="83.483"/>
+            </FsChunk>
+            <FsChunk chunk="835" start="83.5" end="83.6" end_ahead="93.1" down="1" downward="2" rel="0.000558035714285714" frac="0.488839285714286">
+              <FsDown id="120" down="83.506"/>
+            </FsChunk>
+            <FsChunk chunk="847" start="84.7" end="84.8" end_ahead="94.3" down="1" downward="1" rel="0.00037202380952381" frac="0.493303571428572">
+              <FsDown id="135" down="84.749"/>
+            </FsChunk>
+            <FsChunk chunk="883" start="88.3" end="88.4" end_ahead="97.9" down="1" downward="0" rel="0.000186011904761905" frac="0.500000000000001">
+              <FsDown id="144" down="88.376"/>
+            </FsChunk>
+          </FsTaskDifficulty>
+        </FsTaskScoreParams>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="28.53422" lon="-81.85053"/>
+          <FsTurnpoint lat="28.54783" lon="-81.89495"/>
+          <FsTurnpoint lat="28.64538" lon="-82.21489"/>
+          <FsTurnpoint lat="28.71209" lon="-81.89882"/>
+          <FsTurnpoint lat="28.53653" lon="-81.84769"/>
+        </FsTaskShortestRoute>
+      </FsTask>
+      <FsTask id="5" name="QUEST-QUEST" tracklog_folder="flights\QAtask5">
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" score_back_time="15"/>
+        <FsTaskDefinition ss="2" es="5" goal="CIRCLE" groundstart="0">
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-11T13:00:00-04:00" close="2016-05-11T20:00:00-04:00"/>
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="5000" open="2016-05-11T14:20:00-04:00" close="2016-05-11T20:00:00-04:00"/>
+          <FsTurnpoint id="TURN33" lat="28.71518" lon="-81.8967" altitude="37" radius="400" open="2016-05-11T14:20:00-04:00" close="2016-05-11T20:00:00-04:00"/>
+          <FsTurnpoint id="T33DS" lat="28.25847" lon="-81.825" altitude="37" radius="400" open="2016-05-11T14:20:00-04:00" close="2016-05-11T20:00:00-04:00"/>
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-11T14:20:00-04:00" close="2016-05-11T20:00:00-04:00"/>
+          <FsStartGate open="2016-05-11T14:20:00-04:00"/>
+          <FsStartGate open="2016-05-11T14:40:00-04:00"/>
+          <FsStartGate open="2016-05-11T15:00:00-04:00"/>
+          <FsStartGate open="2016-05-11T15:20:00-04:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" score_back_time="20" cancel_reason="" stop_time="2016-05-11T16:46:00-04:00"/>
+        <FsParticipants>
+          <FsParticipant id="101">
+            <FsFlightData tracklog_filename="t5.straub.101.IGC"/>
+            <FsResult rank="23" points="454" distance="82.9" ss_time="00:00:00" distance_points="398.7" linear_distance_points="191.06" difficulty_distance_points="207.68" time_points="0" arrival_points="0" leading_points="54.8" real_distance="82.9" last_distance="82.9"/>
+          </FsParticipant>
+          <FsParticipant id="102">
+            <FsFlightData tracklog_filename="t5.lovelace.102.igc"/>
+            <FsResult rank="5" points="729" distance="100.295" ss_time="03:05:09" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="167" arrival_points="45.2" leading_points="54.5" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="106">
+            <FsFlightData tracklog_filename="T5.Nahoum.106.igc"/>
+            <FsResult rank="30" points="332" distance="63.597" ss_time="00:00:00" distance_points="280.3" linear_distance_points="146.57" difficulty_distance_points="133.73" time_points="0" arrival_points="0" leading_points="51.5" real_distance="63.597" last_distance="62.553"/>
+          </FsParticipant>
+          <FsParticipant id="108">
+            <FsFlightData tracklog_filename="t5.guerra.108.igc"/>
+            <FsResult rank="9" points="623" distance="100.295" ss_time="03:35:09" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="69.8" arrival_points="30.2" leading_points="61" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="110">
+            <FsFlightData tracklog_filename="T5.Barnwell.110.IGC"/>
+            <FsResult rank="40" points="45" distance="13.309" ss_time="00:00:00" distance_points="44.6" linear_distance_points="30.67" difficulty_distance_points="13.9" time_points="0" arrival_points="0" leading_points="0" real_distance="13.309" last_distance="12.981"/>
+          </FsParticipant>
+          <FsParticipant id="111">
+            <FsFlightData tracklog_filename="t5.kruse.111.IGC"/>
+            <FsResult rank="21" points="489" distance="87.025" ss_time="00:00:00" distance_points="424.5" linear_distance_points="200.56" difficulty_distance_points="223.96" time_points="0" arrival_points="0" leading_points="64.1" real_distance="87.025" last_distance="86.652"/>
+          </FsParticipant>
+          <FsParticipant id="112">
+            <FsFlightData tracklog_filename="t5.kataev.112.igc"/>
+            <FsResult rank="16" points="561" distance="100.295" ss_time="03:49:42" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="28" arrival_points="15.1" leading_points="55.8" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="113">
+            <FsFlightData tracklog_filename="T5.opsanger.113.igc"/>
+            <FsResult rank="14" points="585" distance="100.295" ss_time="03:45:58" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="38.5" arrival_points="16" leading_points="68.3" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="114">
+            <FsFlightData tracklog_filename="T5.Howard.114.IGC"/>
+            <FsResult rank="24" points="421" distance="81.203" ss_time="00:00:00" distance_points="386.8" linear_distance_points="187.15" difficulty_distance_points="199.64" time_points="0" arrival_points="0" leading_points="33.8" real_distance="81.203" last_distance="80.844"/>
+          </FsParticipant>
+          <FsParticipant id="115">
+            <FsFlightData tracklog_filename="t5.hollidge.115.igc"/>
+            <FsResult rank="27" points="343" distance="67.645" ss_time="00:00:00" distance_points="306.4" linear_distance_points="155.9" difficulty_distance_points="150.52" time_points="0" arrival_points="0" leading_points="36.2" real_distance="67.645" last_distance="67.493"/>
+          </FsParticipant>
+          <FsParticipant id="116">
+            <FsFlightData tracklog_filename="T5.Bohl.116.IGC"/>
+            <FsResult rank="29" points="335" distance="67.428" ss_time="00:00:00" distance_points="305.3" linear_distance_points="155.4" difficulty_distance_points="149.87" time_points="0" arrival_points="0" leading_points="29.7" real_distance="67.428" last_distance="67.428"/>
+          </FsParticipant>
+          <FsParticipant id="117">
+            <FsFlightData tracklog_filename="T5.dallas.117.IGC"/>
+            <FsResult rank="20" points="491" distance="89.665" ss_time="00:00:00" distance_points="436.4" linear_distance_points="206.65" difficulty_distance_points="229.78" time_points="0" arrival_points="0" leading_points="54.7" real_distance="89.665" last_distance="89.462"/>
+          </FsParticipant>
+          <FsParticipant id="118">
+            <FsFlightData tracklog_filename="T5.Heilmann.118.IGC"/>
+            <FsResult rank="39" points="104" distance="31.334" ss_time="00:00:00" distance_points="104" linear_distance_points="72.21" difficulty_distance_points="31.81" time_points="0" arrival_points="0" leading_points="0" real_distance="31.334" last_distance="29.237"/>
+          </FsParticipant>
+          <FsParticipant id="119">
+            <FsFlightData tracklog_filename="T5.Weghorse.119.IGC"/>
+            <FsResult rank="31" points="311" distance="63.71" ss_time="00:00:00" distance_points="281.2" linear_distance_points="146.83" difficulty_distance_points="134.34" time_points="0" arrival_points="0" leading_points="29.7" real_distance="63.71" last_distance="63.407"/>
+          </FsParticipant>
+          <FsParticipant id="120">
+            <FsFlightData tracklog_filename="T5.Glennon.120.igc"/>
+            <FsResult rank="10" points="617" distance="100.295" ss_time="03:36:30" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="65.8" arrival_points="26.6" leading_points="62.7" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="121">
+            <FsFlightData tracklog_filename="t5.bondarchuk.121.igc"/>
+            <FsResult rank="3" points="868" distance="100.295" ss_time="02:40:11" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="270.9" arrival_points="51.7" leading_points="83.1" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="123">
+            <FsFlightData tracklog_filename="T5.guillemette.123.igc"/>
+            <FsResult rank="12" points="606" distance="100.295" ss_time="03:31:52" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="79.6" arrival_points="14.4" leading_points="50.2" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="124">
+            <FsFlightData tracklog_filename="T5.Pannese.124.IGC"/>
+            <FsResult rank="25" points="384" distance="75.676" ss_time="00:00:00" distance_points="347.8" linear_distance_points="174.41" difficulty_distance_points="173.4" time_points="0" arrival_points="0" leading_points="36" real_distance="75.676" last_distance="75.487"/>
+          </FsParticipant>
+          <FsParticipant id="125">
+            <FsFlightData tracklog_filename="T5.Bunner.125.igc"/>
+            <FsResult rank="22" points="483" distance="87.219" ss_time="00:00:00" distance_points="425.6" linear_distance_points="201.01" difficulty_distance_points="224.56" time_points="0" arrival_points="0" leading_points="57.8" real_distance="87.219" last_distance="86.638"/>
+          </FsParticipant>
+          <FsParticipant id="127">
+            <FsFlightData tracklog_filename="t5.pesavento.127.IGC"/>
+            <FsResult rank="13" points="588" distance="100.295" ss_time="03:38:54" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="58.8" arrival_points="21" leading_points="45.7" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="128">
+            <FsFlightData tracklog_filename="T5.majors.128.IGC"/>
+            <FsResult rank="1" points="986" distance="100.295" ss_time="02:26:17" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="376.4" arrival_points="67.2" leading_points="79.8" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="129">
+            <FsFlightData tracklog_filename="T5.Jefferson.129.igc"/>
+            <FsResult rank="19" points="497" distance="91.485" ss_time="00:00:00" distance_points="442" linear_distance_points="210.84" difficulty_distance_points="231.15" time_points="0" arrival_points="0" leading_points="54.6" real_distance="91.485" last_distance="91.483"/>
+          </FsParticipant>
+          <FsParticipant id="131">
+            <FsFlightData tracklog_filename="t5.hamilton.131.igc"/>
+            <FsResult rank="4" points="735" distance="100.295" ss_time="03:06:16" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="163" arrival_points="39.5" leading_points="70" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="132">
+            <FsFlightData tracklog_filename="t5.stinnett.132.igc"/>
+            <FsResult rank="7" points="646" distance="100.295" ss_time="03:21:24" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="112.1" arrival_points="18.9" leading_points="53.1" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="133">
+            <FsFlightData tracklog_filename="T5.olsen.133.igc"/>
+            <FsResult rank="37" points="161" distance="43.59" ss_time="00:00:00" distance_points="154.6" linear_distance_points="100.46" difficulty_distance_points="54.1" time_points="0" arrival_points="0" leading_points="6.6" real_distance="43.59" last_distance="43.35"/>
+          </FsParticipant>
+          <FsParticipant id="134">
+            <FsFlightData tracklog_filename="T5.sykes.134.IGC"/>
+            <FsResult rank="38" points="115" distance="34.056" ss_time="00:00:00" distance_points="114.6" linear_distance_points="78.49" difficulty_distance_points="36.11" time_points="0" arrival_points="0" leading_points="0" real_distance="34.056" last_distance="33.692"/>
+          </FsParticipant>
+          <FsParticipant id="135">
+            <FsFlightData tracklog_filename="t5.rosalez.135.igc"/>
+            <FsResult rank="15" points="570" distance="100.295" ss_time="04:01:39" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="0" arrival_points="13.6" leading_points="94.1" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="138">
+            <FsFlightData tracklog_filename="t5.durand.138.igc"/>
+            <FsResult rank="2" points="882" distance="100.295" ss_time="02:36:52" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="288.4" arrival_points="59" leading_points="72.7" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="139">
+            <FsFlightData tracklog_filename="t5.gervasione.139.igc"/>
+            <FsResult rank="6" points="723" distance="100.295" ss_time="03:07:21" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="159.2" arrival_points="34.5" leading_points="66.8" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="140">
+            <FsFlightData tracklog_filename="T5.vickery.140.igc"/>
+            <FsResult rank="41" points="19" distance="5" ss_time="00:00:00" distance_points="18.9" linear_distance_points="11.52" difficulty_distance_points="7.35" time_points="0" arrival_points="0" leading_points="0" real_distance="5" last_distance="0"/>
+          </FsParticipant>
+          <FsParticipant id="141">
+            <FsFlightData tracklog_filename="t5.halfhill.141.IGC"/>
+            <FsResult rank="34" points="249" distance="58.531" ss_time="00:00:00" distance_points="238.4" linear_distance_points="134.89" difficulty_distance_points="103.5" time_points="0" arrival_points="0" leading_points="11.1" real_distance="58.531" last_distance="58.087"/>
+          </FsParticipant>
+          <FsParticipant id="142">
+            <FsFlightData tracklog_filename="T5.Simon.142.igc"/>
+            <FsResult rank="8" points="631" distance="100.295" ss_time="03:25:54" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="97.9" arrival_points="17.3" leading_points="53.5" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="143">
+            <FsFlightData tracklog_filename="t5.eppink.143.IGC"/>
+            <FsResult rank="32" points="305" distance="64.823" ss_time="00:00:00" distance_points="289" linear_distance_points="149.39" difficulty_distance_points="139.6" time_points="0" arrival_points="0" leading_points="15.6" real_distance="64.823" last_distance="64.823"/>
+          </FsParticipant>
+          <FsParticipant id="144">
+            <FsFlightData tracklog_filename="T5.lanning.144.igc"/>
+            <FsResult rank="28" points="341" distance="69.04" ss_time="00:00:00" distance_points="313.2" linear_distance_points="159.11" difficulty_distance_points="154.06" time_points="0" arrival_points="0" leading_points="28" real_distance="69.04" last_distance="68.92"/>
+          </FsParticipant>
+          <FsParticipant id="146">
+            <FsFlightData tracklog_filename="T5.Kelley.146.igc"/>
+            <FsResult rank="35" points="193" distance="52.399" ss_time="00:00:00" distance_points="192.9" linear_distance_points="120.76" difficulty_distance_points="72.12" time_points="0" arrival_points="0" leading_points="0" real_distance="52.399" last_distance="52.075"/>
+          </FsParticipant>
+          <FsParticipant id="150">
+            <FsFlightData tracklog_filename="t5.lanube.150.igc"/>
+            <FsResult rank="17" points="536" distance="100.295" ss_time="04:01:08" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="0" arrival_points="13.9" leading_points="60.1" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+          <FsParticipant id="137"/>
+          <FsParticipant id="107"/>
+          <FsParticipant id="109">
+            <FsFlightData tracklog_filename="T5.williams.109.IGC"/>
+            <FsResult rank="36" points="166" distance="46.56" ss_time="00:00:00" distance_points="166.5" linear_distance_points="107.3" difficulty_distance_points="59.18" time_points="0" arrival_points="0" leading_points="0" real_distance="46.56" last_distance="40.032"/>
+          </FsParticipant>
+          <FsParticipant id="103">
+            <FsFlightData tracklog_filename="T5.christensen.103.IGC"/>
+            <FsResult rank="33" points="295" distance="62.818" ss_time="00:00:00" distance_points="273.9" linear_distance_points="144.77" difficulty_distance_points="129.1" time_points="0" arrival_points="0" leading_points="20.9" real_distance="62.818" last_distance="62.44"/>
+          </FsParticipant>
+          <FsParticipant id="145">
+            <FsFlightData tracklog_filename="Roger Irby.20160511-170000.145.igc"/>
+            <FsResult rank="26" points="346" distance="72.941" ss_time="00:00:00" distance_points="333.4" linear_distance_points="168.1" difficulty_distance_points="165.28" time_points="0" arrival_points="0" leading_points="12.6" real_distance="72.941" last_distance="72.939"/>
+          </FsParticipant>
+          <FsParticipant id="126">
+            <FsFlightData tracklog_filename="t5.kannard.126.IGC"/>
+            <FsResult rank="18" points="503" distance="89.065" ss_time="00:00:00" distance_points="434.1" linear_distance_points="205.26" difficulty_distance_points="228.88" time_points="0" arrival_points="0" leading_points="68.8" real_distance="89.065" last_distance="88.352"/>
+          </FsParticipant>
+          <FsParticipant id="104">
+            <FsFlightData tracklog_filename="t5.polet.104.igc"/>
+            <FsResult rank="11" points="613" distance="100.295" ss_time="03:38:52" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="58.9" arrival_points="23.5" leading_points="68.7" real_distance="100.295" last_distance="100.295"/>
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="95.68" task_distance="100.295" no_of_pilots_present="41" no_of_pilots_flying="41" no_of_pilots_lo="24" goalratio="0.414634146341463" arrival_weight="0.0672135470321092" leading_weight="0.0940989658449529" time_weight="0.376395863379812" distance_weight="0.462291623743126" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="4.615"/>
+          <FsTaskDistToTp tp_no="3" distance="20.032"/>
+          <FsTaskDistToTp tp_no="4" distance="70.495"/>
+          <FsTaskDistToTp tp_no="5" distance="100.296"/>
+          <FsTaskDifficulty chunks="1011" start_chunks="0" end_chunks="101.2" look_ahead="125" sum_of_difficulty="2926" no_of_pilots_lo="24">
+            <FsChunk chunk="50" start="5" end="5.1" end_ahead="17.5" down="1" downward="1" rel="0.000341763499658237" frac="0.015892002734108">
+              <FsDown id="140" down="5"/>
+            </FsChunk>
+            <FsChunk chunk="133" start="13.3" end="13.4" end_ahead="25.8" down="1" downward="0" rel="0.000170881749829118" frac="0.0300751879699247">
+              <FsDown id="110" down="13.309"/>
+            </FsChunk>
+            <FsChunk chunk="313" start="31.3" end="31.4" end_ahead="43.8" down="1" downward="2" rel="0.000512645249487355" frac="0.0686944634313052">
+              <FsDown id="118" down="31.334"/>
+            </FsChunk>
+            <FsChunk chunk="340" start="34" end="34.1" end_ahead="46.5" down="1" downward="1" rel="0.000341763499658237" frac="0.0779220779220777">
+              <FsDown id="134" down="34.056"/>
+            </FsChunk>
+            <FsChunk chunk="435" start="43.5" end="43.6" end_ahead="56" down="1" downward="2" rel="0.000512645249487355" frac="0.116712235133288">
+              <FsDown id="133" down="43.59"/>
+            </FsChunk>
+            <FsChunk chunk="465" start="46.5" end="46.6" end_ahead="59" down="1" downward="2" rel="0.000512645249487355" frac="0.127819548872181">
+              <FsDown id="109" down="46.56"/>
+            </FsChunk>
+            <FsChunk chunk="523" start="52.3" end="52.4" end_ahead="64.8" down="1" downward="4" rel="0.000854408749145591" frac="0.155160628844839">
+              <FsDown id="146" down="52.399"/>
+            </FsChunk>
+            <FsChunk chunk="585" start="58.5" end="58.6" end_ahead="71" down="1" downward="7" rel="0.00136705399863295" frac="0.223513328776486">
+              <FsDown id="141" down="58.531"/>
+            </FsChunk>
+            <FsChunk chunk="628" start="62.8" end="62.9" end_ahead="75.3" down="1" downward="7" rel="0.00136705399863295" frac="0.27904989747095">
+              <FsDown id="103" down="62.818"/>
+            </FsChunk>
+            <FsChunk chunk="635" start="63.5" end="63.6" end_ahead="76" down="1" downward="7" rel="0.00136705399863295" frac="0.288106630211893">
+              <FsDown id="106" down="63.597"/>
+            </FsChunk>
+            <FsChunk chunk="637" start="63.7" end="63.8" end_ahead="76.2" down="1" downward="6" rel="0.00119617224880383" frac="0.2904989747095">
+              <FsDown id="119" down="63.71"/>
+            </FsChunk>
+            <FsChunk chunk="648" start="64.8" end="64.9" end_ahead="77.3" down="1" downward="5" rel="0.00102529049897471" frac="0.301777170198222">
+              <FsDown id="143" down="64.823"/>
+            </FsChunk>
+            <FsChunk chunk="674" start="67.4" end="67.5" end_ahead="79.9" down="1" downward="4" rel="0.000854408749145591" frac="0.323991797676008">
+              <FsDown id="116" down="67.428"/>
+            </FsChunk>
+            <FsChunk chunk="676" start="67.6" end="67.7" end_ahead="80.1" down="1" downward="3" rel="0.000683526999316473" frac="0.325358851674641">
+              <FsDown id="115" down="67.645"/>
+            </FsChunk>
+            <FsChunk chunk="690" start="69" end="69.1" end_ahead="81.5" down="1" downward="3" rel="0.000683526999316473" frac="0.333048530416951">
+              <FsDown id="144" down="69.04"/>
+            </FsChunk>
+            <FsChunk chunk="729" start="72.9" end="73" end_ahead="85.4" down="1" downward="3" rel="0.000683526999316473" frac="0.357313738892685">
+              <FsDown id="145" down="72.941"/>
+            </FsChunk>
+            <FsChunk chunk="756" start="75.6" end="75.7" end_ahead="88.1" down="1" downward="4" rel="0.000854408749145591" frac="0.374572795625427">
+              <FsDown id="124" down="75.676"/>
+            </FsChunk>
+            <FsChunk chunk="812" start="81.2" end="81.3" end_ahead="93.7" down="1" downward="6" rel="0.00119617224880383" frac="0.43181818181818">
+              <FsDown id="114" down="81.203"/>
+            </FsChunk>
+            <FsChunk chunk="829" start="82.9" end="83" end_ahead="95.4" down="1" downward="5" rel="0.00102529049897471" frac="0.449248120300751">
+              <FsDown id="101" down="82.9"/>
+            </FsChunk>
+            <FsChunk chunk="870" start="87" end="87.1" end_ahead="99.5" down="1" downward="4" rel="0.000854408749145591" frac="0.48427887901572">
+              <FsDown id="111" down="87.025"/>
+            </FsChunk>
+            <FsChunk chunk="872" start="87.2" end="87.3" end_ahead="99.7" down="1" downward="3" rel="0.000683526999316473" frac="0.485645933014353">
+              <FsDown id="125" down="87.219"/>
+            </FsChunk>
+            <FsChunk chunk="890" start="89" end="89.1" end_ahead="101.5" down="1" downward="2" rel="0.000512645249487355" frac="0.494873547505126">
+              <FsDown id="126" down="89.065"/>
+            </FsChunk>
+            <FsChunk chunk="896" start="89.6" end="89.7" end_ahead="102.1" down="1" downward="1" rel="0.000341763499658237" frac="0.496924128503075">
+              <FsDown id="117" down="89.665"/>
+            </FsChunk>
+            <FsChunk chunk="914" start="91.4" end="91.5" end_ahead="103.9" down="1" downward="0" rel="0.000170881749829118" frac="0.499999999999999">
+              <FsDown id="129" down="91.485"/>
+            </FsChunk>
+          </FsTaskDifficulty>
+        </FsTaskScoreParams>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="28.53654" lon="-81.84764"/>
+          <FsTurnpoint lat="28.57688" lon="-81.85875"/>
+          <FsTurnpoint lat="28.71163" lon="-81.89593"/>
+          <FsTurnpoint lat="28.26206" lon="-81.82542"/>
+          <FsTurnpoint lat="28.52943" lon="-81.84639"/>
+        </FsTaskShortestRoute>
+      </FsTask>
+      <FsTask id="6" name="QUEST-QUEST" tracklog_folder="flights\QAtask6">
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" score_back_time="15"/>
+        <FsTaskDefinition ss="2" es="4" goal="CIRCLE" groundstart="0">
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-12T14:30:00-04:00" close="2016-05-12T20:00:00-04:00"/>
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="5000" open="2016-05-12T15:30:00-04:00" close="2016-05-12T20:00:00-04:00"/>
+          <FsTurnpoint id="T33DS" lat="28.25847" lon="-81.825" altitude="37" radius="400" open="2016-05-12T15:30:00-04:00" close="2016-05-12T20:00:00-04:00"/>
+          <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-12T15:30:00-04:00" close="2016-05-12T20:00:00-04:00"/>
+          <FsStartGate open="2016-05-12T15:30:00-04:00"/>
+          <FsStartGate open="2016-05-12T15:50:00-04:00"/>
+          <FsStartGate open="2016-05-12T16:10:00-04:00"/>
+          <FsStartGate open="2016-05-12T16:30:00-04:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" score_back_time="20" cancel_reason="" stop_time="2016-05-12T11:08:00-04:00"/>
+        <FsParticipants>
+          <FsParticipant id="101">
+            <FsFlightData tracklog_filename="t6.straub.101.IGC"/>
+            <FsResult rank="32" points="292" distance="28.231" ss_time="00:00:00" distance_points="290.4" linear_distance_points="178.41" difficulty_distance_points="111.98" time_points="0" arrival_points="0" leading_points="1.9" real_distance="28.231" last_distance="28.131"/>
+          </FsParticipant>
+          <FsParticipant id="102">
+            <FsFlightData tracklog_filename="t6.lovelace.102.igc"/>
+            <FsResult rank="22" points="536" distance="42.612" ss_time="00:00:00" distance_points="515.1" linear_distance_points="269.3" difficulty_distance_points="245.77" time_points="0" arrival_points="0" leading_points="20.7" real_distance="42.612" last_distance="42.03"/>
+          </FsParticipant>
+          <FsParticipant id="103">
+            <FsFlightData tracklog_filename="T6.christensen.103.IGC"/>
+            <FsResult rank="9" points="711" distance="52.738" ss_time="00:00:00" distance_points="691.4" linear_distance_points="333.29" difficulty_distance_points="358.11" time_points="0" arrival_points="0" leading_points="19.6" real_distance="52.738" last_distance="52.386"/>
+          </FsParticipant>
+          <FsParticipant id="104">
+            <FsFlightData tracklog_filename="t6.pollet.104.igc"/>
+            <FsResult rank="1" points="983" distance="59.6" ss_time="02:25:18" distance_points="753.3" linear_distance_points="376.66" difficulty_distance_points="376.66" time_points="172.7" arrival_points="30.8" leading_points="26.4" real_distance="59.6" last_distance="59.6"/>
+          </FsParticipant>
+          <FsParticipant id="106">
+            <FsFlightData tracklog_filename="T6.Nahoum.106.igc"/>
+            <FsResult rank="21" points="538" distance="42.349" ss_time="00:00:00" distance_points="508.9" linear_distance_points="267.64" difficulty_distance_points="241.23" time_points="0" arrival_points="0" leading_points="29.4" real_distance="42.349" last_distance="42.047"/>
+          </FsParticipant>
+          <FsParticipant id="108">
+            <FsFlightData tracklog_filename="T6.Guerra.108.igc"/>
+            <FsResult rank="31" points="294" distance="28.299" ss_time="00:00:00" distance_points="290.8" linear_distance_points="178.84" difficulty_distance_points="111.98" time_points="0" arrival_points="0" leading_points="3" real_distance="28.299" last_distance="28.129"/>
+          </FsParticipant>
+          <FsParticipant id="109">
+            <FsFlightData tracklog_filename="T6.williams.109.IGC"/>
+            <FsResult rank="30" points="422" distance="38.409" ss_time="00:00:00" distance_points="402.9" linear_distance_points="242.74" difficulty_distance_points="160.12" time_points="0" arrival_points="0" leading_points="19.2" real_distance="38.409" last_distance="38.15"/>
+          </FsParticipant>
+          <FsParticipant id="110">
+            <FsFlightData tracklog_filename="T6.Barnwell.110.IGC"/>
+            <FsResult rank="10" points="706" distance="53.032" ss_time="00:00:00" distance_points="695.2" linear_distance_points="335.15" difficulty_distance_points="360.04" time_points="0" arrival_points="0" leading_points="11.1" real_distance="53.032" last_distance="52.505"/>
+          </FsParticipant>
+          <FsParticipant id="111">
+            <FsFlightData tracklog_filename="t6.kruse.111.IGC"/>
+            <FsResult rank="8" points="717" distance="52.898" ss_time="00:00:00" distance_points="693.6" linear_distance_points="334.3" difficulty_distance_points="359.26" time_points="0" arrival_points="0" leading_points="23.9" real_distance="52.898" last_distance="52.526"/>
+          </FsParticipant>
+          <FsParticipant id="112">
+            <FsFlightData tracklog_filename="t6.Kataev.112.igc"/>
+            <FsResult rank="18" points="566" distance="44.538" ss_time="00:00:00" distance_points="548.5" linear_distance_points="281.47" difficulty_distance_points="266.99" time_points="0" arrival_points="0" leading_points="17.4" real_distance="44.538" last_distance="44.166"/>
+          </FsParticipant>
+          <FsParticipant id="113">
+            <FsFlightData tracklog_filename="T6.opsanger.113.igc"/>
+            <FsResult rank="5" points="770" distance="58.618" ss_time="00:00:00" distance_points="747.1" linear_distance_points="370.45" difficulty_distance_points="376.66" time_points="0" arrival_points="0" leading_points="23.3" real_distance="58.618" last_distance="58.229"/>
+          </FsParticipant>
+          <FsParticipant id="114">
+            <FsFlightData tracklog_filename="T6.Howard.114.IGC"/>
+            <FsResult rank="20" points="542" distance="42.952" ss_time="00:00:00" distance_points="521.8" linear_distance_points="271.45" difficulty_distance_points="250.39" time_points="0" arrival_points="0" leading_points="20.4" real_distance="42.952" last_distance="42.196"/>
+          </FsParticipant>
+          <FsParticipant id="116">
+            <FsFlightData tracklog_filename="T6.Bohl.116.IGC"/>
+            <FsResult rank="19" points="543" distance="43.269" ss_time="00:00:00" distance_points="527.1" linear_distance_points="273.45" difficulty_distance_points="253.6" time_points="0" arrival_points="0" leading_points="16.3" real_distance="43.269" last_distance="42.16"/>
+          </FsParticipant>
+          <FsParticipant id="117">
+            <FsFlightData tracklog_filename="T6.dallas.117.IGC"/>
+            <FsResult rank="7" points="721" distance="54.439" ss_time="00:00:00" distance_points="711.3" linear_distance_points="344.04" difficulty_distance_points="367.28" time_points="0" arrival_points="0" leading_points="12.2" real_distance="54.439" last_distance="54.338"/>
+          </FsParticipant>
+          <FsParticipant id="118">
+            <FsFlightData tracklog_filename="T6.Heilmann.118.IGC"/>
+            <FsResult rank="12" points="682" distance="51.024" ss_time="00:00:00" distance_points="662.5" linear_distance_points="322.46" difficulty_distance_points="340.01" time_points="0" arrival_points="0" leading_points="19.3" real_distance="51.024" last_distance="50.894"/>
+          </FsParticipant>
+          <FsParticipant id="119">
+            <FsFlightData tracklog_filename="T6.Weghorst.119.IGC"/>
+            <FsResult rank="27" points="438" distance="38.801" ss_time="00:00:00" distance_points="414.3" linear_distance_points="245.21" difficulty_distance_points="169.05" time_points="0" arrival_points="0" leading_points="23.4" real_distance="38.801" last_distance="38.801"/>
+          </FsParticipant>
+          <FsParticipant id="120">
+            <FsFlightData tracklog_filename="T6.Glennon.120.igc"/>
+            <FsResult rank="34" points="256" distance="25.382" ss_time="00:00:00" distance_points="255.5" linear_distance_points="160.41" difficulty_distance_points="95.11" time_points="0" arrival_points="0" leading_points="0" real_distance="25.382" last_distance="25.276"/>
+          </FsParticipant>
+          <FsParticipant id="121">
+            <FsFlightData tracklog_filename="t6.bondarchuk.121.igc"/>
+            <FsResult rank="13" points="664" distance="49.093" ss_time="00:00:00" distance_points="625.3" linear_distance_points="310.26" difficulty_distance_points="315.08" time_points="0" arrival_points="0" leading_points="39.1" real_distance="49.093" last_distance="48.771"/>
+          </FsParticipant>
+          <FsParticipant id="123">
+            <FsFlightData tracklog_filename="T6.guillemette.123.igc"/>
+            <FsResult rank="16" points="600" distance="46.539" ss_time="00:00:00" distance_points="580.6" linear_distance_points="294.12" difficulty_distance_points="286.51" time_points="0" arrival_points="0" leading_points="19.5" real_distance="46.539" last_distance="45.909"/>
+          </FsParticipant>
+          <FsParticipant id="124">
+            <FsFlightData tracklog_filename="T6.Pannese.124.IGC"/>
+            <FsResult rank="17" points="568" distance="44.763" ss_time="00:00:00" distance_points="552.1" linear_distance_points="282.89" difficulty_distance_points="269.24" time_points="0" arrival_points="0" leading_points="15.8" real_distance="44.763" last_distance="44.182"/>
+          </FsParticipant>
+          <FsParticipant id="125">
+            <FsFlightData tracklog_filename="T6.Bunner.125.igc"/>
+            <FsResult rank="6" points="733" distance="54.727" ss_time="00:00:00" distance_points="714.3" linear_distance_points="345.86" difficulty_distance_points="368.45" time_points="0" arrival_points="0" leading_points="19" real_distance="54.727" last_distance="54.447"/>
+          </FsParticipant>
+          <FsParticipant id="126">
+            <FsFlightData tracklog_filename="t6.kannard.126.IGC"/>
+            <FsResult rank="41" points="112" distance="15.696" ss_time="00:00:00" distance_points="111.7" linear_distance_points="99.2" difficulty_distance_points="12.5" time_points="0" arrival_points="0" leading_points="0" real_distance="15.696" last_distance="15.571"/>
+          </FsParticipant>
+          <FsParticipant id="127">
+            <FsFlightData tracklog_filename="t6.pesavento.127.IGC"/>
+            <FsResult rank="25" points="531" distance="42.532" ss_time="00:00:00" distance_points="513.4" linear_distance_points="268.79" difficulty_distance_points="244.58" time_points="0" arrival_points="0" leading_points="17.9" real_distance="42.532" last_distance="42.213"/>
+          </FsParticipant>
+          <FsParticipant id="128">
+            <FsFlightData tracklog_filename="T6.majors.128.IGC"/>
+            <FsResult rank="15" points="634" distance="47.459" ss_time="00:00:00" distance_points="596.1" linear_distance_points="299.93" difficulty_distance_points="296.14" time_points="0" arrival_points="0" leading_points="38" real_distance="47.459" last_distance="47.192"/>
+          </FsParticipant>
+          <FsParticipant id="129">
+            <FsFlightData tracklog_filename="T6.Jefferson.129.igc"/>
+            <FsResult rank="39" points="183" distance="21.006" ss_time="00:00:00" distance_points="183.1" linear_distance_points="132.75" difficulty_distance_points="50.33" time_points="0" arrival_points="0" leading_points="0" real_distance="21.006" last_distance="20.81"/>
+          </FsParticipant>
+          <FsParticipant id="131">
+            <FsFlightData tracklog_filename="t6.hamilton.131.IGC"/>
+            <FsResult rank="1" points="983" distance="59.6" ss_time="02:25:18" distance_points="753.3" linear_distance_points="376.66" difficulty_distance_points="376.66" time_points="172.7" arrival_points="30.8" leading_points="26.1" real_distance="59.6" last_distance="59.6"/>
+          </FsParticipant>
+          <FsParticipant id="132">
+            <FsFlightData tracklog_filename="t6.stinnett.132.igc"/>
+            <FsResult rank="4" points="941" distance="59.6" ss_time="02:27:46" distance_points="753.3" linear_distance_points="376.66" difficulty_distance_points="376.66" time_points="157.4" arrival_points="7" leading_points="23.7" real_distance="59.6" last_distance="59.6"/>
+          </FsParticipant>
+          <FsParticipant id="133">
+            <FsFlightData tracklog_filename="T6.olsen.133.igc"/>
+            <FsResult rank="23" points="533" distance="42.8" ss_time="00:00:00" distance_points="519" linear_distance_points="270.49" difficulty_distance_points="248.56" time_points="0" arrival_points="0" leading_points="14.4" real_distance="42.8" last_distance="42.209"/>
+          </FsParticipant>
+          <FsParticipant id="134">
+            <FsFlightData tracklog_filename="T6.Sykes.134.IGC"/>
+            <FsResult rank="40" points="159" distance="19.477" ss_time="00:00:00" distance_points="158.6" linear_distance_points="123.09" difficulty_distance_points="35.48" time_points="0" arrival_points="0" leading_points="0" real_distance="19.477" last_distance="15.726"/>
+          </FsParticipant>
+          <FsParticipant id="135">
+            <FsFlightData tracklog_filename="t6.rosalez.135.igc"/>
+            <FsResult rank="29" points="436" distance="38.81" ss_time="00:00:00" distance_points="414.5" linear_distance_points="245.27" difficulty_distance_points="169.2" time_points="0" arrival_points="0" leading_points="21.2" real_distance="38.81" last_distance="38.81"/>
+          </FsParticipant>
+          <FsParticipant id="138">
+            <FsFlightData tracklog_filename="t6.durand.138.igc"/>
+            <FsResult rank="14" points="655" distance="48.422" ss_time="00:00:00" distance_points="612.8" linear_distance_points="306.02" difficulty_distance_points="306.74" time_points="0" arrival_points="0" leading_points="41.8" real_distance="48.422" last_distance="48.078"/>
+          </FsParticipant>
+          <FsParticipant id="139">
+            <FsFlightData tracklog_filename="t6.gervasoni.139.igc"/>
+            <FsResult rank="3" points="950" distance="59.6" ss_time="02:26:46" distance_points="753.3" linear_distance_points="376.66" difficulty_distance_points="376.66" time_points="161.8" arrival_points="10.2" leading_points="24.3" real_distance="59.6" last_distance="59.6"/>
+          </FsParticipant>
+          <FsParticipant id="140">
+            <FsFlightData tracklog_filename="T6.vickery.140.igc"/>
+            <FsResult rank="37" points="211" distance="22.782" ss_time="00:00:00" distance_points="211.3" linear_distance_points="143.98" difficulty_distance_points="67.33" time_points="0" arrival_points="0" leading_points="0" real_distance="22.782" last_distance="22.737"/>
+          </FsParticipant>
+          <FsParticipant id="141">
+            <FsFlightData tracklog_filename="t6.halfhill.141.IGC"/>
+            <FsResult rank="24" points="532" distance="42.585" ss_time="00:00:00" distance_points="514.5" linear_distance_points="269.13" difficulty_distance_points="245.37" time_points="0" arrival_points="0" leading_points="17.4" real_distance="42.585" last_distance="42.158"/>
+          </FsParticipant>
+          <FsParticipant id="142">
+            <FsFlightData tracklog_filename="T6.Simon.142.igc"/>
+            <FsResult rank="11" points="698" distance="50.635" ss_time="00:00:00" distance_points="655.1" linear_distance_points="320" difficulty_distance_points="335.11" time_points="0" arrival_points="0" leading_points="43.2" real_distance="50.635" last_distance="50.398"/>
+          </FsParticipant>
+          <FsParticipant id="143">
+            <FsFlightData tracklog_filename="t6.eppink.143.IGC"/>
+            <FsResult rank="38" points="200" distance="22.013" ss_time="00:00:00" distance_points="200.1" linear_distance_points="139.12" difficulty_distance_points="60.98" time_points="0" arrival_points="0" leading_points="0" real_distance="22.013" last_distance="20.773"/>
+          </FsParticipant>
+          <FsParticipant id="144">
+            <FsFlightData tracklog_filename="T6.lanning.144.igc"/>
+            <FsResult rank="35" points="250" distance="25.005" ss_time="00:00:00" distance_points="250.1" linear_distance_points="158.03" difficulty_distance_points="92.09" time_points="0" arrival_points="0" leading_points="0" real_distance="25.005" last_distance="24.673"/>
+          </FsParticipant>
+          <FsParticipant id="145">
+            <FsFlightData tracklog_filename="T6.irby.145.igc"/>
+            <FsResult rank="33" points="286" distance="27.794" ss_time="00:00:00" distance_points="285.9" linear_distance_points="175.65" difficulty_distance_points="110.26" time_points="0" arrival_points="0" leading_points="0" real_distance="27.794" last_distance="27.442"/>
+          </FsParticipant>
+          <FsParticipant id="146">
+            <FsFlightData tracklog_filename="t6.kelley.146.igc"/>
+            <FsResult rank="36" points="246" distance="24.77" ss_time="00:00:00" distance_points="246.1" linear_distance_points="156.54" difficulty_distance_points="89.61" time_points="0" arrival_points="0" leading_points="0" real_distance="24.77" last_distance="24.766"/>
+          </FsParticipant>
+          <FsParticipant id="150">
+            <FsFlightData tracklog_filename="t6.lanube.150.igc"/>
+            <FsResult rank="26" points="518" distance="42.341" ss_time="00:00:00" distance_points="508.7" linear_distance_points="267.59" difficulty_distance_points="241.07" time_points="0" arrival_points="0" leading_points="11.3" real_distance="42.341" last_distance="42.001"/>
+          </FsParticipant>
+          <FsParticipant id="137"/>
+          <FsParticipant id="107"/>
+          <FsParticipant id="115">
+            <FsFlightData tracklog_filename="t6.hollidge.115.igc"/>
+            <FsResult rank="28" points="437" distance="38.798" ss_time="00:00:00" distance_points="414.2" linear_distance_points="245.2" difficulty_distance_points="168.99" time_points="0" arrival_points="0" leading_points="23.2" real_distance="38.798" last_distance="38.794"/>
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="54.983" task_distance="59.6" no_of_pilots_present="41" no_of_pilots_flying="41" no_of_pilots_lo="37" goalratio="0.0975609756097561" arrival_weight="0.030834941454709" leading_weight="0.0431689180365926" time_weight="0.172675672146371" distance_weight="0.753320468362328" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="4.617"/>
+          <FsTaskDistToTp tp_no="3" distance="29.800"/>
+          <FsTaskDistToTp tp_no="4" distance="59.601"/>
+          <FsTaskDifficulty chunks="601" start_chunks="0" end_chunks="60.2" look_ahead="48" sum_of_difficulty="1776" no_of_pilots_lo="37">
+            <FsChunk chunk="156" start="15.6" end="15.7" end_ahead="20.4" down="1" downward="1" rel="0.000563063063063063" frac="0.0163288288288288">
+              <FsDown id="126" down="15.696"/>
+            </FsChunk>
+            <FsChunk chunk="194" start="19.4" end="19.5" end_ahead="24.2" down="1" downward="3" rel="0.00112612612612613" frac="0.0464527027027027">
+              <FsDown id="134" down="19.477"/>
+            </FsChunk>
+            <FsChunk chunk="210" start="21" end="21.1" end_ahead="25.8" down="1" downward="5" rel="0.00168918918918919" frac="0.066722972972973">
+              <FsDown id="129" down="21.006"/>
+            </FsChunk>
+            <FsChunk chunk="220" start="22" end="22.1" end_ahead="26.8" down="1" downward="4" rel="0.00140765765765766" frac="0.0807995495495496">
+              <FsDown id="143" down="22.013"/>
+            </FsChunk>
+            <FsChunk chunk="227" start="22.7" end="22.8" end_ahead="27.5" down="1" downward="3" rel="0.00112612612612613" frac="0.0886824324324325">
+              <FsDown id="140" down="22.782"/>
+            </FsChunk>
+            <FsChunk chunk="247" start="24.7" end="24.8" end_ahead="29.5" down="1" downward="5" rel="0.00168918918918919" frac="0.117961711711712">
+              <FsDown id="146" down="24.77"/>
+            </FsChunk>
+            <FsChunk chunk="250" start="25" end="25.1" end_ahead="29.8" down="1" downward="4" rel="0.00140765765765766" frac="0.122184684684685">
+              <FsDown id="144" down="25.005"/>
+            </FsChunk>
+            <FsChunk chunk="253" start="25.3" end="25.4" end_ahead="30.1" down="1" downward="3" rel="0.00112612612612613" frac="0.125563063063063">
+              <FsDown id="120" down="25.382"/>
+            </FsChunk>
+            <FsChunk chunk="277" start="27.7" end="27.8" end_ahead="32.5" down="1" downward="2" rel="0.000844594594594595" frac="0.145833333333333">
+              <FsDown id="145" down="27.794"/>
+            </FsChunk>
+            <FsChunk chunk="282" start="28.2" end="28.3" end_ahead="33" down="2" downward="0" rel="0.000563063063063063" frac="0.148648648648649">
+              <FsDown id="101" down="28.231"/>
+              <FsDown id="108" down="28.299"/>
+            </FsChunk>
+            <FsChunk chunk="384" start="38.4" end="38.5" end_ahead="43.2" down="1" downward="10" rel="0.00309684684684685" frac="0.212274774774775">
+              <FsDown id="109" down="38.409"/>
+            </FsChunk>
+            <FsChunk chunk="387" start="38.7" end="38.8" end_ahead="43.5" down="1" downward="10" rel="0.00309684684684685" frac="0.221565315315315">
+              <FsDown id="115" down="38.798"/>
+            </FsChunk>
+            <FsChunk chunk="388" start="38.8" end="38.9" end_ahead="43.6" down="2" downward="8" rel="0.00281531531531532" frac="0.22438063063063">
+              <FsDown id="119" down="38.801"/>
+              <FsDown id="135" down="38.81"/>
+            </FsChunk>
+            <FsChunk chunk="423" start="42.3" end="42.4" end_ahead="47.1" down="2" downward="9" rel="0.00309684684684685" frac="0.318975225225225">
+              <FsDown id="106" down="42.349"/>
+              <FsDown id="150" down="42.341"/>
+            </FsChunk>
+            <FsChunk chunk="425" start="42.5" end="42.6" end_ahead="47.3" down="2" downward="7" rel="0.00253378378378378" frac="0.324042792792793">
+              <FsDown id="127" down="42.532"/>
+              <FsDown id="141" down="42.585"/>
+            </FsChunk>
+            <FsChunk chunk="426" start="42.6" end="42.7" end_ahead="47.4" down="1" downward="6" rel="0.00197072072072072" frac="0.326013513513513">
+              <FsDown id="102" down="42.612"/>
+            </FsChunk>
+            <FsChunk chunk="428" start="42.8" end="42.9" end_ahead="47.6" down="1" downward="6" rel="0.00197072072072072" frac="0.329954954954955">
+              <FsDown id="133" down="42.8"/>
+            </FsChunk>
+            <FsChunk chunk="429" start="42.9" end="43" end_ahead="47.7" down="1" downward="5" rel="0.00168918918918919" frac="0.331644144144144">
+              <FsDown id="114" down="42.952"/>
+            </FsChunk>
+            <FsChunk chunk="432" start="43.2" end="43.3" end_ahead="48" down="1" downward="4" rel="0.00140765765765766" frac="0.335867117117117">
+              <FsDown id="116" down="43.269"/>
+            </FsChunk>
+            <FsChunk chunk="445" start="44.5" end="44.6" end_ahead="49.3" down="1" downward="5" rel="0.00168918918918919" frac="0.353885135135135">
+              <FsDown id="112" down="44.538"/>
+            </FsChunk>
+            <FsChunk chunk="447" start="44.7" end="44.8" end_ahead="49.5" down="1" downward="4" rel="0.00140765765765766" frac="0.35670045045045">
+              <FsDown id="124" down="44.763"/>
+            </FsChunk>
+            <FsChunk chunk="465" start="46.5" end="46.6" end_ahead="51.3" down="1" downward="5" rel="0.00168918918918919" frac="0.379786036036036">
+              <FsDown id="123" down="46.539"/>
+            </FsChunk>
+            <FsChunk chunk="474" start="47.4" end="47.5" end_ahead="52.2" down="1" downward="4" rel="0.00140765765765766" frac="0.392454954954955">
+              <FsDown id="128" down="47.459"/>
+            </FsChunk>
+            <FsChunk chunk="484" start="48.4" end="48.5" end_ahead="53.2" down="1" downward="6" rel="0.00197072072072072" frac="0.406813063063063">
+              <FsDown id="138" down="48.422"/>
+            </FsChunk>
+            <FsChunk chunk="490" start="49" end="49.1" end_ahead="53.8" down="1" downward="5" rel="0.00168918918918919" frac="0.416948198198198">
+              <FsDown id="121" down="49.093"/>
+            </FsChunk>
+            <FsChunk chunk="506" start="50.6" end="50.7" end_ahead="55.4" down="1" downward="6" rel="0.00197072072072072" frac="0.444256756756757">
+              <FsDown id="142" down="50.635"/>
+            </FsChunk>
+            <FsChunk chunk="510" start="51" end="51.1" end_ahead="55.8" down="1" downward="5" rel="0.00168918918918919" frac="0.451013513513514">
+              <FsDown id="118" down="51.024"/>
+            </FsChunk>
+            <FsChunk chunk="527" start="52.7" end="52.8" end_ahead="57.5" down="1" downward="4" rel="0.00140765765765766" frac="0.474943693693694">
+              <FsDown id="103" down="52.738"/>
+            </FsChunk>
+            <FsChunk chunk="528" start="52.8" end="52.9" end_ahead="57.6" down="1" downward="3" rel="0.00112612612612613" frac="0.47606981981982">
+              <FsDown id="111" down="52.898"/>
+            </FsChunk>
+            <FsChunk chunk="530" start="53" end="53.1" end_ahead="57.8" down="1" downward="2" rel="0.000844594594594595" frac="0.477759009009009">
+              <FsDown id="110" down="53.032"/>
+            </FsChunk>
+            <FsChunk chunk="544" start="54.4" end="54.5" end_ahead="59.2" down="1" downward="2" rel="0.000844594594594595" frac="0.487331081081081">
+              <FsDown id="117" down="54.439"/>
+            </FsChunk>
+            <FsChunk chunk="547" start="54.7" end="54.8" end_ahead="59.5" down="1" downward="1" rel="0.000563063063063063" frac="0.48902027027027">
+              <FsDown id="125" down="54.727"/>
+            </FsChunk>
+            <FsChunk chunk="586" start="58.6" end="58.7" end_ahead="63.4" down="1" downward="0" rel="0.000281531531531532" frac="0.500000000000001">
+              <FsDown id="113" down="58.618"/>
+            </FsChunk>
+          </FsTaskDifficulty>
+        </FsTaskScoreParams>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="28.52943" lon="-81.84638"/>
+          <FsTurnpoint lat="28.48801" lon="-81.84311"/>
+          <FsTurnpoint lat="28.26207" lon="-81.82528"/>
+          <FsTurnpoint lat="28.52943" lon="-81.84638"/>
+        </FsTaskShortestRoute>
+      </FsTask>
+      <FsTask id="7" name="T7 GRASSO-WALABY" tracklog_folder="flights\QAtask7">
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" score_back_time="15"/>
+        <FsTaskDefinition ss="2" es="5" goal="CIRCLE" groundstart="0" qnh_setting="1013.25">
+          <FsTurnpoint id="GRASSO" lat="28.64147" lon="-81.88063" altitude="30" radius="400" open="2016-05-13T13:00:00-04:00" close="2016-05-13T20:00:00-04:00"/>
+          <FsTurnpoint id="GRASSO" lat="28.64147" lon="-81.88063" altitude="30" radius="15000" open="2016-05-13T14:00:00-04:00" close="2016-05-13T20:00:00-04:00"/>
+          <FsTurnpoint id="WALABY" lat="28.25298" lon="-81.68552" altitude="37" radius="400" open="2016-05-13T14:00:00-04:00" close="2016-05-13T20:00:00-04:00"/>
+          <FsTurnpoint id="T27544" lat="28.08083" lon="-81.6497" altitude="37" radius="400" open="2016-05-13T14:00:00-04:00" close="2016-05-13T20:00:00-04:00"/>
+          <FsTurnpoint id="WALABY" lat="28.25298" lon="-81.68552" altitude="37" radius="400" open="2016-05-13T14:00:00-04:00" close="2016-05-13T20:00:00-04:00"/>
+          <FsStartGate open="2016-05-13T14:00:00-04:00"/>
+          <FsStartGate open="2016-05-13T14:20:00-04:00"/>
+          <FsStartGate open="2016-05-13T14:40:00-04:00"/>
+          <FsStartGate open="2016-05-13T15:00:00-04:00"/>
+        </FsTaskDefinition>
+        <FsTaskState task_state="REGULAR" score_back_time="20" cancel_reason="" stop_time="2016-05-13T15:54:00-04:00"/>
+        <FsParticipants>
+          <FsParticipant id="107"/>
+          <FsParticipant id="137"/>
+          <FsParticipant id="109"/>
+          <FsParticipant id="115">
+            <FsFlightData tracklog_filename=""/>
+            <FsFlightDataNote note="track point not read by FS but tracklog showed route complete"/>
+            <FsResultPenalty penalty="0" penalty_points="16" penalty_reason="FS would not process file correctly."/>
+            <FsResult rank="20" points="462" distance="73.349" ss_time="02:19:21" distance_points="347.9" linear_distance_points="161.7" difficulty_distance_points="186.18" time_points="104.5" arrival_points="25.7" leading_points="0" real_distance="73.349" last_distance="-1.79769313486232E+305"/>
+          </FsParticipant>
+          <FsParticipant id="101">
+            <FsFlightData tracklog_filename="t7.straub.101.IGC"/>
+            <FsResult rank="3" points="770" distance="84.452" ss_time="01:58:30" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="230.2" arrival_points="66.4" leading_points="101.5" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="102">
+            <FsFlightData tracklog_filename="T7.Lovelace.102.igc"/>
+            <FsResult rank="16" points="524" distance="84.452" ss_time="02:20:44" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="124.7" arrival_points="17.8" leading_points="9.1" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="103">
+            <FsFlightData tracklog_filename="T7.christensen.103.IGC"/>
+            <FsResult rank="12" points="574" distance="84.452" ss_time="02:23:37" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="112.5" arrival_points="23" leading_points="66.2" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="104">
+            <FsFlightData tracklog_filename="t7.pollet.104.igc"/>
+            <FsResult rank="6" points="679" distance="84.452" ss_time="02:07:20" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="185.2" arrival_points="50.6" leading_points="71.1" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="106">
+            <FsFlightData tracklog_filename="T7.Nahoum.106.igc"/>
+            <FsResult rank="14" points="557" distance="84.452" ss_time="02:14:18" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="152.8" arrival_points="18.8" leading_points="13.2" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="108">
+            <FsFlightData tracklog_filename="T7.Guerra.108.igc"/>
+            <FsResult rank="29" points="270" distance="55.779" ss_time="00:00:00" distance_points="266.9" linear_distance_points="122.97" difficulty_distance_points="143.92" time_points="0" arrival_points="0" leading_points="3.1" real_distance="55.779" last_distance="55.246"/>
+          </FsParticipant>
+          <FsParticipant id="110">
+            <FsFlightData tracklog_filename="T7.Barnwell.110.IGC"/>
+            <FsResult rank="15" points="538" distance="84.452" ss_time="02:29:26" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="88.6" arrival_points="21.4" leading_points="55.6" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="111">
+            <FsFlightData tracklog_filename="t7.kruse.111.IGC"/>
+            <FsResult rank="9" points="637" distance="84.452" ss_time="02:10:06" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="172.1" arrival_points="38.5" leading_points="54.1" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="112">
+            <FsFlightData tracklog_filename="t7.kataev.112.igc"/>
+            <FsResult rank="28" points="323" distance="65.771" ss_time="00:00:00" distance_points="322.8" linear_distance_points="144.99" difficulty_distance_points="177.77" time_points="0" arrival_points="0" leading_points="0" real_distance="65.771" last_distance="65.41"/>
+          </FsParticipant>
+          <FsParticipant id="113">
+            <FsFlightData tracklog_filename="T7.opsanger.113.igc"/>
+            <FsResult rank="17" points="506" distance="84.452" ss_time="02:26:16" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="101.5" arrival_points="16.3" leading_points="15.8" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="114">
+            <FsFlightData tracklog_filename="T7.Howard.114.IGC"/>
+            <FsResult rank="21" points="442" distance="84.452" ss_time="02:39:27" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="49.6" arrival_points="15" leading_points="5.2" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="116">
+            <FsFlightData tracklog_filename="T7.Bohl.116.IGC"/>
+            <FsResult rank="35" points="109" distance="21.599" ss_time="00:00:00" distance_points="109.1" linear_distance_points="47.62" difficulty_distance_points="61.53" time_points="0" arrival_points="0" leading_points="0" real_distance="21.599" last_distance="21.205"/>
+          </FsParticipant>
+          <FsParticipant id="117">
+            <FsFlightData tracklog_filename="t7.dallas.117.igc"/>
+            <FsResult rank="25" points="392" distance="84.452" ss_time="03:10:28" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="0" arrival_points="14.8" leading_points="4.9" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="118">
+            <FsFlightData tracklog_filename="T7.Heilmann.118.IGC"/>
+            <FsResult rank="34" points="142" distance="28.603" ss_time="00:00:00" distance_points="142.1" linear_distance_points="63.06" difficulty_distance_points="79.09" time_points="0" arrival_points="0" leading_points="0" real_distance="28.603" last_distance="28.284"/>
+          </FsParticipant>
+          <FsParticipant id="119">
+            <FsFlightData tracklog_filename="T7.Weghorst.119.IGC"/>
+            <FsResult rank="24" points="399" distance="84.452" ss_time="02:58:17" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="0" arrival_points="15.4" leading_points="11.7" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="120">
+            <FsFlightData tracklog_filename="T7.Glennon.120.igc"/>
+            <FsResult rank="10" points="593" distance="84.452" ss_time="02:20:39" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="125" arrival_points="29.4" leading_points="66.7" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="121">
+            <FsFlightData tracklog_filename="t7.bondarchuk.121.igc"/>
+            <FsFlightDataWarning warning="No baro-altitude!"/>
+            <FsResult rank="5" points="704" distance="84.452" ss_time="02:02:24" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="209.7" arrival_points="55.5" leading_points="66" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="123">
+            <FsFlightData tracklog_filename="T7.guillemette.123.igc"/>
+            <FsResult rank="19" points="467" distance="84.452" ss_time="02:33:21" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="73.1" arrival_points="15.8" leading_points="5.9" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="124">
+            <FsFlightData tracklog_filename="T7.Pannese.124.IGC"/>
+            <FsResult rank="13" points="568" distance="84.452" ss_time="02:21:09" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="122.9" arrival_points="24.9" leading_points="47.6" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="125">
+            <FsFlightData tracklog_filename="T7.Bunner.125.igc"/>
+            <FsResult rank="32" points="187" distance="38.611" ss_time="00:00:00" distance_points="186.6" linear_distance_points="85.12" difficulty_distance_points="101.44" time_points="0" arrival_points="0" leading_points="0" real_distance="38.611" last_distance="38.501"/>
+          </FsParticipant>
+          <FsParticipant id="126">
+            <FsFlightData tracklog_filename="t7.kannard.126.IGC"/>
+            <FsResult rank="37" points="32" distance="5" ss_time="00:00:00" distance_points="31.8" linear_distance_points="11.02" difficulty_distance_points="20.75" time_points="0" arrival_points="0" leading_points="0" real_distance="13.175" last_distance="11.878"/>
+          </FsParticipant>
+          <FsParticipant id="127">
+            <FsFlightData tracklog_filename="t7.pesavento.127.IGC"/>
+            <FsResult rank="17" points="506" distance="84.452" ss_time="02:32:21" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="77" arrival_points="20" leading_points="36.9" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="128">
+            <FsFlightData tracklog_filename="T7.majors.128.IGC"/>
+            <FsResult rank="7" points="656" distance="84.452" ss_time="01:58:52" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="228.2" arrival_points="35.1" leading_points="19.9" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="129">
+            <FsFlightData tracklog_filename="T7.Jefferson.129.IGC"/>
+            <FsResult rank="30" points="226" distance="46.972" ss_time="00:00:00" distance_points="226" linear_distance_points="103.55" difficulty_distance_points="122.41" time_points="0" arrival_points="0" leading_points="0" real_distance="46.972" last_distance="46.761"/>
+          </FsParticipant>
+          <FsParticipant id="131">
+            <FsFlightData tracklog_filename="t7.hamilton.131.igc"/>
+            <FsResult rank="8" points="644" distance="84.452" ss_time="02:09:22" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="175.5" arrival_points="46.2" leading_points="50.3" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="132">
+            <FsFlightData tracklog_filename="T7.Stinnett.132.igc"/>
+            <FsResult rank="4" points="710" distance="84.452" ss_time="01:50:03" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="279.4" arrival_points="42.1" leading_points="16.3" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="133">
+            <FsFlightData tracklog_filename="T7.olsen.133.igc"/>
+            <FsResult rank="23" points="423" distance="84.452" ss_time="03:26:55" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="0" arrival_points="14.6" leading_points="36" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="134">
+            <FsFlightData tracklog_filename="T7.sykes.134.IGC"/>
+            <FsResult rank="37" points="32" distance="5" ss_time="00:00:00" distance_points="31.8" linear_distance_points="11.02" difficulty_distance_points="20.75" time_points="0" arrival_points="0" leading_points="0" real_distance="13.416" last_distance="11.779"/>
+          </FsParticipant>
+          <FsParticipant id="135">
+            <FsFlightData tracklog_filename="t7.rosalez.135.igc"/>
+            <FsResult rank="11" points="588" distance="84.452" ss_time="02:21:01" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="123.4" arrival_points="27" leading_points="65.6" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="138">
+            <FsFlightData tracklog_filename="t7.durand.138.igc"/>
+            <FsResult rank="1" points="883" distance="84.452" ss_time="01:36:46" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="406.2" arrival_points="72.5" leading_points="31.9" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="139">
+            <FsFlightData tracklog_filename="T7.Gervasoni.139.igc"/>
+            <FsResult rank="27" points="352" distance="66.533" ss_time="00:00:00" distance_points="326.4" linear_distance_points="146.67" difficulty_distance_points="179.76" time_points="0" arrival_points="0" leading_points="25.2" real_distance="66.533" last_distance="64.722"/>
+          </FsParticipant>
+          <FsParticipant id="140">
+            <FsFlightData tracklog_filename="T7.vickery.140.igc"/>
+            <FsResult rank="36" points="91" distance="17.875" ss_time="00:00:00" distance_points="91.1" linear_distance_points="39.41" difficulty_distance_points="51.71" time_points="0" arrival_points="0" leading_points="0" real_distance="17.875" last_distance="17.419"/>
+          </FsParticipant>
+          <FsParticipant id="141">
+            <FsFlightData tracklog_filename="t7.halfhill.141.IGC"/>
+            <FsResult rank="37" points="32" distance="5" ss_time="00:00:00" distance_points="31.8" linear_distance_points="11.02" difficulty_distance_points="20.75" time_points="0" arrival_points="0" leading_points="0" real_distance="13.699" last_distance="11.794"/>
+          </FsParticipant>
+          <FsParticipant id="142">
+            <FsFlightData tracklog_filename="T7.Simon.142.igc"/>
+            <FsResult rank="2" points="801" distance="84.452" ss_time="01:41:47" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="339.9" arrival_points="60.7" leading_points="28.4" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+          <FsParticipant id="143">
+            <FsFlightData tracklog_filename="t7.eppink.143.IGC"/>
+            <FsResult rank="30" points="226" distance="46.949" ss_time="00:00:00" distance_points="225.9" linear_distance_points="103.5" difficulty_distance_points="122.39" time_points="0" arrival_points="0" leading_points="0" real_distance="46.949" last_distance="46.764"/>
+          </FsParticipant>
+          <FsParticipant id="144">
+            <FsFlightData tracklog_filename="T7.lanning.144.igc"/>
+            <FsResult rank="26" points="365" distance="67.094" ss_time="00:00:00" distance_points="328.6" linear_distance_points="147.91" difficulty_distance_points="180.68" time_points="0" arrival_points="0" leading_points="36.6" real_distance="67.094" last_distance="66.828"/>
+          </FsParticipant>
+          <FsParticipant id="145">
+            <FsFlightData tracklog_filename="t7.irby.145.igc"/>
+            <FsResult rank="37" points="32" distance="5" ss_time="00:00:00" distance_points="31.8" linear_distance_points="11.02" difficulty_distance_points="20.75" time_points="0" arrival_points="0" leading_points="0" real_distance="13.775" last_distance="11.782"/>
+          </FsParticipant>
+          <FsParticipant id="146">
+            <FsFlightData tracklog_filename="T7.Kelley.146.igc"/>
+            <FsResult rank="33" points="143" distance="28.886" ss_time="00:00:00" distance_points="143.2" linear_distance_points="63.68" difficulty_distance_points="79.51" time_points="0" arrival_points="0" leading_points="0" real_distance="28.886" last_distance="28.348"/>
+          </FsParticipant>
+          <FsParticipant id="150">
+            <FsFlightData tracklog_filename="T7.LaNube.150.igc"/>
+            <FsResult rank="21" points="442" distance="84.452" ss_time="02:45:35" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="26.7" arrival_points="17" leading_points="26" real_distance="84.452" last_distance="84.452"/>
+          </FsParticipant>
+        </FsParticipants>
+        <FsTaskScoreParams ss_distance="69.812" task_distance="84.452" no_of_pilots_present="40" no_of_pilots_flying="40" no_of_pilots_lo="16" goalratio="0.6" arrival_weight="0.076139" leading_weight="0.1065946" time_weight="0.4263784" distance_weight="0.390888" time_validity="0.952587341183106" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="0.952587341183106">
+          <FsTaskDistToTp tp_no="1" distance="0.000"/>
+          <FsTaskDistToTp tp_no="2" distance="14.641"/>
+          <FsTaskDistToTp tp_no="3" distance="46.780"/>
+          <FsTaskDistToTp tp_no="4" distance="65.794"/>
+          <FsTaskDistToTp tp_no="5" distance="84.453"/>
+          <FsTaskDifficulty chunks="851" start_chunks="0" end_chunks="85.2" look_ahead="158" sum_of_difficulty="2438" no_of_pilots_lo="16">
+            <FsChunk chunk="131" start="13.1" end="13.2" end_ahead="28.9" down="1" downward="7" rel="0.00164068908941756" frac="0.147046759639048">
+              <FsDown id="126" down="13.175"/>
+            </FsChunk>
+            <FsChunk chunk="134" start="13.4" end="13.5" end_ahead="29.2" down="1" downward="6" rel="0.00143560295324036" frac="0.151353568498769">
+              <FsDown id="134" down="13.416"/>
+            </FsChunk>
+            <FsChunk chunk="136" start="13.6" end="13.7" end_ahead="29.4" down="1" downward="5" rel="0.00123051681706317" frac="0.153814602132896">
+              <FsDown id="141" down="13.699"/>
+            </FsChunk>
+            <FsChunk chunk="137" start="13.7" end="13.8" end_ahead="29.5" down="1" downward="4" rel="0.00102543068088597" frac="0.154840032813782">
+              <FsDown id="145" down="13.775"/>
+            </FsChunk>
+            <FsChunk chunk="178" start="17.8" end="17.9" end_ahead="33.6" down="1" downward="3" rel="0.000820344544708778" frac="0.188474159146842">
+              <FsDown id="140" down="17.875"/>
+            </FsChunk>
+            <FsChunk chunk="215" start="21.5" end="21.6" end_ahead="37.3" down="1" downward="2" rel="0.000615258408531583" frac="0.21123872026251">
+              <FsDown id="116" down="21.599"/>
+            </FsChunk>
+            <FsChunk chunk="286" start="28.6" end="28.7" end_ahead="44.4" down="1" downward="2" rel="0.000615258408531583" frac="0.252255947497948">
+              <FsDown id="118" down="28.603"/>
+            </FsChunk>
+            <FsChunk chunk="288" start="28.8" end="28.9" end_ahead="44.6" down="1" downward="1" rel="0.000410172272354389" frac="0.253076292042657">
+              <FsDown id="146" down="28.886"/>
+            </FsChunk>
+            <FsChunk chunk="386" start="38.6" end="38.7" end_ahead="54.4" down="1" downward="2" rel="0.000615258408531583" frac="0.303937653814603">
+              <FsDown id="125" down="38.611"/>
+            </FsChunk>
+            <FsChunk chunk="469" start="46.9" end="47" end_ahead="62.7" down="2" downward="1" rel="0.000615258408531583" frac="0.352337981952423">
+              <FsDown id="129" down="46.972"/>
+              <FsDown id="143" down="46.949"/>
+            </FsChunk>
+            <FsChunk chunk="557" start="55.7" end="55.8" end_ahead="71.5" down="1" downward="3" rel="0.000820344544708778" frac="0.401763740771126">
+              <FsDown id="108" down="55.779"/>
+            </FsChunk>
+            <FsChunk chunk="657" start="65.7" end="65.8" end_ahead="81.5" down="1" downward="3" rel="0.000820344544708778" frac="0.480106644790812">
+              <FsDown id="112" down="65.771"/>
+            </FsChunk>
+            <FsChunk chunk="665" start="66.5" end="66.6" end_ahead="82.3" down="1" downward="2" rel="0.000615258408531583" frac="0.485028712059065">
+              <FsDown id="139" down="66.533"/>
+            </FsChunk>
+            <FsChunk chunk="670" start="67" end="67.1" end_ahead="82.8" down="1" downward="1" rel="0.000410172272354389" frac="0.487079573420837">
+              <FsDown id="144" down="67.094"/>
+            </FsChunk>
+            <FsChunk chunk="733" start="73.3" end="73.4" end_ahead="89.1" down="1" downward="0" rel="0.000205086136177194" frac="0.500000000000001">
+              <FsDown id="115" down="73.349"/>
+            </FsChunk>
+          </FsTaskDifficulty>
+        </FsTaskScoreParams>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="28.63816" lon="-81.879"/>
+          <FsTurnpoint lat="28.5173" lon="-81.81951"/>
+          <FsTurnpoint lat="28.25189" lon="-81.68941"/>
+          <FsTurnpoint lat="28.08437" lon="-81.65048"/>
+          <FsTurnpoint lat="28.24943" lon="-81.68478"/>
+        </FsTaskShortestRoute>
+      </FsTask>
+    </FsTasks>
+  </FsCompetition>
+</Fs>
