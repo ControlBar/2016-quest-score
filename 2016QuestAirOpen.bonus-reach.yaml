@@ -9,8 +9,8 @@ bolster:
   mean: 74.045209 km
   stdDev: 14.645943 km
 - max: 89.526700 km
-  mean: 70.970525 km
-  stdDev: 19.769108 km
+  mean: 69.907383 km
+  stdDev: 20.651788 km
 - max: 100.304285 km
   mean: 78.567309 km
   stdDev: 24.738972 km
@@ -31,8 +31,8 @@ reach:
   mean: 74.045209 km
   stdDev: 14.645943 km
 - max: 89.526700 km
-  mean: 70.970525 km
-  stdDev: 19.769108 km
+  mean: 69.907383 km
+  stdDev: 20.651788 km
 - max: 100.304285 km
   mean: 78.567309 km
   stdDev: 24.738972 km
@@ -703,6 +703,10 @@ reachRank:
       - Peter Kelley
     - frac: 0.34828381
       reach: 31.180700 km
+  - - - '126'
+      - Jeff Kannard
+    - frac: 0.30584954
+      reach: 27.381700 km
   - - - '140'
       - Bill Vickery
     - frac: 0.14681319
@@ -2064,6 +2068,15 @@ nigh:
         legsSum: []
         waypoints: []
       made: 37.665700 km
+  - - - '126'
+      - Jeff Kannard
+    - togo:
+        distance: 62.145000 km
+        flipSum: []
+        legs: []
+        legsSum: []
+        waypoints: []
+      made: 27.381700 km
 - - - - '129'
       - Mike Jefferson
     - togo:
