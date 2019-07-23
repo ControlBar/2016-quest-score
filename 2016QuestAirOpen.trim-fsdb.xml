@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <Fs version="3.4">
   <FsCompetition id="0" name="QuestAir Open" location="Groveland, Florida, USA" from="2016-05-07" to="2016-05-13" utc_offset="-4" discipline="hg">
     <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" score_back_time="15"/>
