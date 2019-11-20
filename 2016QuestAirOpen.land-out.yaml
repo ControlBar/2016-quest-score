@@ -1,12 +1,12 @@
 minDistance: 5.000 km
 bestDistance:
-- 160.046610 km
-- 113.619887 km
-- 82.502697 km
-- 89.526700 km
-- 100.304285 km
-- 59.606660 km
-- 84.460900 km
+- 160.046866 km
+- 113.619850 km
+- 82.501702 km
+- 89.525805 km
+- 100.304262 km
+- 59.606365 km
+- 84.458264 km
 chunking:
 - startChunk:
   - 0
@@ -145,7 +145,7 @@ difficulty:
     endAhead: 72.2 km
     down: 1
     downs:
-    - 52.132 km
+    - 52.133 km
     downers:
     - - '112'
       - Sergey Kataev
@@ -158,7 +158,7 @@ difficulty:
     endAhead: 83.1 km
     down: 1
     downs:
-    - 63.016 km
+    - 63.017 km
     downers:
     - - '118'
       - Ingo Heilmann
@@ -171,7 +171,7 @@ difficulty:
     endAhead: 85.5 km
     down: 1
     downs:
-    - 65.497 km
+    - 65.498 km
     downers:
     - - '137'
       - Yoko Isomoto
@@ -197,7 +197,7 @@ difficulty:
     endAhead: 95.4 km
     down: 1
     downs:
-    - 75.352 km
+    - 75.353 km
     downers:
     - - '103'
       - Matt Christensen
@@ -223,7 +223,7 @@ difficulty:
     endAhead: 96.4 km
     down: 1
     downs:
-    - 76.346 km
+    - 76.347 km
     downers:
     - - '124'
       - Patrick Pannese
@@ -250,7 +250,7 @@ difficulty:
     down: 2
     downs:
     - 82.930 km
-    - 82.953 km
+    - 82.954 km
     downers:
     - - '123'
       - JD Guillemette
@@ -265,7 +265,7 @@ difficulty:
     endAhead: 111.3 km
     down: 1
     downs:
-    - 91.205 km
+    - 91.206 km
     downers:
     - - '140'
       - Bill Vickery
@@ -291,7 +291,7 @@ difficulty:
     endAhead: 118.2 km
     down: 1
     downs:
-    - 98.131 km
+    - 98.132 km
     downers:
     - - '117'
       - Robert Dallas
@@ -317,7 +317,7 @@ difficulty:
     endAhead: 124.1 km
     down: 1
     downs:
-    - 104.059 km
+    - 104.060 km
     downers:
     - - '110'
       - Cory Barnwell
@@ -356,7 +356,7 @@ difficulty:
     endAhead: 157.5 km
     down: 1
     downs:
-    - 137.481 km
+    - 137.482 km
     downers:
     - - '146'
       - Peter Kelley
@@ -408,7 +408,7 @@ difficulty:
     endAhead: 33.8 km
     down: 1
     downs:
-    - 20.624 km
+    - 20.625 km
     downers:
     - - '114'
       - Mick Howard
@@ -607,7 +607,7 @@ difficulty:
     down: 2
     downs:
     - 84.606 km
-    - 84.647 km
+    - 84.648 km
     downers:
     - - '117'
       - Robert Dallas
@@ -661,7 +661,7 @@ difficulty:
     endAhead: 111.7 km
     down: 1
     downs:
-    - 98.537 km
+    - 98.538 km
     downers:
     - - '110'
       - Cory Barnwell
@@ -700,7 +700,7 @@ difficulty:
     endAhead: 13.2 km
     down: 1
     downs:
-    - 0.140 km
+    - 0.139 km
     downers:
     - - '126'
       - Jeff Kannard
@@ -713,7 +713,7 @@ difficulty:
     endAhead: 46.3 km
     down: 1
     downs:
-    - 33.243 km
+    - 33.242 km
     downers:
     - - '146'
       - Peter Kelley
@@ -726,7 +726,7 @@ difficulty:
     endAhead: 48.8 km
     down: 1
     downs:
-    - 35.786 km
+    - 35.785 km
     downers:
     - - '110'
       - Cory Barnwell
@@ -739,33 +739,33 @@ difficulty:
     endAhead: 52.9 km
     down: 1
     downs:
-    - 39.871 km
+    - 39.870 km
     downers:
     - - '129'
       - Mike Jefferson
     downward: 2
     rel: 4.2699e-4
-    frac: 8.475662e-2
-  - chunk: 523
-    startChunk: 52.3 km
-    endChunk: 52.4 km
-    endAhead: 65.4 km
+    frac: 8.497011e-2
+  - chunk: 522
+    startChunk: 52.2 km
+    endChunk: 52.3 km
+    endAhead: 65.3 km
     down: 1
     downs:
-    - 52.301 km
+    - 52.300 km
     downers:
     - - '140'
       - Bill Vickery
     downward: 3
     rel: 6.4048e-4
-    frac: 0.1470965
+    frac: 0.14666951
   - chunk: 553
     startChunk: 55.3 km
     endChunk: 55.4 km
     endAhead: 68.4 km
     down: 1
     downs:
-    - 55.375 km
+    - 55.374 km
     downers:
     - - '111'
       - Patrick Kruse
@@ -778,7 +778,7 @@ difficulty:
     endAhead: 71.7 km
     down: 1
     downs:
-    - 58.699 km
+    - 58.698 km
     downers:
     - - '134'
       - Kinsley Sykes
@@ -791,7 +791,7 @@ difficulty:
     endAhead: 78.7 km
     down: 1
     downs:
-    - 65.660 km
+    - 65.659 km
     downers:
     - - '119'
       - Bart Weghorst
@@ -804,7 +804,7 @@ difficulty:
     endAhead: 80.6 km
     down: 1
     downs:
-    - 67.520 km
+    - 67.519 km
     downers:
     - - '123'
       - JD Guillemette
@@ -817,7 +817,7 @@ difficulty:
     endAhead: 83.2 km
     down: 1
     downs:
-    - 70.118 km
+    - 70.117 km
     downers:
     - - '112'
       - Sergey Kataev
@@ -830,7 +830,7 @@ difficulty:
     endAhead: 85.7 km
     down: 1
     downs:
-    - 72.658 km
+    - 72.657 km
     downers:
     - - '114'
       - Mick Howard
@@ -843,8 +843,8 @@ difficulty:
     endAhead: 89.1 km
     down: 2
     downs:
-    - 76.089 km
-    - 76.092 km
+    - 76.088 km
+    - 76.091 km
     downers:
     - - '145'
       - Roger Irby
@@ -859,7 +859,7 @@ difficulty:
     endAhead: 90.4 km
     down: 1
     downs:
-    - 77.361 km
+    - 77.360 km
     downers:
     - - '116'
       - Jeffery Bohl
@@ -872,7 +872,7 @@ difficulty:
     endAhead: 91.3 km
     down: 1
     downs:
-    - 78.222 km
+    - 78.221 km
     downers:
     - - '117'
       - Robert Dallas
@@ -885,7 +885,7 @@ difficulty:
     endAhead: 92.2 km
     down: 1
     downs:
-    - 79.139 km
+    - 79.138 km
     downers:
     - - '118'
       - Ingo Heilmann
@@ -898,7 +898,7 @@ difficulty:
     endAhead: 92.5 km
     down: 1
     downs:
-    - 79.481 km
+    - 79.480 km
     downers:
     - - '103'
       - Matt Christensen
@@ -911,7 +911,7 @@ difficulty:
     endAhead: 92.7 km
     down: 1
     downs:
-    - 79.605 km
+    - 79.604 km
     downers:
     - - '143'
       - Anna Eppink
@@ -924,7 +924,7 @@ difficulty:
     endAhead: 94.9 km
     down: 1
     downs:
-    - 81.886 km
+    - 81.885 km
     downers:
     - - '124'
       - Patrick Pannese
@@ -937,7 +937,7 @@ difficulty:
     endAhead: 14.4 km
     down: 1
     downs:
-    - 4.746 km
+    - 4.745 km
     downers:
     - - '126'
       - Jeff Kannard
@@ -950,7 +950,7 @@ difficulty:
     endAhead: 15.7 km
     down: 1
     downs:
-    - 6.014 km
+    - 6.013 km
     downers:
     - - '116'
       - Jeffery Bohl
@@ -963,7 +963,7 @@ difficulty:
     endAhead: 22.5 km
     down: 1
     downs:
-    - 12.864 km
+    - 12.863 km
     downers:
     - - '140'
       - Bill Vickery
@@ -976,7 +976,7 @@ difficulty:
     endAhead: 40.5 km
     down: 1
     downs:
-    - 30.886 km
+    - 30.885 km
     downers:
     - - '146'
       - Peter Kelley
@@ -989,7 +989,7 @@ difficulty:
     endAhead: 48.6 km
     down: 1
     downs:
-    - 38.905 km
+    - 38.904 km
     downers:
     - - '145'
       - Roger Irby
@@ -1002,7 +1002,7 @@ difficulty:
     endAhead: 52.0 km
     down: 1
     downs:
-    - 42.302 km
+    - 42.301 km
     downers:
     - - '104'
       - Christian Pollet
@@ -1015,7 +1015,7 @@ difficulty:
     endAhead: 52.4 km
     down: 1
     downs:
-    - 42.772 km
+    - 42.771 km
     downers:
     - - '143'
       - Anna Eppink
@@ -1054,7 +1054,7 @@ difficulty:
     endAhead: 64.4 km
     down: 1
     downs:
-    - 54.725 km
+    - 54.724 km
     downers:
     - - '134'
       - Kinsley Sykes
@@ -1067,7 +1067,7 @@ difficulty:
     endAhead: 67.8 km
     down: 1
     downs:
-    - 58.182 km
+    - 58.181 km
     downers:
     - - '137'
       - Yoko Isomoto
@@ -1080,7 +1080,7 @@ difficulty:
     endAhead: 71.3 km
     down: 1
     downs:
-    - 61.656 km
+    - 61.655 km
     downers:
     - - '103'
       - Matt Christensen
@@ -1093,7 +1093,7 @@ difficulty:
     endAhead: 71.6 km
     down: 1
     downs:
-    - 61.951 km
+    - 61.950 km
     downers:
     - - '127'
       - Gerry Pesavento
@@ -1106,7 +1106,7 @@ difficulty:
     endAhead: 74.6 km
     down: 2
     downs:
-    - 64.907 km
+    - 64.906 km
     - 64.946 km
     downers:
     - - '129'
@@ -1122,7 +1122,7 @@ difficulty:
     endAhead: 76.2 km
     down: 1
     downs:
-    - 66.509 km
+    - 66.508 km
     downers:
     - - '132'
       - James Stinnett
@@ -1135,7 +1135,7 @@ difficulty:
     endAhead: 76.4 km
     down: 1
     downs:
-    - 66.784 km
+    - 66.783 km
     downers:
     - - '141'
       - Patrick Halfhill
@@ -1148,7 +1148,7 @@ difficulty:
     endAhead: 78.8 km
     down: 1
     downs:
-    - 69.136 km
+    - 69.135 km
     downers:
     - - '106'
       - Fabiano Nahoum
@@ -1161,7 +1161,7 @@ difficulty:
     endAhead: 79.2 km
     down: 1
     downs:
-    - 69.540 km
+    - 69.539 km
     downers:
     - - '121'
       - Oleg Bondarchuk
@@ -1174,7 +1174,7 @@ difficulty:
     endAhead: 80.4 km
     down: 1
     downs:
-    - 70.714 km
+    - 70.713 km
     downers:
     - - '118'
       - Ingo Heilmann
@@ -1200,7 +1200,7 @@ difficulty:
     endAhead: 87.2 km
     down: 1
     downs:
-    - 77.505 km
+    - 77.504 km
     downers:
     - - '112'
       - Sergey Kataev
@@ -1213,7 +1213,7 @@ difficulty:
     endAhead: 89.4 km
     down: 1
     downs:
-    - 79.730 km
+    - 79.729 km
     downers:
     - - '114'
       - Mick Howard
@@ -1226,7 +1226,7 @@ difficulty:
     endAhead: 91.6 km
     down: 1
     downs:
-    - 81.933 km
+    - 81.932 km
     downers:
     - - '125'
       - Larry Bunner
@@ -1239,7 +1239,7 @@ difficulty:
     endAhead: 92.1 km
     down: 1
     downs:
-    - 82.419 km
+    - 82.418 km
     downers:
     - - '111'
       - Patrick Kruse
@@ -1252,7 +1252,7 @@ difficulty:
     endAhead: 92.2 km
     down: 1
     downs:
-    - 82.529 km
+    - 82.528 km
     downers:
     - - '120'
       - Mike Glennon
@@ -1265,7 +1265,7 @@ difficulty:
     endAhead: 94.4 km
     down: 1
     downs:
-    - 84.750 km
+    - 84.749 km
     downers:
     - - '135'
       - Misael Rosalez
@@ -1590,45 +1590,32 @@ difficulty:
     downward: 1
     rel: 2.8571e-4
     frac: 6.28571e-3
-  - chunk: 136
-    startChunk: 13.6 km
-    endChunk: 13.7 km
-    endAhead: 18.5 km
-    down: 1
-    downs:
-    - 13.691 km
-    downers:
-    - - '123'
-      - JD Guillemette
-    downward: 4
-    rel: 1.14286e-3
-    frac: 3.857143e-2
   - chunk: 155
     startChunk: 15.5 km
     endChunk: 15.6 km
     endAhead: 20.4 km
     down: 1
     downs:
-    - 15.574 km
+    - 15.573 km
     downers:
     - - '126'
       - Jeff Kannard
     downward: 3
     rel: 8.5714e-4
-    frac: 5.485714e-2
+    frac: 4.114286e-2
   - chunk: 157
     startChunk: 15.7 km
     endChunk: 15.8 km
     endAhead: 20.6 km
     down: 1
     downs:
-    - 15.728 km
+    - 15.727 km
     downers:
     - - '134'
       - Kinsley Sykes
     downward: 2
     rel: 5.7143e-4
-    frac: 5.6e-2
+    frac: 4.228571e-2
   - chunk: 175
     startChunk: 17.5 km
     endChunk: 17.6 km
@@ -1641,7 +1628,7 @@ difficulty:
       - Claudia Mejia
     downward: 3
     rel: 8.5714e-4
-    frac: 7.0e-2
+    frac: 5.628571e-2
   - chunk: 207
     startChunk: 20.7 km
     endChunk: 20.8 km
@@ -1654,7 +1641,7 @@ difficulty:
       - Anna Eppink
     downward: 6
     rel: 1.71429e-3
-    frac: 0.102
+    frac: 8.828571e-2
   - chunk: 208
     startChunk: 20.8 km
     endChunk: 20.9 km
@@ -1667,7 +1654,7 @@ difficulty:
       - Mike Jefferson
     downward: 5
     rel: 1.42857e-3
-    frac: 0.10342857
+    frac: 8.971429e-2
   - chunk: 227
     startChunk: 22.7 km
     endChunk: 22.8 km
@@ -1680,20 +1667,20 @@ difficulty:
       - Bill Vickery
     downward: 5
     rel: 1.42857e-3
-    frac: 0.12542857
+    frac: 0.11171429
   - chunk: 246
     startChunk: 24.6 km
     endChunk: 24.7 km
     endAhead: 29.5 km
     down: 1
     downs:
-    - 24.675 km
+    - 24.674 km
     downers:
     - - '144'
       - Tom Lanning
     downward: 6
     rel: 1.71429e-3
-    frac: 0.15457143
+    frac: 0.14085714
   - chunk: 247
     startChunk: 24.7 km
     endChunk: 24.8 km
@@ -1706,20 +1693,20 @@ difficulty:
       - Peter Kelley
     downward: 5
     rel: 1.42857e-3
-    frac: 0.156
+    frac: 0.14228571
   - chunk: 252
     startChunk: 25.2 km
     endChunk: 25.3 km
     endAhead: 30.1 km
     down: 1
     downs:
-    - 25.262 km
+    - 25.261 km
     downers:
     - - '120'
       - Mike Glennon
     downward: 4
     rel: 1.14286e-3
-    frac: 0.16171429
+    frac: 0.148
   - chunk: 274
     startChunk: 27.4 km
     endChunk: 27.5 km
@@ -1732,7 +1719,7 @@ difficulty:
       - Roger Irby
     downward: 3
     rel: 8.5714e-4
-    frac: 0.18057143
+    frac: 0.16685714
   - chunk: 281
     startChunk: 28.1 km
     endChunk: 28.2 km
@@ -1748,7 +1735,7 @@ difficulty:
       - Davis Straub
     downward: 2
     rel: 5.7143e-4
-    frac: 0.18457143
+    frac: 0.17085714
   - chunk: 381
     startChunk: 38.1 km
     endChunk: 38.2 km
@@ -1761,27 +1748,27 @@ difficulty:
       - Michael Williams
     downward: 11
     rel: 3.14286e-3
-    frac: 0.24971429
+    frac: 0.236
   - chunk: 387
     startChunk: 38.7 km
     endChunk: 38.8 km
     endAhead: 43.6 km
     down: 1
     downs:
-    - 38.800 km
+    - 38.799 km
     downers:
     - - '115'
       - Andrew Hollidge
     downward: 10
     rel: 2.85714e-3
-    frac: 0.26685714
+    frac: 0.25314286
   - chunk: 388
     startChunk: 38.8 km
     endChunk: 38.9 km
     endAhead: 43.7 km
     down: 2
     downs:
-    - 38.805 km
+    - 38.804 km
     - 38.815 km
     downers:
     - - '119'
@@ -1790,7 +1777,7 @@ difficulty:
       - Misael Rosalez
     downward: 9
     rel: 2.57143e-3
-    frac: 0.26942857
+    frac: 0.25571429
   - chunk: 420
     startChunk: 42.0 km
     endChunk: 42.1 km
@@ -1804,9 +1791,9 @@ difficulty:
       - Richard lovelace
     - - '106'
       - Fabiano Nahoum
-    downward: 9
-    rel: 2.57143e-3
-    frac: 0.34885714
+    downward: 10
+    rel: 2.85714e-3
+    frac: 0.33771429
   - chunk: 421
     startChunk: 42.1 km
     endChunk: 42.2 km
@@ -1823,9 +1810,9 @@ difficulty:
       - Jeffery Bohl
     - - '114'
       - Mick Howard
-    downward: 7
-    rel: 2.0e-3
-    frac: 0.35085714
+    downward: 8
+    rel: 2.28571e-3
+    frac: 0.34
   - chunk: 422
     startChunk: 42.2 km
     endChunk: 42.3 km
@@ -1833,15 +1820,15 @@ difficulty:
     down: 2
     downs:
     - 42.214 km
-    - 42.221 km
+    - 42.220 km
     downers:
     - - '133'
       - Olav Olsen
     - - '127'
       - Gerry Pesavento
-    downward: 4
-    rel: 1.14286e-3
-    frac: 0.352
+    downward: 5
+    rel: 1.42857e-3
+    frac: 0.34142857
   - chunk: 441
     startChunk: 44.1 km
     endChunk: 44.2 km
@@ -1855,16 +1842,29 @@ difficulty:
       - Sergey Kataev
     - - '124'
       - Patrick Pannese
+    downward: 6
+    rel: 1.71429e-3
+    frac: 0.366
+  - chunk: 459
+    startChunk: 45.9 km
+    endChunk: 46.0 km
+    endAhead: 50.8 km
+    down: 1
+    downs:
+    - 45.914 km
+    downers:
+    - - '123'
+      - JD Guillemette
     downward: 5
     rel: 1.42857e-3
-    frac: 0.37114286
+    frac: 0.38742857
   - chunk: 471
     startChunk: 47.1 km
     endChunk: 47.2 km
     endAhead: 52.0 km
     down: 1
     downs:
-    - 47.176 km
+    - 47.175 km
     downers:
     - - '128'
       - Zac Majors
@@ -1877,7 +1877,7 @@ difficulty:
     endAhead: 52.9 km
     down: 1
     downs:
-    - 48.084 km
+    - 48.083 km
     downers:
     - - '138'
       - Jonny Durand
@@ -1890,7 +1890,7 @@ difficulty:
     endAhead: 53.6 km
     down: 1
     downs:
-    - 48.775 km
+    - 48.774 km
     downers:
     - - '121'
       - Oleg Bondarchuk
@@ -1942,7 +1942,7 @@ difficulty:
     endAhead: 57.4 km
     down: 2
     downs:
-    - 52.511 km
+    - 52.510 km
     - 52.531 km
     downers:
     - - '110'
@@ -1984,8 +1984,8 @@ difficulty:
     endAhead: 26.7 km
     down: 2
     downs:
-    - 11.785 km
-    - 11.798 km
+    - 11.783 km
+    - 11.795 km
     downers:
     - - '145'
       - Roger Irby
@@ -2000,8 +2000,8 @@ difficulty:
     endAhead: 26.8 km
     down: 2
     downs:
-    - 11.871 km
-    - 11.883 km
+    - 11.869 km
+    - 11.881 km
     downers:
     - - '134'
       - Kinsley Sykes
@@ -2016,7 +2016,7 @@ difficulty:
     endAhead: 32.4 km
     down: 1
     downs:
-    - 17.422 km
+    - 17.419 km
     downers:
     - - '140'
       - Bill Vickery
@@ -2029,7 +2029,7 @@ difficulty:
     endAhead: 36.2 km
     down: 1
     downs:
-    - 21.209 km
+    - 21.207 km
     downers:
     - - '116'
       - Jeffery Bohl
@@ -2042,7 +2042,7 @@ difficulty:
     endAhead: 43.2 km
     down: 1
     downs:
-    - 28.287 km
+    - 28.285 km
     downers:
     - - '118'
       - Ingo Heilmann
@@ -2055,7 +2055,7 @@ difficulty:
     endAhead: 43.3 km
     down: 1
     downs:
-    - 28.356 km
+    - 28.353 km
     downers:
     - - '146'
       - Peter Kelley
@@ -2068,7 +2068,7 @@ difficulty:
     endAhead: 53.5 km
     down: 1
     downs:
-    - 38.505 km
+    - 38.502 km
     downers:
     - - '125'
       - Larry Bunner
@@ -2081,9 +2081,9 @@ difficulty:
     endAhead: 61.7 km
     down: 3
     downs:
-    - 46.723 km
-    - 46.765 km
-    - 46.766 km
+    - 46.721 km
+    - 46.762 km
+    - 46.764 km
     downers:
     - - '124'
       - Patrick Pannese
@@ -2100,7 +2100,7 @@ difficulty:
     endAhead: 70.2 km
     down: 1
     downs:
-    - 55.249 km
+    - 55.247 km
     downers:
     - - '108'
       - Raul Guerra
@@ -2113,7 +2113,7 @@ difficulty:
     endAhead: 79.7 km
     down: 1
     downs:
-    - 64.729 km
+    - 64.726 km
     downers:
     - - '139'
       - Tullio Gervasoni
@@ -2126,7 +2126,7 @@ difficulty:
     endAhead: 80.4 km
     down: 1
     downs:
-    - 65.420 km
+    - 65.417 km
     downers:
     - - '112'
       - Sergey Kataev
@@ -2139,7 +2139,7 @@ difficulty:
     endAhead: 81.8 km
     down: 1
     downs:
-    - 66.836 km
+    - 66.833 km
     downers:
     - - '144'
       - Tom Lanning
@@ -2152,7 +2152,7 @@ difficulty:
     endAhead: 88.3 km
     down: 1
     downs:
-    - 73.357 km
+    - 73.354 km
     downers:
     - - '115'
       - Andrew Hollidge

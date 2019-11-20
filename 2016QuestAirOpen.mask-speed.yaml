@@ -15,21 +15,21 @@ gsBestTime:
 - 2.421848 h
 - 1.612827 h
 taskDistance:
-- 160.046610 km
-- 113.619887 km
-- 82.502697 km
-- 89.526700 km
-- 100.304285 km
-- 59.606660 km
-- 84.460900 km
+- 160.046866 km
+- 113.619850 km
+- 82.501702 km
+- 89.525805 km
+- 100.304262 km
+- 59.606365 km
+- 84.458264 km
 taskSpeedDistance:
-- 150.446610 km
-- 109.019887 km
-- 77.902697 km
-- 84.926700 km
-- 95.704285 km
-- 55.006660 km
-- 69.860900 km
+- 150.446866 km
+- 109.019850 km
+- 77.901702 km
+- 84.925805 km
+- 95.704262 km
+- 55.006365 km
+- 69.858264 km
 ssSpeed:
 - - - - '138'
       - Jonny Durand
@@ -42,43 +42,43 @@ ssSpeed:
   - - - '133'
       - Olav Olsen
     - time: 3.658342 h
-      frac: 0.77730818
+      frac: 0.77730806
   - - - '113'
       - Olav Opsanger
     - time: 3.688745 h
-      frac: 0.75478727
+      frac: 0.75478724
   - - - '139'
       - Tullio Gervasoni
     - time: 3.699625 h
-      frac: 0.74697741
+      frac: 0.74697742
   - - - '115'
       - Andrew Hollidge
     - time: 3.700789 h
-      frac: 0.74614959
+      frac: 0.74614946
   - - - '131'
       - Robin Hamilton
     - time: 3.704170 h
-      frac: 0.7437512
+      frac: 0.74375111
   - - - '128'
       - Zac Majors
     - time: 3.755114 h
       frac: 0.70885864
   - - - '125'
       - Larry Bunner
-    - time: 3.775192 h
-      frac: 0.69567546
+    - time: 3.775193 h
+      frac: 0.69567541
   - - - '107'
       - Malcolm Brown
     - time: 3.779349 h
-      frac: 0.69298206
+      frac: 0.69298204
   - - - '132'
       - James Stinnett
     - time: 3.786365 h
-      frac: 0.6884626
+      frac: 0.68846257
   - - - '142'
       - John Simon
     - time: 3.817096 h
-      frac: 0.66903699
+      frac: 0.66903697
   - - - '119'
       - Bart Weghorst
     - time: 3.829291 h
@@ -86,11 +86,11 @@ ssSpeed:
   - - - '106'
       - Fabiano Nahoum
     - time: 3.942235 h
-      frac: 0.59509603
+      frac: 0.59509602
   - - - '111'
       - Patrick Kruse
     - time: 4.003844 h
-      frac: 0.56111261
+      frac: 0.56111264
   - - - '109'
       - Michael Williams
     - time: 4.039009 h
@@ -98,11 +98,11 @@ ssSpeed:
   - - - '127'
       - Gerry Pesavento
     - time: 4.043122 h
-      frac: 0.54012092
+      frac: 0.54012096
   - - - '114'
       - Mick Howard
     - time: 4.044980 h
-      frac: 0.53913945
+      frac: 0.53913944
 - - - - '128'
       - Zac Majors
     - time: 3.383094 h
@@ -110,7 +110,7 @@ ssSpeed:
   - - - '113'
       - Olav Opsanger
     - time: 3.843706 h
-      frac: 0.60269943
+      frac: 0.60269937
   - - - '125'
       - Larry Bunner
     - time: 3.882524 h
@@ -118,27 +118,27 @@ ssSpeed:
   - - - '139'
       - Tullio Gervasoni
     - time: 3.937706 h
-      frac: 0.55033548
+      frac: 0.55033547
   - - - '121'
       - Oleg Bondarchuk
     - time: 4.012811 h
-      frac: 0.51060528
+      frac: 0.51060527
   - - - '138'
       - Jonny Durand
     - time: 4.041182 h
-      frac: 0.49601443
+      frac: 0.49601442
   - - - '111'
       - Patrick Kruse
     - time: 4.085965 h
-      frac: 0.47340218
+      frac: 0.47340217
   - - - '132'
       - James Stinnett
     - time: 4.120007 h
-      frac: 0.45653317
+      frac: 0.45653316
   - - - '131'
       - Robin Hamilton
     - time: 4.154708 h
-      frac: 0.43960322
+      frac: 0.43960319
   - - - '142'
       - John Simon
     - time: 4.169027 h
@@ -150,11 +150,11 @@ ssSpeed:
   - - - '106'
       - Fabiano Nahoum
     - time: 4.251325 h
-      frac: 0.39374928
+      frac: 0.39374927
   - - - '123'
       - JD Guillemette
     - time: 4.428541 h
-      frac: 0.31383259
+      frac: 0.3138326
   - - - '127'
       - Gerry Pesavento
     - time: 4.541532 h
@@ -166,11 +166,11 @@ ssSpeed:
   - - - '120'
       - Mike Glennon
     - time: 4.660830 h
-      frac: 0.21562662
+      frac: 0.2156266
   - - - '144'
       - Tom Lanning
     - time: 4.804695 h
-      frac: 0.15780262
+      frac: 0.15780265
 - - - - '138'
       - Jonny Durand
     - time: 2.289273 h
@@ -182,59 +182,59 @@ ssSpeed:
   - - - '125'
       - Larry Bunner
     - time: 2.448633 h
-      frac: 0.7769747
+      frac: 0.77697472
   - - - '142'
       - John Simon
     - time: 2.455870 h
-      frac: 0.770273
+      frac: 0.77027303
   - - - '113'
       - Olav Opsanger
     - time: 2.475004 h
-      frac: 0.75300368
+      frac: 0.7530037
   - - - '131'
       - Robin Hamilton
     - time: 2.594063 h
-      frac: 0.65636176
+      frac: 0.65636178
   - - - '115'
       - Andrew Hollidge
     - time: 2.609110 h
-      frac: 0.64514322
+      frac: 0.64514324
   - - - '106'
       - Fabiano Nahoum
     - time: 2.647161 h
-      frac: 0.61752841
+      frac: 0.6175284
   - - - '108'
       - Raul Guerra
     - time: 2.667000 h
-      frac: 0.60352152
+      frac: 0.60352153
   - - - '127'
       - Gerry Pesavento
     - time: 2.685285 h
-      frac: 0.59082754
+      frac: 0.59082757
   - - - '139'
       - Tullio Gervasoni
     - time: 2.689397 h
-      frac: 0.58799987
+      frac: 0.58799989
   - - - '132'
       - James Stinnett
     - time: 2.691888 h
-      frac: 0.58629184
+      frac: 0.58629186
   - - - '104'
       - Christian Pollet
     - time: 2.773131 h
-      frac: 0.53235884
+      frac: 0.53235886
   - - - '101'
       - Davis Straub
     - time: 2.803363 h
-      frac: 0.51307703
+      frac: 0.51307705
   - - - '107'
       - Malcolm Brown
     - time: 2.884802 h
-      frac: 0.46292329
+      frac: 0.4629233
   - - - '121'
       - Oleg Bondarchuk
     - time: 3.022819 h
-      frac: 0.38285691
+      frac: 0.38285692
   - - - '135'
       - Misael Rosalez
     - time: 3.157345 h
@@ -242,23 +242,23 @@ ssSpeed:
   - - - '102'
       - Richard lovelace
     - time: 3.191793 h
-      frac: 0.29139295
+      frac: 0.29139297
   - - - '133'
       - Olav Olsen
     - time: 3.202518 h
-      frac: 0.28579021
+      frac: 0.28579022
   - - - '144'
       - Tom Lanning
     - time: 3.208952 h
-      frac: 0.28243977
+      frac: 0.28243978
   - - - '120'
       - Mike Glennon
     - time: 3.220274 h
-      frac: 0.27656239
+      frac: 0.27656241
   - - - '137'
       - Yoko Isomoto
     - time: 3.317052 h
-      frac: 0.22725903
+      frac: 0.22725905
 - - - - '131'
       - Robin Hamilton
     - time: 3.056609 h
@@ -266,15 +266,15 @@ ssSpeed:
   - - - '123'
       - JD Guillemette
     - time: 3.491102 h
-      frac: 0.60471712
+      frac: 0.60471707
   - - - '138'
       - Jonny Durand
     - time: 3.571724 h
       frac: 0.5572187
   - - - '139'
       - Tullio Gervasoni
-    - time: 3.577395 h
-      frac: 0.55397463
+    - time: 3.577396 h
+      frac: 0.55397461
   - - - '113'
       - Olav Opsanger
     - time: 3.587592 h
@@ -290,7 +290,7 @@ ssSpeed:
   - - - '150'
       - Claudia Mejia
     - time: 3.652181 h
-      frac: 0.51223635
+      frac: 0.51223633
   - - - '117'
       - Robert Dallas
     - time: 3.723947 h
@@ -298,15 +298,15 @@ ssSpeed:
   - - - '110'
       - Cory Barnwell
     - time: 3.752861 h
-      frac: 0.458709
+      frac: 0.45870899
   - - - '115'
       - Andrew Hollidge
     - time: 3.784348 h
-      frac: 0.44251029
+      frac: 0.44251026
   - - - '101'
       - Davis Straub
     - time: 3.817549 h
-      frac: 0.42568049
+      frac: 0.42568048
   - - - '108'
       - Raul Guerra
     - time: 3.879567 h
@@ -318,19 +318,19 @@ ssSpeed:
   - - - '138'
       - Jonny Durand
     - time: 2.609958 h
-      frac: 0.76647767
+      frac: 0.76647766
   - - - '121'
       - Oleg Bondarchuk
     - time: 2.633017 h
-      frac: 0.74650837
+      frac: 0.74650839
   - - - '102'
       - Richard lovelace
     - time: 3.054276 h
-      frac: 0.45924558
+      frac: 0.45924561
   - - - '131'
       - Robin Hamilton
     - time: 3.098429 h
-      frac: 0.43388347
+      frac: 0.43388346
   - - - '139'
       - Tullio Gervasoni
     - time: 3.114717 h
@@ -342,27 +342,27 @@ ssSpeed:
   - - - '142'
       - John Simon
     - time: 3.403504 h
-      frac: 0.27172793
+      frac: 0.27172794
   - - - '127'
       - Gerry Pesavento
     - time: 3.409500 h
-      frac: 0.26872878
+      frac: 0.26872875
   - - - '120'
       - Mike Glennon
     - time: 3.459022 h
-      frac: 0.24418667
+      frac: 0.24418664
   - - - '104'
       - Christian Pollet
     - time: 3.489320 h
-      frac: 0.22936656
+      frac: 0.22936655
   - - - '123'
       - JD Guillemette
     - time: 3.499531 h
-      frac: 0.22440442
+      frac: 0.22440443
   - - - '108'
       - Raul Guerra
     - time: 3.508942 h
-      frac: 0.21984455
+      frac: 0.21984456
   - - - '113'
       - Olav Opsanger
     - time: 3.606381 h
@@ -370,11 +370,11 @@ ssSpeed:
   - - - '112'
       - Sergey Kataev
     - time: 3.678189 h
-      frac: 0.13997344
+      frac: 0.13997341
   - - - '150'
       - Claudia Mejia
     - time: 3.930946 h
-      frac: 2.713024e-2
+      frac: 2.713025e-2
   - - - '135'
       - Misael Rosalez
     - time: 3.993092 h
@@ -386,15 +386,15 @@ ssSpeed:
   - - - '104'
       - Christian Pollet
     - time: 2.414660 h
-      frac: 0.98841707
+      frac: 0.98841725
   - - - '139'
       - Tullio Gervasoni
-    - time: 2.438990 h
-      frac: 0.93411756
+    - time: 2.438991 h
+      frac: 0.93411755
   - - - '132'
       - James Stinnett
     - time: 2.451896 h
-      frac: 0.91400241
+      frac: 0.91400244
 - - - - '138'
       - Jonny Durand
     - time: 1.541877 h
@@ -402,87 +402,87 @@ ssSpeed:
   - - - '142'
       - John Simon
     - time: 1.619303 h
-      frac: 0.84275557
+      frac: 0.84275528
   - - - '132'
       - James Stinnett
     - time: 1.797232 h
-      frac: 0.65159797
+      frac: 0.65159795
   - - - '128'
       - Zac Majors
     - time: 1.906615 h
-      frac: 0.55811976
+      frac: 0.55811982
   - - - '101'
       - Davis Straub
     - time: 1.968684 h
-      frac: 0.50931283
+      frac: 0.5093128
   - - - '121'
       - Oleg Bondarchuk
     - time: 2.030954 h
-      frac: 0.46267747
+      frac: 0.46267737
   - - - '131'
       - Robin Hamilton
     - time: 2.110315 h
-      frac: 0.40601895
+      frac: 0.40601886
   - - - '104'
       - Christian Pollet
     - time: 2.116253 h
-      frac: 0.40189004
+      frac: 0.40188993
   - - - '111'
       - Patrick Kruse
     - time: 2.154026 h
-      frac: 0.37594655
+      frac: 0.37594651
   - - - '106'
       - Fabiano Nahoum
     - time: 2.161147 h
-      frac: 0.37111615
+      frac: 0.37111596
   - - - '120'
       - Mike Glennon
     - time: 2.301136 h
-      frac: 0.27959461
+      frac: 0.27959431
   - - - '115'
       - Andrew Hollidge
     - time: 2.322500 h
-      frac: 0.26614346
+      frac: 0.2661434
   - - - '102'
       - Richard lovelace
     - time: 2.329675 h
-      frac: 0.26165352
+      frac: 0.26165356
   - - - '135'
       - Misael Rosalez
     - time: 2.342497 h
-      frac: 0.25366366
+      frac: 0.25366362
   - - - '113'
       - Olav Opsanger
     - time: 2.361257 h
-      frac: 0.24204987
+      frac: 0.24204989
   - - - '103'
       - Matt Christensen
     - time: 2.386147 h
-      frac: 0.22677769
+      frac: 0.22677762
   - - - '123'
       - JD Guillemette
     - time: 2.477273 h
-      frac: 0.17209466
+      frac: 0.17209454
   - - - '110'
       - Cory Barnwell
     - time: 2.484084 h
-      frac: 0.16808092
+      frac: 0.16808084
   - - - '127'
       - Gerry Pesavento
     - time: 2.523527 h
-      frac: 0.14502245
+      frac: 0.14502235
   - - - '114'
       - Mick Howard
     - time: 2.622615 h
-      frac: 8.84149e-2
+      frac: 8.841479e-2
   - - - '150'
       - Claudia Mejia
     - time: 2.675973 h
-      frac: 5.865213e-2
+      frac: 5.865208e-2
   - - - '119'
       - Bart Weghorst
     - time: 2.770003 h
-      frac: 7.31323e-3
+      frac: 7.31314e-3
   - - - '117'
       - Robert Dallas
     - time: 3.122028 h
@@ -543,7 +543,7 @@ gsSpeed:
   - - - '119'
       - Bart Weghorst
     - time: 3.836729 h
-      frac: 0.65969012
+      frac: 0.65969013
   - - - '106'
       - Fabiano Nahoum
     - time: 3.948382 h
@@ -571,7 +571,7 @@ gsSpeed:
   - - - '113'
       - Olav Opsanger
     - time: 3.868973 h
-      frac: 0.58983326
+      frac: 0.58983325
   - - - '125'
       - Larry Bunner
     - time: 3.924173 h
@@ -663,7 +663,7 @@ gsSpeed:
   - - - '115'
       - Andrew Hollidge
     - time: 2.660135 h
-      frac: 0.61126801
+      frac: 0.61126802
   - - - '108'
       - Raul Guerra
     - time: 2.678871 h
@@ -827,7 +827,7 @@ gsSpeed:
   - - - '113'
       - Olav Opsanger
     - time: 3.766372 h
-      frac: 0.10233433
+      frac: 0.10233432
   - - - '112'
       - Sergey Kataev
     - time: 3.828424 h
@@ -895,7 +895,7 @@ gsSpeed:
   - - - '106'
       - Fabiano Nahoum
     - time: 2.238574 h
-      frac: 0.37616464
+      frac: 0.37616463
   - - - '115'
       - Andrew Hollidge
     - time: 2.322500 h
