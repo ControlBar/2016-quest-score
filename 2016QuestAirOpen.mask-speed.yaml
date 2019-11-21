@@ -455,6 +455,10 @@ ssSpeed:
       - Olav Opsanger
     - time: 2.361257 h
       frac: 0.24204989
+  - - - '124'
+      - Patrick Pannese
+    - time: 2.372996 h
+      frac: 0.23482802
   - - - '103'
       - Matt Christensen
     - time: 2.386147 h
@@ -912,6 +916,10 @@ gsSpeed:
       - Misael Rosalez
     - time: 2.350483 h
       frac: 0.30384333
+  - - - '124'
+      - Patrick Pannese
+    - time: 2.352763 h
+      frac: 0.30240997
   - - - '103'
       - Matt Christensen
     - time: 2.393685 h
@@ -1454,9 +1462,6 @@ altStopped:
   - - - '141'
       - Patrick Halfhill
     - 4.000 m
-  - - - '124'
-      - Patrick Pannese
-    - 25.000 m
   - - - '146'
       - Peter Kelley
     - 40.000 m

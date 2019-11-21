@@ -267,6 +267,10 @@ land:
       - Bill Vickery
     - togo: 30.201833 km
       made: 52.299869 km
+  - - - '126'
+      - Jeff Kannard
+    - togo: 31.595941 km
+      made: 50.905761 km
   - - - '129'
       - Mike Jefferson
     - togo: 42.631981 km
@@ -279,10 +283,6 @@ land:
       - Peter Kelley
     - togo: 49.259418 km
       made: 33.242284 km
-  - - - '126'
-      - Jeff Kannard
-    - togo: 82.362443 km
-      made: 0.139259 km
 - - - - '144'
       - Tom Lanning
     - togo: 1.149279 km
@@ -499,6 +499,10 @@ land:
       - Larry Bunner
     - togo: 5.153601 km
       made: 54.452764 km
+  - - - '117'
+      - Robert Dallas
+    - togo: 5.260355 km
+      made: 54.346010 km
   - - - '111'
       - Patrick Kruse
     - togo: 7.075298 km
@@ -567,6 +571,10 @@ land:
       - Fabiano Nahoum
     - togo: 17.553712 km
       made: 42.052653 km
+  - - - '150'
+      - Claudia Mejia
+    - togo: 17.600295 km
+      made: 42.006070 km
   - - - '102'
       - Richard lovelace
     - togo: 17.600295 km
@@ -623,10 +631,6 @@ land:
       - Anna Eppink
     - togo: 38.832190 km
       made: 20.774175 km
-  - - - '150'
-      - Claudia Mejia
-    - togo: 42.059144 km
-      made: 17.547221 km
   - - - '134'
       - Kinsley Sykes
     - togo: 43.879015 km
@@ -635,10 +639,6 @@ land:
       - Jeff Kannard
     - togo: 44.032886 km
       made: 15.573479 km
-  - - - '117'
-      - Robert Dallas
-    - togo: 57.445213 km
-      made: 2.161152 km
 - - - - '115'
       - Andrew Hollidge
     - togo: 11.103824 km
@@ -667,10 +667,6 @@ land:
       - Mike Jefferson
     - togo: 37.696201 km
       made: 46.762063 km
-  - - - '124'
-      - Patrick Pannese
-    - togo: 37.737483 km
-      made: 46.720781 km
   - - - '125'
       - Larry Bunner
     - togo: 45.956181 km
