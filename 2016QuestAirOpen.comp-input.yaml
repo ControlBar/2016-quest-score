@@ -130,6 +130,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 3 s
   penals: []
 - taskName: QUEST-QUEST
   zones:
@@ -236,6 +239,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 3 s
   penals: []
 - taskName: QUEST-CHERYL
   zones:
@@ -342,6 +348,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 3 s
   penals: []
 - taskName: QUEST-QUEST
   zones:
@@ -434,6 +443,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 3 s
   penals: []
 - taskName: QUEST-QUEST
   zones:
@@ -526,6 +538,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 3 s
   penals: []
 - taskName: QUEST-QUEST
   zones:
@@ -604,6 +619,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 3 s
   penals: []
 - taskName: T7 GRASSO-WALABY
   zones:
@@ -696,6 +714,9 @@ tasks:
   taskTweak:
     arrivalWeightScaling: null
     leadingWeightScaling: null
+  earlyStart:
+    earliest: 300 s
+    earlyPenalty: 3 s
   penals:
   - - - '115'
       - Andrew Hollidge
