@@ -1,47 +1,47 @@
 bolster:
 - max: 160.046866 km
-  mean: 115.601271 km
-  stdDev: 45.546074 km
+  mean: 115.601247 km
+  stdDev: 45.546113 km
 - max: 113.619850 km
-  mean: 85.600598 km
-  stdDev: 30.422439 km
+  mean: 85.599388 km
+  stdDev: 30.423440 km
 - max: 82.501702 km
-  mean: 74.044263 km
-  stdDev: 14.645873 km
+  mean: 74.044751 km
+  stdDev: 14.644135 km
 - max: 89.525805 km
-  mean: 69.906537 km
-  stdDev: 20.651738 km
+  mean: 69.906464 km
+  stdDev: 20.651716 km
 - max: 100.304262 km
-  mean: 78.567335 km
-  stdDev: 24.738972 km
+  mean: 78.567238 km
+  stdDev: 24.739045 km
 - max: 59.606365 km
-  mean: 40.658975 km
-  stdDev: 12.560189 km
+  mean: 40.658902 km
+  stdDev: 12.560248 km
 - max: 84.458264 km
-  mean: 63.850209 km
-  stdDev: 27.818267 km
+  mean: 63.850160 km
+  stdDev: 27.818304 km
 reach:
 - max: 160.046866 km
-  mean: 115.601271 km
-  stdDev: 45.546074 km
+  mean: 115.601247 km
+  stdDev: 45.546113 km
 - max: 113.619850 km
-  mean: 85.540013 km
-  stdDev: 30.585051 km
+  mean: 85.538664 km
+  stdDev: 30.586423 km
 - max: 82.501702 km
-  mean: 74.044263 km
-  stdDev: 14.645873 km
+  mean: 74.044751 km
+  stdDev: 14.644135 km
 - max: 89.525805 km
-  mean: 69.906537 km
-  stdDev: 20.651738 km
+  mean: 69.906464 km
+  stdDev: 20.651716 km
 - max: 100.304262 km
-  mean: 78.567335 km
-  stdDev: 24.738972 km
+  mean: 78.567238 km
+  stdDev: 24.739045 km
 - max: 59.606365 km
-  mean: 40.658975 km
-  stdDev: 12.560189 km
+  mean: 40.658902 km
+  stdDev: 12.560248 km
 - max: 84.458264 km
-  mean: 63.730047 km
-  stdDev: 28.081607 km
+  mean: 63.729998 km
+  stdDev: 28.081643 km
 reachRank:
 - - - - '138'
       - Jonny Durand
@@ -201,8 +201,8 @@ reachRank:
       reach: 47.762866 km
   - - - '126'
       - Jeff Kannard
-    - frac: 0.2566115
-      reach: 41.069866 km
+    - frac: 0.25660525
+      reach: 41.068866 km
   - - - '129'
       - Mike Jefferson
     - frac: 0.20790077
@@ -285,20 +285,20 @@ reachRank:
       reach: 100.449850 km
   - - - '103'
       - Matt Christensen
-    - frac: 0.86872012
-      reach: 98.703850 km
+    - frac: 0.86870252
+      reach: 98.701850 km
   - - - '110'
       - Cory Barnwell
-    - frac: 0.86796321
-      reach: 98.617850 km
+    - frac: 0.86793681
+      reach: 98.614850 km
   - - - '116'
       - Jeffery Bohl
     - frac: 0.86687185
       reach: 98.493850 km
   - - - '137'
       - Yoko Isomoto
-    - frac: 0.85980443
-      reach: 97.690850 km
+    - frac: 0.85975162
+      reach: 97.684850 km
   - - - '108'
       - Raul Guerra
     - frac: 0.82786459
@@ -313,76 +313,76 @@ reachRank:
       reach: 85.505850 km
   - - - '135'
       - Misael Rosalez
-    - frac: 0.6944812
-      reach: 78.906850 km
+    - frac: 0.6944724
+      reach: 78.905850 km
   - - - '102'
       - Richard lovelace
-    - frac: 0.68159613
-      reach: 77.442850 km
+    - frac: 0.68158733
+      reach: 77.441850 km
   - - - '150'
       - Claudia Mejia
-    - frac: 0.68017032
-      reach: 77.280850 km
+    - frac: 0.68016152
+      reach: 77.279850 km
   - - - '124'
       - Patrick Pannese
     - frac: 0.6710698
       reach: 76.246850 km
   - - - '145'
       - Roger Irby
-    - frac: 0.66782213
-      reach: 75.877850 km
+    - frac: 0.66779572
+      reach: 75.874850 km
   - - - '126'
       - Jeff Kannard
     - frac: 0.63166647
       reach: 71.769850 km
   - - - '115'
       - Andrew Hollidge
-    - frac: 0.63002944
-      reach: 71.583850 km
+    - frac: 0.63001183
+      reach: 71.581850 km
   - - - '133'
       - Olav Olsen
-    - frac: 0.50854538
-      reach: 57.780850 km
+    - frac: 0.50851898
+      reach: 57.777850 km
   - - - '112'
       - Sergey Kataev
-    - frac: 0.48021406
-      reach: 54.561850 km
+    - frac: 0.48018766
+      reach: 54.558850 km
   - - - '134'
       - Kinsley Sykes
-    - frac: 0.4749333
-      reach: 53.961850 km
+    - frac: 0.47490689
+      reach: 53.958850 km
   - - - '109'
       - Michael Williams
-    - frac: 0.46435416
-      reach: 52.759850 km
+    - frac: 0.46432776
+      reach: 52.756850 km
   - - - '141'
       - Patrick Halfhill
-    - frac: 0.45138107
-      reach: 51.285850 km
+    - frac: 0.45134587
+      reach: 51.281850 km
   - - - '140'
       - Bill Vickery
-    - frac: 0.4391473
-      reach: 49.895850 km
+    - frac: 0.43912089
+      reach: 49.892850 km
   - - - '146'
       - Peter Kelley
-    - frac: 0.4309181
-      reach: 48.960850 km
+    - frac: 0.4308917
+      reach: 48.957850 km
   - - - '129'
       - Mike Jefferson
-    - frac: 0.33542422
-      reach: 38.110850 km
+    - frac: 0.33538902
+      reach: 38.106850 km
   - - - '114'
       - Mick Howard
-    - frac: 0.18761554
-      reach: 21.316850 km
+    - frac: 0.18758914
+      reach: 21.313850 km
   - - - '104'
       - Christian Pollet
-    - frac: 0.18205314
-      reach: 20.684850 km
+    - frac: 0.18201793
+      reach: 20.680850 km
   - - - '118'
       - Ingo Heilmann
-    - frac: 2.107774e-2
-      reach: 2.394850 km
+    - frac: 2.102494e-2
+      reach: 2.388850 km
 - - - - '138'
       - Jonny Durand
     - frac: 1
@@ -481,8 +481,8 @@ reachRank:
       reach: 80.209702 km
   - - - '103'
       - Matt Christensen
-    - frac: 0.96338257
-      reach: 79.480702 km
+    - frac: 0.96337045
+      reach: 79.479702 km
   - - - '118'
       - Ingo Heilmann
     - frac: 0.95935841
@@ -517,8 +517,8 @@ reachRank:
       reach: 68.120702 km
   - - - '119'
       - Bart Weghorst
-    - frac: 0.79922838
-      reach: 65.937702 km
+    - frac: 0.79921626
+      reach: 65.936702 km
   - - - '134'
       - Kinsley Sykes
     - frac: 0.71439377
@@ -545,8 +545,8 @@ reachRank:
       reach: 33.258702 km
   - - - '126'
       - Jeff Kannard
-    - frac: 0.32094734
-      reach: 26.478702 km
+    - frac: 0.321214
+      reach: 26.500702 km
 - - - - '131'
       - Robin Hamilton
     - frac: 1
@@ -601,8 +601,8 @@ reachRank:
       reach: 89.525805 km
   - - - '144'
       - Tom Lanning
-    - frac: 0.98716571
-      reach: 88.376805 km
+    - frac: 0.98715454
+      reach: 88.375805 km
   - - - '135'
       - Misael Rosalez
     - frac: 0.94664108
@@ -617,8 +617,8 @@ reachRank:
       reach: 82.688805 km
   - - - '125'
       - Larry Bunner
-    - frac: 0.91519763
-      reach: 81.933805 km
+    - frac: 0.91518646
+      reach: 81.932805 km
   - - - '114'
       - Mick Howard
     - frac: 0.89079126
@@ -669,8 +669,8 @@ reachRank:
       reach: 61.952805 km
   - - - '137'
       - Yoko Isomoto
-    - frac: 0.65277051
-      reach: 58.439805 km
+    - frac: 0.65275934
+      reach: 58.438805 km
   - - - '134'
       - Kinsley Sykes
     - frac: 0.61856808
@@ -785,8 +785,8 @@ reachRank:
       reach: 91.493262 km
   - - - '117'
       - Robert Dallas
-    - frac: 0.89401248
-      reach: 89.673262 km
+    - frac: 0.89400251
+      reach: 89.672262 km
   - - - '126'
       - Jeff Kannard
     - frac: 0.88803068
@@ -817,16 +817,16 @@ reachRank:
       reach: 72.869262 km
   - - - '144'
       - Tom Lanning
-    - frac: 0.68834824
-      reach: 69.044262 km
+    - frac: 0.68833827
+      reach: 69.043262 km
   - - - '115'
       - Andrew Hollidge
     - frac: 0.67446049
       reach: 67.651262 km
   - - - '116'
       - Jeffery Bohl
-    - frac: 0.67229708
-      reach: 67.434262 km
+    - frac: 0.67228711
+      reach: 67.433262 km
   - - - '143'
       - Anna Eppink
     - frac: 0.6463261
@@ -873,8 +873,8 @@ reachRank:
       reach: 20.020262 km
   - - - '110'
       - Cory Barnwell
-    - frac: 0.13269887
-      reach: 13.310262 km
+    - frac: 0.1326889
+      reach: 13.309262 km
 - - - - '131'
       - Robin Hamilton
     - frac: 1
@@ -961,8 +961,8 @@ reachRank:
       reach: 42.617365 km
   - - - '141'
       - Patrick Halfhill
-    - frac: 0.71452713
-      reach: 42.590365 km
+    - frac: 0.71451035
+      reach: 42.589365 km
   - - - '127'
       - Gerry Pesavento
     - frac: 0.71363796
@@ -1001,8 +1001,8 @@ reachRank:
       reach: 28.299365 km
   - - - '101'
       - Davis Straub
-    - frac: 0.47364682
-      reach: 28.232365 km
+    - frac: 0.47363004
+      reach: 28.231365 km
   - - - '145'
       - Roger Irby
     - frac: 0.46631538
@@ -1029,8 +1029,8 @@ reachRank:
       reach: 22.014365 km
   - - - '129'
       - Mike Jefferson
-    - frac: 0.35243493
-      reach: 21.007365 km
+    - frac: 0.35241815
+      reach: 21.006365 km
   - - - '134'
       - Kinsley Sykes
     - frac: 0.32676653
@@ -1161,16 +1161,16 @@ reachRank:
       reach: 47.108264 km
   - - - '129'
       - Mike Jefferson
-    - frac: 0.55617132
-      reach: 46.973264 km
+    - frac: 0.55615948
+      reach: 46.972264 km
   - - - '143'
       - Anna Eppink
     - frac: 0.55588715
       reach: 46.949264 km
   - - - '125'
       - Larry Bunner
-    - frac: 0.45717568
-      reach: 38.612264 km
+    - frac: 0.45716384
+      reach: 38.611264 km
   - - - '146'
       - Peter Kelley
     - frac: 0.34201821
@@ -1675,7 +1675,7 @@ nigh:
           lng: -81.53087667
         - lat: 27.20867597
           lng: -81.77521845
-      made: 41.069866 km
+      made: 41.068866 km
   - - - '129'
       - Mike Jefferson
     - togo:
@@ -1769,28 +1769,28 @@ nigh:
           lng: -81.83350394
         - lat: 28.52944703
           lng: -81.84630505
-      made: 98.703850 km
+      made: 98.701850 km
   - - - '110'
       - Cory Barnwell
     - togo:
-        distance: 15.002053 km
+        distance: 15.003086 km
         flipSum:
-        - 15.002053 km
-        - 14.257926 km
+        - 15.003086 km
+        - 14.244052 km
         legs:
-        - 0.744128 km
-        - 14.257926 km
+        - 0.759034 km
+        - 14.244052 km
         legsSum:
-        - 0.744128 km
-        - 15.002053 km
+        - 0.759034 km
+        - 15.003086 km
         waypoints:
-        - lat: 28.4072
-          lng: -81.83831667
-        - lat: 28.40167815
-          lng: -81.83401856
+        - lat: 28.40741667
+          lng: -81.83798333
+        - lat: 28.40184245
+          lng: -81.83350394
         - lat: 28.52944703
           lng: -81.84630505
-      made: 98.617850 km
+      made: 98.614850 km
   - - - '116'
       - Jeffery Bohl
     - togo:
@@ -1832,7 +1832,7 @@ nigh:
           lng: -81.82820625
         - lat: 28.52946076
           lng: -81.84615973
-      made: 97.690850 km
+      made: 97.684850 km
   - - - '101'
       - Davis Straub
     - togo:
@@ -1916,7 +1916,7 @@ nigh:
           lng: -81.83035365
         - lat: 28.52945332
           lng: -81.84623232
-      made: 78.906850 km
+      made: 78.905850 km
   - - - '150'
       - Claudia Mejia
     - togo:
@@ -1937,7 +1937,7 @@ nigh:
           lng: -81.82981975
         - lat: 28.52945332
           lng: -81.84623232
-      made: 77.280850 km
+      made: 77.279850 km
   - - - '102'
       - Richard lovelace
     - togo:
@@ -1958,7 +1958,7 @@ nigh:
           lng: -81.82981975
         - lat: 28.52945332
           lng: -81.84623232
-      made: 77.442850 km
+      made: 77.441850 km
   - - - '124'
       - Patrick Pannese
     - togo:
@@ -2000,7 +2000,7 @@ nigh:
           lng: -81.82874587
         - lat: 28.52946076
           lng: -81.84615973
-      made: 75.877850 km
+      made: 75.874850 km
   - - - '126'
       - Jeff Kannard
     - togo:
@@ -2042,7 +2042,7 @@ nigh:
           lng: -81.82657867
         - lat: 28.52946933
           lng: -81.8460873
-      made: 71.583850 km
+      made: 71.581850 km
   - - - '133'
       - Olav Olsen
     - togo:
@@ -2068,7 +2068,7 @@ nigh:
           lng: -81.82820625
         - lat: 28.52946076
           lng: -81.84615973
-      made: 57.780850 km
+      made: 57.777850 km
   - - - '112'
       - Sergey Kataev
     - togo:
@@ -2094,7 +2094,7 @@ nigh:
           lng: -81.82820625
         - lat: 28.52946076
           lng: -81.84615973
-      made: 54.561850 km
+      made: 54.558850 km
   - - - '134'
       - Kinsley Sykes
     - togo:
@@ -2120,7 +2120,7 @@ nigh:
           lng: -81.82820625
         - lat: 28.52946076
           lng: -81.84615973
-      made: 53.961850 km
+      made: 53.958850 km
   - - - '109'
       - Michael Williams
     - togo:
@@ -2146,7 +2146,7 @@ nigh:
           lng: -81.82820625
         - lat: 28.52946076
           lng: -81.84615973
-      made: 52.759850 km
+      made: 52.756850 km
   - - - '141'
       - Patrick Halfhill
     - togo:
@@ -2172,7 +2172,7 @@ nigh:
           lng: -81.82820625
         - lat: 28.52946076
           lng: -81.84615973
-      made: 51.285850 km
+      made: 51.281850 km
   - - - '140'
       - Bill Vickery
     - togo:
@@ -2198,7 +2198,7 @@ nigh:
           lng: -81.82820625
         - lat: 28.52946076
           lng: -81.84615973
-      made: 49.895850 km
+      made: 49.892850 km
   - - - '146'
       - Peter Kelley
     - togo:
@@ -2224,7 +2224,7 @@ nigh:
           lng: -81.82820625
         - lat: 28.52946076
           lng: -81.84615973
-      made: 48.960850 km
+      made: 48.957850 km
   - - - '129'
       - Mike Jefferson
     - togo:
@@ -2250,7 +2250,7 @@ nigh:
           lng: -81.82820625
         - lat: 28.52946076
           lng: -81.84615973
-      made: 38.110850 km
+      made: 38.106850 km
   - - - '114'
       - Mick Howard
     - togo:
@@ -2281,7 +2281,7 @@ nigh:
           lng: -81.82820625
         - lat: 28.52946076
           lng: -81.84615973
-      made: 21.316850 km
+      made: 21.313850 km
   - - - '104'
       - Christian Pollet
     - togo:
@@ -2312,7 +2312,7 @@ nigh:
           lng: -81.82820625
         - lat: 28.52946076
           lng: -81.84615973
-      made: 20.684850 km
+      made: 20.680850 km
   - - - '118'
       - Ingo Heilmann
     - togo:
@@ -2343,7 +2343,7 @@ nigh:
           lng: -81.82820625
         - lat: 28.52946076
           lng: -81.84615973
-      made: 2.394850 km
+      made: 2.388850 km
 - - - - '124'
       - Patrick Pannese
     - togo:
@@ -2391,7 +2391,7 @@ nigh:
           lng: -82.09326667
         - lat: 28.67497013
           lng: -82.08790799
-      made: 79.480702 km
+      made: 79.479702 km
   - - - '118'
       - Ingo Heilmann
     - togo:
@@ -2550,7 +2550,7 @@ nigh:
           lng: -82.12925103
         - lat: 28.67480047
           lng: -82.08861285
-      made: 65.937702 km
+      made: 65.936702 km
   - - - '134'
       - Kinsley Sykes
     - togo:
@@ -2722,7 +2722,7 @@ nigh:
           lng: -82.12950376
         - lat: 28.67480047
           lng: -82.08861285
-      made: 26.478702 km
+      made: 26.500702 km
 - - - - '144'
       - Tom Lanning
     - togo:
@@ -2738,7 +2738,7 @@ nigh:
           lng: -81.85226667
         - lat: 28.53640047
           lng: -81.84810097
-      made: 88.376805 km
+      made: 88.375805 km
   - - - '135'
       - Misael Rosalez
     - togo:
@@ -2802,7 +2802,7 @@ nigh:
           lng: -81.8944
         - lat: 28.53594777
           lng: -81.84906498
-      made: 81.933805 km
+      made: 81.932805 km
   - - - '114'
       - Mick Howard
     - togo:
@@ -3045,7 +3045,7 @@ nigh:
           lng: -81.89847019
         - lat: 28.53651554
           lng: -81.84768266
-      made: 58.439805 km
+      made: 58.438805 km
   - - - '134'
       - Kinsley Sykes
     - togo:
@@ -3302,7 +3302,7 @@ nigh:
           lng: -81.8356
         - lat: 28.52945332
           lng: -81.84623232
-      made: 89.673262 km
+      made: 89.672262 km
   - - - '126'
       - Jeff Kannard
     - togo:
@@ -3435,7 +3435,7 @@ nigh:
           lng: -81.8256533
         - lat: 28.52944188
           lng: -81.8463779
-      made: 69.044262 km
+      made: 69.043262 km
   - - - '115'
       - Andrew Hollidge
     - togo:
@@ -3477,7 +3477,7 @@ nigh:
           lng: -81.82813381
         - lat: 28.52943787
           lng: -81.84645085
-      made: 67.434262 km
+      made: 67.433262 km
   - - - '143'
       - Anna Eppink
     - togo:
@@ -3713,7 +3713,7 @@ nigh:
           lng: -81.82543658
         - lat: 28.52944188
           lng: -81.8463779
-      made: 13.310262 km
+      made: 13.309262 km
   - - - '140'
       - Bill Vickery
     - togo:
@@ -4022,7 +4022,7 @@ nigh:
           lng: -81.84085
         - lat: 28.52943501
           lng: -81.84652386
-      made: 42.590365 km
+      made: 42.589365 km
   - - - '106'
       - Fabiano Nahoum
     - togo:
@@ -4139,7 +4139,7 @@ nigh:
           lng: -81.8249271
         - lat: 28.52944188
           lng: -81.8463779
-      made: 28.232365 km
+      made: 28.231365 km
   - - - '108'
       - Raul Guerra
     - togo:
@@ -4286,7 +4286,7 @@ nigh:
           lng: -81.82514577
         - lat: 28.52944188
           lng: -81.8463779
-      made: 21.007365 km
+      made: 21.006365 km
   - - - '143'
       - Anna Eppink
     - togo:
@@ -4311,21 +4311,16 @@ nigh:
   - - - '150'
       - Claudia Mejia
     - togo:
-        distance: 29.806657 km
+        distance: 29.806522 km
         flipSum:
-        - 29.806657 km
-        - 29.804711 km
+        - 29.806522 km
         legs:
-        - 0.001946 km
-        - 29.804711 km
+        - 29.806522 km
         legsSum:
-        - 0.001946 km
-        - 29.806657 km
+        - 29.806522 km
         waypoints:
-        - lat: 28.26208333
+        - lat: 28.26205
           lng: -81.82493333
-        - lat: 28.26206671
-          lng: -81.8249271
         - lat: 28.52944188
           lng: -81.8463779
       made: 29.799365 km
@@ -4374,21 +4369,16 @@ nigh:
   - - - '117'
       - Robert Dallas
     - togo:
-        distance: 29.806657 km
+        distance: 29.806522 km
         flipSum:
-        - 29.806657 km
-        - 29.804711 km
+        - 29.806522 km
         legs:
-        - 0.001946 km
-        - 29.804711 km
+        - 29.806522 km
         legsSum:
-        - 0.001946 km
-        - 29.806657 km
+        - 29.806522 km
         waypoints:
-        - lat: 28.26208333
+        - lat: 28.26205
           lng: -81.82493333
-        - lat: 28.26206671
-          lng: -81.8249271
         - lat: 28.52944188
           lng: -81.8463779
       made: 29.799365 km
@@ -4502,7 +4492,7 @@ nigh:
           lng: -81.65042395
         - lat: 28.24943987
           lng: -81.68479493
-      made: 46.973264 km
+      made: 46.972264 km
   - - - '124'
       - Patrick Pannese
     - togo:
@@ -4549,7 +4539,7 @@ nigh:
           lng: -81.65042395
         - lat: 28.24943987
           lng: -81.68479493
-      made: 38.612264 km
+      made: 38.611264 km
   - - - '146'
       - Peter Kelley
     - togo:
