@@ -14,87 +14,87 @@ arrivalRank:
       frac: 1
   - - - '121'
       - Oleg Bondarchuk
-    - lag: 0.189309 h
+    - lag: 0.189167 h
       rank: '2'
       frac: 0.88415381
   - - - '113'
       - Olav Opsanger
-    - lag: 0.232884 h
+    - lag: 0.232778 h
       rank: '3'
       frac: 0.78018107
   - - - '139'
       - Tullio Gervasoni
-    - lag: 0.238295 h
+    - lag: 0.238333 h
       rank: '4'
       frac: 0.68743056
   - - - '131'
       - Robin Hamilton
-    - lag: 0.240287 h
+    - lag: 0.240278 h
       rank: '5'
       frac: 0.60525103
   - - - '115'
       - Andrew Hollidge
-    - lag: 0.244832 h
+    - lag: 0.244722 h
       rank: '6'
       frac: 0.53299126
   - - - '128'
       - Zac Majors
-    - lag: 0.292129 h
+    - lag: 0.292222 h
       rank: '7'
       frac: 0.47
   - - - '125'
       - Larry Bunner
-    - lag: 0.314791 h
+    - lag: 0.314722 h
       rank: '8'
       frac: 0.41562603
   - - - '107'
       - Malcolm Brown
-    - lag: 0.321699 h
+    - lag: 0.321667 h
       rank: '9'
       frac: 0.36921811
   - - - '132'
       - James Stinnett
-    - lag: 0.327325 h
+    - lag: 0.327222 h
       rank: '10'
       frac: 0.330125
   - - - '142'
       - John Simon
-    - lag: 0.350634 h
+    - lag: 0.350556 h
       rank: '11'
       frac: 0.29769547
   - - - '133'
       - Olav Olsen
-    - lag: 0.360483 h
+    - lag: 0.360556 h
       rank: '12'
       frac: 0.27127829
   - - - '119'
       - Bart Weghorst
-    - lag: 0.369647 h
+    - lag: 0.369722 h
       rank: '13'
       frac: 0.25022222
   - - - '106'
       - Fabiano Nahoum
-    - lag: 0.481302 h
+    - lag: 0.481389 h
       rank: '14'
       frac: 0.23387603
   - - - '111'
       - Patrick Kruse
-    - lag: 0.540812 h
+    - lag: 0.540833 h
       rank: '15'
       frac: 0.22158848
   - - - '127'
       - Gerry Pesavento
-    - lag: 0.584195 h
+    - lag: 0.584167 h
       rank: '16'
       frac: 0.21270833
   - - - '114'
       - Mick Howard
-    - lag: 0.602811 h
+    - lag: 0.602778 h
       rank: '17'
       frac: 0.20658436
   - - - '109'
       - Michael Williams
-    - lag: 0.635374 h
+    - lag: 0.635278 h
       rank: '18'
       frac: 0.20256533
 - - - - '128'
@@ -104,82 +104,82 @@ arrivalRank:
       frac: 1
   - - - '113'
       - Olav Opsanger
-    - lag: 0.150015 h
+    - lag: 0.150000 h
       rank: '2'
       frac: 0.87771545
   - - - '125'
       - Larry Bunner
-    - lag: 0.205209 h
+    - lag: 0.205000 h
       rank: '3'
       frac: 0.76869937
   - - - '139'
       - Tullio Gervasoni
-    - lag: 0.238552 h
+    - lag: 0.238333 h
       rank: '4'
       frac: 0.67217871
   - - - '121'
       - Oleg Bondarchuk
-    - lag: 0.315567 h
+    - lag: 0.315556 h
       rank: '5'
       frac: 0.58738042
   - - - '138'
       - Jonny Durand
-    - lag: 0.328283 h
+    - lag: 0.328333 h
       rank: '6'
       frac: 0.51353145
   - - - '111'
       - Patrick Kruse
-    - lag: 0.409740 h
+    - lag: 0.409722 h
       rank: '7'
       frac: 0.44985874
   - - - '132'
       - James Stinnett
-    - lag: 0.439795 h
+    - lag: 0.439722 h
       rank: '8'
       frac: 0.39558925
   - - - '131'
       - Robin Hamilton
-    - lag: 0.454788 h
+    - lag: 0.454722 h
       rank: '9'
       frac: 0.34994993
   - - - '142'
       - John Simon
-    - lag: 0.464005 h
+    - lag: 0.463889 h
       rank: '10'
       frac: 0.31216772
   - - - '119'
       - Bart Weghorst
-    - lag: 0.518351 h
+    - lag: 0.518333 h
       rank: '11'
       frac: 0.28146957
   - - - '106'
       - Fabiano Nahoum
-    - lag: 0.540668 h
+    - lag: 0.540556 h
       rank: '12'
       frac: 0.25708243
   - - - '123'
       - JD Guillemette
-    - lag: 0.725608 h
+    - lag: 0.725556 h
       rank: '13'
       frac: 0.23823326
   - - - '127'
       - Gerry Pesavento
-    - lag: 0.860312 h
+    - lag: 0.860278 h
       rank: '14'
       frac: 0.22414899
   - - - '143'
       - Anna Eppink
-    - lag: 0.908021 h
+    - lag: 0.908056 h
       rank: '15'
       frac: 0.21405658
   - - - '120'
       - Mike Glennon
-    - lag: 0.963259 h
+    - lag: 0.963056 h
       rank: '16'
       frac: 0.20718298
   - - - '144'
       - Tom Lanning
-    - lag: 1.114019 h
+    - lag: 1.113889 h
       rank: '17'
       frac: 0.20275514
 - - - - '138'
@@ -189,107 +189,107 @@ arrivalRank:
       frac: 1
   - - - '131'
       - Robin Hamilton
-    - lag: 0.016424 h
+    - lag: 0.016389 h
       rank: '2'
       frac: 0.90431452
   - - - '106'
       - Fabiano Nahoum
-    - lag: 0.023130 h
+    - lag: 0.023056 h
       rank: '3'
       frac: 0.81665665
   - - - '115'
       - Andrew Hollidge
-    - lag: 0.033668 h
+    - lag: 0.033611 h
       rank: '4'
       frac: 0.7366697
   - - - '108'
       - Raul Guerra
-    - lag: 0.052409 h
+    - lag: 0.052222 h
       rank: '5'
       frac: 0.66399699
   - - - '139'
       - Tullio Gervasoni
-    - lag: 0.073905 h
+    - lag: 0.073889 h
       rank: '6'
       frac: 0.59828184
   - - - '132'
       - James Stinnett
-    - lag: 0.080291 h
+    - lag: 0.080278 h
       rank: '7'
       frac: 0.53916754
   - - - '127'
       - Gerry Pesavento
-    - lag: 0.084888 h
+    - lag: 0.084722 h
       rank: '8'
       frac: 0.48629743
   - - - '142'
       - John Simon
-    - lag: 0.175836 h
+    - lag: 0.175833 h
       rank: '9'
       frac: 0.4393148
   - - - '101'
       - Davis Straub
-    - lag: 0.197294 h
+    - lag: 0.197222 h
       rank: '10'
       frac: 0.39786298
   - - - '104'
       - Christian Pollet
-    - lag: 0.211298 h
+    - lag: 0.211111 h
       rank: '11'
       frac: 0.36158527
   - - - '107'
       - Malcolm Brown
-    - lag: 0.271213 h
+    - lag: 0.271111 h
       rank: '12'
       frac: 0.330125
   - - - '121'
       - Oleg Bondarchuk
-    - lag: 0.439338 h
+    - lag: 0.439167 h
       rank: '13'
       frac: 0.30312547
   - - - '128'
       - Zac Majors
-    - lag: 0.477284 h
+    - lag: 0.477222 h
       rank: '14'
       frac: 0.28023
   - - - '125'
       - Larry Bunner
-    - lag: 0.496199 h
+    - lag: 0.496111 h
       rank: '15'
       frac: 0.26108189
   - - - '113'
       - Olav Opsanger
-    - lag: 0.532231 h
+    - lag: 0.532222 h
       rank: '16'
       frac: 0.24532447
   - - - '102'
       - Richard lovelace
-    - lag: 0.573163 h
+    - lag: 0.573056 h
       rank: '17'
       frac: 0.23260105
   - - - '135'
       - Misael Rosalez
-    - lag: 0.581600 h
+    - lag: 0.581389 h
       rank: '18'
       frac: 0.22255494
   - - - '133'
       - Olav Olsen
-    - lag: 0.585503 h
+    - lag: 0.585556 h
       rank: '19'
       frac: 0.21482945
   - - - '144'
       - Tom Lanning
-    - lag: 0.595967 h
+    - lag: 0.595833 h
       rank: '20'
       frac: 0.2090679
   - - - '120'
       - Mike Glennon
-    - lag: 0.602106 h
+    - lag: 0.601944 h
       rank: '21'
       frac: 0.2049136
   - - - '137'
       - Yoko Isomoto
-    - lag: 0.742737 h
+    - lag: 0.742778 h
       rank: '22'
       frac: 0.20200986
 - - - - '131'
@@ -299,62 +299,62 @@ arrivalRank:
       frac: 1
   - - - '138'
       - Jonny Durand
-    - lag: 0.511587 h
+    - lag: 0.511389 h
       rank: '2'
       frac: 0.84279472
   - - - '139'
       - Tullio Gervasoni
-    - lag: 0.519231 h
+    - lag: 0.519167 h
       rank: '3'
       frac: 0.70787255
   - - - '128'
       - Zac Majors
-    - lag: 0.533362 h
+    - lag: 0.533333 h
       rank: '4'
       frac: 0.59350478
   - - - '113'
       - Olav Opsanger
-    - lag: 0.534398 h
+    - lag: 0.534444 h
       rank: '5'
       frac: 0.49796268
   - - - '102'
       - Richard lovelace
-    - lag: 0.562100 h
+    - lag: 0.561944 h
       rank: '6'
       frac: 0.41951752
   - - - '110'
       - Cory Barnwell
-    - lag: 0.695886 h
+    - lag: 0.695833 h
       rank: '7'
       frac: 0.3564406
   - - - '117'
       - Robert Dallas
-    - lag: 0.713291 h
+    - lag: 0.713333 h
       rank: '8'
       frac: 0.30700319
   - - - '115'
       - Andrew Hollidge
-    - lag: 0.737155 h
+    - lag: 0.736944 h
       rank: '9'
       frac: 0.26947656
   - - - '101'
       - Davis Straub
-    - lag: 0.764507 h
+    - lag: 0.764444 h
       rank: '10'
       frac: 0.242132
   - - - '123'
       - JD Guillemette
-    - lag: 0.768638 h
+    - lag: 0.768611 h
       rank: '11'
       frac: 0.22324078
   - - - '108'
       - Raul Guerra
-    - lag: 0.820318 h
+    - lag: 0.820278 h
       rank: '12'
       frac: 0.21107419
   - - - '150'
       - Claudia Mejia
-    - lag: 0.921120 h
+    - lag: 0.921111 h
       rank: '13'
       frac: 0.2039035
 - - - - '128'
@@ -364,102 +364,102 @@ arrivalRank:
       frac: 1
   - - - '138'
       - Jonny Durand
-    - lag: 0.176210 h
+    - lag: 0.176389 h
       rank: '2'
       frac: 0.87771545
   - - - '121'
       - Oleg Bondarchuk
-    - lag: 0.231694 h
+    - lag: 0.231667 h
       rank: '3'
       frac: 0.76869937
   - - - '102'
       - Richard lovelace
-    - lag: 0.647549 h
+    - lag: 0.647778 h
       rank: '4'
       frac: 0.67217871
   - - - '131'
       - Robin Hamilton
-    - lag: 0.666288 h
+    - lag: 0.666389 h
       rank: '5'
       frac: 0.58738042
   - - - '139'
       - Tullio Gervasoni
-    - lag: 0.684323 h
+    - lag: 0.684444 h
       rank: '6'
       frac: 0.51353145
   - - - '108'
       - Raul Guerra
-    - lag: 0.814467 h
+    - lag: 0.814444 h
       rank: '7'
       frac: 0.44985874
   - - - '120'
       - Mike Glennon
-    - lag: 0.836816 h
+    - lag: 0.836944 h
       rank: '8'
       frac: 0.39558925
   - - - '104'
       - Christian Pollet
-    - lag: 0.876145 h
+    - lag: 0.876389 h
       rank: '9'
       frac: 0.34994993
   - - - '127'
       - Gerry Pesavento
-    - lag: 0.876753 h
+    - lag: 0.876944 h
       rank: '10'
       frac: 0.31216772
   - - - '132'
       - James Stinnett
-    - lag: 0.918465 h
+    - lag: 0.918611 h
       rank: '11'
       frac: 0.28146957
   - - - '142'
       - John Simon
-    - lag: 0.993406 h
+    - lag: 0.993611 h
       rank: '12'
       frac: 0.25708243
   - - - '113'
       - Olav Opsanger
-    - lag: 0.994721 h
+    - lag: 0.994722 h
       rank: '13'
       frac: 0.23823326
   - - - '112'
       - Sergey Kataev
-    - lag: 1.056771 h
+    - lag: 1.056944 h
       rank: '14'
       frac: 0.22414899
   - - - '123'
       - JD Guillemette
-    - lag: 1.092847 h
+    - lag: 1.093056 h
       rank: '15'
       frac: 0.21405658
   - - - '150'
       - Claudia Mejia
-    - lag: 1.247290 h
+    - lag: 1.247500 h
       rank: '16'
       frac: 0.20718298
   - - - '135'
       - Misael Rosalez
-    - lag: 1.255872 h
+    - lag: 1.256111 h
       rank: '17'
       frac: 0.20275514
-- - - - '131'
+- - - - '104'
+      - Christian Pollet
+    - lag: 0.000000 h
+      rank: (1,2)=
+      frac: 0.7559668
+  - - - '131'
       - Robin Hamilton
     - lag: 0.000000 h
-      rank: '1'
-      frac: 1
-  - - - '104'
-      - Christian Pollet
-    - lag: 0.000094 h
-      rank: '2'
-      frac: 0.56792188
+      rank: (1,2)=
+      frac: 0.7559668
   - - - '139'
       - Tullio Gervasoni
-    - lag: 0.024316 h
+    - lag: 0.024444 h
       rank: '3'
       frac: 0.330125
   - - - '132'
       - James Stinnett
-    - lag: 0.041050 h
+    - lag: 0.041111 h
       rank: '4'
       frac: 0.22726562
 - - - - '138'
@@ -469,121 +469,121 @@ arrivalRank:
       frac: 1
   - - - '101'
       - Davis Straub
-    - lag: 0.028874 h
+    - lag: 0.028889 h
       rank: '2'
       frac: 0.91536589
   - - - '142'
       - John Simon
-    - lag: 0.083714 h
+    - lag: 0.083611 h
       rank: '3'
       frac: 0.8369815
   - - - '121'
       - Oleg Bondarchuk
-    - lag: 0.094005 h
+    - lag: 0.093889 h
       rank: '4'
       frac: 0.76460378
   - - - '104'
       - Christian Pollet
-    - lag: 0.176099 h
+    - lag: 0.176111 h
       rank: '5'
       frac: 0.69798963
   - - - '131'
       - Robin Hamilton
-    - lag: 0.210160 h
+    - lag: 0.210000 h
       rank: '6'
       frac: 0.636896
   - - - '132'
       - James Stinnett
-    - lag: 0.221400 h
+    - lag: 0.221389 h
       rank: '7'
       frac: 0.58107981
   - - - '111'
       - Patrick Kruse
-    - lag: 0.222299 h
+    - lag: 0.222222 h
       rank: '8'
       frac: 0.53029798
   - - - '128'
       - Zac Majors
-    - lag: 0.368429 h
+    - lag: 0.368333 h
       rank: '9'
       frac: 0.48430746
   - - - '115'
       - Andrew Hollidge
-    - lag: 0.376359 h
+    - lag: 0.376389 h
       rank: '10'
       frac: 0.44286515
   - - - '120'
       - Mike Glennon
-    - lag: 0.398007 h
+    - lag: 0.398056 h
       rank: '11'
       frac: 0.405728
   - - - '135'
       - Misael Rosalez
-    - lag: 0.404305 h
+    - lag: 0.404167 h
       rank: '12'
       frac: 0.37265293
   - - - '124'
       - Patrick Pannese
-    - lag: 0.406596 h
+    - lag: 0.406389 h
       rank: '13'
       frac: 0.34339686
   - - - '103'
       - Matt Christensen
-    - lag: 0.447508 h
+    - lag: 0.447500 h
       rank: '14'
       frac: 0.31771674
   - - - '110'
       - Cory Barnwell
-    - lag: 0.544655 h
+    - lag: 0.544444 h
       rank: '15'
       frac: 0.29536947
   - - - '127'
       - Gerry Pesavento
-    - lag: 0.593019 h
+    - lag: 0.593056 h
       rank: '16'
       frac: 0.276112
   - - - '106'
       - Fabiano Nahoum
-    - lag: 0.625740 h
+    - lag: 0.625556 h
       rank: '17'
       frac: 0.25970125
   - - - '102'
       - Richard lovelace
-    - lag: 0.732974 h
+    - lag: 0.732778 h
       rank: '18'
       frac: 0.24589414
   - - - '150'
       - Claudia Mejia
-    - lag: 0.813685 h
+    - lag: 0.813611 h
       rank: '19'
       frac: 0.23444762
   - - - '113'
       - Olav Opsanger
-    - lag: 0.824996 h
+    - lag: 0.825000 h
       rank: '20'
       frac: 0.22511859
   - - - '123'
       - JD Guillemette
-    - lag: 0.943189 h
+    - lag: 0.943056 h
       rank: '21'
       frac: 0.217664
   - - - '119'
       - Bart Weghorst
-    - lag: 1.025248 h
+    - lag: 1.025278 h
       rank: '22'
       frac: 0.21184077
   - - - '114'
       - Mick Howard
-    - lag: 1.044718 h
+    - lag: 1.044722 h
       rank: '23'
       frac: 0.20740582
   - - - '117'
       - Robert Dallas
-    - lag: 1.228540 h
+    - lag: 1.228333 h
       rank: '24'
       frac: 0.2041161
   - - - '133'
       - Olav Olsen
-    - lag: 1.502548 h
+    - lag: 1.502500 h
       rank: '25'
       frac: 0.20172851

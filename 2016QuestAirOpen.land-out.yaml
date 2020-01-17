@@ -1752,10 +1752,10 @@ difficulty:
     - 42.008 km
     - 42.055 km
     downers:
-    - - '102'
-      - Richard lovelace
     - - '150'
       - Claudia Mejia
+    - - '102'
+      - Richard lovelace
     - - '106'
       - Fabiano Nahoum
     downward: 11

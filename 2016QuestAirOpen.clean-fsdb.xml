@@ -236,6 +236,14 @@
             <FsResult rank="25" points="333" distance="99.19" ss_time="00:00:00" finished_ss_rank="19" distance_points="333.3" linear_distance_points="142.59" difficulty_distance_points="190.71" time_points="0" arrival_points="0" departure_points="0" leading_points="0" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2016-05-07T13:50:00-04:00" ss_time_dec_hours="0" real_distance="99.19" last_distance="98.766" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False"/>
           </FsParticipant>
         </FsParticipants>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="28.52943" lon="-81.84633"/>
+          <FsTurnpoint lat="28.44308" lon="-81.83825"/>
+          <FsTurnpoint lat="28.25961" lon="-81.82113"/>
+          <FsTurnpoint lat="27.95572" lon="-81.60541"/>
+          <FsTurnpoint lat="27.59251" lon="-81.53087"/>
+          <FsTurnpoint lat="27.20869" lon="-81.77523"/>
+        </FsTaskShortestRoute>
         <FsTaskScoreParams ss_distance="150.41" task_distance="160.044" launch_to_ess_distance="160.044" no_of_pilots_present="43" no_of_pilots_flying="43" no_of_pilots_lo="25" no_of_pilots_reaching_nom_dist="37" no_of_pilots_reaching_es="18" no_of_pilots_reaching_goal="18" sum_flown_distance="4954.745" best_dist="160.044" best_time="3.46694444444444" worst_time="4.10222222222222" no_of_pilots_in_competition="43" no_of_pilots_landed_before_stop="0" sum_dist_over_min="4739.745" sum_real_dist_over_min="4739.745" sum_flown_distances="4954.745" best_real_dist="160.044" last_start_time="2016-05-07T14:30:00-04:00" first_start_time="2016-05-07T13:50:00-04:00" first_finish_time="2016-05-07T17:18:01-04:00" max_time_to_get_time_points="5.32891771075211" no_of_pilots_with_time_points="18" goalratio="0.418604651162791" arrival_weight="0.0674832058812432" departure_weight="0" leading_weight="0.0944764882337404" time_weight="0.377905952934962" distance_weight="0.460134352950055" smallest_leading_coefficient="2.16684339766897" available_points_distance="460.134352950055" available_points_time="377.905952934962" available_points_departure="0" available_points_leading="94.4764882337404" available_points_arrival="67.4832058812432" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1" ftv_day_validity="1" time_points_stop_correction="0">
           <FsTaskDistToTp tp_no="1" distance="0.000"/>
           <FsTaskDistToTp tp_no="2" distance="9.635"/>
@@ -319,14 +327,14 @@
             </FsChunk>
           </FsTaskDifficulty>
         </FsTaskScoreParams>
-        <FsTaskShortestRoute>
-          <FsTurnpoint lat="28.52943" lon="-81.84633"/>
-          <FsTurnpoint lat="28.44308" lon="-81.83825"/>
-          <FsTurnpoint lat="28.25961" lon="-81.82113"/>
-          <FsTurnpoint lat="27.95572" lon="-81.60541"/>
-          <FsTurnpoint lat="27.59251" lon="-81.53087"/>
-          <FsTurnpoint lat="27.20869" lon="-81.77523"/>
-        </FsTaskShortestRoute>
+        <FsTaskShortestPath>
+          <FsPathVertex lat="28.52943" lon="-81.84633"/>
+          <FsPathVertex lat="28.44308" lon="-81.83825"/>
+          <FsPathVertex lat="28.25961" lon="-81.82113"/>
+          <FsPathVertex lat="27.95572" lon="-81.60541"/>
+          <FsPathVertex lat="27.59251" lon="-81.53087"/>
+          <FsPathVertex lat="27.20869" lon="-81.77523"/>
+        </FsTaskShortestPath>
       </FsTask>
       <FsTask id="2" name="QUEST-QUEST" tracklog_folder="flights\QAtask2">
         <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" day_quality_override="0" bonus_gr="5" jump_the_gun_factor="3" jump_the_gun_max="300" normalize_1000_before_day_quality="0" time_points_if_not_in_goal="0.8" use_1000_points_for_max_day_quality="0" use_arrival_position_points="1" use_arrival_time_points="0" use_departure_points="0" use_difficulty_for_distance_points="1" use_distance_points="1" use_distance_squared_for_LC="1" use_leading_points="1" use_semi_circle_control_zone_for_goal_line="0" use_time_points="1" final_glide_decelerator="none" no_final_glide_decelerator_reason="" min_time_span_for_valid_task="60" score_back_time="15"/>
@@ -517,6 +525,14 @@
             <FsResult rank="28" points="355" distance="77.289" ss_time="00:00:00" finished_ss_rank="18" distance_points="325.3" linear_distance_points="160.97" difficulty_distance_points="164.31" time_points="0" arrival_points="0" departure_points="0" leading_points="29.4" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2016-05-08T13:30:00-04:00" ss_time_dec_hours="0" real_distance="77.289" last_distance="77.053" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False"/>
           </FsParticipant>
         </FsParticipants>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="28.53429" lon="-81.8505"/>
+          <FsTurnpoint lat="28.54871" lon="-81.89459"/>
+          <FsTurnpoint lat="28.64432" lon="-82.18832"/>
+          <FsTurnpoint lat="28.71211" lon="-81.89886"/>
+          <FsTurnpoint lat="28.40312" lon="-81.82823"/>
+          <FsTurnpoint lat="28.52945" lon="-81.84616"/>
+        </FsTaskShortestRoute>
         <FsTaskScoreParams ss_distance="109.01" task_distance="113.605" launch_to_ess_distance="113.605" no_of_pilots_present="43" no_of_pilots_flying="43" no_of_pilots_lo="26" no_of_pilots_reaching_nom_dist="32" no_of_pilots_reaching_es="17" no_of_pilots_reaching_goal="17" sum_flown_distance="3678.202" best_dist="113.605" best_time="3.38555555555556" worst_time="4.83277777777778" no_of_pilots_in_competition="43" no_of_pilots_landed_before_stop="0" sum_dist_over_min="3465.807" sum_real_dist_over_min="3465.807" sum_flown_distances="3678.202" best_real_dist="113.605" last_start_time="2016-05-08T13:50:00-04:00" first_start_time="2016-05-08T13:30:00-04:00" first_finish_time="2016-05-08T17:13:08-04:00" max_time_to_get_time_points="5.22554347822123" no_of_pilots_with_time_points="17" goalratio="0.395348837209302" arrival_weight="0.0658481721735193" departure_weight="0" leading_weight="0.092187441042927" time_weight="0.368749764171708" distance_weight="0.473214622611846" smallest_leading_coefficient="2.54662223128035" available_points_distance="473.214622611846" available_points_time="368.749764171708" available_points_departure="0" available_points_leading="92.187441042927" available_points_arrival="65.8481721735193" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1" ftv_day_validity="1" time_points_stop_correction="0">
           <FsTaskDistToTp tp_no="1" distance="0.000"/>
           <FsTaskDistToTp tp_no="2" distance="4.596"/>
@@ -605,14 +621,14 @@
             </FsChunk>
           </FsTaskDifficulty>
         </FsTaskScoreParams>
-        <FsTaskShortestRoute>
-          <FsTurnpoint lat="28.53429" lon="-81.8505"/>
-          <FsTurnpoint lat="28.54871" lon="-81.89459"/>
-          <FsTurnpoint lat="28.64432" lon="-82.18832"/>
-          <FsTurnpoint lat="28.71211" lon="-81.89886"/>
-          <FsTurnpoint lat="28.40312" lon="-81.82823"/>
-          <FsTurnpoint lat="28.52945" lon="-81.84616"/>
-        </FsTaskShortestRoute>
+        <FsTaskShortestPath>
+          <FsPathVertex lat="28.53429" lon="-81.8505"/>
+          <FsPathVertex lat="28.54871" lon="-81.89459"/>
+          <FsPathVertex lat="28.64432" lon="-82.18832"/>
+          <FsPathVertex lat="28.71211" lon="-81.89886"/>
+          <FsPathVertex lat="28.40312" lon="-81.82823"/>
+          <FsPathVertex lat="28.52945" lon="-81.84616"/>
+        </FsTaskShortestPath>
       </FsTask>
       <FsTask id="3" name="QUEST-CHERYL" tracklog_folder="flights\QAtask3">
         <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" day_quality_override="0" bonus_gr="5" jump_the_gun_factor="3" jump_the_gun_max="300" normalize_1000_before_day_quality="0" time_points_if_not_in_goal="0.8" use_1000_points_for_max_day_quality="0" use_arrival_position_points="1" use_arrival_time_points="0" use_departure_points="0" use_difficulty_for_distance_points="1" use_distance_points="1" use_distance_squared_for_LC="1" use_leading_points="1" use_semi_circle_control_zone_for_goal_line="0" use_time_points="1" final_glide_decelerator="none" no_final_glide_decelerator_reason="" min_time_span_for_valid_task="60" score_back_time="15"/>
@@ -800,6 +816,14 @@
           </FsParticipant>
           <FsParticipant id="109"/>
         </FsParticipants>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="28.53418" lon="-81.85054"/>
+          <FsTurnpoint lat="28.54744" lon="-81.8951"/>
+          <FsTurnpoint lat="28.60849" lon="-82.10101"/>
+          <FsTurnpoint lat="28.79954" lon="-81.93923"/>
+          <FsTurnpoint lat="28.77103" lon="-82.12952"/>
+          <FsTurnpoint lat="28.67481" lon="-82.08862"/>
+        </FsTaskShortestRoute>
         <FsTaskScoreParams ss_distance="77.915" task_distance="82.51" launch_to_ess_distance="82.51" no_of_pilots_present="42" no_of_pilots_flying="42" no_of_pilots_lo="20" no_of_pilots_reaching_nom_dist="35" no_of_pilots_reaching_es="22" no_of_pilots_reaching_goal="22" sum_flown_distance="3138.412" best_dist="82.51" best_time="2.29305555555556" worst_time="3.36916666666667" no_of_pilots_in_competition="43" no_of_pilots_landed_before_stop="0" sum_dist_over_min="2928.412" sum_real_dist_over_min="2928.412" sum_flown_distances="3138.412" best_real_dist="82.51" last_start_time="2016-05-09T15:10:00-04:00" first_start_time="2016-05-09T14:30:00-04:00" first_finish_time="2016-05-09T17:07:35-04:00" max_time_to_get_time_points="3.8073393980222" no_of_pilots_with_time_points="22" goalratio="0.523809523809524" arrival_weight="0.0733125337436562" departure_weight="0" leading_weight="0.102637547241119" time_weight="0.410550188964475" distance_weight="0.41349973005075" smallest_leading_coefficient="1.7602680173909" available_points_distance="413.49973005075" available_points_time="410.550188964475" available_points_departure="0" available_points_leading="102.637547241119" available_points_arrival="73.3125337436562" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1" ftv_day_validity="1" time_points_stop_correction="0">
           <FsTaskDistToTp tp_no="1" distance="0.000"/>
           <FsTaskDistToTp tp_no="2" distance="4.595"/>
@@ -868,14 +892,14 @@
             </FsChunk>
           </FsTaskDifficulty>
         </FsTaskScoreParams>
-        <FsTaskShortestRoute>
-          <FsTurnpoint lat="28.53418" lon="-81.85054"/>
-          <FsTurnpoint lat="28.54744" lon="-81.8951"/>
-          <FsTurnpoint lat="28.60849" lon="-82.10101"/>
-          <FsTurnpoint lat="28.79954" lon="-81.93923"/>
-          <FsTurnpoint lat="28.77103" lon="-82.12952"/>
-          <FsTurnpoint lat="28.67481" lon="-82.08862"/>
-        </FsTaskShortestRoute>
+        <FsTaskShortestPath>
+          <FsPathVertex lat="28.53418" lon="-81.85054"/>
+          <FsPathVertex lat="28.54744" lon="-81.8951"/>
+          <FsPathVertex lat="28.60849" lon="-82.10101"/>
+          <FsPathVertex lat="28.79954" lon="-81.93923"/>
+          <FsPathVertex lat="28.77103" lon="-82.12952"/>
+          <FsPathVertex lat="28.67481" lon="-82.08862"/>
+        </FsTaskShortestPath>
       </FsTask>
       <FsTask id="4" name="QUEST-QUEST" tracklog_folder="flights\QAtask4">
         <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" day_quality_override="0" bonus_gr="5" jump_the_gun_factor="3" jump_the_gun_max="300" normalize_1000_before_day_quality="0" time_points_if_not_in_goal="0.8" use_1000_points_for_max_day_quality="0" use_arrival_position_points="1" use_arrival_time_points="0" use_departure_points="0" use_difficulty_for_distance_points="1" use_distance_points="1" use_distance_squared_for_LC="1" use_leading_points="1" use_semi_circle_control_zone_for_goal_line="0" use_time_points="1" final_glide_decelerator="none" no_final_glide_decelerator_reason="" min_time_span_for_valid_task="60" score_back_time="15"/>
@@ -1059,6 +1083,13 @@
           <FsParticipant id="109"/>
           <FsParticipant id="107"/>
         </FsParticipants>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="28.53422" lon="-81.85053"/>
+          <FsTurnpoint lat="28.54783" lon="-81.89495"/>
+          <FsTurnpoint lat="28.64538" lon="-82.21489"/>
+          <FsTurnpoint lat="28.71209" lon="-81.89882"/>
+          <FsTurnpoint lat="28.53653" lon="-81.84769"/>
+        </FsTaskShortestRoute>
         <FsTaskScoreParams ss_distance="84.929" task_distance="89.524" launch_to_ess_distance="89.524" no_of_pilots_present="41" no_of_pilots_flying="41" no_of_pilots_lo="28" no_of_pilots_reaching_nom_dist="31" no_of_pilots_reaching_es="13" no_of_pilots_reaching_goal="13" sum_flown_distance="2906.48" best_dist="89.524" best_time="3.06527777777778" worst_time="3.88555555555556" no_of_pilots_in_competition="43" no_of_pilots_landed_before_stop="0" sum_dist_over_min="2701.48" sum_real_dist_over_min="2701.48" sum_flown_distances="2906.48" best_real_dist="89.524" last_start_time="2016-05-10T14:20:00-04:00" first_start_time="2016-05-10T14:00:00-04:00" first_finish_time="2016-05-10T17:03:55-04:00" max_time_to_get_time_points="4.81607124868683" no_of_pilots_with_time_points="13" goalratio="0.317073170731707" arrival_weight="0.0593026925755575" departure_weight="0" leading_weight="0.0830237696057805" time_weight="0.332095078423122" distance_weight="0.52557845939554" smallest_leading_coefficient="1.70932010549407" available_points_distance="525.57845939554" available_points_time="332.095078423122" available_points_departure="0" available_points_leading="83.0237696057805" available_points_arrival="59.3026925755575" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1" ftv_day_validity="1" time_points_stop_correction="0">
           <FsTaskDistToTp tp_no="1" distance="0.000"/>
           <FsTaskDistToTp tp_no="2" distance="4.595"/>
@@ -1152,13 +1183,13 @@
             </FsChunk>
           </FsTaskDifficulty>
         </FsTaskScoreParams>
-        <FsTaskShortestRoute>
-          <FsTurnpoint lat="28.53422" lon="-81.85053"/>
-          <FsTurnpoint lat="28.54783" lon="-81.89495"/>
-          <FsTurnpoint lat="28.64538" lon="-82.21489"/>
-          <FsTurnpoint lat="28.71209" lon="-81.89882"/>
-          <FsTurnpoint lat="28.53653" lon="-81.84769"/>
-        </FsTaskShortestRoute>
+        <FsTaskShortestPath>
+          <FsPathVertex lat="28.53422" lon="-81.85053"/>
+          <FsPathVertex lat="28.54783" lon="-81.89495"/>
+          <FsPathVertex lat="28.64538" lon="-82.21489"/>
+          <FsPathVertex lat="28.71209" lon="-81.89882"/>
+          <FsPathVertex lat="28.53653" lon="-81.84769"/>
+        </FsTaskShortestPath>
       </FsTask>
       <FsTask id="5" name="QUEST-QUEST" tracklog_folder="flights\QAtask5">
         <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" day_quality_override="0" bonus_gr="5" jump_the_gun_factor="3" jump_the_gun_max="300" normalize_1000_before_day_quality="0" time_points_if_not_in_goal="0.8" use_1000_points_for_max_day_quality="0" use_arrival_position_points="1" use_arrival_time_points="0" use_departure_points="0" use_difficulty_for_distance_points="1" use_distance_points="1" use_distance_squared_for_LC="1" use_leading_points="1" use_semi_circle_control_zone_for_goal_line="0" use_time_points="1" final_glide_decelerator="none" no_final_glide_decelerator_reason="" min_time_span_for_valid_task="60" score_back_time="15"/>
@@ -1342,6 +1373,13 @@
             <FsResult rank="11" points="613" distance="100.295" ss_time="03:38:52" finished_ss_rank="9" distance_points="462.3" linear_distance_points="231.15" difficulty_distance_points="231.15" time_points="58.9" arrival_points="23.5" departure_points="0" leading_points="68.7" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2016-05-11T14:20:00-04:00" finished_ss="2016-05-11T17:58:52-04:00" ss_time_dec_hours="3.64777777777778" real_distance="100.295" last_distance="100.295" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="123" scored_ss_time="03:38:52" landed_before_stop="False"/>
           </FsParticipant>
         </FsParticipants>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="28.53654" lon="-81.84764"/>
+          <FsTurnpoint lat="28.57688" lon="-81.85875"/>
+          <FsTurnpoint lat="28.71163" lon="-81.89593"/>
+          <FsTurnpoint lat="28.26206" lon="-81.82542"/>
+          <FsTurnpoint lat="28.52943" lon="-81.84639"/>
+        </FsTaskShortestRoute>
         <FsTaskScoreParams ss_distance="95.68" task_distance="100.295" launch_to_ess_distance="100.295" no_of_pilots_present="41" no_of_pilots_flying="41" no_of_pilots_lo="24" no_of_pilots_reaching_nom_dist="33" no_of_pilots_reaching_es="17" no_of_pilots_reaching_goal="17" sum_flown_distance="3205.594" best_dist="100.295" best_time="2.43805555555556" worst_time="4.0275" no_of_pilots_in_competition="43" no_of_pilots_landed_before_stop="0" sum_dist_over_min="3001.051" sum_real_dist_over_min="3001.051" sum_flown_distances="3205.594" best_real_dist="100.295" last_start_time="2016-05-11T14:40:00-04:00" first_start_time="2016-05-11T14:20:00-04:00" first_finish_time="2016-05-11T17:06:17-04:00" max_time_to_get_time_points="3.9994829651893" no_of_pilots_with_time_points="15" goalratio="0.414634146341463" arrival_weight="0.0672135470321092" departure_weight="0" leading_weight="0.0940989658449529" time_weight="0.376395863379812" distance_weight="0.462291623743126" smallest_leading_coefficient="2.18314195882283" available_points_distance="462.291623743126" available_points_time="376.395863379812" available_points_departure="0" available_points_leading="94.0989658449529" available_points_arrival="67.2135470321092" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1" ftv_day_validity="1" time_points_stop_correction="0">
           <FsTaskDistToTp tp_no="1" distance="0.000"/>
           <FsTaskDistToTp tp_no="2" distance="4.615"/>
@@ -1423,13 +1461,13 @@
             </FsChunk>
           </FsTaskDifficulty>
         </FsTaskScoreParams>
-        <FsTaskShortestRoute>
-          <FsTurnpoint lat="28.53654" lon="-81.84764"/>
-          <FsTurnpoint lat="28.57688" lon="-81.85875"/>
-          <FsTurnpoint lat="28.71163" lon="-81.89593"/>
-          <FsTurnpoint lat="28.26206" lon="-81.82542"/>
-          <FsTurnpoint lat="28.52943" lon="-81.84639"/>
-        </FsTaskShortestRoute>
+        <FsTaskShortestPath>
+          <FsPathVertex lat="28.53654" lon="-81.84764"/>
+          <FsPathVertex lat="28.57688" lon="-81.85875"/>
+          <FsPathVertex lat="28.71163" lon="-81.89593"/>
+          <FsPathVertex lat="28.26206" lon="-81.82542"/>
+          <FsPathVertex lat="28.52943" lon="-81.84639"/>
+        </FsTaskShortestPath>
       </FsTask>
       <FsTask id="6" name="QUEST-QUEST" tracklog_folder="flights\QAtask6">
         <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" day_quality_override="0" bonus_gr="5" jump_the_gun_factor="3" jump_the_gun_max="300" normalize_1000_before_day_quality="0" time_points_if_not_in_goal="0.8" use_1000_points_for_max_day_quality="0" use_arrival_position_points="1" use_arrival_time_points="0" use_departure_points="0" use_difficulty_for_distance_points="1" use_distance_points="1" use_distance_squared_for_LC="1" use_leading_points="1" use_semi_circle_control_zone_for_goal_line="0" use_time_points="1" final_glide_decelerator="none" no_final_glide_decelerator_reason="" min_time_span_for_valid_task="60" score_back_time="15"/>
@@ -1612,6 +1650,12 @@
             <FsResult rank="28" points="437" distance="38.798" ss_time="00:00:00" finished_ss_rank="5" distance_points="414.2" linear_distance_points="245.2" difficulty_distance_points="168.99" time_points="0" arrival_points="0" departure_points="0" leading_points="23.2" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2016-05-12T15:30:00-04:00" ss_time_dec_hours="0" real_distance="38.798" last_distance="38.794" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="0" scored_ss_time="00:00:00" landed_before_stop="False"/>
           </FsParticipant>
         </FsParticipants>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="28.52943" lon="-81.84638"/>
+          <FsTurnpoint lat="28.48801" lon="-81.84311"/>
+          <FsTurnpoint lat="28.26207" lon="-81.82528"/>
+          <FsTurnpoint lat="28.52943" lon="-81.84638"/>
+        </FsTaskShortestRoute>
         <FsTaskScoreParams ss_distance="54.983" task_distance="59.6" launch_to_ess_distance="59.6" no_of_pilots_present="41" no_of_pilots_flying="41" no_of_pilots_lo="37" no_of_pilots_reaching_nom_dist="0" no_of_pilots_reaching_es="4" no_of_pilots_reaching_goal="4" sum_flown_distance="1704.042" best_dist="59.6" best_time="2.42166666666667" worst_time="2.46277777777778" no_of_pilots_in_competition="43" no_of_pilots_landed_before_stop="0" sum_dist_over_min="1499.042" sum_real_dist_over_min="1499.042" sum_flown_distances="1704.042" best_real_dist="59.6" last_start_time="2016-05-12T15:30:00-04:00" first_start_time="2016-05-12T15:30:00-04:00" first_finish_time="2016-05-12T17:55:18-04:00" max_time_to_get_time_points="3.97783718003166" no_of_pilots_with_time_points="4" goalratio="0.0975609756097561" arrival_weight="0.030834941454709" departure_weight="0" leading_weight="0.0431689180365926" time_weight="0.172675672146371" distance_weight="0.753320468362328" smallest_leading_coefficient="1.06324888442805" available_points_distance="753.320468362328" available_points_time="172.675672146371" available_points_departure="0" available_points_leading="43.1689180365926" available_points_arrival="30.834941454709" time_validity="1" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="1" ftv_day_validity="1" time_points_stop_correction="0">
           <FsTaskDistToTp tp_no="1" distance="0.000"/>
           <FsTaskDistToTp tp_no="2" distance="4.617"/>
@@ -1723,12 +1767,12 @@
             </FsChunk>
           </FsTaskDifficulty>
         </FsTaskScoreParams>
-        <FsTaskShortestRoute>
-          <FsTurnpoint lat="28.52943" lon="-81.84638"/>
-          <FsTurnpoint lat="28.48801" lon="-81.84311"/>
-          <FsTurnpoint lat="28.26207" lon="-81.82528"/>
-          <FsTurnpoint lat="28.52943" lon="-81.84638"/>
-        </FsTaskShortestRoute>
+        <FsTaskShortestPath>
+          <FsPathVertex lat="28.52943" lon="-81.84638"/>
+          <FsPathVertex lat="28.48801" lon="-81.84311"/>
+          <FsPathVertex lat="28.26207" lon="-81.82528"/>
+          <FsPathVertex lat="28.52943" lon="-81.84638"/>
+        </FsTaskShortestPath>
       </FsTask>
       <FsTask id="7" name="T7 GRASSO-WALABY" tracklog_folder="flights\QAtask7">
         <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" day_quality_override="0" bonus_gr="5" jump_the_gun_factor="3" jump_the_gun_max="300" normalize_1000_before_day_quality="0" time_points_if_not_in_goal="0.8" use_1000_points_for_max_day_quality="0" use_arrival_position_points="1" use_arrival_time_points="0" use_departure_points="0" use_difficulty_for_distance_points="1" use_distance_points="1" use_distance_squared_for_LC="1" use_leading_points="1" use_semi_circle_control_zone_for_goal_line="0" use_time_points="1" final_glide_decelerator="none" no_final_glide_decelerator_reason="" min_time_span_for_valid_task="60" score_back_time="15"/>
@@ -1912,6 +1956,13 @@
             <FsResult rank="21" points="442" distance="84.452" ss_time="02:45:35" finished_ss_rank="19" distance_points="372.4" linear_distance_points="186.18" difficulty_distance_points="186.18" time_points="26.7" arrival_points="17" departure_points="0" leading_points="26" penalty="0" penalty_points="0" penalty_reason="" penalty_points_auto="0" penalty_reason_auto="" penalty_min_dist_points="0" got_time_but_not_goal_penalty="False" started_ss="2016-05-13T14:00:00-04:00" finished_ss="2016-05-13T16:45:35-04:00" ss_time_dec_hours="2.75972222222222" real_distance="84.452" last_distance="84.452" last_altitude_above_goal="0" altitude_bonus_seconds="0" altitude_bonus_time="00:00:00" altitude_at_ess="292" scored_ss_time="02:45:35" landed_before_stop="False"/>
           </FsParticipant>
         </FsParticipants>
+        <FsTaskShortestRoute>
+          <FsTurnpoint lat="28.63816" lon="-81.879"/>
+          <FsTurnpoint lat="28.5173" lon="-81.81951"/>
+          <FsTurnpoint lat="28.25189" lon="-81.68941"/>
+          <FsTurnpoint lat="28.08437" lon="-81.65048"/>
+          <FsTurnpoint lat="28.24943" lon="-81.68478"/>
+        </FsTaskShortestRoute>
         <FsTaskScoreParams ss_distance="69.812" task_distance="84.452" launch_to_ess_distance="84.452" no_of_pilots_present="40" no_of_pilots_flying="40" no_of_pilots_lo="16" no_of_pilots_reaching_nom_dist="28" no_of_pilots_reaching_es="25" no_of_pilots_reaching_goal="24" sum_flown_distance="2638.958" best_dist="84.452" best_time="1.61277777777778" worst_time="3.44861111111111" no_of_pilots_in_competition="43" no_of_pilots_landed_before_stop="0" sum_dist_over_min="2404.893" sum_real_dist_over_min="2438.958" sum_flown_distances="2638.958" best_real_dist="84.452" last_start_time="2016-05-13T14:40:00-04:00" first_start_time="2016-05-13T14:00:00-04:00" first_finish_time="2016-05-13T15:56:46-04:00" max_time_to_get_time_points="2.88272965788103" no_of_pilots_with_time_points="22" goalratio="0.6" arrival_weight="0.076139" departure_weight="0" leading_weight="0.1065946" time_weight="0.4263784" distance_weight="0.390888" smallest_leading_coefficient="1.17161610412259" available_points_distance="372.354960620382" available_points_time="406.162666393907" available_points_departure="0" available_points_leading="101.540666598477" available_points_arrival="72.5290475703405" time_validity="0.952587341183106" launch_validity="1" distance_validity="1" stop_validity="1" day_quality="0.952587341183106" ftv_day_validity="0.952587341183106" time_points_stop_correction="0">
           <FsTaskDistToTp tp_no="1" distance="0.000"/>
           <FsTaskDistToTp tp_no="2" distance="14.641"/>
@@ -1967,13 +2018,13 @@
             </FsChunk>
           </FsTaskDifficulty>
         </FsTaskScoreParams>
-        <FsTaskShortestRoute>
-          <FsTurnpoint lat="28.63816" lon="-81.879"/>
-          <FsTurnpoint lat="28.5173" lon="-81.81951"/>
-          <FsTurnpoint lat="28.25189" lon="-81.68941"/>
-          <FsTurnpoint lat="28.08437" lon="-81.65048"/>
-          <FsTurnpoint lat="28.24943" lon="-81.68478"/>
-        </FsTaskShortestRoute>
+        <FsTaskShortestPath>
+          <FsPathVertex lat="28.63816" lon="-81.879"/>
+          <FsPathVertex lat="28.5173" lon="-81.81951"/>
+          <FsPathVertex lat="28.25189" lon="-81.68941"/>
+          <FsPathVertex lat="28.08437" lon="-81.65048"/>
+          <FsPathVertex lat="28.24943" lon="-81.68478"/>
+        </FsTaskShortestPath>
       </FsTask>
     </FsTasks>
   </FsCompetition>

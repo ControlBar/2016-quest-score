@@ -22,7 +22,8 @@ nominal:
   free: 5.000 km
   time: 2.000000 h
 compTweak:
-  arrivalWeightScaling: null
+  arrivalRank: true
+  arrivalTime: false
   leadingWeightScaling: null
 tasks:
 - taskName: QUEST-ELLSWR
@@ -128,11 +129,13 @@ tasks:
   - 2016-05-07T18:30:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals: []
 - taskName: QUEST-QUEST
   zones:
@@ -237,11 +240,13 @@ tasks:
   - 2016-05-08T18:30:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals: []
 - taskName: QUEST-CHERYL
   zones:
@@ -346,11 +351,21 @@ tasks:
   - 2016-05-09T19:30:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto:
+  - - - '126'
+      - Jeff Kannard
+    - - penalty-points: 25.3333333333333
+    - Jumped the gun by 1:16
+  - - - '150'
+      - Claudia Mejia
+    - - penalty-points: 57.6666666666667
+    - Jumped the gun by 2:53
   penals: []
 - taskName: QUEST-QUEST
   zones:
@@ -441,11 +456,13 @@ tasks:
   - 2016-05-10T19:00:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals: []
 - taskName: QUEST-QUEST
   zones:
@@ -536,11 +553,13 @@ tasks:
   - 2016-05-11T19:20:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals: []
 - taskName: QUEST-QUEST
   zones:
@@ -617,11 +636,21 @@ tasks:
   - 2016-05-12T20:30:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto:
+  - - - '117'
+      - Robert Dallas
+    - - penalty-points: 2.33333333333333
+    - Jumped the gun by 0:07
+  - - - '150'
+      - Claudia Mejia
+    - - penalty-points: 2.33333333333333
+    - Jumped the gun by 0:07
   penals: []
 - taskName: T7 GRASSO-WALABY
   zones:
@@ -712,11 +741,13 @@ tasks:
   - 2016-05-13T19:00:00Z
   stopped: null
   taskTweak:
-    arrivalWeightScaling: null
+    arrivalRank: true
+    arrivalTime: false
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+  penalsAuto: []
   penals:
   - - - '115'
       - Andrew Hollidge
