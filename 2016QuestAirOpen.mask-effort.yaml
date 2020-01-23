@@ -475,6 +475,10 @@ land:
       - Michael Williams
     - togo: 60.165021 km
       made: 40.139241 km
+  - - - '140'
+      - Bill Vickery
+    - togo: 60.212170 km
+      made: 40.092092 km
   - - - '134'
       - Kinsley Sykes
     - togo: 66.623432 km
@@ -487,10 +491,6 @@ land:
       - Cory Barnwell
     - togo: 87.312445 km
       made: 12.991817 km
-  - - - '140'
-      - Bill Vickery
-    - togo: 100.495485 km
-      made: -0.191223 km
 - - - - '113'
       - Olav Opsanger
     - togo: 1.370266 km

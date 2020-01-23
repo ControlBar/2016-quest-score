@@ -12,8 +12,8 @@ bolster:
   mean: 69.909342 km
   stdDev: 20.649251 km
 - max: 100.304262 km
-  mean: 78.569896 km
-  stdDev: 24.736440 km
+  mean: 79.089408 km
+  stdDev: 23.703563 km
 - max: 59.606365 km
   mean: 41.568853 km
   stdDev: 12.483795 km
@@ -34,8 +34,8 @@ reach:
   mean: 69.909342 km
   stdDev: 20.649251 km
 - max: 100.304262 km
-  mean: 78.569896 km
-  stdDev: 24.736440 km
+  mean: 79.089408 km
+  stdDev: 23.703563 km
 - max: 59.606365 km
   mean: 41.568853 km
   stdDev: 12.483795 km
@@ -859,6 +859,10 @@ reachRank:
       - Olav Olsen
     - frac: 0.43467008
       reach: 43.599262 km
+  - - - '140'
+      - Bill Vickery
+    - frac: 0.41200903
+      reach: 41.326262 km
   - - - '134'
       - Kinsley Sykes
     - frac: 0.33962926
@@ -867,10 +871,6 @@ reachRank:
       - Ingo Heilmann
     - frac: 0.31249183
       reach: 31.344262 km
-  - - - '140'
-      - Bill Vickery
-    - frac: 0.19965515
-      reach: 20.026262 km
   - - - '110'
       - Cory Barnwell
     - frac: 0.13278859
@@ -3636,6 +3636,27 @@ nigh:
         - lat: 28.52942394
           lng: -81.84637644
       made: 46.569262 km
+  - - - '140'
+      - Bill Vickery
+    - togo:
+        distance: 58.978267 km
+        flipSum:
+        - 58.978267 km
+        - 29.799177 km
+        legs:
+        - 29.179090 km
+        - 29.799177 km
+        legsSum:
+        - 29.179090 km
+        - 58.978267 km
+        waypoints:
+        - lat: 28.5239
+          lng: -81.84528333
+        - lat: 28.26207606
+          lng: -81.82529282
+        - lat: 28.52942394
+          lng: -81.84637644
+      made: 41.326262 km
   - - - '134'
       - Kinsley Sykes
     - togo:
@@ -3704,27 +3725,6 @@ nigh:
         - lat: 28.52942394
           lng: -81.84637644
       made: 13.319262 km
-  - - - '140'
-      - Bill Vickery
-    - togo:
-        distance: 80.277999 km
-        flipSum:
-        - 80.277999 km
-        - 29.799469 km
-        legs:
-        - 50.478530 km
-        - 29.799469 km
-        legsSum:
-        - 50.478530 km
-        - 80.277999 km
-        waypoints:
-        - lat: 28.71168333
-          lng: -81.89673333
-        - lat: 28.26206456
-          lng: -81.82543876
-        - lat: 28.52942394
-          lng: -81.84637644
-      made: 20.026262 km
 - - - - '113'
       - Olav Opsanger
     - togo:

@@ -135,6 +135,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: QUEST-QUEST
@@ -246,6 +247,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: QUEST-CHERYL
@@ -357,6 +359,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+    tooEarlyReset: 0
   penalsAuto:
   - - - '126'
       - Jeff Kannard
@@ -462,6 +465,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: QUEST-QUEST
@@ -559,6 +563,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals: []
 - taskName: QUEST-QUEST
@@ -642,6 +647,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+    tooEarlyReset: 0
   penalsAuto:
   - - - '117'
       - Robert Dallas
@@ -747,6 +753,7 @@ tasks:
   earlyStart:
     earliest: 300 s
     earlyPenalty: 3 s
+    tooEarlyReset: 0
   penalsAuto: []
   penals:
   - - - '115'
