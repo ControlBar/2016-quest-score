@@ -907,7 +907,7 @@ score:
   - - - '135'
       - Misael Rosalez
     - place: '19'
-      total: 494.926
+      total: 494.539
       jump: null
       penalties: []
       breakdown:
@@ -916,7 +916,7 @@ score:
         time: 0
         reach: 213.077
         distance: 443.145
-        leading: 51.8
+        leading: 51.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -934,13 +934,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 494.926
+      subtotal: 494.539
       landedMade: 147.827 km
       stoppedAlt: -3.000 m
   - - - '120'
       - Mike Glennon
     - place: '20'
-      total: 472.364
+      total: 470.238
       jump: null
       penalties: []
       breakdown:
@@ -949,7 +949,7 @@ score:
         time: 0
         reach: 191.916
         distance: 412.972
-        leading: 59.4
+        leading: 57.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -967,13 +967,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 472.364
+      subtotal: 470.238
       landedMade: 133.256 km
       stoppedAlt: 25.000 m
   - - - '143'
       - Anna Eppink
     - place: '21'
-      total: 450.779
+      total: 448.438
       jump: null
       penalties: []
       breakdown:
@@ -982,7 +982,7 @@ score:
         time: 0
         reach: 187.1
         distance: 403.124
-        leading: 47.7
+        leading: 45.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -1000,13 +1000,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 450.779
+      subtotal: 448.438
       landedMade: 129.720 km
       stoppedAlt: 3.000 m
   - - - '146'
       - Peter Kelley
     - place: '22'
-      total: 440.99
+      total: 440.761
       jump: null
       penalties: []
       breakdown:
@@ -1015,7 +1015,7 @@ score:
         time: 0
         reach: 199.76
         distance: 424.843
-        leading: 16.1
+        leading: 15.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -1033,13 +1033,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 440.99
+      subtotal: 440.761
       landedMade: 137.484 km
       stoppedAlt: 12.000 m
   - - - '110'
       - Cory Barnwell
     - place: '23'
-      total: 351.347
+      total: 345.396
       jump: null
       penalties: []
       breakdown:
@@ -1048,7 +1048,7 @@ score:
         time: 0
         reach: 150.315
         distance: 342.037
-        leading: 9.3
+        leading: 3.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -1066,13 +1066,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 351.347
+      subtotal: 345.396
       landedMade: 104.063 km
       stoppedAlt: 21.000 m
   - - - '117'
       - Robert Dallas
     - place: '24'
-      total: 340.418
+      total: 333.166
       jump: null
       penalties: []
       breakdown:
@@ -1081,7 +1081,7 @@ score:
         time: 0
         reach: 141.992
         distance: 330.599
-        leading: 9.8
+        leading: 2.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -1099,46 +1099,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 340.418
+      subtotal: 333.166
       landedMade: 98.135 km
       stoppedAlt: 30.000 m
-  - - - '116'
-      - Jeffery Bohl
-    - place: '25'
-      total: 338.648
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 184.725
-        arrival: 0
-        time: 0
-        reach: 137.941
-        distance: 322.666
-        leading: 16
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2016-05-07T17:50:17.529656966213Z
-        gs: 2016-05-07T17:50:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 95.959 km
-        flown: 95.959 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 338.648
-      landedMade: 95.479 km
-      stoppedAlt: 41.000 m
   - - - '150'
       - Claudia Mejia
-    - place: '26'
-      total: 335.703
+    - place: '25'
+      total: 331.773
       jump: null
       penalties: []
       breakdown:
@@ -1147,7 +1114,7 @@ score:
         time: 0
         reach: 142.591
         distance: 331.773
-        leading: 3.9
+        leading: 0
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -1165,9 +1132,42 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 335.703
+      subtotal: 331.773
       landedMade: 98.768 km
       stoppedAlt: 14.000 m
+  - - - '116'
+      - Jeffery Bohl
+    - place: '26'
+      total: 330.445
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 184.725
+        arrival: 0
+        time: 0
+        reach: 137.941
+        distance: 322.666
+        leading: 7.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2016-05-07T17:50:17.529656966213Z
+        gs: 2016-05-07T17:50:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 95.959 km
+        flown: 95.959 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 330.445
+      landedMade: 95.479 km
+      stoppedAlt: 41.000 m
   - - - '140'
       - Bill Vickery
     - place: '27'
@@ -1201,75 +1201,9 @@ score:
       subtotal: 308.58
       landedMade: 91.209 km
       stoppedAlt: 19.000 m
-  - - - '102'
-      - Richard lovelace
-    - place: '28'
-      total: 288.66
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 154.72
-        arrival: 0
-        time: 0
-        reach: 118.441
-        distance: 273.161
-        leading: 15.5
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2016-05-07T17:51:34.675279150467Z
-        gs: 2016-05-07T17:50:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 82.394 km
-        flown: 82.394 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 288.66
-      landedMade: 82.082 km
-      stoppedAlt: 29.000 m
-  - - - '123'
-      - JD Guillemette
-    - place: '29'
-      total: 288.461
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 157.308
-        arrival: 0
-        time: 0
-        reach: 119.535
-        distance: 276.843
-        leading: 11.6
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2016-05-07T17:50:27.201687408045Z
-        gs: 2016-05-07T17:50:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 83.155 km
-        flown: 83.155 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 288.461
-      landedMade: 82.933 km
-      stoppedAlt: 41.000 m
   - - - '104'
       - Christian Pollet
-    - place: '30'
+    - place: 28=
       total: 277.095
       jump: null
       penalties: []
@@ -1300,24 +1234,24 @@ score:
       subtotal: 277.095
       landedMade: 82.957 km
       stoppedAlt: 42.000 m
-  - - - '108'
-      - Raul Guerra
-    - place: '31'
-      total: 253.688
+  - - - '123'
+      - JD Guillemette
+    - place: 28=
+      total: 277.056
       jump: null
       penalties: []
       breakdown:
-        effort: 137.034
+        effort: 157.308
         arrival: 0
         time: 0
-        reach: 110.758
-        distance: 247.791
-        leading: 5.9
+        reach: 119.535
+        distance: 276.843
+        leading: 0.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2016-05-07T17:48:41.92217078571Z
-        gs: 2016-05-07T17:30:00Z
+        ss: 2016-05-07T17:50:27.201687408045Z
+        gs: 2016-05-07T17:50:00Z
         es: null
         ssDistance: null
         ssElapsed: null
@@ -1325,18 +1259,51 @@ score:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 77.049 km
-        flown: 77.049 km
+        extra: 83.155 km
+        flown: 83.155 km
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 253.688
-      landedMade: 76.115 km
-      stoppedAlt: 28.000 m
+      subtotal: 277.056
+      landedMade: 82.933 km
+      stoppedAlt: 41.000 m
+  - - - '102'
+      - Richard lovelace
+    - place: 28=
+      total: 276.781
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 154.72
+        arrival: 0
+        time: 0
+        reach: 118.441
+        distance: 273.161
+        leading: 3.6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2016-05-07T17:51:34.675279150467Z
+        gs: 2016-05-07T17:50:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 82.394 km
+        flown: 82.394 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 276.781
+      landedMade: 82.082 km
+      stoppedAlt: 29.000 m
   - - - '124'
       - Patrick Pannese
-    - place: '32'
-      total: 252.97
+    - place: 31=
+      total: 248.105
       jump: null
       penalties: []
       breakdown:
@@ -1345,7 +1312,7 @@ score:
         time: 0
         reach: 110.496
         distance: 248.105
-        leading: 4.9
+        leading: 0
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -1363,9 +1330,42 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 252.97
+      subtotal: 248.105
       landedMade: 76.350 km
       stoppedAlt: 19.000 m
+  - - - '108'
+      - Raul Guerra
+    - place: 31=
+      total: 247.791
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 137.034
+        arrival: 0
+        time: 0
+        reach: 110.758
+        distance: 247.791
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2016-05-07T17:48:41.92217078571Z
+        gs: 2016-05-07T17:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 77.049 km
+        flown: 77.049 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 247.791
+      landedMade: 76.115 km
+      stoppedAlt: 28.000 m
   - - - '103'
       - Matt Christensen
     - place: '33'
@@ -2260,7 +2260,7 @@ score:
   - - - '137'
       - Yoko Isomoto
     - place: '18'
-      total: 492.318
+      total: 491.598
       jump: null
       penalties: []
       breakdown:
@@ -2269,7 +2269,7 @@ score:
         time: 0
         reach: 203.49
         distance: 436.708
-        leading: 55.6
+        leading: 54.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -2287,13 +2287,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 492.318
+      subtotal: 491.598
       landedMade: 97.723 km
       stoppedAlt: 5.000 m
   - - - '107'
       - Malcolm Brown
     - place: '19'
-      total: 490.18
+      total: 489.747
       jump: null
       penalties: []
       breakdown:
@@ -2302,7 +2302,7 @@ score:
         time: 0
         reach: 209.186
         distance: 445.793
-        leading: 44.4
+        leading: 44
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -2320,13 +2320,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 490.18
+      subtotal: 489.747
       landedMade: 99.980 km
       stoppedAlt: 6.000 m
   - - - '116'
       - Jeffery Bohl
     - place: '20'
-      total: 482.209
+      total: 481.657
       jump: null
       penalties: []
       breakdown:
@@ -2335,7 +2335,7 @@ score:
         time: 0
         reach: 205.173
         distance: 440.698
-        leading: 41.5
+        leading: 41
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -2353,13 +2353,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 482.209
+      subtotal: 481.657
       landedMade: 98.515 km
       stoppedAlt: 14.000 m
   - - - '101'
       - Davis Straub
     - place: '21'
-      total: 477.617
+      total: 475.918
       jump: null
       penalties: []
       breakdown:
@@ -2368,7 +2368,7 @@ score:
         time: 0
         reach: 192.351
         distance: 405.738
-        leading: 71.9
+        leading: 70.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -2386,13 +2386,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 477.617
+      subtotal: 475.918
       landedMade: 92.272 km
       stoppedAlt: -2.000 m
   - - - '103'
       - Matt Christensen
     - place: '22'
-      total: 469.393
+      total: 469.343
       jump: null
       penalties: []
       breakdown:
@@ -2419,13 +2419,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 469.393
+      subtotal: 469.343
       landedMade: 98.668 km
       stoppedAlt: 30.000 m
   - - - '110'
       - Cory Barnwell
     - place: '23'
-      total: 467.6
+      total: 467.469
       jump: null
       penalties: []
       breakdown:
@@ -2434,7 +2434,7 @@ score:
         time: 0
         reach: 205.423
         distance: 440.948
-        leading: 26.7
+        leading: 26.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -2452,13 +2452,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 467.6
+      subtotal: 467.469
       landedMade: 98.568 km
       stoppedAlt: -1.000 m
   - - - '108'
       - Raul Guerra
     - place: '24'
-      total: 411.856
+      total: 411.009
       jump: null
       penalties: []
       breakdown:
@@ -2467,7 +2467,7 @@ score:
         time: 0
         reach: 195.945
         distance: 379.837
-        leading: 32
+        leading: 31.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -2485,13 +2485,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 411.856
+      subtotal: 411.009
       landedMade: 84.680 km
       stoppedAlt: 11.000 m
   - - - '117'
       - Robert Dallas
     - place: '25'
-      total: 404.643
+      total: 402.724
       jump: null
       penalties: []
       breakdown:
@@ -2500,7 +2500,7 @@ score:
         time: 0
         reach: 178.128
         distance: 362.02
-        leading: 42.6
+        leading: 40.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -2518,13 +2518,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 404.643
+      subtotal: 402.724
       landedMade: 84.638 km
       stoppedAlt: 1.000 m
   - - - '102'
       - Richard lovelace
     - place: '26'
-      total: 371.911
+      total: 368.741
       jump: null
       penalties: []
       breakdown:
@@ -2533,7 +2533,7 @@ score:
         time: 0
         reach: 161.335
         distance: 329.001
-        leading: 42.9
+        leading: 39.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -2551,13 +2551,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 371.911
+      subtotal: 368.741
       landedMade: 77.058 km
       stoppedAlt: 17.000 m
   - - - '135'
       - Misael Rosalez
     - place: '27'
-      total: 369.5
+      total: 366.813
       jump: null
       penalties: []
       breakdown:
@@ -2566,7 +2566,7 @@ score:
         time: 0
         reach: 164.384
         distance: 335.944
-        leading: 33.6
+        leading: 30.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -2584,13 +2584,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 369.5
+      subtotal: 366.813
       landedMade: 78.812 km
       stoppedAlt: 0.000 m
   - - - '150'
       - Claudia Mejia
     - place: '28'
-      total: 361.005
+      total: 358.092
       jump: null
       penalties: []
       breakdown:
@@ -2599,7 +2599,7 @@ score:
         time: 0
         reach: 160.998
         distance: 328.664
-        leading: 32.3
+        leading: 29.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -2617,13 +2617,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 361.005
+      subtotal: 358.092
       landedMade: 77.076 km
       stoppedAlt: 62.000 m
   - - - '124'
       - Patrick Pannese
     - place: '29'
-      total: 357.124
+      total: 354.016
       jump: null
       penalties: []
       breakdown:
@@ -2632,7 +2632,7 @@ score:
         time: 0
         reach: 158.847
         distance: 323.628
-        leading: 33.5
+        leading: 30.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -2650,46 +2650,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 357.124
+      subtotal: 354.016
       landedMade: 76.279 km
       stoppedAlt: 4.000 m
-  - - - '126'
-      - Jeff Kannard
-    - place: '30'
-      total: 339.845
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 142.786
-        arrival: 0
-        time: 0
-        reach: 149.521
-        distance: 292.308
-        leading: 47.5
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2016-05-08T17:36:21.388512406393Z
-        gs: 2016-05-08T17:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 71.801 km
-        flown: 71.801 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 339.845
-      landedMade: 71.801 km
-      stoppedAlt: -2.000 m
   - - - '145'
       - Roger Irby
-    - place: '31'
-      total: 338.485
+    - place: '30'
+      total: 335.675
       jump: null
       penalties: []
       breakdown:
@@ -2698,7 +2665,7 @@ score:
         time: 0
         reach: 158.072
         distance: 321.555
-        leading: 16.9
+        leading: 14.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -2716,13 +2683,46 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 338.485
+      subtotal: 335.675
       landedMade: 75.909 km
       stoppedAlt: -7.000 m
+  - - - '126'
+      - Jeff Kannard
+    - place: '31'
+      total: 335.425
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 142.786
+        arrival: 0
+        time: 0
+        reach: 149.521
+        distance: 292.308
+        leading: 43.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2016-05-08T17:36:21.388512406393Z
+        gs: 2016-05-08T17:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 71.801 km
+        flown: 71.801 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 335.425
+      landedMade: 71.801 km
+      stoppedAlt: -2.000 m
   - - - '115'
       - Andrew Hollidge
     - place: '32'
-      total: 315.515
+      total: 311.833
       jump: null
       penalties: []
       breakdown:
@@ -2731,7 +2731,7 @@ score:
         time: 0
         reach: 149.132
         distance: 290.188
-        leading: 25.3
+        leading: 21.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -2749,13 +2749,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 315.515
+      subtotal: 311.833
       landedMade: 71.549 km
       stoppedAlt: 12.000 m
   - - - '133'
       - Olav Olsen
     - place: '33'
-      total: 235.389
+      total: 229.176
       jump: null
       penalties: []
       breakdown:
@@ -2764,7 +2764,7 @@ score:
         time: 0
         reach: 120.392
         distance: 215.295
-        leading: 20.1
+        leading: 13.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -2782,7 +2782,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 235.389
+      subtotal: 229.176
       landedMade: 57.443 km
       stoppedAlt: 2.000 m
   - - - '112'
@@ -3844,7 +3844,7 @@ score:
   - - - '124'
       - Patrick Pannese
     - place: '23'
-      total: 491.005
+      total: 490.999
       jump: null
       penalties: []
       breakdown:
@@ -3871,13 +3871,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 491.005
+      subtotal: 490.999
       landedMade: 81.887 km
       stoppedAlt: -15.000 m
   - - - '143'
       - Anna Eppink
     - place: '24'
-      total: 481.693
+      total: 481.61
       jump: null
       penalties: []
       breakdown:
@@ -3886,7 +3886,7 @@ score:
         time: 0
         reach: 201.011
         distance: 405.919
-        leading: 75.8
+        leading: 75.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -3904,13 +3904,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 481.693
+      subtotal: 481.61
       landedMade: 79.606 km
       stoppedAlt: -19.000 m
   - - - '103'
       - Matt Christensen
     - place: '25'
-      total: 471.007
+      total: 470.874
       jump: null
       penalties: []
       breakdown:
@@ -3919,7 +3919,7 @@ score:
         time: 0
         reach: 199.182
         distance: 403.755
-        leading: 67.3
+        leading: 67.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -3937,13 +3937,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 471.007
+      subtotal: 470.874
       landedMade: 79.482 km
       stoppedAlt: 0.000 m
   - - - '118'
       - Ingo Heilmann
     - place: '26'
-      total: 459.188
+      total: 459.044
       jump: null
       penalties: []
       breakdown:
@@ -3952,7 +3952,7 @@ score:
         time: 0
         reach: 198.352
         distance: 402.172
-        leading: 57
+        leading: 56.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -3970,13 +3970,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 459.188
+      subtotal: 459.044
       landedMade: 79.140 km
       stoppedAlt: -22.000 m
   - - - '117'
       - Robert Dallas
     - place: '27'
-      total: 456.637
+      total: 456.395
       jump: null
       penalties: []
       breakdown:
@@ -3985,7 +3985,7 @@ score:
         time: 0
         reach: 196.027
         distance: 396.834
-        leading: 59.8
+        leading: 59.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -4003,13 +4003,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 456.637
+      subtotal: 456.395
       landedMade: 78.223 km
       stoppedAlt: -19.000 m
   - - - '116'
       - Jeffery Bohl
     - place: '28'
-      total: 452.442
+      total: 452.151
       jump: null
       penalties: []
       breakdown:
@@ -4018,7 +4018,7 @@ score:
         time: 0
         reach: 195.052
         distance: 392.092
-        leading: 60.4
+        leading: 60.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -4036,13 +4036,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 452.442
+      subtotal: 452.151
       landedMade: 77.362 km
       stoppedAlt: -7.000 m
   - - - '141'
       - Patrick Halfhill
     - place: '29'
-      total: 441.252
+      total: 440.708
       jump: null
       penalties: []
       breakdown:
@@ -4051,7 +4051,7 @@ score:
         time: 0
         reach: 190.696
         distance: 381.208
-        leading: 60
+        leading: 59.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -4069,13 +4069,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 441.252
+      subtotal: 440.708
       landedMade: 76.093 km
       stoppedAlt: -19.000 m
   - - - '145'
       - Roger Irby
     - place: '30'
-      total: 404.237
+      total: 403.848
       jump: null
       penalties: []
       breakdown:
@@ -4084,7 +4084,7 @@ score:
         time: 0
         reach: 190.884
         distance: 381.396
-        leading: 22.8
+        leading: 22.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -4102,13 +4102,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 404.237
+      subtotal: 403.848
       landedMade: 76.090 km
       stoppedAlt: -35.000 m
   - - - '112'
       - Sergey Kataev
     - place: '31'
-      total: 380.565
+      total: 378.795
       jump: null
       penalties: []
       breakdown:
@@ -4117,7 +4117,7 @@ score:
         time: 0
         reach: 176.863
         distance: 325.773
-        leading: 54.8
+        leading: 53
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -4135,45 +4135,12 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 380.565
+      subtotal: 378.795
       landedMade: 70.120 km
       stoppedAlt: 38.000 m
-  - - - '119'
-      - Bart Weghorst
-    - place: '32'
-      total: 353.87
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 114.257
-        arrival: 0
-        time: 0
-        reach: 165.25
-        distance: 279.507
-        leading: 74.4
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2016-05-09T18:30:17.35990727932Z
-        gs: 2016-05-09T18:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 65.942 km
-        flown: 65.942 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 353.87
-      landedMade: 65.664 km
-      stoppedAlt: -27.000 m
   - - - '114'
       - Mick Howard
-    - place: '33'
+    - place: 32=
       total: 349.827
       jump: null
       penalties: []
@@ -4204,10 +4171,43 @@ score:
       subtotal: 349.827
       landedMade: 72.659 km
       stoppedAlt: -11.000 m
+  - - - '119'
+      - Bart Weghorst
+    - place: 32=
+      total: 349.551
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 114.257
+        arrival: 0
+        time: 0
+        reach: 165.25
+        distance: 279.507
+        leading: 70
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2016-05-09T18:30:17.35990727932Z
+        gs: 2016-05-09T18:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 65.942 km
+        flown: 65.942 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 349.551
+      landedMade: 65.664 km
+      stoppedAlt: -27.000 m
   - - - '123'
       - JD Guillemette
     - place: '34'
-      total: 330.038
+      total: 327.932
       jump: null
       penalties: []
       breakdown:
@@ -4216,7 +4216,7 @@ score:
         time: 0
         reach: 170.726
         distance: 298.961
-        leading: 31.1
+        leading: 29
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -4234,13 +4234,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 330.038
+      subtotal: 327.932
       landedMade: 67.525 km
       stoppedAlt: -5.000 m
   - - - '134'
       - Kinsley Sykes
     - place: '35'
-      total: 274.034
+      total: 268.072
       jump: null
       penalties: []
       breakdown:
@@ -4249,7 +4249,7 @@ score:
         time: 0
         reach: 147.711
         distance: 233.843
-        leading: 40.2
+        leading: 34.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -4267,22 +4267,23 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 274.034
+      subtotal: 268.072
       landedMade: 58.703 km
       stoppedAlt: -10.000 m
   - - - '126'
       - Jeff Kannard
     - place: '36'
-      total: 263.114
+      total: 237.018
       jump: 41.210 s
-      penalties: []
+      penalties:
+      - penalty-points: 13.736571181598668
       breakdown:
         effort: 64.787
         arrival: 0
         time: 0
         reach: 130.948
         distance: 195.735
-        leading: 67.4
+        leading: 55
       demeritFrac: 0
       demeritPoint: 13.737
       velocity:
@@ -4301,13 +4302,13 @@ score:
       penaltiesJump:
       - penalty-points: 13.736571181598668
       penaltyReason: ''
-      subtotal: 263.114
+      subtotal: 250.755
       landedMade: 50.911 km
       stoppedAlt: -24.000 m
   - - - '140'
       - Bill Vickery
     - place: '37'
-      total: 238.273
+      total: 228.986
       jump: null
       penalties: []
       breakdown:
@@ -4316,7 +4317,7 @@ score:
         time: 0
         reach: 131.996
         distance: 200.298
-        leading: 38
+        leading: 28.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -4334,13 +4335,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 238.273
+      subtotal: 228.986
       landedMade: 52.305 km
       stoppedAlt: -32.000 m
   - - - '111'
       - Patrick Kruse
     - place: '38'
-      total: 229.349
+      total: 223.115
       jump: null
       penalties: []
       breakdown:
@@ -4349,7 +4350,7 @@ score:
         time: 0
         reach: 140.754
         distance: 217.009
-        leading: 12.3
+        leading: 6.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -4367,13 +4368,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 229.349
+      subtotal: 223.115
       landedMade: 55.379 km
       stoppedAlt: -139.000 m
   - - - '129'
       - Mike Jefferson
     - place: '39'
-      total: 211.259
+      total: 199.993
       jump: null
       penalties: []
       breakdown:
@@ -4382,7 +4383,7 @@ score:
         time: 0
         reach: 127.588
         distance: 162.241
-        leading: 49
+        leading: 37.8
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -4400,7 +4401,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 211.259
+      subtotal: 199.993
       landedMade: 39.879 km
       stoppedAlt: -28.000 m
   - - - '110'
@@ -4472,7 +4473,7 @@ score:
 - - - - '131'
       - Robin Hamilton
     - place: '1'
-      total: 917.734
+      total: 918.861
       jump: null
       penalties: []
       breakdown:
@@ -4481,7 +4482,7 @@ score:
         time: 332.1
         reach: 262.789
         distance: 525.578
-        leading: 0.8
+        leading: 1.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -4499,7 +4500,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 917.734
+      subtotal: 918.861
       landedMade: 89.526 km
       stoppedAlt: null
   - - - '138'
@@ -4538,7 +4539,7 @@ score:
   - - - '139'
       - Tullio Gervasoni
     - place: '3'
-      total: 751.965
+      total: 752.135
       jump: null
       penalties: []
       breakdown:
@@ -4547,7 +4548,7 @@ score:
         time: 184.4
         reach: 262.789
         distance: 525.578
-        leading: 0
+        leading: 0.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -4565,13 +4566,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 751.965
+      subtotal: 752.135
       landedMade: 89.526 km
       stoppedAlt: null
   - - - '128'
       - Zac Majors
     - place: '4'
-      total: 742.854
+      total: 743.979
       jump: null
       penalties: []
       breakdown:
@@ -4580,7 +4581,7 @@ score:
         time: 181.7
         reach: 262.789
         distance: 525.578
-        leading: 0.3
+        leading: 1.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -4598,7 +4599,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 742.854
+      subtotal: 743.979
       landedMade: 89.526 km
       stoppedAlt: null
   - - - '123'
@@ -6388,7 +6389,7 @@ score:
   - - - '126'
       - Jeff Kannard
     - place: '18'
-      total: 504.094
+      total: 503.995
       jump: null
       penalties: []
       breakdown:
@@ -6397,7 +6398,7 @@ score:
         time: 0
         reach: 205.269
         distance: 433.179
-        leading: 70.9
+        leading: 70.8
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6415,13 +6416,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 504.094
+      subtotal: 503.995
       landedMade: 88.351 km
       stoppedAlt: -6.000 m
   - - - '129'
       - Mike Jefferson
     - place: '19'
-      total: 499.257
+      total: 499.208
       jump: null
       penalties: []
       breakdown:
@@ -6430,7 +6431,7 @@ score:
         time: 0
         reach: 210.846
         distance: 441.992
-        leading: 57.3
+        leading: 57.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6448,13 +6449,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 499.257
+      subtotal: 499.208
       landedMade: 91.495 km
       stoppedAlt: -15.000 m
   - - - '117'
       - Robert Dallas
     - place: '20'
-      total: 493.648
+      total: 493.577
       jump: null
       penalties: []
       breakdown:
@@ -6463,7 +6464,7 @@ score:
         time: 0
         reach: 206.65
         distance: 436.254
-        leading: 57.4
+        leading: 57.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6481,13 +6482,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 493.648
+      subtotal: 493.577
       landedMade: 89.470 km
       stoppedAlt: -19.000 m
   - - - '111'
       - Patrick Kruse
     - place: '21'
-      total: 490.629
+      total: 490.502
       jump: null
       penalties: []
       breakdown:
@@ -6496,7 +6497,7 @@ score:
         time: 0
         reach: 200.568
         distance: 424.548
-        leading: 66.1
+        leading: 66
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6514,13 +6515,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 490.629
+      subtotal: 490.502
       landedMade: 86.662 km
       stoppedAlt: -132.000 m
   - - - '125'
       - Larry Bunner
     - place: '22'
-      total: 486.271
+      total: 486.158
       jump: null
       penalties: []
       breakdown:
@@ -6529,7 +6530,7 @@ score:
         time: 0
         reach: 201.015
         distance: 424.995
-        leading: 61.3
+        leading: 61.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6547,13 +6548,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 486.271
+      subtotal: 486.158
       landedMade: 86.648 km
       stoppedAlt: -1.000 m
   - - - '101'
       - Davis Straub
     - place: '23'
-      total: 458.673
+      total: 458.482
       jump: null
       penalties: []
       breakdown:
@@ -6562,7 +6563,7 @@ score:
         time: 0
         reach: 191.062
         distance: 400.789
-        leading: 57.9
+        leading: 57.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6580,13 +6581,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 458.673
+      subtotal: 458.482
       landedMade: 82.910 km
       stoppedAlt: -22.000 m
   - - - '114'
       - Mick Howard
     - place: '24'
-      total: 426.069
+      total: 425.882
       jump: null
       penalties: []
       breakdown:
@@ -6595,7 +6596,7 @@ score:
         time: 0
         reach: 187.149
         distance: 387.167
-        leading: 38.9
+        leading: 38.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6613,13 +6614,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 426.069
+      subtotal: 425.882
       landedMade: 80.854 km
       stoppedAlt: -6.000 m
   - - - '124'
       - Patrick Pannese
     - place: '25'
-      total: 390.323
+      total: 390.008
       jump: null
       penalties: []
       breakdown:
@@ -6628,7 +6629,7 @@ score:
         time: 0
         reach: 174.415
         distance: 349.469
-        leading: 40.9
+        leading: 40.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6646,13 +6647,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 390.323
+      subtotal: 390.008
       landedMade: 75.497 km
       stoppedAlt: -6.000 m
   - - - '145'
       - Roger Irby
     - place: '26'
-      total: 354.627
+      total: 354.296
       jump: null
       penalties: []
       breakdown:
@@ -6661,7 +6662,7 @@ score:
         time: 0
         reach: 167.928
         distance: 334.969
-        leading: 19.7
+        leading: 19.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6679,13 +6680,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 354.627
+      subtotal: 354.296
       landedMade: 72.864 km
       stoppedAlt: 0.000 m
   - - - '115'
       - Andrew Hollidge
     - place: '27'
-      total: 349.779
+      total: 349.222
       jump: null
       penalties: []
       breakdown:
@@ -6694,7 +6695,7 @@ score:
         time: 0
         reach: 155.91
         distance: 308.389
-        leading: 41.4
+        leading: 40.8
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6712,13 +6713,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 349.779
+      subtotal: 349.222
       landedMade: 67.504 km
       stoppedAlt: 0.000 m
   - - - '144'
       - Tom Lanning
     - place: '28'
-      total: 348.626
+      total: 348.151
       jump: null
       penalties: []
       breakdown:
@@ -6727,7 +6728,7 @@ score:
         time: 0
         reach: 159.12
         distance: 315.298
-        leading: 33.3
+        leading: 32.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6745,13 +6746,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 348.626
+      subtotal: 348.151
       landedMade: 68.927 km
       stoppedAlt: -8.000 m
   - - - '116'
       - Jeffery Bohl
     - place: '29'
-      total: 344.077
+      total: 343.537
       jump: null
       penalties: []
       breakdown:
@@ -6760,7 +6761,7 @@ score:
         time: 0
         reach: 155.408
         distance: 307.579
-        leading: 36.5
+        leading: 36
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6778,13 +6779,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 344.077
+      subtotal: 343.537
       landedMade: 67.439 km
       stoppedAlt: 0.000 m
   - - - '106'
       - Fabiano Nahoum
     - place: '30'
-      total: 333.788
+      total: 332.962
       jump: null
       penalties: []
       breakdown:
@@ -6793,7 +6794,7 @@ score:
         time: 0
         reach: 146.577
         distance: 277.714
-        leading: 56.1
+        leading: 55.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6811,13 +6812,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 333.788
+      subtotal: 332.962
       landedMade: 62.562 km
       stoppedAlt: -14.000 m
   - - - '119'
       - Bart Weghorst
     - place: '31'
-      total: 317.696
+      total: 317.035
       jump: null
       penalties: []
       breakdown:
@@ -6826,7 +6827,7 @@ score:
         time: 0
         reach: 146.838
         distance: 282.52
-        leading: 35.2
+        leading: 34.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6844,13 +6845,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 317.696
+      subtotal: 317.035
       landedMade: 63.417 km
       stoppedAlt: -16.000 m
   - - - '143'
       - Anna Eppink
     - place: '32'
-      total: 314.406
+      total: 313.841
       jump: null
       penalties: []
       breakdown:
@@ -6859,7 +6860,7 @@ score:
         time: 0
         reach: 149.407
         distance: 291.562
-        leading: 22.8
+        leading: 22.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6877,13 +6878,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 314.406
+      subtotal: 313.841
       landedMade: 64.834 km
       stoppedAlt: -15.000 m
   - - - '103'
       - Matt Christensen
     - place: '33'
-      total: 302.531
+      total: 301.88
       jump: null
       penalties: []
       breakdown:
@@ -6892,7 +6893,7 @@ score:
         time: 0
         reach: 144.782
         distance: 275.379
-        leading: 27.2
+        leading: 26.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6910,13 +6911,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 302.531
+      subtotal: 301.88
       landedMade: 62.450 km
       stoppedAlt: 6.000 m
   - - - '141'
       - Patrick Halfhill
     - place: '34'
-      total: 259.225
+      total: 258.464
       jump: null
       penalties: []
       breakdown:
@@ -6925,7 +6926,7 @@ score:
         time: 0
         reach: 134.903
         distance: 240.691
-        leading: 18.5
+        leading: 17.8
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6943,13 +6944,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 259.225
+      subtotal: 258.464
       landedMade: 58.164 km
       stoppedAlt: -13.000 m
   - - - '146'
       - Peter Kelley
     - place: '35'
-      total: 204.196
+      total: 203.264
       jump: null
       penalties: []
       breakdown:
@@ -6958,7 +6959,7 @@ score:
         time: 0
         reach: 120.772
         distance: 197.127
-        leading: 7.1
+        leading: 6.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -6976,13 +6977,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 204.196
+      subtotal: 203.264
       landedMade: 52.083 km
       stoppedAlt: -7.000 m
   - - - '133'
       - Olav Olsen
     - place: '36'
-      total: 176.542
+      total: 175.171
       jump: null
       penalties: []
       breakdown:
@@ -6991,7 +6992,7 @@ score:
         time: 0
         reach: 100.472
         distance: 161.264
-        leading: 15.3
+        leading: 13.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7009,7 +7010,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 176.542
+      subtotal: 175.171
       landedMade: 43.428 km
       stoppedAlt: -17.000 m
   - - - '109'
@@ -7157,7 +7158,7 @@ score:
         time: 0
         reach: 95.234
         distance: 150.709
-        leading: 14.4
+        leading: 12.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7172,17 +7173,17 @@ score:
       reach:
         extra: 41.326 km
         flown: 41.326 km
-      demeritReset: 153.114
+      demeritReset: 151.639
       penaltiesJump:
       - penalty-reset: 12
       penaltyReason: ''
-      subtotal: 165.114
+      subtotal: 163.639
       landedMade: 40.092 km
       stoppedAlt: -33.000 m
 - - - - '131'
       - Robin Hamilton
     - place: '1'
-      total: 982.788
+      total: 982.875
       jump: null
       penalties: []
       breakdown:
@@ -7209,13 +7210,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 982.788
+      subtotal: 982.875
       landedMade: 59.606 km
       stoppedAlt: null
   - - - '104'
       - Christian Pollet
     - place: '2'
-      total: 969.552
+      total: 969.64
       jump: null
       penalties: []
       breakdown:
@@ -7224,7 +7225,7 @@ score:
         time: 172.4
         reach: 376.66
         distance: 753.32
-        leading: 26.3
+        leading: 26.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7242,13 +7243,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 969.552
+      subtotal: 969.64
       landedMade: 59.606 km
       stoppedAlt: null
   - - - '139'
       - Tullio Gervasoni
     - place: '3'
-      total: 949.522
+      total: 949.607
       jump: null
       penalties: []
       breakdown:
@@ -7257,7 +7258,7 @@ score:
         time: 161.9
         reach: 376.66
         distance: 753.32
-        leading: 24.1
+        leading: 24.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7275,13 +7276,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 949.522
+      subtotal: 949.607
       landedMade: 59.606 km
       stoppedAlt: null
   - - - '132'
       - James Stinnett
     - place: '4'
-      total: 941.334
+      total: 941.418
       jump: null
       penalties: []
       breakdown:
@@ -7290,7 +7291,7 @@ score:
         time: 157.4
         reach: 376.66
         distance: 753.32
-        leading: 23.6
+        leading: 23.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7308,13 +7309,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 941.334
+      subtotal: 941.418
       landedMade: 59.606 km
       stoppedAlt: null
   - - - '113'
       - Olav Opsanger
     - place: '5'
-      total: 770.316
+      total: 770.399
       jump: null
       penalties: []
       breakdown:
@@ -7323,7 +7324,7 @@ score:
         time: 0
         reach: 370.461
         distance: 747.121
-        leading: 23.2
+        leading: 23.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7341,13 +7342,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 770.316
+      subtotal: 770.399
       landedMade: 58.236 km
       stoppedAlt: 6.000 m
   - - - '125'
       - Larry Bunner
     - place: '6'
-      total: 733.353
+      total: 733.413
       jump: null
       penalties: []
       breakdown:
@@ -7374,22 +7375,23 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 733.353
+      subtotal: 733.413
       landedMade: 54.455 km
       stoppedAlt: 12.000 m
   - - - '117'
       - Robert Dallas
     - place: '7'
-      total: 724.346
+      total: 722.252
       jump: 6.451 s
-      penalties: []
+      penalties:
+      - penalty-points: 2.1502037656273334
       breakdown:
         effort: 368.177
         arrival: 0
         time: 0
         reach: 344.054
         distance: 712.23
-        leading: 12.1
+        leading: 12.2
       demeritFrac: 0
       demeritPoint: 2.15
       velocity:
@@ -7408,13 +7410,13 @@ score:
       penaltiesJump:
       - penalty-points: 2.1502037656273334
       penaltyReason: ''
-      subtotal: 724.346
+      subtotal: 724.402
       landedMade: 54.348 km
       stoppedAlt: -1.000 m
   - - - '111'
       - Patrick Kruse
     - place: '8'
-      total: 716.789
+      total: 716.832
       jump: null
       penalties: []
       breakdown:
@@ -7423,7 +7425,7 @@ score:
         time: 0
         reach: 334.316
         distance: 692.949
-        leading: 23.8
+        leading: 23.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7441,13 +7443,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 716.789
+      subtotal: 716.832
       landedMade: 52.533 km
       stoppedAlt: -120.000 m
   - - - '103'
       - Matt Christensen
     - place: '9'
-      total: 709.833
+      total: 709.873
       jump: null
       penalties: []
       breakdown:
@@ -7474,13 +7476,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 709.833
+      subtotal: 709.873
       landedMade: 52.393 km
       stoppedAlt: 13.000 m
   - - - '110'
       - Cory Barnwell
     - place: '10'
-      total: 704.8
+      total: 704.844
       jump: null
       penalties: []
       breakdown:
@@ -7507,7 +7509,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 704.8
+      subtotal: 704.844
       landedMade: 52.512 km
       stoppedAlt: 6.000 m
   - - - '142'
@@ -7546,7 +7548,7 @@ score:
   - - - '118'
       - Ingo Heilmann
     - place: '12'
-      total: 683.825
+      total: 683.844
       jump: null
       penalties: []
       breakdown:
@@ -7573,13 +7575,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 683.825
+      subtotal: 683.844
       landedMade: 50.901 km
       stoppedAlt: -4.000 m
   - - - '121'
       - Oleg Bondarchuk
     - place: '13'
-      total: 663.564
+      total: 663.506
       jump: null
       penalties: []
       breakdown:
@@ -7588,7 +7590,7 @@ score:
         time: 0
         reach: 310.271
         distance: 624.367
-        leading: 39.2
+        leading: 39.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7606,13 +7608,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 663.564
+      subtotal: 663.506
       landedMade: 48.776 km
       stoppedAlt: 0.000 m
   - - - '138'
       - Jonny Durand
     - place: '14'
-      total: 653.214
+      total: 653.054
       jump: null
       penalties: []
       breakdown:
@@ -7621,7 +7623,7 @@ score:
         time: 0
         reach: 306.031
         distance: 611.219
-        leading: 42
+        leading: 41.8
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7639,13 +7641,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 653.214
+      subtotal: 653.054
       landedMade: 48.085 km
       stoppedAlt: 9.000 m
   - - - '128'
       - Zac Majors
     - place: '15'
-      total: 633.316
+      total: 633.199
       jump: null
       penalties: []
       breakdown:
@@ -7654,7 +7656,7 @@ score:
         time: 0
         reach: 299.946
         distance: 595.166
-        leading: 38.2
+        leading: 38
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7672,13 +7674,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 633.316
+      subtotal: 633.199
       landedMade: 47.177 km
       stoppedAlt: -20.000 m
   - - - '123'
       - JD Guillemette
     - place: '16'
-      total: 596.621
+      total: 596.559
       jump: null
       penalties: []
       breakdown:
@@ -7687,7 +7689,7 @@ score:
         time: 0
         reach: 294.126
         distance: 577.045
-        leading: 19.6
+        leading: 19.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7705,13 +7707,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 596.621
+      subtotal: 596.559
       landedMade: 45.916 km
       stoppedAlt: 19.000 m
   - - - '112'
       - Sergey Kataev
     - place: 17=
-      total: 566.085
+      total: 565.982
       jump: null
       penalties: []
       breakdown:
@@ -7720,7 +7722,7 @@ score:
         time: 0
         reach: 281.488
         distance: 548.501
-        leading: 17.6
+        leading: 17.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7738,13 +7740,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 566.085
+      subtotal: 565.982
       landedMade: 44.173 km
       stoppedAlt: 57.000 m
   - - - '124'
       - Patrick Pannese
     - place: 17=
-      total: 565.875
+      total: 565.782
       jump: null
       penalties: []
       breakdown:
@@ -7753,7 +7755,7 @@ score:
         time: 0
         reach: 282.91
         distance: 549.923
-        leading: 16
+        leading: 15.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7771,13 +7773,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 565.875
+      subtotal: 565.782
       landedMade: 44.190 km
       stoppedAlt: 0.000 m
   - - - '106'
       - Fabiano Nahoum
     - place: '19'
-      total: 543.466
+      total: 543.235
       jump: null
       penalties: []
       breakdown:
@@ -7786,7 +7788,7 @@ score:
         time: 0
         reach: 267.655
         distance: 513.672
-        leading: 29.8
+        leading: 29.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7804,13 +7806,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 543.466
+      subtotal: 543.235
       landedMade: 42.055 km
       stoppedAlt: -5.000 m
   - - - '114'
       - Mick Howard
     - place: '20'
-      total: 539.779
+      total: 539.625
       jump: null
       penalties: []
       breakdown:
@@ -7819,7 +7821,7 @@ score:
         time: 0
         reach: 271.466
         distance: 519.179
-        leading: 20.6
+        leading: 20.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7837,13 +7839,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 539.779
+      subtotal: 539.625
       landedMade: 42.199 km
       stoppedAlt: 5.000 m
   - - - '116'
       - Jeffery Bohl
     - place: '21'
-      total: 537.656
+      total: 537.526
       jump: null
       penalties: []
       breakdown:
@@ -7852,7 +7854,7 @@ score:
         time: 0
         reach: 273.469
         distance: 521.182
-        leading: 16.5
+        leading: 16.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7870,13 +7872,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 537.656
+      subtotal: 537.526
       landedMade: 42.167 km
       stoppedAlt: 7.000 m
   - - - '102'
       - Richard lovelace
     - place: 22=
-      total: 536.278
+      total: 536.113
       jump: null
       penalties: []
       breakdown:
@@ -7885,7 +7887,7 @@ score:
         time: 0
         reach: 269.317
         distance: 515.334
-        leading: 20.9
+        leading: 20.8
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7903,13 +7905,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 536.278
+      subtotal: 536.113
       landedMade: 42.008 km
       stoppedAlt: 1.000 m
   - - - '127'
       - Gerry Pesavento
     - place: 22=
-      total: 535.692
+      total: 535.536
       jump: null
       penalties: []
       breakdown:
@@ -7918,7 +7920,7 @@ score:
         time: 0
         reach: 268.812
         distance: 517.586
-        leading: 18.1
+        leading: 18
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7936,13 +7938,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 535.692
+      subtotal: 535.536
       landedMade: 42.222 km
       stoppedAlt: 4.000 m
   - - - '141'
       - Patrick Halfhill
     - place: 24=
-      total: 534.496
+      total: 534.343
       jump: null
       penalties: []
       breakdown:
@@ -7951,7 +7953,7 @@ score:
         time: 0
         reach: 269.14
         distance: 516.854
-        leading: 17.6
+        leading: 17.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -7969,13 +7971,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 534.496
+      subtotal: 534.343
       landedMade: 42.166 km
       stoppedAlt: -1.000 m
   - - - '133'
       - Olav Olsen
     - place: 24=
-      total: 533.929
+      total: 533.793
       jump: null
       penalties: []
       breakdown:
@@ -7984,7 +7986,7 @@ score:
         time: 0
         reach: 270.505
         distance: 519.279
-        leading: 14.6
+        leading: 14.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -8002,22 +8004,23 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 533.929
+      subtotal: 533.793
       landedMade: 42.216 km
       stoppedAlt: 3.000 m
   - - - '150'
       - Claudia Mejia
     - place: '26'
-      total: 525.164
+      total: 523.089
       jump: 5.809 s
-      penalties: []
+      penalties:
+      - penalty-points: 1.9364761802550001
       breakdown:
         effort: 246.017
         arrival: 0
         time: 0
         reach: 267.605
         distance: 513.622
-        leading: 11.5
+        leading: 11.4
       demeritFrac: 0
       demeritPoint: 1.936
       velocity:
@@ -8036,13 +8039,13 @@ score:
       penaltiesJump:
       - penalty-points: 1.9364761802550001
       penaltyReason: ''
-      subtotal: 525.164
+      subtotal: 525.026
       landedMade: 42.008 km
       stoppedAlt: 1.000 m
   - - - '119'
       - Bart Weghorst
-    - place: '27'
-      total: 447.513
+    - place: 27=
+      total: 447.201
       jump: null
       penalties: []
       breakdown:
@@ -8051,7 +8054,7 @@ score:
         time: 0
         reach: 245.222
         distance: 423.585
-        leading: 23.9
+        leading: 23.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -8069,13 +8072,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 447.513
+      subtotal: 447.201
       landedMade: 38.806 km
       stoppedAlt: -4.000 m
   - - - '115'
       - Andrew Hollidge
-    - place: '28'
-      total: 447.277
+    - place: 27=
+      total: 446.967
       jump: null
       penalties: []
       breakdown:
@@ -8084,7 +8087,7 @@ score:
         time: 0
         reach: 245.216
         distance: 423.578
-        leading: 23.7
+        leading: 23.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -8102,13 +8105,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 447.277
+      subtotal: 446.967
       landedMade: 38.801 km
       stoppedAlt: 8.000 m
   - - - '135'
       - Misael Rosalez
     - place: '29'
-      total: 445.314
+      total: 445.021
       jump: null
       penalties: []
       breakdown:
@@ -8117,7 +8120,7 @@ score:
         time: 0
         reach: 245.292
         distance: 423.654
-        leading: 21.7
+        leading: 21.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -8135,13 +8138,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 445.314
+      subtotal: 445.021
       landedMade: 38.817 km
       stoppedAlt: -16.000 m
   - - - '109'
       - Michael Williams
     - place: '30'
-      total: 424.473
+      total: 424.18
       jump: null
       penalties: []
       breakdown:
@@ -8150,7 +8153,7 @@ score:
         time: 0
         reach: 242.752
         distance: 404.783
-        leading: 19.7
+        leading: 19.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -8168,13 +8171,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 424.473
+      subtotal: 424.18
       landedMade: 38.158 km
       stoppedAlt: 4.000 m
   - - - '108'
       - Raul Guerra
     - place: '31'
-      total: 294.742
+      total: 294.187
       jump: null
       penalties: []
       breakdown:
@@ -8183,7 +8186,7 @@ score:
         time: 0
         reach: 178.865
         distance: 290.845
-        leading: 3.9
+        leading: 3.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -8201,13 +8204,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 294.742
+      subtotal: 294.187
       landedMade: 28.136 km
       stoppedAlt: 8.000 m
   - - - '101'
       - Davis Straub
     - place: '32'
-      total: 293.16
+      total: 292.611
       jump: null
       penalties: []
       breakdown:
@@ -8216,7 +8219,7 @@ score:
         time: 0
         reach: 178.436
         distance: 290.416
-        leading: 2.7
+        leading: 2.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -8234,7 +8237,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 293.16
+      subtotal: 292.611
       landedMade: 28.138 km
       stoppedAlt: -7.000 m
   - - - '145'
@@ -9363,7 +9366,7 @@ score:
   - - - '144'
       - Tom Lanning
     - place: '26'
-      total: 361.146
+      total: 360.54
       jump: null
       penalties: []
       breakdown:
@@ -9372,7 +9375,7 @@ score:
         time: 0
         reach: 145.767
         distance: 324.209
-        leading: 36.9
+        leading: 36.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -9390,13 +9393,13 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 361.146
+      subtotal: 360.54
       landedMade: 66.835 km
       stoppedAlt: 22.000 m
   - - - '139'
       - Tullio Gervasoni
     - place: '27'
-      total: 344.578
+      total: 343.983
       jump: null
       penalties: []
       breakdown:
@@ -9405,7 +9408,7 @@ score:
         time: 0
         reach: 144.548
         distance: 319.198
-        leading: 25.4
+        leading: 24.8
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -9423,7 +9426,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 344.578
+      subtotal: 343.983
       landedMade: 64.728 km
       stoppedAlt: 38.000 m
   - - - '112'
@@ -9462,7 +9465,7 @@ score:
   - - - '108'
       - Raul Guerra
     - place: '29'
-      total: 271.192
+      total: 269.851
       jump: null
       penalties: []
       breakdown:
@@ -9471,7 +9474,7 @@ score:
         time: 0
         reach: 121.184
         distance: 268.21
-        leading: 3
+        leading: 1.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -9489,7 +9492,7 @@ score:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 271.192
+      subtotal: 269.851
       landedMade: 55.252 km
       stoppedAlt: 29.000 m
   - - - '129'
@@ -10453,7 +10456,7 @@ scoreDf:
   - - - '135'
       - Misael Rosalez
     - place: '19'
-      total: 494.926
+      total: 494.539
       jump: null
       penalties: []
       breakdown:
@@ -10462,7 +10465,7 @@ scoreDf:
         time: 0
         reach: 213.077
         distance: 443.145
-        leading: 51.8
+        leading: 51.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -10480,13 +10483,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 494.926
+      subtotal: 494.539
       landedMade: 147.827 km
       stoppedAlt: -3.000 m
   - - - '120'
       - Mike Glennon
     - place: '20'
-      total: 472.364
+      total: 470.238
       jump: null
       penalties: []
       breakdown:
@@ -10495,7 +10498,7 @@ scoreDf:
         time: 0
         reach: 191.916
         distance: 412.972
-        leading: 59.4
+        leading: 57.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -10513,13 +10516,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 472.364
+      subtotal: 470.238
       landedMade: 133.256 km
       stoppedAlt: 25.000 m
   - - - '143'
       - Anna Eppink
     - place: '21'
-      total: 450.779
+      total: 448.438
       jump: null
       penalties: []
       breakdown:
@@ -10528,7 +10531,7 @@ scoreDf:
         time: 0
         reach: 187.1
         distance: 403.124
-        leading: 47.7
+        leading: 45.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -10546,13 +10549,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 450.779
+      subtotal: 448.438
       landedMade: 129.720 km
       stoppedAlt: 3.000 m
   - - - '146'
       - Peter Kelley
     - place: '22'
-      total: 440.99
+      total: 440.761
       jump: null
       penalties: []
       breakdown:
@@ -10561,7 +10564,7 @@ scoreDf:
         time: 0
         reach: 199.76
         distance: 424.843
-        leading: 16.1
+        leading: 15.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -10579,13 +10582,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 440.99
+      subtotal: 440.761
       landedMade: 137.484 km
       stoppedAlt: 12.000 m
   - - - '110'
       - Cory Barnwell
     - place: '23'
-      total: 351.347
+      total: 345.396
       jump: null
       penalties: []
       breakdown:
@@ -10594,7 +10597,7 @@ scoreDf:
         time: 0
         reach: 150.315
         distance: 342.037
-        leading: 9.3
+        leading: 3.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -10612,13 +10615,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 351.347
+      subtotal: 345.396
       landedMade: 104.063 km
       stoppedAlt: 21.000 m
   - - - '117'
       - Robert Dallas
     - place: '24'
-      total: 340.418
+      total: 333.166
       jump: null
       penalties: []
       breakdown:
@@ -10627,7 +10630,7 @@ scoreDf:
         time: 0
         reach: 141.992
         distance: 330.599
-        leading: 9.8
+        leading: 2.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -10645,46 +10648,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 340.418
+      subtotal: 333.166
       landedMade: 98.135 km
       stoppedAlt: 30.000 m
-  - - - '116'
-      - Jeffery Bohl
-    - place: '25'
-      total: 338.648
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 184.725
-        arrival: 0
-        time: 0
-        reach: 137.941
-        distance: 322.666
-        leading: 16
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2016-05-07T17:50:17.529656966213Z
-        gs: 2016-05-07T17:50:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 95.959 km
-        flown: 95.959 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 338.648
-      landedMade: 95.479 km
-      stoppedAlt: 41.000 m
   - - - '150'
       - Claudia Mejia
-    - place: '26'
-      total: 335.703
+    - place: '25'
+      total: 331.773
       jump: null
       penalties: []
       breakdown:
@@ -10693,7 +10663,7 @@ scoreDf:
         time: 0
         reach: 142.591
         distance: 331.773
-        leading: 3.9
+        leading: 0
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -10711,9 +10681,42 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 335.703
+      subtotal: 331.773
       landedMade: 98.768 km
       stoppedAlt: 14.000 m
+  - - - '116'
+      - Jeffery Bohl
+    - place: '26'
+      total: 330.445
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 184.725
+        arrival: 0
+        time: 0
+        reach: 137.941
+        distance: 322.666
+        leading: 7.8
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2016-05-07T17:50:17.529656966213Z
+        gs: 2016-05-07T17:50:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 95.959 km
+        flown: 95.959 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 330.445
+      landedMade: 95.479 km
+      stoppedAlt: 41.000 m
   - - - '140'
       - Bill Vickery
     - place: '27'
@@ -10747,75 +10750,9 @@ scoreDf:
       subtotal: 308.58
       landedMade: 91.209 km
       stoppedAlt: 19.000 m
-  - - - '102'
-      - Richard lovelace
-    - place: '28'
-      total: 288.66
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 154.72
-        arrival: 0
-        time: 0
-        reach: 118.441
-        distance: 273.161
-        leading: 15.5
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2016-05-07T17:51:34.675279150467Z
-        gs: 2016-05-07T17:50:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 82.394 km
-        flown: 82.394 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 288.66
-      landedMade: 82.082 km
-      stoppedAlt: 29.000 m
-  - - - '123'
-      - JD Guillemette
-    - place: '29'
-      total: 288.461
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 157.308
-        arrival: 0
-        time: 0
-        reach: 119.535
-        distance: 276.843
-        leading: 11.6
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2016-05-07T17:50:27.201687408045Z
-        gs: 2016-05-07T17:50:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 83.155 km
-        flown: 83.155 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 288.461
-      landedMade: 82.933 km
-      stoppedAlt: 41.000 m
   - - - '104'
       - Christian Pollet
-    - place: '30'
+    - place: 28=
       total: 277.095
       jump: null
       penalties: []
@@ -10846,24 +10783,24 @@ scoreDf:
       subtotal: 277.095
       landedMade: 82.957 km
       stoppedAlt: 42.000 m
-  - - - '108'
-      - Raul Guerra
-    - place: '31'
-      total: 253.688
+  - - - '123'
+      - JD Guillemette
+    - place: 28=
+      total: 277.056
       jump: null
       penalties: []
       breakdown:
-        effort: 137.034
+        effort: 157.308
         arrival: 0
         time: 0
-        reach: 110.758
-        distance: 247.791
-        leading: 5.9
+        reach: 119.535
+        distance: 276.843
+        leading: 0.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
-        ss: 2016-05-07T17:48:41.92217078571Z
-        gs: 2016-05-07T17:30:00Z
+        ss: 2016-05-07T17:50:27.201687408045Z
+        gs: 2016-05-07T17:50:00Z
         es: null
         ssDistance: null
         ssElapsed: null
@@ -10871,18 +10808,51 @@ scoreDf:
         ssVelocity: null
         gsVelocity: null
       reach:
-        extra: 77.049 km
-        flown: 77.049 km
+        extra: 83.155 km
+        flown: 83.155 km
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 253.688
-      landedMade: 76.115 km
-      stoppedAlt: 28.000 m
+      subtotal: 277.056
+      landedMade: 82.933 km
+      stoppedAlt: 41.000 m
+  - - - '102'
+      - Richard lovelace
+    - place: 28=
+      total: 276.781
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 154.72
+        arrival: 0
+        time: 0
+        reach: 118.441
+        distance: 273.161
+        leading: 3.6
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2016-05-07T17:51:34.675279150467Z
+        gs: 2016-05-07T17:50:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 82.394 km
+        flown: 82.394 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 276.781
+      landedMade: 82.082 km
+      stoppedAlt: 29.000 m
   - - - '124'
       - Patrick Pannese
-    - place: '32'
-      total: 252.97
+    - place: 31=
+      total: 248.105
       jump: null
       penalties: []
       breakdown:
@@ -10891,7 +10861,7 @@ scoreDf:
         time: 0
         reach: 110.496
         distance: 248.105
-        leading: 4.9
+        leading: 0
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -10909,9 +10879,42 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 252.97
+      subtotal: 248.105
       landedMade: 76.350 km
       stoppedAlt: 19.000 m
+  - - - '108'
+      - Raul Guerra
+    - place: 31=
+      total: 247.791
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 137.034
+        arrival: 0
+        time: 0
+        reach: 110.758
+        distance: 247.791
+        leading: 0
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2016-05-07T17:48:41.92217078571Z
+        gs: 2016-05-07T17:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 77.049 km
+        flown: 77.049 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 247.791
+      landedMade: 76.115 km
+      stoppedAlt: 28.000 m
   - - - '103'
       - Matt Christensen
     - place: '33'
@@ -11806,7 +11809,7 @@ scoreDf:
   - - - '137'
       - Yoko Isomoto
     - place: '18'
-      total: 492.318
+      total: 491.598
       jump: null
       penalties: []
       breakdown:
@@ -11815,7 +11818,7 @@ scoreDf:
         time: 0
         reach: 203.49
         distance: 436.708
-        leading: 55.6
+        leading: 54.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -11833,13 +11836,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 492.318
+      subtotal: 491.598
       landedMade: 97.723 km
       stoppedAlt: 5.000 m
   - - - '107'
       - Malcolm Brown
     - place: '19'
-      total: 490.18
+      total: 489.747
       jump: null
       penalties: []
       breakdown:
@@ -11848,7 +11851,7 @@ scoreDf:
         time: 0
         reach: 209.186
         distance: 445.793
-        leading: 44.4
+        leading: 44
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -11866,13 +11869,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 490.18
+      subtotal: 489.747
       landedMade: 99.980 km
       stoppedAlt: 6.000 m
   - - - '116'
       - Jeffery Bohl
     - place: '20'
-      total: 482.209
+      total: 481.657
       jump: null
       penalties: []
       breakdown:
@@ -11881,7 +11884,7 @@ scoreDf:
         time: 0
         reach: 205.173
         distance: 440.698
-        leading: 41.5
+        leading: 41
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -11899,13 +11902,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 482.209
+      subtotal: 481.657
       landedMade: 98.515 km
       stoppedAlt: 14.000 m
   - - - '101'
       - Davis Straub
     - place: '21'
-      total: 477.617
+      total: 475.918
       jump: null
       penalties: []
       breakdown:
@@ -11914,7 +11917,7 @@ scoreDf:
         time: 0
         reach: 192.351
         distance: 405.738
-        leading: 71.9
+        leading: 70.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -11932,13 +11935,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 477.617
+      subtotal: 475.918
       landedMade: 92.272 km
       stoppedAlt: -2.000 m
   - - - '103'
       - Matt Christensen
     - place: '22'
-      total: 469.393
+      total: 469.343
       jump: null
       penalties: []
       breakdown:
@@ -11965,13 +11968,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 469.393
+      subtotal: 469.343
       landedMade: 98.668 km
       stoppedAlt: 30.000 m
   - - - '110'
       - Cory Barnwell
     - place: '23'
-      total: 467.6
+      total: 467.469
       jump: null
       penalties: []
       breakdown:
@@ -11980,7 +11983,7 @@ scoreDf:
         time: 0
         reach: 205.423
         distance: 440.948
-        leading: 26.7
+        leading: 26.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -11998,13 +12001,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 467.6
+      subtotal: 467.469
       landedMade: 98.568 km
       stoppedAlt: -1.000 m
   - - - '108'
       - Raul Guerra
     - place: '24'
-      total: 411.856
+      total: 411.009
       jump: null
       penalties: []
       breakdown:
@@ -12013,7 +12016,7 @@ scoreDf:
         time: 0
         reach: 195.945
         distance: 379.837
-        leading: 32
+        leading: 31.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -12031,13 +12034,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 411.856
+      subtotal: 411.009
       landedMade: 84.680 km
       stoppedAlt: 11.000 m
   - - - '117'
       - Robert Dallas
     - place: '25'
-      total: 404.643
+      total: 402.724
       jump: null
       penalties: []
       breakdown:
@@ -12046,7 +12049,7 @@ scoreDf:
         time: 0
         reach: 178.128
         distance: 362.02
-        leading: 42.6
+        leading: 40.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -12064,13 +12067,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 404.643
+      subtotal: 402.724
       landedMade: 84.638 km
       stoppedAlt: 1.000 m
   - - - '102'
       - Richard lovelace
     - place: '26'
-      total: 371.911
+      total: 368.741
       jump: null
       penalties: []
       breakdown:
@@ -12079,7 +12082,7 @@ scoreDf:
         time: 0
         reach: 161.335
         distance: 329.001
-        leading: 42.9
+        leading: 39.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -12097,13 +12100,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 371.911
+      subtotal: 368.741
       landedMade: 77.058 km
       stoppedAlt: 17.000 m
   - - - '135'
       - Misael Rosalez
     - place: '27'
-      total: 369.5
+      total: 366.813
       jump: null
       penalties: []
       breakdown:
@@ -12112,7 +12115,7 @@ scoreDf:
         time: 0
         reach: 164.384
         distance: 335.944
-        leading: 33.6
+        leading: 30.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -12130,13 +12133,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 369.5
+      subtotal: 366.813
       landedMade: 78.812 km
       stoppedAlt: 0.000 m
   - - - '150'
       - Claudia Mejia
     - place: '28'
-      total: 361.005
+      total: 358.092
       jump: null
       penalties: []
       breakdown:
@@ -12145,7 +12148,7 @@ scoreDf:
         time: 0
         reach: 160.998
         distance: 328.664
-        leading: 32.3
+        leading: 29.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -12163,13 +12166,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 361.005
+      subtotal: 358.092
       landedMade: 77.076 km
       stoppedAlt: 62.000 m
   - - - '124'
       - Patrick Pannese
     - place: '29'
-      total: 357.124
+      total: 354.016
       jump: null
       penalties: []
       breakdown:
@@ -12178,7 +12181,7 @@ scoreDf:
         time: 0
         reach: 158.847
         distance: 323.628
-        leading: 33.5
+        leading: 30.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -12196,46 +12199,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 357.124
+      subtotal: 354.016
       landedMade: 76.279 km
       stoppedAlt: 4.000 m
-  - - - '126'
-      - Jeff Kannard
-    - place: '30'
-      total: 339.845
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 142.786
-        arrival: 0
-        time: 0
-        reach: 149.521
-        distance: 292.308
-        leading: 47.5
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2016-05-08T17:36:21.388512406393Z
-        gs: 2016-05-08T17:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 71.801 km
-        flown: 71.801 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 339.845
-      landedMade: 71.801 km
-      stoppedAlt: -2.000 m
   - - - '145'
       - Roger Irby
-    - place: '31'
-      total: 338.485
+    - place: '30'
+      total: 335.675
       jump: null
       penalties: []
       breakdown:
@@ -12244,7 +12214,7 @@ scoreDf:
         time: 0
         reach: 158.072
         distance: 321.555
-        leading: 16.9
+        leading: 14.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -12262,13 +12232,46 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 338.485
+      subtotal: 335.675
       landedMade: 75.909 km
       stoppedAlt: -7.000 m
+  - - - '126'
+      - Jeff Kannard
+    - place: '31'
+      total: 335.425
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 142.786
+        arrival: 0
+        time: 0
+        reach: 149.521
+        distance: 292.308
+        leading: 43.1
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2016-05-08T17:36:21.388512406393Z
+        gs: 2016-05-08T17:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 71.801 km
+        flown: 71.801 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 335.425
+      landedMade: 71.801 km
+      stoppedAlt: -2.000 m
   - - - '115'
       - Andrew Hollidge
     - place: '32'
-      total: 315.515
+      total: 311.833
       jump: null
       penalties: []
       breakdown:
@@ -12277,7 +12280,7 @@ scoreDf:
         time: 0
         reach: 149.132
         distance: 290.188
-        leading: 25.3
+        leading: 21.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -12295,13 +12298,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 315.515
+      subtotal: 311.833
       landedMade: 71.549 km
       stoppedAlt: 12.000 m
   - - - '133'
       - Olav Olsen
     - place: '33'
-      total: 235.389
+      total: 229.176
       jump: null
       penalties: []
       breakdown:
@@ -12310,7 +12313,7 @@ scoreDf:
         time: 0
         reach: 120.392
         distance: 215.295
-        leading: 20.1
+        leading: 13.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -12328,7 +12331,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 235.389
+      subtotal: 229.176
       landedMade: 57.443 km
       stoppedAlt: 2.000 m
   - - - '112'
@@ -13390,7 +13393,7 @@ scoreDf:
   - - - '124'
       - Patrick Pannese
     - place: '23'
-      total: 491.005
+      total: 490.999
       jump: null
       penalties: []
       breakdown:
@@ -13417,13 +13420,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 491.005
+      subtotal: 490.999
       landedMade: 81.887 km
       stoppedAlt: -15.000 m
   - - - '143'
       - Anna Eppink
     - place: '24'
-      total: 481.693
+      total: 481.61
       jump: null
       penalties: []
       breakdown:
@@ -13432,7 +13435,7 @@ scoreDf:
         time: 0
         reach: 201.011
         distance: 405.919
-        leading: 75.8
+        leading: 75.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -13450,13 +13453,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 481.693
+      subtotal: 481.61
       landedMade: 79.606 km
       stoppedAlt: -19.000 m
   - - - '103'
       - Matt Christensen
     - place: '25'
-      total: 471.007
+      total: 470.874
       jump: null
       penalties: []
       breakdown:
@@ -13465,7 +13468,7 @@ scoreDf:
         time: 0
         reach: 199.182
         distance: 403.755
-        leading: 67.3
+        leading: 67.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -13483,13 +13486,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 471.007
+      subtotal: 470.874
       landedMade: 79.482 km
       stoppedAlt: 0.000 m
   - - - '118'
       - Ingo Heilmann
     - place: '26'
-      total: 459.188
+      total: 459.044
       jump: null
       penalties: []
       breakdown:
@@ -13498,7 +13501,7 @@ scoreDf:
         time: 0
         reach: 198.352
         distance: 402.172
-        leading: 57
+        leading: 56.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -13516,13 +13519,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 459.188
+      subtotal: 459.044
       landedMade: 79.140 km
       stoppedAlt: -22.000 m
   - - - '117'
       - Robert Dallas
     - place: '27'
-      total: 456.637
+      total: 456.395
       jump: null
       penalties: []
       breakdown:
@@ -13531,7 +13534,7 @@ scoreDf:
         time: 0
         reach: 196.027
         distance: 396.834
-        leading: 59.8
+        leading: 59.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -13549,13 +13552,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 456.637
+      subtotal: 456.395
       landedMade: 78.223 km
       stoppedAlt: -19.000 m
   - - - '116'
       - Jeffery Bohl
     - place: '28'
-      total: 452.442
+      total: 452.151
       jump: null
       penalties: []
       breakdown:
@@ -13564,7 +13567,7 @@ scoreDf:
         time: 0
         reach: 195.052
         distance: 392.092
-        leading: 60.4
+        leading: 60.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -13582,13 +13585,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 452.442
+      subtotal: 452.151
       landedMade: 77.362 km
       stoppedAlt: -7.000 m
   - - - '141'
       - Patrick Halfhill
     - place: '29'
-      total: 441.252
+      total: 440.708
       jump: null
       penalties: []
       breakdown:
@@ -13597,7 +13600,7 @@ scoreDf:
         time: 0
         reach: 190.696
         distance: 381.208
-        leading: 60
+        leading: 59.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -13615,13 +13618,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 441.252
+      subtotal: 440.708
       landedMade: 76.093 km
       stoppedAlt: -19.000 m
   - - - '145'
       - Roger Irby
     - place: '30'
-      total: 404.237
+      total: 403.848
       jump: null
       penalties: []
       breakdown:
@@ -13630,7 +13633,7 @@ scoreDf:
         time: 0
         reach: 190.884
         distance: 381.396
-        leading: 22.8
+        leading: 22.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -13648,13 +13651,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 404.237
+      subtotal: 403.848
       landedMade: 76.090 km
       stoppedAlt: -35.000 m
   - - - '112'
       - Sergey Kataev
     - place: '31'
-      total: 380.565
+      total: 378.795
       jump: null
       penalties: []
       breakdown:
@@ -13663,7 +13666,7 @@ scoreDf:
         time: 0
         reach: 176.863
         distance: 325.773
-        leading: 54.8
+        leading: 53
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -13681,45 +13684,12 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 380.565
+      subtotal: 378.795
       landedMade: 70.120 km
       stoppedAlt: 38.000 m
-  - - - '119'
-      - Bart Weghorst
-    - place: '32'
-      total: 353.87
-      jump: null
-      penalties: []
-      breakdown:
-        effort: 114.257
-        arrival: 0
-        time: 0
-        reach: 165.25
-        distance: 279.507
-        leading: 74.4
-      demeritFrac: 0
-      demeritPoint: 0
-      velocity:
-        ss: 2016-05-09T18:30:17.35990727932Z
-        gs: 2016-05-09T18:30:00Z
-        es: null
-        ssDistance: null
-        ssElapsed: null
-        gsElapsed: null
-        ssVelocity: null
-        gsVelocity: null
-      reach:
-        extra: 65.942 km
-        flown: 65.942 km
-      demeritReset: 0
-      penaltiesJump: []
-      penaltyReason: ''
-      subtotal: 353.87
-      landedMade: 65.664 km
-      stoppedAlt: -27.000 m
   - - - '114'
       - Mick Howard
-    - place: '33'
+    - place: 32=
       total: 349.827
       jump: null
       penalties: []
@@ -13750,10 +13720,43 @@ scoreDf:
       subtotal: 349.827
       landedMade: 72.659 km
       stoppedAlt: -11.000 m
+  - - - '119'
+      - Bart Weghorst
+    - place: 32=
+      total: 349.551
+      jump: null
+      penalties: []
+      breakdown:
+        effort: 114.257
+        arrival: 0
+        time: 0
+        reach: 165.25
+        distance: 279.507
+        leading: 70
+      demeritFrac: 0
+      demeritPoint: 0
+      velocity:
+        ss: 2016-05-09T18:30:17.35990727932Z
+        gs: 2016-05-09T18:30:00Z
+        es: null
+        ssDistance: null
+        ssElapsed: null
+        gsElapsed: null
+        ssVelocity: null
+        gsVelocity: null
+      reach:
+        extra: 65.942 km
+        flown: 65.942 km
+      demeritReset: 0
+      penaltiesJump: []
+      penaltyReason: ''
+      subtotal: 349.551
+      landedMade: 65.664 km
+      stoppedAlt: -27.000 m
   - - - '123'
       - JD Guillemette
     - place: '34'
-      total: 330.038
+      total: 327.932
       jump: null
       penalties: []
       breakdown:
@@ -13762,7 +13765,7 @@ scoreDf:
         time: 0
         reach: 170.726
         distance: 298.961
-        leading: 31.1
+        leading: 29
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -13780,13 +13783,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 330.038
+      subtotal: 327.932
       landedMade: 67.525 km
       stoppedAlt: -5.000 m
   - - - '134'
       - Kinsley Sykes
     - place: '35'
-      total: 274.034
+      total: 268.072
       jump: null
       penalties: []
       breakdown:
@@ -13795,7 +13798,7 @@ scoreDf:
         time: 0
         reach: 147.711
         distance: 233.843
-        leading: 40.2
+        leading: 34.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -13813,22 +13816,23 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 274.034
+      subtotal: 268.072
       landedMade: 58.703 km
       stoppedAlt: -10.000 m
   - - - '126'
       - Jeff Kannard
     - place: '36'
-      total: 263.114
+      total: 237.018
       jump: 41.210 s
-      penalties: []
+      penalties:
+      - penalty-points: 13.736571181598668
       breakdown:
         effort: 64.787
         arrival: 0
         time: 0
         reach: 130.948
         distance: 195.735
-        leading: 67.4
+        leading: 55
       demeritFrac: 0
       demeritPoint: 13.737
       velocity:
@@ -13847,13 +13851,13 @@ scoreDf:
       penaltiesJump:
       - penalty-points: 13.736571181598668
       penaltyReason: ''
-      subtotal: 263.114
+      subtotal: 250.755
       landedMade: 50.911 km
       stoppedAlt: -24.000 m
   - - - '140'
       - Bill Vickery
     - place: '37'
-      total: 238.273
+      total: 228.986
       jump: null
       penalties: []
       breakdown:
@@ -13862,7 +13866,7 @@ scoreDf:
         time: 0
         reach: 131.996
         distance: 200.298
-        leading: 38
+        leading: 28.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -13880,13 +13884,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 238.273
+      subtotal: 228.986
       landedMade: 52.305 km
       stoppedAlt: -32.000 m
   - - - '111'
       - Patrick Kruse
     - place: '38'
-      total: 229.349
+      total: 223.115
       jump: null
       penalties: []
       breakdown:
@@ -13895,7 +13899,7 @@ scoreDf:
         time: 0
         reach: 140.754
         distance: 217.009
-        leading: 12.3
+        leading: 6.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -13913,13 +13917,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 229.349
+      subtotal: 223.115
       landedMade: 55.379 km
       stoppedAlt: -139.000 m
   - - - '129'
       - Mike Jefferson
     - place: '39'
-      total: 211.259
+      total: 199.993
       jump: null
       penalties: []
       breakdown:
@@ -13928,7 +13932,7 @@ scoreDf:
         time: 0
         reach: 127.588
         distance: 162.241
-        leading: 49
+        leading: 37.8
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -13946,7 +13950,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 211.259
+      subtotal: 199.993
       landedMade: 39.879 km
       stoppedAlt: -28.000 m
   - - - '110'
@@ -14018,7 +14022,7 @@ scoreDf:
 - - - - '131'
       - Robin Hamilton
     - place: '1'
-      total: 917.734
+      total: 918.861
       jump: null
       penalties: []
       breakdown:
@@ -14027,7 +14031,7 @@ scoreDf:
         time: 332.1
         reach: 262.789
         distance: 525.578
-        leading: 0.8
+        leading: 1.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -14045,7 +14049,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 917.734
+      subtotal: 918.861
       landedMade: 89.526 km
       stoppedAlt: null
   - - - '138'
@@ -14084,7 +14088,7 @@ scoreDf:
   - - - '139'
       - Tullio Gervasoni
     - place: '3'
-      total: 751.965
+      total: 752.135
       jump: null
       penalties: []
       breakdown:
@@ -14093,7 +14097,7 @@ scoreDf:
         time: 184.4
         reach: 262.789
         distance: 525.578
-        leading: 0
+        leading: 0.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -14111,13 +14115,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 751.965
+      subtotal: 752.135
       landedMade: 89.526 km
       stoppedAlt: null
   - - - '128'
       - Zac Majors
     - place: '4'
-      total: 742.854
+      total: 743.979
       jump: null
       penalties: []
       breakdown:
@@ -14126,7 +14130,7 @@ scoreDf:
         time: 181.7
         reach: 262.789
         distance: 525.578
-        leading: 0.3
+        leading: 1.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -14144,7 +14148,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 742.854
+      subtotal: 743.979
       landedMade: 89.526 km
       stoppedAlt: null
   - - - '123'
@@ -15934,7 +15938,7 @@ scoreDf:
   - - - '126'
       - Jeff Kannard
     - place: '18'
-      total: 504.094
+      total: 503.995
       jump: null
       penalties: []
       breakdown:
@@ -15943,7 +15947,7 @@ scoreDf:
         time: 0
         reach: 205.269
         distance: 433.179
-        leading: 70.9
+        leading: 70.8
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -15961,13 +15965,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 504.094
+      subtotal: 503.995
       landedMade: 88.351 km
       stoppedAlt: -6.000 m
   - - - '129'
       - Mike Jefferson
     - place: '19'
-      total: 499.257
+      total: 499.208
       jump: null
       penalties: []
       breakdown:
@@ -15976,7 +15980,7 @@ scoreDf:
         time: 0
         reach: 210.846
         distance: 441.992
-        leading: 57.3
+        leading: 57.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -15994,13 +15998,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 499.257
+      subtotal: 499.208
       landedMade: 91.495 km
       stoppedAlt: -15.000 m
   - - - '117'
       - Robert Dallas
     - place: '20'
-      total: 493.648
+      total: 493.577
       jump: null
       penalties: []
       breakdown:
@@ -16009,7 +16013,7 @@ scoreDf:
         time: 0
         reach: 206.65
         distance: 436.254
-        leading: 57.4
+        leading: 57.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16027,13 +16031,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 493.648
+      subtotal: 493.577
       landedMade: 89.470 km
       stoppedAlt: -19.000 m
   - - - '111'
       - Patrick Kruse
     - place: '21'
-      total: 490.629
+      total: 490.502
       jump: null
       penalties: []
       breakdown:
@@ -16042,7 +16046,7 @@ scoreDf:
         time: 0
         reach: 200.568
         distance: 424.548
-        leading: 66.1
+        leading: 66
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16060,13 +16064,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 490.629
+      subtotal: 490.502
       landedMade: 86.662 km
       stoppedAlt: -132.000 m
   - - - '125'
       - Larry Bunner
     - place: '22'
-      total: 486.271
+      total: 486.158
       jump: null
       penalties: []
       breakdown:
@@ -16075,7 +16079,7 @@ scoreDf:
         time: 0
         reach: 201.015
         distance: 424.995
-        leading: 61.3
+        leading: 61.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16093,13 +16097,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 486.271
+      subtotal: 486.158
       landedMade: 86.648 km
       stoppedAlt: -1.000 m
   - - - '101'
       - Davis Straub
     - place: '23'
-      total: 458.673
+      total: 458.482
       jump: null
       penalties: []
       breakdown:
@@ -16108,7 +16112,7 @@ scoreDf:
         time: 0
         reach: 191.062
         distance: 400.789
-        leading: 57.9
+        leading: 57.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16126,13 +16130,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 458.673
+      subtotal: 458.482
       landedMade: 82.910 km
       stoppedAlt: -22.000 m
   - - - '114'
       - Mick Howard
     - place: '24'
-      total: 426.069
+      total: 425.882
       jump: null
       penalties: []
       breakdown:
@@ -16141,7 +16145,7 @@ scoreDf:
         time: 0
         reach: 187.149
         distance: 387.167
-        leading: 38.9
+        leading: 38.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16159,13 +16163,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 426.069
+      subtotal: 425.882
       landedMade: 80.854 km
       stoppedAlt: -6.000 m
   - - - '124'
       - Patrick Pannese
     - place: '25'
-      total: 390.323
+      total: 390.008
       jump: null
       penalties: []
       breakdown:
@@ -16174,7 +16178,7 @@ scoreDf:
         time: 0
         reach: 174.415
         distance: 349.469
-        leading: 40.9
+        leading: 40.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16192,13 +16196,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 390.323
+      subtotal: 390.008
       landedMade: 75.497 km
       stoppedAlt: -6.000 m
   - - - '145'
       - Roger Irby
     - place: '26'
-      total: 354.627
+      total: 354.296
       jump: null
       penalties: []
       breakdown:
@@ -16207,7 +16211,7 @@ scoreDf:
         time: 0
         reach: 167.928
         distance: 334.969
-        leading: 19.7
+        leading: 19.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16225,13 +16229,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 354.627
+      subtotal: 354.296
       landedMade: 72.864 km
       stoppedAlt: 0.000 m
   - - - '115'
       - Andrew Hollidge
     - place: '27'
-      total: 349.779
+      total: 349.222
       jump: null
       penalties: []
       breakdown:
@@ -16240,7 +16244,7 @@ scoreDf:
         time: 0
         reach: 155.91
         distance: 308.389
-        leading: 41.4
+        leading: 40.8
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16258,13 +16262,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 349.779
+      subtotal: 349.222
       landedMade: 67.504 km
       stoppedAlt: 0.000 m
   - - - '144'
       - Tom Lanning
     - place: '28'
-      total: 348.626
+      total: 348.151
       jump: null
       penalties: []
       breakdown:
@@ -16273,7 +16277,7 @@ scoreDf:
         time: 0
         reach: 159.12
         distance: 315.298
-        leading: 33.3
+        leading: 32.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16291,13 +16295,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 348.626
+      subtotal: 348.151
       landedMade: 68.927 km
       stoppedAlt: -8.000 m
   - - - '116'
       - Jeffery Bohl
     - place: '29'
-      total: 344.077
+      total: 343.537
       jump: null
       penalties: []
       breakdown:
@@ -16306,7 +16310,7 @@ scoreDf:
         time: 0
         reach: 155.408
         distance: 307.579
-        leading: 36.5
+        leading: 36
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16324,13 +16328,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 344.077
+      subtotal: 343.537
       landedMade: 67.439 km
       stoppedAlt: 0.000 m
   - - - '106'
       - Fabiano Nahoum
     - place: '30'
-      total: 333.788
+      total: 332.962
       jump: null
       penalties: []
       breakdown:
@@ -16339,7 +16343,7 @@ scoreDf:
         time: 0
         reach: 146.577
         distance: 277.714
-        leading: 56.1
+        leading: 55.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16357,13 +16361,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 333.788
+      subtotal: 332.962
       landedMade: 62.562 km
       stoppedAlt: -14.000 m
   - - - '119'
       - Bart Weghorst
     - place: '31'
-      total: 317.696
+      total: 317.035
       jump: null
       penalties: []
       breakdown:
@@ -16372,7 +16376,7 @@ scoreDf:
         time: 0
         reach: 146.838
         distance: 282.52
-        leading: 35.2
+        leading: 34.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16390,13 +16394,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 317.696
+      subtotal: 317.035
       landedMade: 63.417 km
       stoppedAlt: -16.000 m
   - - - '143'
       - Anna Eppink
     - place: '32'
-      total: 314.406
+      total: 313.841
       jump: null
       penalties: []
       breakdown:
@@ -16405,7 +16409,7 @@ scoreDf:
         time: 0
         reach: 149.407
         distance: 291.562
-        leading: 22.8
+        leading: 22.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16423,13 +16427,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 314.406
+      subtotal: 313.841
       landedMade: 64.834 km
       stoppedAlt: -15.000 m
   - - - '103'
       - Matt Christensen
     - place: '33'
-      total: 302.531
+      total: 301.88
       jump: null
       penalties: []
       breakdown:
@@ -16438,7 +16442,7 @@ scoreDf:
         time: 0
         reach: 144.782
         distance: 275.379
-        leading: 27.2
+        leading: 26.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16456,13 +16460,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 302.531
+      subtotal: 301.88
       landedMade: 62.450 km
       stoppedAlt: 6.000 m
   - - - '141'
       - Patrick Halfhill
     - place: '34'
-      total: 259.225
+      total: 258.464
       jump: null
       penalties: []
       breakdown:
@@ -16471,7 +16475,7 @@ scoreDf:
         time: 0
         reach: 134.903
         distance: 240.691
-        leading: 18.5
+        leading: 17.8
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16489,13 +16493,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 259.225
+      subtotal: 258.464
       landedMade: 58.164 km
       stoppedAlt: -13.000 m
   - - - '146'
       - Peter Kelley
     - place: '35'
-      total: 204.196
+      total: 203.264
       jump: null
       penalties: []
       breakdown:
@@ -16504,7 +16508,7 @@ scoreDf:
         time: 0
         reach: 120.772
         distance: 197.127
-        leading: 7.1
+        leading: 6.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16522,13 +16526,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 204.196
+      subtotal: 203.264
       landedMade: 52.083 km
       stoppedAlt: -7.000 m
   - - - '133'
       - Olav Olsen
     - place: '36'
-      total: 176.542
+      total: 175.171
       jump: null
       penalties: []
       breakdown:
@@ -16537,7 +16541,7 @@ scoreDf:
         time: 0
         reach: 100.472
         distance: 161.264
-        leading: 15.3
+        leading: 13.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16555,7 +16559,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 176.542
+      subtotal: 175.171
       landedMade: 43.428 km
       stoppedAlt: -17.000 m
   - - - '109'
@@ -16703,7 +16707,7 @@ scoreDf:
         time: 0
         reach: 95.234
         distance: 150.709
-        leading: 14.4
+        leading: 12.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16718,17 +16722,17 @@ scoreDf:
       reach:
         extra: 41.326 km
         flown: 41.326 km
-      demeritReset: 153.114
+      demeritReset: 151.639
       penaltiesJump:
       - penalty-reset: 12
       penaltyReason: ''
-      subtotal: 165.114
+      subtotal: 163.639
       landedMade: 40.092 km
       stoppedAlt: -33.000 m
 - - - - '131'
       - Robin Hamilton
     - place: '1'
-      total: 982.788
+      total: 982.875
       jump: null
       penalties: []
       breakdown:
@@ -16755,13 +16759,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 982.788
+      subtotal: 982.875
       landedMade: 59.606 km
       stoppedAlt: null
   - - - '104'
       - Christian Pollet
     - place: '2'
-      total: 969.552
+      total: 969.64
       jump: null
       penalties: []
       breakdown:
@@ -16770,7 +16774,7 @@ scoreDf:
         time: 172.4
         reach: 376.66
         distance: 753.32
-        leading: 26.3
+        leading: 26.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16788,13 +16792,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 969.552
+      subtotal: 969.64
       landedMade: 59.606 km
       stoppedAlt: null
   - - - '139'
       - Tullio Gervasoni
     - place: '3'
-      total: 949.522
+      total: 949.607
       jump: null
       penalties: []
       breakdown:
@@ -16803,7 +16807,7 @@ scoreDf:
         time: 161.9
         reach: 376.66
         distance: 753.32
-        leading: 24.1
+        leading: 24.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16821,13 +16825,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 949.522
+      subtotal: 949.607
       landedMade: 59.606 km
       stoppedAlt: null
   - - - '132'
       - James Stinnett
     - place: '4'
-      total: 941.334
+      total: 941.418
       jump: null
       penalties: []
       breakdown:
@@ -16836,7 +16840,7 @@ scoreDf:
         time: 157.4
         reach: 376.66
         distance: 753.32
-        leading: 23.6
+        leading: 23.7
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16854,13 +16858,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 941.334
+      subtotal: 941.418
       landedMade: 59.606 km
       stoppedAlt: null
   - - - '113'
       - Olav Opsanger
     - place: '5'
-      total: 770.316
+      total: 770.399
       jump: null
       penalties: []
       breakdown:
@@ -16869,7 +16873,7 @@ scoreDf:
         time: 0
         reach: 370.461
         distance: 747.121
-        leading: 23.2
+        leading: 23.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16887,13 +16891,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 770.316
+      subtotal: 770.399
       landedMade: 58.236 km
       stoppedAlt: 6.000 m
   - - - '125'
       - Larry Bunner
     - place: '6'
-      total: 733.353
+      total: 733.413
       jump: null
       penalties: []
       breakdown:
@@ -16920,22 +16924,23 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 733.353
+      subtotal: 733.413
       landedMade: 54.455 km
       stoppedAlt: 12.000 m
   - - - '117'
       - Robert Dallas
     - place: '7'
-      total: 724.346
+      total: 722.252
       jump: 6.451 s
-      penalties: []
+      penalties:
+      - penalty-points: 2.1502037656273334
       breakdown:
         effort: 368.177
         arrival: 0
         time: 0
         reach: 344.054
         distance: 712.23
-        leading: 12.1
+        leading: 12.2
       demeritFrac: 0
       demeritPoint: 2.15
       velocity:
@@ -16954,13 +16959,13 @@ scoreDf:
       penaltiesJump:
       - penalty-points: 2.1502037656273334
       penaltyReason: ''
-      subtotal: 724.346
+      subtotal: 724.402
       landedMade: 54.348 km
       stoppedAlt: -1.000 m
   - - - '111'
       - Patrick Kruse
     - place: '8'
-      total: 716.789
+      total: 716.832
       jump: null
       penalties: []
       breakdown:
@@ -16969,7 +16974,7 @@ scoreDf:
         time: 0
         reach: 334.316
         distance: 692.949
-        leading: 23.8
+        leading: 23.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -16987,13 +16992,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 716.789
+      subtotal: 716.832
       landedMade: 52.533 km
       stoppedAlt: -120.000 m
   - - - '103'
       - Matt Christensen
     - place: '9'
-      total: 709.833
+      total: 709.873
       jump: null
       penalties: []
       breakdown:
@@ -17020,13 +17025,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 709.833
+      subtotal: 709.873
       landedMade: 52.393 km
       stoppedAlt: 13.000 m
   - - - '110'
       - Cory Barnwell
     - place: '10'
-      total: 704.8
+      total: 704.844
       jump: null
       penalties: []
       breakdown:
@@ -17053,7 +17058,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 704.8
+      subtotal: 704.844
       landedMade: 52.512 km
       stoppedAlt: 6.000 m
   - - - '142'
@@ -17092,7 +17097,7 @@ scoreDf:
   - - - '118'
       - Ingo Heilmann
     - place: '12'
-      total: 683.825
+      total: 683.844
       jump: null
       penalties: []
       breakdown:
@@ -17119,13 +17124,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 683.825
+      subtotal: 683.844
       landedMade: 50.901 km
       stoppedAlt: -4.000 m
   - - - '121'
       - Oleg Bondarchuk
     - place: '13'
-      total: 663.564
+      total: 663.506
       jump: null
       penalties: []
       breakdown:
@@ -17134,7 +17139,7 @@ scoreDf:
         time: 0
         reach: 310.271
         distance: 624.367
-        leading: 39.2
+        leading: 39.1
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17152,13 +17157,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 663.564
+      subtotal: 663.506
       landedMade: 48.776 km
       stoppedAlt: 0.000 m
   - - - '138'
       - Jonny Durand
     - place: '14'
-      total: 653.214
+      total: 653.054
       jump: null
       penalties: []
       breakdown:
@@ -17167,7 +17172,7 @@ scoreDf:
         time: 0
         reach: 306.031
         distance: 611.219
-        leading: 42
+        leading: 41.8
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17185,13 +17190,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 653.214
+      subtotal: 653.054
       landedMade: 48.085 km
       stoppedAlt: 9.000 m
   - - - '128'
       - Zac Majors
     - place: '15'
-      total: 633.316
+      total: 633.199
       jump: null
       penalties: []
       breakdown:
@@ -17200,7 +17205,7 @@ scoreDf:
         time: 0
         reach: 299.946
         distance: 595.166
-        leading: 38.2
+        leading: 38
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17218,13 +17223,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 633.316
+      subtotal: 633.199
       landedMade: 47.177 km
       stoppedAlt: -20.000 m
   - - - '123'
       - JD Guillemette
     - place: '16'
-      total: 596.621
+      total: 596.559
       jump: null
       penalties: []
       breakdown:
@@ -17233,7 +17238,7 @@ scoreDf:
         time: 0
         reach: 294.126
         distance: 577.045
-        leading: 19.6
+        leading: 19.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17251,13 +17256,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 596.621
+      subtotal: 596.559
       landedMade: 45.916 km
       stoppedAlt: 19.000 m
   - - - '112'
       - Sergey Kataev
     - place: 17=
-      total: 566.085
+      total: 565.982
       jump: null
       penalties: []
       breakdown:
@@ -17266,7 +17271,7 @@ scoreDf:
         time: 0
         reach: 281.488
         distance: 548.501
-        leading: 17.6
+        leading: 17.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17284,13 +17289,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 566.085
+      subtotal: 565.982
       landedMade: 44.173 km
       stoppedAlt: 57.000 m
   - - - '124'
       - Patrick Pannese
     - place: 17=
-      total: 565.875
+      total: 565.782
       jump: null
       penalties: []
       breakdown:
@@ -17299,7 +17304,7 @@ scoreDf:
         time: 0
         reach: 282.91
         distance: 549.923
-        leading: 16
+        leading: 15.9
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17317,13 +17322,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 565.875
+      subtotal: 565.782
       landedMade: 44.190 km
       stoppedAlt: 0.000 m
   - - - '106'
       - Fabiano Nahoum
     - place: '19'
-      total: 543.466
+      total: 543.235
       jump: null
       penalties: []
       breakdown:
@@ -17332,7 +17337,7 @@ scoreDf:
         time: 0
         reach: 267.655
         distance: 513.672
-        leading: 29.8
+        leading: 29.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17350,13 +17355,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 543.466
+      subtotal: 543.235
       landedMade: 42.055 km
       stoppedAlt: -5.000 m
   - - - '114'
       - Mick Howard
     - place: '20'
-      total: 539.779
+      total: 539.625
       jump: null
       penalties: []
       breakdown:
@@ -17365,7 +17370,7 @@ scoreDf:
         time: 0
         reach: 271.466
         distance: 519.179
-        leading: 20.6
+        leading: 20.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17383,13 +17388,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 539.779
+      subtotal: 539.625
       landedMade: 42.199 km
       stoppedAlt: 5.000 m
   - - - '116'
       - Jeffery Bohl
     - place: '21'
-      total: 537.656
+      total: 537.526
       jump: null
       penalties: []
       breakdown:
@@ -17398,7 +17403,7 @@ scoreDf:
         time: 0
         reach: 273.469
         distance: 521.182
-        leading: 16.5
+        leading: 16.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17416,13 +17421,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 537.656
+      subtotal: 537.526
       landedMade: 42.167 km
       stoppedAlt: 7.000 m
   - - - '102'
       - Richard lovelace
     - place: 22=
-      total: 536.278
+      total: 536.113
       jump: null
       penalties: []
       breakdown:
@@ -17431,7 +17436,7 @@ scoreDf:
         time: 0
         reach: 269.317
         distance: 515.334
-        leading: 20.9
+        leading: 20.8
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17449,13 +17454,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 536.278
+      subtotal: 536.113
       landedMade: 42.008 km
       stoppedAlt: 1.000 m
   - - - '127'
       - Gerry Pesavento
     - place: 22=
-      total: 535.692
+      total: 535.536
       jump: null
       penalties: []
       breakdown:
@@ -17464,7 +17469,7 @@ scoreDf:
         time: 0
         reach: 268.812
         distance: 517.586
-        leading: 18.1
+        leading: 18
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17482,13 +17487,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 535.692
+      subtotal: 535.536
       landedMade: 42.222 km
       stoppedAlt: 4.000 m
   - - - '141'
       - Patrick Halfhill
     - place: 24=
-      total: 534.496
+      total: 534.343
       jump: null
       penalties: []
       breakdown:
@@ -17497,7 +17502,7 @@ scoreDf:
         time: 0
         reach: 269.14
         distance: 516.854
-        leading: 17.6
+        leading: 17.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17515,13 +17520,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 534.496
+      subtotal: 534.343
       landedMade: 42.166 km
       stoppedAlt: -1.000 m
   - - - '133'
       - Olav Olsen
     - place: 24=
-      total: 533.929
+      total: 533.793
       jump: null
       penalties: []
       breakdown:
@@ -17530,7 +17535,7 @@ scoreDf:
         time: 0
         reach: 270.505
         distance: 519.279
-        leading: 14.6
+        leading: 14.5
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17548,22 +17553,23 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 533.929
+      subtotal: 533.793
       landedMade: 42.216 km
       stoppedAlt: 3.000 m
   - - - '150'
       - Claudia Mejia
     - place: '26'
-      total: 525.164
+      total: 523.089
       jump: 5.809 s
-      penalties: []
+      penalties:
+      - penalty-points: 1.9364761802550001
       breakdown:
         effort: 246.017
         arrival: 0
         time: 0
         reach: 267.605
         distance: 513.622
-        leading: 11.5
+        leading: 11.4
       demeritFrac: 0
       demeritPoint: 1.936
       velocity:
@@ -17582,13 +17588,13 @@ scoreDf:
       penaltiesJump:
       - penalty-points: 1.9364761802550001
       penaltyReason: ''
-      subtotal: 525.164
+      subtotal: 525.026
       landedMade: 42.008 km
       stoppedAlt: 1.000 m
   - - - '119'
       - Bart Weghorst
-    - place: '27'
-      total: 447.513
+    - place: 27=
+      total: 447.201
       jump: null
       penalties: []
       breakdown:
@@ -17597,7 +17603,7 @@ scoreDf:
         time: 0
         reach: 245.222
         distance: 423.585
-        leading: 23.9
+        leading: 23.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17615,13 +17621,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 447.513
+      subtotal: 447.201
       landedMade: 38.806 km
       stoppedAlt: -4.000 m
   - - - '115'
       - Andrew Hollidge
-    - place: '28'
-      total: 447.277
+    - place: 27=
+      total: 446.967
       jump: null
       penalties: []
       breakdown:
@@ -17630,7 +17636,7 @@ scoreDf:
         time: 0
         reach: 245.216
         distance: 423.578
-        leading: 23.7
+        leading: 23.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17648,13 +17654,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 447.277
+      subtotal: 446.967
       landedMade: 38.801 km
       stoppedAlt: 8.000 m
   - - - '135'
       - Misael Rosalez
     - place: '29'
-      total: 445.314
+      total: 445.021
       jump: null
       penalties: []
       breakdown:
@@ -17663,7 +17669,7 @@ scoreDf:
         time: 0
         reach: 245.292
         distance: 423.654
-        leading: 21.7
+        leading: 21.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17681,13 +17687,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 445.314
+      subtotal: 445.021
       landedMade: 38.817 km
       stoppedAlt: -16.000 m
   - - - '109'
       - Michael Williams
     - place: '30'
-      total: 424.473
+      total: 424.18
       jump: null
       penalties: []
       breakdown:
@@ -17696,7 +17702,7 @@ scoreDf:
         time: 0
         reach: 242.752
         distance: 404.783
-        leading: 19.7
+        leading: 19.4
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17714,13 +17720,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 424.473
+      subtotal: 424.18
       landedMade: 38.158 km
       stoppedAlt: 4.000 m
   - - - '108'
       - Raul Guerra
     - place: '31'
-      total: 294.742
+      total: 294.187
       jump: null
       penalties: []
       breakdown:
@@ -17729,7 +17735,7 @@ scoreDf:
         time: 0
         reach: 178.865
         distance: 290.845
-        leading: 3.9
+        leading: 3.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17747,13 +17753,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 294.742
+      subtotal: 294.187
       landedMade: 28.136 km
       stoppedAlt: 8.000 m
   - - - '101'
       - Davis Straub
     - place: '32'
-      total: 293.16
+      total: 292.611
       jump: null
       penalties: []
       breakdown:
@@ -17762,7 +17768,7 @@ scoreDf:
         time: 0
         reach: 178.436
         distance: 290.416
-        leading: 2.7
+        leading: 2.2
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -17780,7 +17786,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 293.16
+      subtotal: 292.611
       landedMade: 28.138 km
       stoppedAlt: -7.000 m
   - - - '145'
@@ -18875,7 +18881,7 @@ scoreDf:
   - - - '144'
       - Tom Lanning
     - place: '25'
-      total: 361.146
+      total: 360.54
       jump: null
       penalties: []
       breakdown:
@@ -18884,7 +18890,7 @@ scoreDf:
         time: 0
         reach: 145.767
         distance: 324.209
-        leading: 36.9
+        leading: 36.3
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -18902,13 +18908,13 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 361.146
+      subtotal: 360.54
       landedMade: 66.835 km
       stoppedAlt: 22.000 m
   - - - '139'
       - Tullio Gervasoni
     - place: '26'
-      total: 344.578
+      total: 343.983
       jump: null
       penalties: []
       breakdown:
@@ -18917,7 +18923,7 @@ scoreDf:
         time: 0
         reach: 144.548
         distance: 319.198
-        leading: 25.4
+        leading: 24.8
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -18935,7 +18941,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 344.578
+      subtotal: 343.983
       landedMade: 64.728 km
       stoppedAlt: 38.000 m
   - - - '112'
@@ -18974,7 +18980,7 @@ scoreDf:
   - - - '108'
       - Raul Guerra
     - place: '28'
-      total: 271.192
+      total: 269.851
       jump: null
       penalties: []
       breakdown:
@@ -18983,7 +18989,7 @@ scoreDf:
         time: 0
         reach: 121.184
         distance: 268.21
-        leading: 3
+        leading: 1.6
       demeritFrac: 0
       demeritPoint: 0
       velocity:
@@ -19001,7 +19007,7 @@ scoreDf:
       demeritReset: 0
       penaltiesJump: []
       penaltyReason: ''
-      subtotal: 271.192
+      subtotal: 269.851
       landedMade: 55.252 km
       stoppedAlt: 29.000 m
   - - - '129'

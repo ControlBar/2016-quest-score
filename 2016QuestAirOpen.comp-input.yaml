@@ -24,6 +24,7 @@ nominal:
 compTweak:
   arrivalRank: true
   arrivalTime: false
+  leadingAreaDistanceSquared: true
   leadingWeightScaling: null
 tasks:
 - taskName: QUEST-ELLSWR
@@ -131,6 +132,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -243,6 +245,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -355,6 +358,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -461,6 +465,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -559,6 +564,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -643,6 +649,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s
@@ -749,6 +756,7 @@ tasks:
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
     earliest: 300 s

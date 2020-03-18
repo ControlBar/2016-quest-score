@@ -1,6 +1,6 @@
 <Fs version="3.4">
   <FsCompetition id="0" name="QuestAir Open" location="Groveland, Florida, USA" from="2016-05-07" to="2016-05-13" utc_offset="-4" discipline="hg">
-    <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_leading_points="1" score_back_time="15"/>
+    <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_distance_squared_for_LC="1" use_leading_points="1" score_back_time="15"/>
     <FsParticipants>
       <FsParticipant id="101" name="Davis Straub"/>
       <FsParticipant id="102" name="Richard lovelace"/>
@@ -48,7 +48,7 @@
     </FsParticipants>
     <FsTasks>
       <FsTask id="1" name="QUEST-ELLSWR" tracklog_folder="flights\QAtask1">
-        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_leading_points="1" score_back_time="15"/>
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_distance_squared_for_LC="1" use_leading_points="1" score_back_time="15"/>
         <FsTaskDefinition ss="2" es="6" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-07T12:30:00-04:00" close="2016-05-07T20:00:00-04:00"/>
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="10000" open="2016-05-07T13:30:00-04:00" close="2016-05-07T20:00:00-04:00"/>
@@ -337,7 +337,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="2" name="QUEST-QUEST" tracklog_folder="flights\QAtask2">
-        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_leading_points="1" score_back_time="15"/>
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_distance_squared_for_LC="1" use_leading_points="1" score_back_time="15"/>
         <FsTaskDefinition ss="2" es="6" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-08T12:30:00-04:00" close="2016-05-08T20:00:00-04:00"/>
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="5000" open="2016-05-08T13:30:00-04:00" close="2016-05-08T20:00:00-04:00"/>
@@ -631,7 +631,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="3" name="QUEST-CHERYL" tracklog_folder="flights\QAtask3">
-        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_leading_points="1" score_back_time="15"/>
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_distance_squared_for_LC="1" use_leading_points="1" score_back_time="15"/>
         <FsTaskDefinition ss="2" es="6" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-09T13:30:00-04:00" close="2016-05-09T20:00:00-04:00"/>
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="5000" open="2016-05-09T14:30:00-04:00" close="2016-05-09T20:00:00-04:00"/>
@@ -902,7 +902,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="4" name="QUEST-QUEST" tracklog_folder="flights\QAtask4">
-        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_leading_points="1" score_back_time="15"/>
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_distance_squared_for_LC="1" use_leading_points="1" score_back_time="15"/>
         <FsTaskDefinition ss="2" es="5" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-10T13:00:00-04:00" close="2016-05-10T20:00:00-04:00"/>
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="5000" open="2016-05-10T14:00:00-04:00" close="2016-05-10T20:00:00-04:00"/>
@@ -1192,7 +1192,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="5" name="QUEST-QUEST" tracklog_folder="flights\QAtask5">
-        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_leading_points="1" score_back_time="15"/>
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_distance_squared_for_LC="1" use_leading_points="1" score_back_time="15"/>
         <FsTaskDefinition ss="2" es="5" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-11T13:00:00-04:00" close="2016-05-11T20:00:00-04:00"/>
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="5000" open="2016-05-11T14:20:00-04:00" close="2016-05-11T20:00:00-04:00"/>
@@ -1470,7 +1470,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="6" name="QUEST-QUEST" tracklog_folder="flights\QAtask6">
-        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_leading_points="1" score_back_time="15"/>
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_distance_squared_for_LC="1" use_leading_points="1" score_back_time="15"/>
         <FsTaskDefinition ss="2" es="4" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="400" open="2016-05-12T14:30:00-04:00" close="2016-05-12T20:00:00-04:00"/>
           <FsTurnpoint id="QUEST" lat="28.53303" lon="-81.84667" altitude="37" radius="5000" open="2016-05-12T15:30:00-04:00" close="2016-05-12T20:00:00-04:00"/>
@@ -1775,7 +1775,7 @@
         </FsTaskShortestPath>
       </FsTask>
       <FsTask id="7" name="T7 GRASSO-WALABY" tracklog_folder="flights\QAtask7">
-        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_leading_points="1" score_back_time="15"/>
+        <FsScoreFormula id="GAP2015" min_dist="5" nom_dist="60" nom_time="2" nom_launch="1" nom_goal="0.2" jump_the_gun_factor="3" jump_the_gun_max="300" use_arrival_position_points="1" use_arrival_time_points="0" use_distance_squared_for_LC="1" use_leading_points="1" score_back_time="15"/>
         <FsTaskDefinition ss="2" es="5" goal="CIRCLE" groundstart="0" qnh_setting="1013.25">
           <FsTurnpoint id="GRASSO" lat="28.64147" lon="-81.88063" altitude="30" radius="400" open="2016-05-13T13:00:00-04:00" close="2016-05-13T20:00:00-04:00"/>
           <FsTurnpoint id="GRASSO" lat="28.64147" lon="-81.88063" altitude="30" radius="15000" open="2016-05-13T14:00:00-04:00" close="2016-05-13T20:00:00-04:00"/>
