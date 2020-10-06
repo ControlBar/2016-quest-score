@@ -807,7 +807,7 @@ score:
         leading: 0.60529101
         arrival: 0
         time: 0
-        effort: 0.95814317
+        effort: 0.95825195
         reach: 0.8341809
       reach:
         extra: 134.512000 km
@@ -834,7 +834,7 @@ score:
         leading: 0.47936508
         arrival: 0
         time: 0
-        effort: 0.93719303
+        effort: 0.93725586
         reach: 0.81323076
       reach:
         extra: 132.213000 km
@@ -861,7 +861,7 @@ score:
         leading: 0.16931217
         arrival: 0
         time: 0
-        effort: 0.98074499
+        effort: 0.98071289
         reach: 0.86825749
       reach:
         extra: 141.177000 km
@@ -888,7 +888,7 @@ score:
         leading: 3.492063e-2
         arrival: 0
         time: 0
-        effort: 0.84000522
+        effort: 0.84008789
         reach: 0.6533229
       reach:
         extra: 105.682000 km
@@ -915,7 +915,7 @@ score:
         leading: 2.751323e-2
         arrival: 0
         time: 0
-        effort: 0.82735689
+        effort: 0.82739258
         reach: 0.61715999
       reach:
         extra: 100.007000 km
@@ -942,7 +942,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.82892163
+        effort: 0.82885742
         reach: 0.6197679
       reach:
         extra: 102.543000 km
@@ -969,7 +969,7 @@ score:
         leading: 8.253968e-2
         arrival: 0
         time: 0
-        effort: 0.80992741
+        effort: 0.81005859
         reach: 0.59955666
       reach:
         extra: 98.238000 km
@@ -996,7 +996,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.77506846
+        effort: 0.77514648
         reach: 0.57330378
       reach:
         extra: 92.436000 km
@@ -1023,7 +1023,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.69187639
+        effort: 0.69189453
         reach: 0.52097188
       reach:
         extra: 84.405000 km
@@ -1050,7 +1050,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.69144174
+        effort: 0.69140625
         reach: 0.52062416
       reach:
         extra: 84.208000 km
@@ -1077,7 +1077,7 @@ score:
         leading: 2.1164e-3
         arrival: 0
         time: 0
-        effort: 0.68939888
+        effort: 0.68945312
         reach: 0.51953753
       reach:
         extra: 83.998000 km
@@ -1104,7 +1104,7 @@ score:
         leading: 3.809524e-2
         arrival: 0
         time: 0
-        effort: 0.67840223
+        effort: 0.6784668
         reach: 0.51479984
       reach:
         extra: 82.651000 km
@@ -1131,7 +1131,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.62733081
+        effort: 0.62744141
         reach: 0.49476246
       reach:
         extra: 79.423000 km
@@ -1158,7 +1158,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.59625331
+        effort: 0.59619141
         reach: 0.48137523
       reach:
         extra: 79.732000 km
@@ -1185,7 +1185,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.59329769
+        effort: 0.59326172
         reach: 0.48024514
       reach:
         extra: 79.556000 km
@@ -1212,7 +1212,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.57456426
+        effort: 0.57446289
         reach: 0.47329074
       reach:
         extra: 76.432000 km
@@ -1239,7 +1239,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.51106185
+        effort: 0.51098633
         reach: 0.45199287
       reach:
         extra: 74.520000 km
@@ -1266,7 +1266,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.44695093
+        effort: 0.44702148
         reach: 0.43060808
       reach:
         extra: 71.441000 km
@@ -1293,7 +1293,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.24679445
+        effort: 0.24682617
         reach: 0.33094276
       reach:
         extra: 54.973000 km
@@ -1320,7 +1320,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.23032121
+        effort: 0.23046875
         reach: 0.30147346
       reach:
         extra: 50.006000 km
@@ -1347,7 +1347,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.22836528
+        effort: 0.22827148
         reach: 0.29843091
       reach:
         extra: 48.282000 km
@@ -1374,7 +1374,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.18668231
+        effort: 0.18676758
         reach: 0.25661755
       reach:
         extra: 45.593000 km
@@ -1401,7 +1401,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.12274525
+        effort: 0.12280273
         reach: 0.20789325
       reach:
         extra: 34.074000 km
@@ -1428,7 +1428,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 7.871517e-2
+        effort: 7.861328e-2
         reach: 0.16994828
       reach:
         extra: 27.739000 km
@@ -1914,7 +1914,7 @@ score:
         leading: 0.59544469
         arrival: 0
         time: 0
-        effort: 0.98377076
+        effort: 0.98388672
         reach: 0.85998056
       reach:
         extra: 98.261000 km
@@ -1968,7 +1968,7 @@ score:
         leading: 0.44360087
         arrival: 0
         time: 0
-        effort: 0.99336461
+        effort: 0.9934082
         reach: 0.86703859
       reach:
         extra: 99.173000 km
@@ -1995,7 +1995,7 @@ score:
         leading: 0.76138829
         arrival: 0
         time: 0
-        effort: 0.89831368
+        effort: 0.8984375
         reach: 0.8128566
       reach:
         extra: 92.881000 km
@@ -2022,7 +2022,7 @@ score:
         leading: 0.30368764
         arrival: 0
         time: 0
-        effort: 0.99492836
+        effort: 0.99487305
         reach: 0.86889819
       reach:
         extra: 98.690000 km
@@ -2049,7 +2049,7 @@ score:
         leading: 0.28741866
         arrival: 0
         time: 0
-        effort: 0.9944212
+        effort: 0.99438477
         reach: 0.86809518
       reach:
         extra: 98.854000 km
@@ -2076,7 +2076,7 @@ score:
         leading: 0.33947939
         arrival: 0
         time: 0
-        effort: 0.9292084
+        effort: 0.92919922
         reach: 0.82802925
       reach:
         extra: 95.981000 km
@@ -2103,7 +2103,7 @@ score:
         leading: 0.44143167
         arrival: 0
         time: 0
-        effort: 0.76028063
+        effort: 0.76025391
         reach: 0.75271544
       reach:
         extra: 86.625000 km
@@ -2130,7 +2130,7 @@ score:
         leading: 0.43058568
         arrival: 0
         time: 0
-        effort: 0.69574405
+        effort: 0.69580078
         reach: 0.68175479
       reach:
         extra: 78.154000 km
@@ -2157,7 +2157,7 @@ score:
         leading: 0.3340564
         arrival: 0
         time: 0
-        effort: 0.70449262
+        effort: 0.70458984
         reach: 0.6946452
       reach:
         extra: 79.476000 km
@@ -2184,7 +2184,7 @@ score:
         leading: 0.31887202
         arrival: 0
         time: 0
-        effort: 0.69443388
+        effort: 0.69433594
         reach: 0.68031782
       reach:
         extra: 79.173000 km
@@ -2211,7 +2211,7 @@ score:
         leading: 0.32537961
         arrival: 0
         time: 0
-        effort: 0.68230421
+        effort: 0.68237305
         reach: 0.67123114
       reach:
         extra: 78.065000 km
@@ -2238,7 +2238,7 @@ score:
         leading: 0.46746204
         arrival: 0
         time: 0
-        effort: 0.60487722
+        effort: 0.60498047
         reach: 0.63179916
       reach:
         extra: 72.340000 km
@@ -2265,7 +2265,7 @@ score:
         leading: 0.15292842
         arrival: 0
         time: 0
-        effort: 0.6768522
+        effort: 0.67675781
         reach: 0.66797684
       reach:
         extra: 77.201000 km
@@ -2292,7 +2292,7 @@ score:
         leading: 0.23427332
         arrival: 0
         time: 0
-        effort: 0.60179198
+        effort: 0.60180664
         reach: 0.63019314
       reach:
         extra: 73.925000 km
@@ -2319,7 +2319,7 @@ score:
         leading: 0.15075922
         arrival: 0
         time: 0
-        effort: 0.40919657
+        effort: 0.40917969
         reach: 0.50868518
       reach:
         extra: 58.746000 km
@@ -2346,7 +2346,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.39981404
+        effort: 0.39990234
         reach: 0.48036854
       reach:
         extra: 55.112000 km
@@ -2373,7 +2373,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.39639069
+        effort: 0.39648438
         reach: 0.47508558
       reach:
         extra: 54.961000 km
@@ -2400,7 +2400,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.38578251
+        effort: 0.38574219
         reach: 0.46451967
       reach:
         extra: 55.766000 km
@@ -2427,7 +2427,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.3682431
+        effort: 0.36816406
         reach: 0.45150247
       reach:
         extra: 54.939000 km
@@ -2454,7 +2454,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.34766071
+        effort: 0.34765625
         reach: 0.43928828
       reach:
         extra: 53.212000 km
@@ -2481,7 +2481,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.33134694
+        effort: 0.33129883
         reach: 0.43134272
       reach:
         extra: 50.417000 km
@@ -2508,7 +2508,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.14420354
+        effort: 0.14428711
         reach: 0.33553104
       reach:
         extra: 40.253000 km
@@ -2535,7 +2535,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 9.412113e-2
+        effort: 9.423828e-2
         reach: 0.18765056
       reach:
         extra: 23.899000 km
@@ -2562,7 +2562,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 9.226153e-2
+        effort: 9.228516e-2
         reach: 0.18207176
       reach:
         extra: 21.950000 km
@@ -2589,7 +2589,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 1.53417e-2
+        effort: 1.538086e-2
         reach: 4.399645e-2
       reach:
         extra: 6.930000 km
@@ -3237,7 +3237,7 @@ score:
         leading: 0.73684211
         arrival: 0
         time: 0
-        effort: 0.99361548
+        effort: 0.99365234
         reach: 0.972237
       reach:
         extra: 82.404000 km
@@ -3264,7 +3264,7 @@ score:
         leading: 0.65107212
         arrival: 0
         time: 0
-        effort: 0.9880532
+        effort: 0.98803711
         reach: 0.9637243
       reach:
         extra: 79.865000 km
@@ -3291,7 +3291,7 @@ score:
         leading: 0.55165692
         arrival: 0
         time: 0
-        effort: 0.98471584
+        effort: 0.98461914
         reach: 0.96033857
       reach:
         extra: 79.951000 km
@@ -3318,7 +3318,7 @@ score:
         leading: 0.57797271
         arrival: 0
         time: 0
-        effort: 0.9686578
+        effort: 0.96875
         reach: 0.94814994
       reach:
         extra: 78.449000 km
@@ -3345,7 +3345,7 @@ score:
         leading: 0.582846
         arrival: 0
         time: 0
-        effort: 0.96091898
+        effort: 0.9609375
         reach: 0.94340992
       reach:
         extra: 79.041000 km
@@ -3372,7 +3372,7 @@ score:
         leading: 0.57992203
         arrival: 0
         time: 0
-        effort: 0.9182104
+        effort: 0.91821289
         reach: 0.92237001
       reach:
         extra: 76.422000 km
@@ -3399,7 +3399,7 @@ score:
         leading: 0.19980507
         arrival: 0
         time: 0
-        effort: 0.92033857
+        effort: 0.92041016
         reach: 0.92324063
       reach:
         extra: 76.702000 km
@@ -3426,7 +3426,7 @@ score:
         leading: 0.51364522
         arrival: 0
         time: 0
-        effort: 0.70974607
+        effort: 0.7097168
         reach: 0.85542926
       reach:
         extra: 71.395000 km
@@ -3453,7 +3453,7 @@ score:
         leading: 0.40155945
         arrival: 0
         time: 0
-        effort: 0.92435308
+        effort: 0.92431641
         reach: 0.92503023
       reach:
         extra: 77.058000 km
@@ -3480,7 +3480,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.79356711
+        effort: 0.79345703
         reach: 0.88072551
       reach:
         extra: 73.112000 km
@@ -3507,7 +3507,7 @@ score:
         leading: 0.67933723
         arrival: 0
         time: 0
-        effort: 0.52532044
+        effort: 0.52539062
         reach: 0.79927449
       reach:
         extra: 67.977000 km
@@ -3534,7 +3534,7 @@ score:
         leading: 0.26413255
         arrival: 0
         time: 0
-        effort: 0.60657799
+        effort: 0.60644531
         reach: 0.82573156
       reach:
         extra: 69.073000 km
@@ -3561,7 +3561,7 @@ score:
         leading: 0.33138402
         arrival: 0
         time: 0
-        effort: 0.38848851
+        effort: 0.38842773
         reach: 0.71443773
       reach:
         extra: 61.177000 km
@@ -3588,7 +3588,7 @@ score:
         leading: 0.27680312
         arrival: 0
         time: 0
-        effort: 0.31110036
+        effort: 0.31103516
         reach: 0.63845224
       reach:
         extra: 54.560000 km
@@ -3615,7 +3615,7 @@ score:
         leading: 0.36354776
         arrival: 0
         time: 0
-        effort: 0.28488513
+        effort: 0.28491211
         reach: 0.61707376
       reach:
         extra: 56.849000 km
@@ -3642,7 +3642,7 @@ score:
         leading: 0.5331384
         arrival: 0
         time: 0
-        effort: 0.30636034
+        effort: 0.30639648
         reach: 0.63337364
       reach:
         extra: 53.574000 km
@@ -3669,7 +3669,7 @@ score:
         leading: 4.093567e-2
         arrival: 0
         time: 0
-        effort: 0.35168077
+        effort: 0.3515625
         reach: 0.68077388
       reach:
         extra: 57.953000 km
@@ -3696,7 +3696,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 9.997582e-2
+        effort: 0.10009766
         reach: 0.43695284
       reach:
         extra: 36.837000 km
@@ -3723,7 +3723,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 8.899637e-2
+        effort: 8.911133e-2
         reach: 0.40319226
       reach:
         extra: 36.264000 km
@@ -4128,7 +4128,7 @@ score:
         leading: 0.6
         arrival: 0
         time: 0
-        effort: 0.96598044
+        effort: 0.96606445
         reach: 0.92362723
       reach:
         extra: 83.998000 km
@@ -4155,7 +4155,7 @@ score:
         leading: 0.56385542
         arrival: 0
         time: 0
-        effort: 0.95224324
+        effort: 0.95214844
         reach: 0.91521747
       reach:
         extra: 81.996000 km
@@ -4182,7 +4182,7 @@ score:
         leading: 0.4060241
         arrival: 0
         time: 0
-        effort: 0.97773888
+        effort: 0.9777832
         reach: 0.93276
       reach:
         extra: 85.760000 km
@@ -4209,7 +4209,7 @@ score:
         leading: 0.28072289
         arrival: 0
         time: 0
-        effort: 0.98679554
+        effort: 0.98681641
         reach: 0.94664942
       reach:
         extra: 85.245000 km
@@ -4236,7 +4236,7 @@ score:
         leading: 0.35180723
         arrival: 0
         time: 0
-        effort: 0.97747251
+        effort: 0.97753906
         reach: 0.93253168
       reach:
         extra: 84.148000 km
@@ -4263,7 +4263,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.90361125
+        effort: 0.90356445
         reach: 0.89078732
       reach:
         extra: 80.131000 km
@@ -4290,7 +4290,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.85147837
+        effort: 0.8515625
         reach: 0.86658549
       reach:
         extra: 78.176000 km
@@ -4317,7 +4317,7 @@ score:
         leading: 0.74578313
         arrival: 0
         time: 0
-        effort: 0.68727882
+        effort: 0.68725586
         reach: 0.77392595
       reach:
         extra: 69.955000 km
@@ -4344,7 +4344,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.81270216
+        effort: 0.81274414
         reach: 0.84980403
       reach:
         extra: 76.156000 km
@@ -4371,7 +4371,7 @@ score:
         leading: 0.34698795
         arrival: 0
         time: 0
-        effort: 0.70733285
+        effort: 0.70727539
         reach: 0.78987024
       reach:
         extra: 72.085000 km
@@ -4398,7 +4398,7 @@ score:
         leading: 0.64698795
         arrival: 0
         time: 0
-        effort: 0.64047338
+        effort: 0.64038086
         reach: 0.74295065
       reach:
         extra: 67.343000 km
@@ -4425,7 +4425,7 @@ score:
         leading: 0.31807229
         arrival: 0
         time: 0
-        effort: 0.69603105
+        effort: 0.69604492
         reach: 0.78077552
       reach:
         extra: 70.310000 km
@@ -4452,7 +4452,7 @@ score:
         leading: 0.58192771
         arrival: 0
         time: 0
-        effort: 0.62133262
+        effort: 0.62133789
         reach: 0.73164885
       reach:
         extra: 66.214000 km
@@ -4479,7 +4479,7 @@ score:
         leading: 0.1313253
         arrival: 0
         time: 0
-        effort: 0.64526808
+        effort: 0.64526367
         reach: 0.7459949
       reach:
         extra: 67.591000 km
@@ -4506,7 +4506,7 @@ score:
         leading: 0.39879518
         arrival: 0
         time: 0
-        effort: 0.53887134
+        effort: 0.53881836
         reach: 0.69534609
       reach:
         extra: 63.112000 km
@@ -4533,7 +4533,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.60907949
+        effort: 0.60913086
         reach: 0.72556033
       reach:
         extra: 66.471000 km
@@ -4560,7 +4560,7 @@ score:
         leading: 0.3253012
         arrival: 0
         time: 0
-        effort: 0.53030937
+        effort: 0.53027344
         reach: 0.69207352
       reach:
         extra: 62.157000 km
@@ -4587,7 +4587,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.4336162
+        effort: 0.43359375
         reach: 0.65280262
       reach:
         extra: 59.889000 km
@@ -4614,7 +4614,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.36801248
+        effort: 0.36791992
         reach: 0.61859279
       reach:
         extra: 57.587000 km
@@ -4641,7 +4641,7 @@ score:
         leading: 0.17951807
         arrival: 0
         time: 0
-        effort: 0.30130522
+        effort: 0.30126953
         reach: 0.55957228
       reach:
         extra: 52.546000 km
@@ -4668,7 +4668,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.31861943
+        effort: 0.31860352
         reach: 0.57719091
       reach:
         extra: 55.099000 km
@@ -4695,7 +4695,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.22729175
+        effort: 0.22729492
         reach: 0.47973667
       reach:
         extra: 45.062000 km
@@ -4722,7 +4722,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.22557936
+        effort: 0.22558594
         reach: 0.47783401
       reach:
         extra: 43.798000 km
@@ -4749,7 +4749,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.18725979
+        effort: 0.18725586
         reach: 0.43749762
       reach:
         extra: 40.522000 km
@@ -4776,7 +4776,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.11339853
+        effort: 0.11328125
         reach: 0.34830092
       reach:
         extra: 33.274000 km
@@ -4803,7 +4803,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 7.271966e-2
+        effort: 7.275391e-2
         reach: 0.24407321
       reach:
         extra: 24.607000 km
@@ -4830,7 +4830,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 3.923285e-2
+        effort: 3.930664e-2
         reach: 0.14680924
       reach:
         extra: 15.226000 km
@@ -5316,7 +5316,7 @@ score:
         leading: 0.73113709
         arrival: 0
         time: 0
-        effort: 0.99017954
+        effort: 0.99023438
         reach: 0.88799481
       reach:
         extra: 89.580000 km
@@ -5370,7 +5370,7 @@ score:
         leading: 0.58129649
         arrival: 0
         time: 0
-        effort: 0.99407311
+        effort: 0.99414062
         reach: 0.89400822
       reach:
         extra: 90.188000 km
@@ -5397,7 +5397,7 @@ score:
         leading: 0.68119022
         arrival: 0
         time: 0
-        effort: 0.96889466
+        effort: 0.96899414
         reach: 0.86766169
       reach:
         extra: 87.865000 km
@@ -5424,7 +5424,7 @@ score:
         leading: 0.61424017
         arrival: 0
         time: 0
-        effort: 0.97149037
+        effort: 0.97143555
         reach: 0.86960848
       reach:
         extra: 87.739000 km
@@ -5451,7 +5451,7 @@ score:
         leading: 0.58235919
         arrival: 0
         time: 0
-        effort: 0.8984642
+        effort: 0.8984375
         reach: 0.82656284
       reach:
         extra: 84.447000 km
@@ -5478,7 +5478,7 @@ score:
         leading: 0.35919235
         arrival: 0
         time: 0
-        effort: 0.86368159
+        effort: 0.86376953
         reach: 0.80964742
       reach:
         extra: 82.093000 km
@@ -5505,7 +5505,7 @@ score:
         leading: 0.38257173
         arrival: 0
         time: 0
-        effort: 0.75016223
+        effort: 0.75024414
         reach: 0.75453169
       reach:
         extra: 76.565000 km
@@ -5532,7 +5532,7 @@ score:
         leading: 0.13390011
         arrival: 0
         time: 0
-        effort: 0.71503353
+        effort: 0.71508789
         reach: 0.7272334
       reach:
         extra: 73.148000 km
@@ -5559,7 +5559,7 @@ score:
         leading: 0.38469713
         arrival: 0
         time: 0
-        effort: 0.65117889
+        effort: 0.65112305
         reach: 0.67445382
       reach:
         extra: 68.595000 km
@@ -5586,7 +5586,7 @@ score:
         leading: 0.29755579
         arrival: 0
         time: 0
-        effort: 0.66649362
+        effort: 0.66650391
         reach: 0.6883409
       reach:
         extra: 69.473000 km
@@ -5613,7 +5613,7 @@ score:
         leading: 0.31562168
         arrival: 0
         time: 0
-        effort: 0.64836686
+        effort: 0.6484375
         reach: 0.67229072
       reach:
         extra: 70.751000 km
@@ -5640,7 +5640,7 @@ score:
         leading: 0.54729012
         arrival: 0
         time: 0
-        effort: 0.57854207
+        effort: 0.57861328
         reach: 0.63409042
       reach:
         extra: 64.844000 km
@@ -5667,7 +5667,7 @@ score:
         leading: 0.31562168
         arrival: 0
         time: 0
-        effort: 0.58118105
+        effort: 0.58105469
         reach: 0.63521523
       reach:
         extra: 65.223000 km
@@ -5694,7 +5694,7 @@ score:
         leading: 0.16578108
         arrival: 0
         time: 0
-        effort: 0.60393684
+        effort: 0.60400391
         reach: 0.64629029
       reach:
         extra: 65.601000 km
@@ -5721,7 +5721,7 @@ score:
         leading: 0.22210414
         arrival: 0
         time: 0
-        effort: 0.55851179
+        effort: 0.55859375
         reach: 0.62630327
       reach:
         extra: 64.132000 km
@@ -5748,7 +5748,7 @@ score:
         leading: 0.11795962
         arrival: 0
         time: 0
-        effort: 0.44776119
+        effort: 0.44775391
         reach: 0.58356046
       reach:
         extra: 60.379000 km
@@ -5775,7 +5775,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.31200519
+        effort: 0.31201172
         reach: 0.52243132
       reach:
         extra: 53.377000 km
@@ -5802,7 +5802,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.25602423
+        effort: 0.25610352
         reach: 0.46420074
       reach:
         extra: 53.604000 km
@@ -5829,7 +5829,7 @@ score:
         leading: 7.013815e-2
         arrival: 0
         time: 0
-        effort: 0.23404716
+        effort: 0.23413086
         reach: 0.43460956
       reach:
         extra: 44.407000 km
@@ -5856,7 +5856,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.15621891
+        effort: 0.15625
         reach: 0.33956305
       reach:
         extra: 35.753000 km
@@ -5883,7 +5883,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.13761627
+        effort: 0.13769531
         reach: 0.31239455
       reach:
         extra: 35.563000 km
@@ -5910,7 +5910,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 6.013411e-2
+        effort: 6.005859e-2
         reach: 0.1326844
       reach:
         extra: 14.024000 km
@@ -5937,7 +5937,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 3.179753e-2
+        effort: 3.173828e-2
         reach: 4.983777e-2
       reach:
         extra: 9.588000 km
@@ -6099,7 +6099,7 @@ score:
         leading: 0.43981481
         arrival: 0
         time: 0
-        effort: 0.97820315
+        effort: 0.97827148
         reach: 0.91822864
       reach:
         extra: 55.132000 km
@@ -6126,7 +6126,7 @@ score:
         leading: 0.28240741
         arrival: 0
         time: 0
-        effort: 0.9750969
+        effort: 0.97509766
         reach: 0.9133967
       reach:
         extra: 54.735000 km
@@ -6153,7 +6153,7 @@ score:
         leading: 0.55324074
         arrival: 0
         time: 0
-        effort: 0.95380449
+        effort: 0.95385742
         reach: 0.88753783
       reach:
         extra: 53.503000 km
@@ -6180,7 +6180,7 @@ score:
         leading: 0.4537037
         arrival: 0
         time: 0
-        effort: 0.95075134
+        effort: 0.95068359
         reach: 0.88485637
       reach:
         extra: 52.993000 km
@@ -6207,7 +6207,7 @@ score:
         leading: 0.25694444
         arrival: 0
         time: 0
-        effort: 0.95587533
+        effort: 0.95581055
         reach: 0.88979451
       reach:
         extra: 53.747000 km
@@ -6234,7 +6234,7 @@ score:
         leading: 1
         arrival: 0
         time: 0
-        effort: 0.88968831
+        effort: 0.88964844
         reach: 0.84957256
       reach:
         extra: 50.835000 km
@@ -6261,7 +6261,7 @@ score:
         leading: 0.44675926
         arrival: 0
         time: 0
-        effort: 0.90269739
+        effort: 0.90258789
         reach: 0.85610365
       reach:
         extra: 51.988000 km
@@ -6288,7 +6288,7 @@ score:
         leading: 0.90509259
         arrival: 0
         time: 0
-        effort: 0.83651038
+        effort: 0.83642578
         reach: 0.82371369
       reach:
         extra: 49.403000 km
@@ -6315,7 +6315,7 @@ score:
         leading: 0.96759259
         arrival: 0
         time: 0
-        effort: 0.8143684
+        effort: 0.81445312
         reach: 0.81245686
       reach:
         extra: 48.608000 km
@@ -6342,7 +6342,7 @@ score:
         leading: 0.87962963
         arrival: 0
         time: 0
-        effort: 0.7862263
+        effort: 0.78613281
         reach: 0.79628843
       reach:
         extra: 47.828000 km
@@ -6369,7 +6369,7 @@ score:
         leading: 0.45138889
         arrival: 0
         time: 0
-        effort: 0.76065948
+        effort: 0.76074219
         reach: 0.78086338
       reach:
         extra: 47.316000 km
@@ -6396,7 +6396,7 @@ score:
         leading: 0.36574074
         arrival: 0
         time: 0
-        effort: 0.71480911
+        effort: 0.71484375
         reach: 0.75104869
       reach:
         extra: 45.743000 km
@@ -6423,7 +6423,7 @@ score:
         leading: 0.40277778
         arrival: 0
         time: 0
-        effort: 0.70883555
+        effort: 0.70874023
         reach: 0.74727871
       reach:
         extra: 45.483000 km
@@ -6450,7 +6450,7 @@ score:
         leading: 0.37731481
         arrival: 0
         time: 0
-        effort: 0.67328625
+        effort: 0.67333984
         reach: 0.7259863
       reach:
         extra: 45.481000 km
@@ -6477,7 +6477,7 @@ score:
         leading: 0.47222222
         arrival: 0
         time: 0
-        effort: 0.66476398
+        effort: 0.66479492
         reach: 0.72067647
       reach:
         extra: 44.310000 km
@@ -6504,7 +6504,7 @@ score:
         leading: 0.68055556
         arrival: 0
         time: 0
-        effort: 0.64044496
+        effort: 0.64038086
         reach: 0.71056125
       reach:
         extra: 43.234000 km
@@ -6531,7 +6531,7 @@ score:
         leading: 0.47916667
         arrival: 0
         time: 0
-        effort: 0.65249827
+        effort: 0.65258789
         reach: 0.71496841
       reach:
         extra: 43.317000 km
@@ -6558,7 +6558,7 @@ score:
         leading: 0.33333333
         arrival: 0
         time: 0
-        effort: 0.65990549
+        effort: 0.65991211
         reach: 0.71812775
       reach:
         extra: 44.798000 km
@@ -6585,7 +6585,7 @@ score:
         leading: 0.40277778
         arrival: 0
         time: 0
-        effort: 0.65143631
+        effort: 0.65136719
         reach: 0.71451707
       reach:
         extra: 44.419000 km
@@ -6612,7 +6612,7 @@ score:
         leading: 0.41435185
         arrival: 0
         time: 0
-        effort: 0.64933893
+        effort: 0.64941406
         reach: 0.7136144
       reach:
         extra: 43.098000 km
@@ -6639,7 +6639,7 @@ score:
         leading: 0.26157407
         arrival: 0
         time: 0
-        effort: 0.64002018
+        effort: 0.64013672
         reach: 0.7104285
       reach:
         extra: 43.136000 km
@@ -6666,7 +6666,7 @@ score:
         leading: 0.54166667
         arrival: 0
         time: 0
-        effort: 0.44881325
+        effort: 0.44873047
         reach: 0.65101152
       reach:
         extra: 40.687000 km
@@ -6693,7 +6693,7 @@ score:
         leading: 0.53703704
         arrival: 0
         time: 0
-        effort: 0.44865396
+        effort: 0.44873047
         reach: 0.65098497
       reach:
         extra: 39.919000 km
@@ -6720,7 +6720,7 @@ score:
         leading: 0.49074074
         arrival: 0
         time: 0
-        effort: 0.44921149
+        effort: 0.44921875
         reach: 0.65117082
       reach:
         extra: 39.681000 km
@@ -6747,7 +6747,7 @@ score:
         leading: 0.44444444
         arrival: 0
         time: 0
-        effort: 0.42510487
+        effort: 0.42504883
         reach: 0.64445388
       reach:
         extra: 38.614000 km
@@ -6774,7 +6774,7 @@ score:
         leading: 6.944444e-2
         arrival: 0
         time: 0
-        effort: 0.2972973
+        effort: 0.29736328
         reach: 0.47480486
       reach:
         extra: 29.978000 km
@@ -6801,7 +6801,7 @@ score:
         leading: 4.398148e-2
         arrival: 0
         time: 0
-        effort: 0.2972973
+        effort: 0.29736328
         reach: 0.47366325
       reach:
         extra: 29.641000 km
@@ -6828,7 +6828,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.29273084
+        effort: 0.29272461
         reach: 0.46633569
       reach:
         extra: 28.274000 km
@@ -6855,7 +6855,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.25250889
+        effort: 0.25244141
         reach: 0.42587479
       reach:
         extra: 26.513000 km
@@ -6882,7 +6882,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.24449105
+        effort: 0.24438477
         reach: 0.4195561
       reach:
         extra: 26.444000 km
@@ -6909,7 +6909,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.23790687
+        effort: 0.23803711
         reach: 0.41560028
       reach:
         extra: 25.374000 km
@@ -6936,7 +6936,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.17875538
+        effort: 0.17871094
         reach: 0.38225455
       reach:
         extra: 23.899000 km
@@ -6963,7 +6963,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.16189667
+        effort: 0.16186523
         reach: 0.36935167
       reach:
         extra: 23.638000 km
@@ -6990,7 +6990,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.13362183
+        effort: 0.13354492
         reach: 0.35243987
       reach:
         extra: 22.299000 km
@@ -7017,7 +7017,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 9.419636e-2
+        effort: 9.423828e-2
         reach: 0.32679339
       reach:
         extra: 22.897000 km
@@ -7044,7 +7044,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 3.318643e-2
+        effort: 3.320312e-2
         reach: 0.26336749
       reach:
         extra: 16.398000 km
@@ -7746,7 +7746,7 @@ score:
         leading: 0.36059113
         arrival: 0
         time: 0
-        effort: 0.9704587
+        effort: 0.97045898
         reach: 0.79444623
       reach:
         extra: 68.566000 km
@@ -7773,7 +7773,7 @@ score:
         leading: 0.24827586
         arrival: 0
         time: 0
-        effort: 0.96551724
+        effort: 0.96557617
         reach: 0.78778601
       reach:
         extra: 68.651000 km
@@ -7800,7 +7800,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.95482866
+        effort: 0.95483398
         reach: 0.77876249
       reach:
         extra: 67.106000 km
@@ -7827,7 +7827,7 @@ score:
         leading: 3.054187e-2
         arrival: 0
         time: 0
-        effort: 0.77301536
+        effort: 0.77294922
         reach: 0.66048985
       reach:
         extra: 57.604000 km
@@ -7854,7 +7854,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.65737458
+        effort: 0.6574707
         reach: 0.55591363
       reach:
         extra: 48.565000 km
@@ -7881,7 +7881,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.65748201
+        effort: 0.6574707
         reach: 0.55618219
       reach:
         extra: 49.604000 km
@@ -7908,7 +7908,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.54484907
+        effort: 0.54492188
         reach: 0.45719196
       reach:
         extra: 38.947000 km
@@ -7935,7 +7935,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.42705983
+        effort: 0.42700195
         reach: 0.34203459
       reach:
         extra: 31.471000 km
@@ -7962,7 +7962,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.42480395
+        effort: 0.42480469
         reach: 0.33870448
       reach:
         extra: 30.097000 km
@@ -7989,7 +7989,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.33048663
+        effort: 0.33056641
         reach: 0.25577398
       reach:
         extra: 24.081000 km
@@ -8016,7 +8016,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.27774197
+        effort: 0.27783203
         reach: 0.21167687
       reach:
         extra: 19.390000 km
@@ -8043,7 +8043,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.11145128
+        effort: 0.11132812
         reach: 5.919003e-2
       reach:
         extra: 17.344000 km
@@ -8070,7 +8070,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.11145128
+        effort: 0.11132812
         reach: 5.919003e-2
       reach:
         extra: 16.891000 km
@@ -8097,7 +8097,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.11145128
+        effort: 0.11132812
         reach: 5.919003e-2
       reach:
         extra: 17.225000 km
@@ -8124,7 +8124,7 @@ score:
         leading: 0
         arrival: 0
         time: 0
-        effort: 0.11145128
+        effort: 0.11132812
         reach: 5.919003e-2
       reach:
         extra: 17.831000 km

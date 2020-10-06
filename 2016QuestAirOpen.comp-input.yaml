@@ -367,11 +367,17 @@ tasks:
   penalsAuto:
   - - - '126'
       - Jeff Kannard
-    - - penalty-points: 25.3333333333333
+    - adds:
+      - penalty-points: -25.3333333333333
+      muls: []
+      resets: []
     - Jumped the gun by 1:16
   - - - '150'
       - Claudia Mejia
-    - - penalty-points: 57.6666666666667
+    - adds:
+      - penalty-points: -57.6666666666667
+      muls: []
+      resets: []
     - Jumped the gun by 2:53
   penals: []
 - taskName: QUEST-QUEST
@@ -658,11 +664,17 @@ tasks:
   penalsAuto:
   - - - '117'
       - Robert Dallas
-    - - penalty-points: 2.33333333333333
+    - adds:
+      - penalty-points: -2.33333333333333
+      muls: []
+      resets: []
     - Jumped the gun by 0:07
   - - - '150'
       - Claudia Mejia
-    - - penalty-points: 2.33333333333333
+    - adds:
+      - penalty-points: -2.33333333333333
+      muls: []
+      resets: []
     - Jumped the gun by 0:07
   penals: []
 - taskName: T7 GRASSO-WALABY
@@ -766,7 +778,10 @@ tasks:
   penals:
   - - - '115'
       - Andrew Hollidge
-    - - penalty-points: 16
+    - adds:
+      - penalty-points: -16
+      muls: []
+      resets: []
     - FS would not process file correctly.
 taskFolders:
 - - flights
