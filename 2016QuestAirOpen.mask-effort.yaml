@@ -395,14 +395,86 @@ land:
       - Jeff Kannard
     - togo: 84.772313 km
       made: 4.753492 km
-- - - - '114'
+- - - - '129'
+      - Mike Jefferson
+    - togo: 8.809099 km
+      made: 91.495163 km
+  - - - '117'
+      - Robert Dallas
+    - togo: 10.834212 km
+      made: 89.470050 km
+  - - - '126'
+      - Jeff Kannard
+    - togo: 11.953407 km
+      made: 88.350855 km
+  - - - '111'
+      - Patrick Kruse
+    - togo: 13.641984 km
+      made: 86.662278 km
+  - - - '125'
+      - Larry Bunner
+    - togo: 13.655810 km
+      made: 86.648452 km
+  - - - '101'
+      - Davis Straub
+    - togo: 17.394397 km
+      made: 82.909865 km
+  - - - '114'
       - Mick Howard
     - togo: 19.450460 km
       made: 80.853802 km
+  - - - '124'
+      - Patrick Pannese
+    - togo: 24.806931 km
+      made: 75.497331 km
+  - - - '145'
+      - Roger Irby
+    - togo: 27.440383 km
+      made: 72.863879 km
+  - - - '144'
+      - Tom Lanning
+    - togo: 31.376940 km
+      made: 68.927322 km
+  - - - '115'
+      - Andrew Hollidge
+    - togo: 32.800645 km
+      made: 67.503617 km
+  - - - '116'
+      - Jeffery Bohl
+    - togo: 32.865707 km
+      made: 67.438555 km
+  - - - '143'
+      - Anna Eppink
+    - togo: 35.469977 km
+      made: 64.834285 km
+  - - - '119'
+      - Bart Weghorst
+    - togo: 36.887148 km
+      made: 63.417114 km
+  - - - '106'
+      - Fabiano Nahoum
+    - togo: 37.742028 km
+      made: 62.562234 km
+  - - - '103'
+      - Matt Christensen
+    - togo: 37.854586 km
+      made: 62.449676 km
+  - - - '141'
+      - Patrick Halfhill
+    - togo: 42.140614 km
+      made: 58.163648 km
+  - - - '146'
+      - Peter Kelley
+    - togo: 48.221446 km
+      made: 52.082816 km
   - - - '133'
       - Olav Olsen
     - togo: 56.875870 km
       made: 43.428392 km
+  - - - '109'
+      - Michael Williams
+    - togo: 60.165021 km
+      made: 40.139241 km
   - - - '140'
       - Bill Vickery
     - togo: 60.212170 km
@@ -419,142 +491,6 @@ land:
       - Cory Barnwell
     - togo: 87.312445 km
       made: 12.991817 km
-  - - - '138'
-      - Jonny Durand
-    - togo: 100.415475 km
-      made: -0.111213 km
-  - - - '128'
-      - Zac Majors
-    - togo: 100.426517 km
-      made: -0.122255 km
-  - - - '108'
-      - Raul Guerra
-    - togo: 100.431818 km
-      made: -0.127556 km
-  - - - '102'
-      - Richard lovelace
-    - togo: 100.432449 km
-      made: -0.128187 km
-  - - - '127'
-      - Gerry Pesavento
-    - togo: 100.432939 km
-      made: -0.128677 km
-  - - - '132'
-      - James Stinnett
-    - togo: 100.439892 km
-      made: -0.135630 km
-  - - - '112'
-      - Sergey Kataev
-    - togo: 100.470876 km
-      made: -0.166614 km
-  - - - '142'
-      - John Simon
-    - togo: 100.472017 km
-      made: -0.167755 km
-  - - - '113'
-      - Olav Opsanger
-    - togo: 100.493233 km
-      made: -0.188971 km
-  - - - '123'
-      - JD Guillemette
-    - togo: 100.504826 km
-      made: -0.200564 km
-  - - - '120'
-      - Mike Glennon
-    - togo: 100.512662 km
-      made: -0.208400 km
-  - - - '135'
-      - Misael Rosalez
-    - togo: 100.514110 km
-      made: -0.209848 km
-  - - - '104'
-      - Christian Pollet
-    - togo: 100.518992 km
-      made: -0.214730 km
-  - - - '109'
-      - Michael Williams
-    - togo: 100.534386 km
-      made: -0.230124 km
-  - - - '150'
-      - Claudia Mejia
-    - togo: 100.593163 km
-      made: -0.288901 km
-  - - - '139'
-      - Tullio Gervasoni
-    - togo: 100.661576 km
-      made: -0.357314 km
-  - - - '131'
-      - Robin Hamilton
-    - togo: 100.665325 km
-      made: -0.361063 km
-  - - - '129'
-      - Mike Jefferson
-    - togo: 109.902000 km
-      made: -9.597738 km
-  - - - '117'
-      - Robert Dallas
-    - togo: 111.878650 km
-      made: -11.574388 km
-  - - - '146'
-      - Peter Kelley
-    - togo: 112.341175 km
-      made: -12.036913 km
-  - - - '126'
-      - Jeff Kannard
-    - togo: 112.864060 km
-      made: -12.559798 km
-  - - - '111'
-      - Patrick Kruse
-    - togo: 114.605576 km
-      made: -14.301314 km
-  - - - '125'
-      - Larry Bunner
-    - togo: 114.620787 km
-      made: -14.316525 km
-  - - - '101'
-      - Davis Straub
-    - togo: 118.433928 km
-      made: -18.129666 km
-  - - - '141'
-      - Patrick Halfhill
-    - togo: 118.554587 km
-      made: -18.250325 km
-  - - - '106'
-      - Fabiano Nahoum
-    - togo: 122.823642 km
-      made: -22.519380 km
-  - - - '103'
-      - Matt Christensen
-    - togo: 123.053865 km
-      made: -22.749603 km
-  - - - '119'
-      - Bart Weghorst
-    - togo: 124.324129 km
-      made: -24.019867 km
-  - - - '124'
-      - Patrick Pannese
-    - togo: 125.715256 km
-      made: -25.410994 km
-  - - - '145'
-      - Roger Irby
-    - togo: 128.362936 km
-      made: -28.058674 km
-  - - - '144'
-      - Tom Lanning
-    - togo: 129.157082 km
-      made: -28.852820 km
-  - - - '143'
-      - Anna Eppink
-    - togo: 130.524214 km
-      made: -30.219952 km
-  - - - '115'
-      - Andrew Hollidge
-    - togo: 130.823645 km
-      made: -30.519383 km
-  - - - '116'
-      - Jeffery Bohl
-    - togo: 130.917586 km
-      made: -30.613324 km
 - - - - '113'
       - Olav Opsanger
     - togo: 1.370266 km
