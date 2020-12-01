@@ -24,6 +24,7 @@ nominal:
 compTweak:
   arrivalRank: true
   arrivalTime: false
+  essNotGoalScaling: 0.8
   leadingAreaDistanceSquared: true
   leadingWeightScaling: null
 tasks:
@@ -129,9 +130,11 @@ tasks:
   - 2016-05-07T18:10:00Z
   - 2016-05-07T18:30:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
@@ -242,9 +245,11 @@ tasks:
   - 2016-05-08T18:10:00Z
   - 2016-05-08T18:30:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
@@ -355,9 +360,11 @@ tasks:
   - 2016-05-09T19:10:00Z
   - 2016-05-09T19:30:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
@@ -468,9 +475,11 @@ tasks:
   - 2016-05-10T18:40:00Z
   - 2016-05-10T19:00:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
@@ -567,9 +576,11 @@ tasks:
   - 2016-05-11T19:00:00Z
   - 2016-05-11T19:20:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
@@ -652,9 +663,11 @@ tasks:
   - 2016-05-12T20:10:00Z
   - 2016-05-12T20:30:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:
@@ -765,9 +778,11 @@ tasks:
   - 2016-05-13T18:40:00Z
   - 2016-05-13T19:00:00Z
   stopped: null
+  cancelled: false
   taskTweak:
     arrivalRank: true
     arrivalTime: false
+    essNotGoalScaling: 0.8
     leadingAreaDistanceSquared: true
     leadingWeightScaling: null
   earlyStart:

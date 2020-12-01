@@ -9,3181 +9,4339 @@ stopWindow:
 stopFlying:
 - - - - '115'
       - Andrew Hollidge
-    - scoredFixes:
-      - 0
-      - 3585
-      scoredSeconds:
-      - 0
-      - 16676
-      scoredTimes:
-      - 2016-05-07T17:00:57Z
-      - 2016-05-07T21:38:53Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3585
+        scoredSeconds:
+        - 0
+        - 16676
+        scoredTimes:
+        - 2016-05-07T17:00:57Z
+        - 2016-05-07T21:38:53Z
+        scoredWindowSeconds: 16676
   - - - '143'
       - Anna Eppink
-    - scoredFixes:
-      - 3
-      - 3018
-      scoredSeconds:
-      - 92
-      - 15572
-      scoredTimes:
-      - 2016-05-07T16:52:42Z
-      - 2016-05-07T21:10:42Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 3018
+        scoredSeconds:
+        - 92
+        - 15572
+        scoredTimes:
+        - 2016-05-07T16:52:42Z
+        - 2016-05-07T21:10:42Z
+        scoredWindowSeconds: 15480
   - - - '119'
       - Bart Weghorst
-    - scoredFixes:
-      - 10
-      - 3821
-      scoredSeconds:
-      - 306
-      - 16562
-      scoredTimes:
-      - 2016-05-07T17:21:55Z
-      - 2016-05-07T21:52:51Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 3821
+        scoredSeconds:
+        - 306
+        - 16562
+        scoredTimes:
+        - 2016-05-07T17:21:55Z
+        - 2016-05-07T21:52:51Z
+        scoredWindowSeconds: 16256
   - - - '140'
       - Bill Vickery
-    - scoredFixes:
-      - 0
-      - 5415
-      scoredSeconds:
-      - 0
-      - 10829
-      scoredTimes:
-      - 2016-05-07T17:27:34Z
-      - 2016-05-07T20:28:03Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5415
+        scoredSeconds:
+        - 0
+        - 10829
+        scoredTimes:
+        - 2016-05-07T17:27:34Z
+        - 2016-05-07T20:28:03Z
+        scoredWindowSeconds: 10829
   - - - '104'
       - Christian Pollet
-    - scoredFixes:
-      - 24
-      - 4482
-      scoredSeconds:
-      - 49
-      - 9006
-      scoredTimes:
-      - 2016-05-07T17:29:55Z
-      - 2016-05-07T19:59:12Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 24
+        - 4482
+        scoredSeconds:
+        - 49
+        - 9006
+        scoredTimes:
+        - 2016-05-07T17:29:55Z
+        - 2016-05-07T19:59:12Z
+        scoredWindowSeconds: 8957
   - - - '150'
       - Claudia Mejia
-    - scoredFixes:
-      - 0
-      - 5257
-      scoredSeconds:
-      - 0
-      - 12827
-      scoredTimes:
-      - 2016-05-07T17:31:02Z
-      - 2016-05-07T21:04:49Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5257
+        scoredSeconds:
+        - 0
+        - 12827
+        scoredTimes:
+        - 2016-05-07T17:31:02Z
+        - 2016-05-07T21:04:49Z
+        scoredWindowSeconds: 12827
   - - - '110'
       - Cory Barnwell
-    - scoredFixes:
-      - 0
-      - 5414
-      scoredSeconds:
-      - 0
-      - 16617
-      scoredTimes:
-      - 2016-05-07T16:37:55Z
-      - 2016-05-07T21:14:52Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5414
+        scoredSeconds:
+        - 0
+        - 16617
+        scoredTimes:
+        - 2016-05-07T16:37:55Z
+        - 2016-05-07T21:14:52Z
+        scoredWindowSeconds: 16617
   - - - '101'
       - Davis Straub
-    - scoredFixes:
-      - 0
-      - 1309
-      scoredSeconds:
-      - 0
-      - 6936
-      scoredTimes:
-      - 2016-05-07T16:46:22Z
-      - 2016-05-07T18:41:58Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1309
+        scoredSeconds:
+        - 0
+        - 6936
+        scoredTimes:
+        - 2016-05-07T16:46:22Z
+        - 2016-05-07T18:41:58Z
+        scoredWindowSeconds: 6936
   - - - '106'
       - Fabiano Nahoum
-    - scoredFixes:
-      - 0
-      - 2053
-      scoredSeconds:
-      - 0
-      - 17439
-      scoredTimes:
-      - 2016-05-07T17:02:47Z
-      - 2016-05-07T21:53:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2053
+        scoredSeconds:
+        - 0
+        - 17439
+        scoredTimes:
+        - 2016-05-07T17:02:47Z
+        - 2016-05-07T21:53:26Z
+        scoredWindowSeconds: 17439
   - - - '127'
       - Gerry Pesavento
-    - scoredFixes:
-      - 0
-      - 3713
-      scoredSeconds:
-      - 0
-      - 17799
-      scoredTimes:
-      - 2016-05-07T17:01:37Z
-      - 2016-05-07T21:58:16Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3713
+        scoredSeconds:
+        - 0
+        - 17799
+        scoredTimes:
+        - 2016-05-07T17:01:37Z
+        - 2016-05-07T21:58:16Z
+        scoredWindowSeconds: 17799
   - - - '118'
       - Ingo Heilmann
-    - scoredFixes:
-      - 20
-      - 6014
-      scoredSeconds:
-      - 20
-      - 6029
-      scoredTimes:
-      - 2016-05-07T17:22:24Z
-      - 2016-05-07T19:02:33Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 20
+        - 6014
+        scoredSeconds:
+        - 20
+        - 6029
+        scoredTimes:
+        - 2016-05-07T17:22:24Z
+        - 2016-05-07T19:02:33Z
+        scoredWindowSeconds: 6009
   - - - '123'
       - JD Guillemette
-    - scoredFixes:
-      - 0
-      - 2037
-      scoredSeconds:
-      - 0
-      - 10624
-      scoredTimes:
-      - 2016-05-07T16:39:08Z
-      - 2016-05-07T19:36:12Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2037
+        scoredSeconds:
+        - 0
+        - 10624
+        scoredTimes:
+        - 2016-05-07T16:39:08Z
+        - 2016-05-07T19:36:12Z
+        scoredWindowSeconds: 10624
   - - - '132'
       - James Stinnett
-    - scoredFixes:
-      - 0
-      - 1824
-      scoredSeconds:
-      - 0
-      - 17410
-      scoredTimes:
-      - 2016-05-07T16:49:47Z
-      - 2016-05-07T21:39:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1824
+        scoredSeconds:
+        - 0
+        - 17410
+        scoredTimes:
+        - 2016-05-07T16:49:47Z
+        - 2016-05-07T21:39:57Z
+        scoredWindowSeconds: 17410
   - - - '126'
       - Jeff Kannard
-    - scoredFixes:
-      - 0
-      - 1644
-      scoredSeconds:
-      - 0
-      - 5311
-      scoredTimes:
-      - 2016-05-07T17:15:59Z
-      - 2016-05-07T18:44:30Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1644
+        scoredSeconds:
+        - 0
+        - 5311
+        scoredTimes:
+        - 2016-05-07T17:15:59Z
+        - 2016-05-07T18:44:30Z
+        scoredWindowSeconds: 5311
   - - - '116'
       - Jeffery Bohl
-    - scoredFixes:
-      - 0
-      - 3874
-      scoredSeconds:
-      - 0
-      - 12082
-      scoredTimes:
-      - 2016-05-07T17:07:14Z
-      - 2016-05-07T20:28:36Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3874
+        scoredSeconds:
+        - 0
+        - 12082
+        scoredTimes:
+        - 2016-05-07T17:07:14Z
+        - 2016-05-07T20:28:36Z
+        scoredWindowSeconds: 12082
   - - - '142'
       - John Simon
-    - scoredFixes:
-      - 41
-      - 6488
-      scoredSeconds:
-      - 205
-      - 18500
-      scoredTimes:
-      - 2016-05-07T16:43:18Z
-      - 2016-05-07T21:48:13Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 41
+        - 6488
+        scoredSeconds:
+        - 205
+        - 18500
+        scoredTimes:
+        - 2016-05-07T16:43:18Z
+        - 2016-05-07T21:48:13Z
+        scoredWindowSeconds: 18295
   - - - '138'
       - Jonny Durand
-    - scoredFixes:
-      - 24
-      - 1733
-      scoredSeconds:
-      - 240
-      - 15671
-      scoredTimes:
-      - 2016-05-07T17:03:48Z
-      - 2016-05-07T21:20:59Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 24
+        - 1733
+        scoredSeconds:
+        - 240
+        - 15671
+        scoredTimes:
+        - 2016-05-07T17:03:48Z
+        - 2016-05-07T21:20:59Z
+        scoredWindowSeconds: 15431
   - - - '134'
       - Kinsley Sykes
-    - scoredFixes:
-      - 9
-      - 1191
-      scoredSeconds:
-      - 276
-      - 5109
-      scoredTimes:
-      - 2016-05-07T17:36:10Z
-      - 2016-05-07T18:56:43Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 1191
+        scoredSeconds:
+        - 276
+        - 5109
+        scoredTimes:
+        - 2016-05-07T17:36:10Z
+        - 2016-05-07T18:56:43Z
+        scoredWindowSeconds: 4833
   - - - '125'
       - Larry Bunner
-    - scoredFixes:
-      - 9
-      - 1885
-      scoredSeconds:
-      - 275
-      - 17257
-      scoredTimes:
-      - 2016-05-07T16:57:15Z
-      - 2016-05-07T21:40:17Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 1885
+        scoredSeconds:
+        - 275
+        - 17257
+        scoredTimes:
+        - 2016-05-07T16:57:15Z
+        - 2016-05-07T21:40:17Z
+        scoredWindowSeconds: 16982
   - - - '107'
       - Malcolm Brown
-    - scoredFixes:
-      - 0
-      - 1753
-      scoredSeconds:
-      - 0
-      - 17037
-      scoredTimes:
-      - 2016-05-07T16:55:06Z
-      - 2016-05-07T21:39:03Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1753
+        scoredSeconds:
+        - 0
+        - 17037
+        scoredTimes:
+        - 2016-05-07T16:55:06Z
+        - 2016-05-07T21:39:03Z
+        scoredWindowSeconds: 17037
   - - - '103'
       - Matt Christensen
-    - scoredFixes:
-      - 9
-      - 3169
-      scoredSeconds:
-      - 270
-      - 9776
-      scoredTimes:
-      - 2016-05-07T17:14:26Z
-      - 2016-05-07T19:52:52Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 3169
+        scoredSeconds:
+        - 270
+        - 9776
+        scoredTimes:
+        - 2016-05-07T17:14:26Z
+        - 2016-05-07T19:52:52Z
+        scoredWindowSeconds: 9506
   - - - '109'
       - Michael Williams
-    - scoredFixes:
-      - 0
-      - 1921
-      scoredSeconds:
-      - 0
-      - 16660
-      scoredTimes:
-      - 2016-05-07T17:23:57Z
-      - 2016-05-07T22:01:37Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1921
+        scoredSeconds:
+        - 0
+        - 16660
+        scoredTimes:
+        - 2016-05-07T17:23:57Z
+        - 2016-05-07T22:01:37Z
+        scoredWindowSeconds: 16660
   - - - '114'
       - Mick Howard
-    - scoredFixes:
-      - 9
-      - 8455
-      scoredSeconds:
-      - 276
-      - 17132
-      scoredTimes:
-      - 2016-05-07T17:19:13Z
-      - 2016-05-07T22:00:09Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 8455
+        scoredSeconds:
+        - 276
+        - 17132
+        scoredTimes:
+        - 2016-05-07T17:19:13Z
+        - 2016-05-07T22:00:09Z
+        scoredWindowSeconds: 16856
   - - - '120'
       - Mike Glennon
-    - scoredFixes:
-      - 12
-      - 4704
-      scoredSeconds:
-      - 36
-      - 14118
-      scoredTimes:
-      - 2016-05-07T17:14:54Z
-      - 2016-05-07T21:09:36Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 12
+        - 4704
+        scoredSeconds:
+        - 36
+        - 14118
+        scoredTimes:
+        - 2016-05-07T17:14:54Z
+        - 2016-05-07T21:09:36Z
+        scoredWindowSeconds: 14082
   - - - '129'
       - Mike Jefferson
-    - scoredFixes:
-      - 10
-      - 465
-      scoredSeconds:
-      - 307
-      - 4969
-      scoredTimes:
-      - 2016-05-07T17:51:09Z
-      - 2016-05-07T19:08:51Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 465
+        scoredSeconds:
+        - 307
+        - 4969
+        scoredTimes:
+        - 2016-05-07T17:51:09Z
+        - 2016-05-07T19:08:51Z
+        scoredWindowSeconds: 4662
   - - - '135'
       - Misael Rosalez
-    - scoredFixes:
-      - 3
-      - 5010
-      scoredSeconds:
-      - 90
-      - 15306
-      scoredTimes:
-      - 2016-05-07T17:25:52Z
-      - 2016-05-07T21:39:28Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 5010
+        scoredSeconds:
+        - 90
+        - 15306
+        scoredTimes:
+        - 2016-05-07T17:25:52Z
+        - 2016-05-07T21:39:28Z
+        scoredWindowSeconds: 15216
   - - - '133'
       - Olav Olsen
-    - scoredFixes:
-      - 7
-      - 5626
-      scoredSeconds:
-      - 21
-      - 15559
-      scoredTimes:
-      - 2016-05-07T17:31:47Z
-      - 2016-05-07T21:50:45Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 5626
+        scoredSeconds:
+        - 21
+        - 15559
+        scoredTimes:
+        - 2016-05-07T17:31:47Z
+        - 2016-05-07T21:50:45Z
+        scoredWindowSeconds: 15538
   - - - '113'
       - Olav Opsanger
-    - scoredFixes:
-      - 0
-      - 3542
-      scoredSeconds:
-      - 0
-      - 16862
-      scoredTimes:
-      - 2016-05-07T16:55:28Z
-      - 2016-05-07T21:36:30Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3542
+        scoredSeconds:
+        - 0
+        - 16862
+        scoredTimes:
+        - 2016-05-07T16:55:28Z
+        - 2016-05-07T21:36:30Z
+        scoredWindowSeconds: 16862
   - - - '121'
       - Oleg Bondarchuk
-    - scoredFixes:
-      - 22
-      - 1686
-      scoredSeconds:
-      - 221
-      - 16861
-      scoredTimes:
-      - 2016-05-07T16:57:26Z
-      - 2016-05-07T21:34:46Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 22
+        - 1686
+        scoredSeconds:
+        - 221
+        - 16861
+        scoredTimes:
+        - 2016-05-07T16:57:26Z
+        - 2016-05-07T21:34:46Z
+        scoredWindowSeconds: 16640
   - - - '141'
       - Patrick Halfhill
-    - scoredFixes:
-      - 0
-      - 2993
-      scoredSeconds:
-      - 0
-      - 9254
-      scoredTimes:
-      - 2016-05-07T17:21:53Z
-      - 2016-05-07T19:56:07Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2993
+        scoredSeconds:
+        - 0
+        - 9254
+        scoredTimes:
+        - 2016-05-07T17:21:53Z
+        - 2016-05-07T19:56:07Z
+        scoredWindowSeconds: 9254
   - - - '111'
       - Patrick Kruse
-    - scoredFixes:
-      - 3
-      - 2228
-      scoredSeconds:
-      - 92
-      - 19149
-      scoredTimes:
-      - 2016-05-07T16:39:35Z
-      - 2016-05-07T21:57:12Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 2228
+        scoredSeconds:
+        - 92
+        - 19149
+        scoredTimes:
+        - 2016-05-07T16:39:35Z
+        - 2016-05-07T21:57:12Z
+        scoredWindowSeconds: 19057
   - - - '124'
       - Patrick Pannese
-    - scoredFixes:
-      - 5
-      - 3838
-      scoredSeconds:
-      - 150
-      - 8096
-      scoredTimes:
-      - 2016-05-07T17:11:06Z
-      - 2016-05-07T19:23:32Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 3838
+        scoredSeconds:
+        - 150
+        - 8096
+        scoredTimes:
+        - 2016-05-07T17:11:06Z
+        - 2016-05-07T19:23:32Z
+        scoredWindowSeconds: 7946
   - - - '146'
       - Peter Kelley
-    - scoredFixes:
-      - 26
-      - 5858
-      scoredSeconds:
-      - 78
-      - 17585
-      scoredTimes:
-      - 2016-05-07T17:33:59Z
-      - 2016-05-07T22:25:46Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 26
+        - 5858
+        scoredSeconds:
+        - 78
+        - 17585
+        scoredTimes:
+        - 2016-05-07T17:33:59Z
+        - 2016-05-07T22:25:46Z
+        scoredWindowSeconds: 17507
   - - - '108'
       - Raul Guerra
-    - scoredFixes:
-      - 3
-      - 973
-      scoredSeconds:
-      - 30
-      - 9728
-      scoredTimes:
-      - 2016-05-07T16:44:19Z
-      - 2016-05-07T19:25:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 973
+        scoredSeconds:
+        - 30
+        - 9728
+        scoredTimes:
+        - 2016-05-07T16:44:19Z
+        - 2016-05-07T19:25:57Z
+        scoredWindowSeconds: 9698
   - - - '102'
       - Richard lovelace
-    - scoredFixes:
-      - 6
-      - 956
-      scoredSeconds:
-      - 184
-      - 9879
-      scoredTimes:
-      - 2016-05-07T16:44:00Z
-      - 2016-05-07T19:25:35Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 956
+        scoredSeconds:
+        - 184
+        - 9879
+        scoredTimes:
+        - 2016-05-07T16:44:00Z
+        - 2016-05-07T19:25:35Z
+        scoredWindowSeconds: 9695
   - - - '117'
       - Robert Dallas
-    - scoredFixes:
-      - 2
-      - 6392
-      scoredSeconds:
-      - 62
-      - 13327
-      scoredTimes:
-      - 2016-05-07T17:19:29Z
-      - 2016-05-07T21:00:34Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 6392
+        scoredSeconds:
+        - 62
+        - 13327
+        scoredTimes:
+        - 2016-05-07T17:19:29Z
+        - 2016-05-07T21:00:34Z
+        scoredWindowSeconds: 13265
   - - - '131'
       - Robin Hamilton
-    - scoredFixes:
-      - 0
-      - 8625
-      scoredSeconds:
-      - 0
-      - 17238
-      scoredTimes:
-      - 2016-05-07T16:50:12Z
-      - 2016-05-07T21:37:30Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 8625
+        scoredSeconds:
+        - 0
+        - 17238
+        scoredTimes:
+        - 2016-05-07T16:50:12Z
+        - 2016-05-07T21:37:30Z
+        scoredWindowSeconds: 17238
   - - - '145'
       - Roger Irby
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '112'
       - Sergey Kataev
-    - scoredFixes:
-      - 19
-      - 2166
-      scoredSeconds:
-      - 57
-      - 6544
-      scoredTimes:
-      - 2016-05-07T17:37:02Z
-      - 2016-05-07T19:25:09Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 19
+        - 2166
+        scoredSeconds:
+        - 57
+        - 6544
+        scoredTimes:
+        - 2016-05-07T17:37:02Z
+        - 2016-05-07T19:25:09Z
+        scoredWindowSeconds: 6487
   - - - '144'
       - Tom Lanning
-    - scoredFixes:
-      - 0
-      - 865
-      scoredSeconds:
-      - 0
-      - 3805
-      scoredTimes:
-      - 2016-05-07T17:15:05Z
-      - 2016-05-07T18:18:30Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 865
+        scoredSeconds:
+        - 0
+        - 3805
+        scoredTimes:
+        - 2016-05-07T17:15:05Z
+        - 2016-05-07T18:18:30Z
+        scoredWindowSeconds: 3805
   - - - '139'
       - Tullio Gervasoni
-    - scoredFixes:
-      - 8
-      - 1744
-      scoredSeconds:
-      - 240
-      - 16154
-      scoredTimes:
-      - 2016-05-07T17:09:48Z
-      - 2016-05-07T21:35:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 8
+        - 1744
+        scoredSeconds:
+        - 240
+        - 16154
+        scoredTimes:
+        - 2016-05-07T17:09:48Z
+        - 2016-05-07T21:35:02Z
+        scoredWindowSeconds: 15914
   - - - '137'
       - Yoko Isomoto
-    - scoredFixes:
-      - 0
-      - 1875
-      scoredSeconds:
-      - 0
-      - 9785
-      scoredTimes:
-      - 2016-05-07T17:06:52Z
-      - 2016-05-07T19:49:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1875
+        scoredSeconds:
+        - 0
+        - 9785
+        scoredTimes:
+        - 2016-05-07T17:06:52Z
+        - 2016-05-07T19:49:57Z
+        scoredWindowSeconds: 9785
   - - - '128'
       - Zac Majors
-    - scoredFixes:
-      - 804
-      - 8064
-      scoredSeconds:
-      - 1644
-      - 16326
-      scoredTimes:
-      - 2016-05-07T17:32:04Z
-      - 2016-05-07T21:36:46Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 804
+        - 8064
+        scoredSeconds:
+        - 1644
+        - 16326
+        scoredTimes:
+        - 2016-05-07T17:32:04Z
+        - 2016-05-07T21:36:46Z
+        scoredWindowSeconds: 14682
 - - - - '115'
       - Andrew Hollidge
-    - scoredFixes:
-      - 0
-      - 2754
-      scoredSeconds:
-      - 0
-      - 13834
-      scoredTimes:
-      - 2016-05-08T17:00:58Z
-      - 2016-05-08T20:51:32Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2754
+        scoredSeconds:
+        - 0
+        - 13834
+        scoredTimes:
+        - 2016-05-08T17:00:58Z
+        - 2016-05-08T20:51:32Z
+        scoredWindowSeconds: 13834
   - - - '143'
       - Anna Eppink
-    - scoredFixes:
-      - 0
-      - 3871
-      scoredSeconds:
-      - 0
-      - 18573
-      scoredTimes:
-      - 2016-05-08T17:03:24Z
-      - 2016-05-08T22:12:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3871
+        scoredSeconds:
+        - 0
+        - 18573
+        scoredTimes:
+        - 2016-05-08T17:03:24Z
+        - 2016-05-08T22:12:57Z
+        scoredWindowSeconds: 18573
   - - - '119'
       - Bart Weghorst
-    - scoredFixes:
-      - 0
-      - 3577
-      scoredSeconds:
-      - 0
-      - 17733
-      scoredTimes:
-      - 2016-05-08T16:50:58Z
-      - 2016-05-08T21:46:31Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3577
+        scoredSeconds:
+        - 0
+        - 17733
+        scoredTimes:
+        - 2016-05-08T16:50:58Z
+        - 2016-05-08T21:46:31Z
+        scoredWindowSeconds: 17733
   - - - '140'
       - Bill Vickery
-    - scoredFixes:
-      - 0
-      - 5616
-      scoredSeconds:
-      - 0
-      - 11231
-      scoredTimes:
-      - 2016-05-08T16:38:50Z
-      - 2016-05-08T19:46:01Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5616
+        scoredSeconds:
+        - 0
+        - 11231
+        scoredTimes:
+        - 2016-05-08T16:38:50Z
+        - 2016-05-08T19:46:01Z
+        scoredWindowSeconds: 11231
   - - - '104'
       - Christian Pollet
-    - scoredFixes:
-      - 24
-      - 1703
-      scoredSeconds:
-      - 48
-      - 3431
-      scoredTimes:
-      - 2016-05-08T17:32:14Z
-      - 2016-05-08T18:28:37Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 24
+        - 1703
+        scoredSeconds:
+        - 48
+        - 3431
+        scoredTimes:
+        - 2016-05-08T17:32:14Z
+        - 2016-05-08T18:28:37Z
+        scoredWindowSeconds: 3383
   - - - '150'
       - Claudia Mejia
-    - scoredFixes:
-      - 0
-      - 7782
-      scoredSeconds:
-      - 0
-      - 16867
-      scoredTimes:
-      - 2016-05-08T16:33:31Z
-      - 2016-05-08T21:14:38Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7782
+        scoredSeconds:
+        - 0
+        - 16867
+        scoredTimes:
+        - 2016-05-08T16:33:31Z
+        - 2016-05-08T21:14:38Z
+        scoredWindowSeconds: 16867
   - - - '110'
       - Cory Barnwell
-    - scoredFixes:
-      - 0
-      - 6330
-      scoredSeconds:
-      - 0
-      - 18939
-      scoredTimes:
-      - 2016-05-08T17:18:56Z
-      - 2016-05-08T22:34:35Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6330
+        scoredSeconds:
+        - 0
+        - 18939
+        scoredTimes:
+        - 2016-05-08T17:18:56Z
+        - 2016-05-08T22:34:35Z
+        scoredWindowSeconds: 18939
   - - - '101'
       - Davis Straub
-    - scoredFixes:
-      - 2
-      - 2761
-      scoredSeconds:
-      - 62
-      - 14219
-      scoredTimes:
-      - 2016-05-08T17:14:17Z
-      - 2016-05-08T21:10:14Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 2761
+        scoredSeconds:
+        - 62
+        - 14219
+        scoredTimes:
+        - 2016-05-08T17:14:17Z
+        - 2016-05-08T21:10:14Z
+        scoredWindowSeconds: 14157
   - - - '106'
       - Fabiano Nahoum
-    - scoredFixes:
-      - 0
-      - 1901
-      scoredSeconds:
-      - 0
-      - 17919
-      scoredTimes:
-      - 2016-05-08T16:49:48Z
-      - 2016-05-08T21:48:27Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1901
+        scoredSeconds:
+        - 0
+        - 17919
+        scoredTimes:
+        - 2016-05-08T16:49:48Z
+        - 2016-05-08T21:48:27Z
+        scoredWindowSeconds: 17919
   - - - '127'
       - Gerry Pesavento
-    - scoredFixes:
-      - 0
-      - 3910
-      scoredSeconds:
-      - 0
-      - 19315
-      scoredTimes:
-      - 2016-05-08T16:45:53Z
-      - 2016-05-08T22:07:48Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3910
+        scoredSeconds:
+        - 0
+        - 19315
+        scoredTimes:
+        - 2016-05-08T16:45:53Z
+        - 2016-05-08T22:07:48Z
+        scoredWindowSeconds: 19315
   - - - '118'
       - Ingo Heilmann
-    - scoredFixes:
-      - 21
-      - 3682
-      scoredSeconds:
-      - 21
-      - 3688
-      scoredTimes:
-      - 2016-05-08T17:14:26Z
-      - 2016-05-08T18:15:33Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 21
+        - 3682
+        scoredSeconds:
+        - 21
+        - 3688
+        scoredTimes:
+        - 2016-05-08T17:14:26Z
+        - 2016-05-08T18:15:33Z
+        scoredWindowSeconds: 3667
   - - - '123'
       - JD Guillemette
-    - scoredFixes:
-      - 0
-      - 3895
-      scoredSeconds:
-      - 0
-      - 19295
-      scoredTimes:
-      - 2016-05-08T16:38:01Z
-      - 2016-05-08T21:59:36Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3895
+        scoredSeconds:
+        - 0
+        - 19295
+        scoredTimes:
+        - 2016-05-08T16:38:01Z
+        - 2016-05-08T21:59:36Z
+        scoredWindowSeconds: 19295
   - - - '132'
       - James Stinnett
-    - scoredFixes:
-      - 0
-      - 2086
-      scoredSeconds:
-      - 0
-      - 17576
-      scoredTimes:
-      - 2016-05-08T16:53:32Z
-      - 2016-05-08T21:46:28Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2086
+        scoredSeconds:
+        - 0
+        - 17576
+        scoredTimes:
+        - 2016-05-08T16:53:32Z
+        - 2016-05-08T21:46:28Z
+        scoredWindowSeconds: 17576
   - - - '126'
       - Jeff Kannard
-    - scoredFixes:
-      - 3
-      - 3061
-      scoredSeconds:
-      - 92
-      - 9545
-      scoredTimes:
-      - 2016-05-08T17:13:56Z
-      - 2016-05-08T19:51:29Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 3061
+        scoredSeconds:
+        - 92
+        - 9545
+        scoredTimes:
+        - 2016-05-08T17:13:56Z
+        - 2016-05-08T19:51:29Z
+        scoredWindowSeconds: 9453
   - - - '116'
       - Jeffery Bohl
-    - scoredFixes:
-      - 0
-      - 5978
-      scoredSeconds:
-      - 0
-      - 18437
-      scoredTimes:
-      - 2016-05-08T17:07:16Z
-      - 2016-05-08T22:14:33Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5978
+        scoredSeconds:
+        - 0
+        - 18437
+        scoredTimes:
+        - 2016-05-08T17:07:16Z
+        - 2016-05-08T22:14:33Z
+        scoredWindowSeconds: 18437
   - - - '142'
       - John Simon
-    - scoredFixes:
-      - 20
-      - 6148
-      scoredSeconds:
-      - 100
-      - 17525
-      scoredTimes:
-      - 2016-05-08T16:56:21Z
-      - 2016-05-08T21:46:46Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 20
+        - 6148
+        scoredSeconds:
+        - 100
+        - 17525
+        scoredTimes:
+        - 2016-05-08T16:56:21Z
+        - 2016-05-08T21:46:46Z
+        scoredWindowSeconds: 17425
   - - - '138'
       - Jonny Durand
-    - scoredFixes:
-      - 22
-      - 1738
-      scoredSeconds:
-      - 220
-      - 16237
-      scoredTimes:
-      - 2016-05-08T17:07:54Z
-      - 2016-05-08T21:34:51Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 22
+        - 1738
+        scoredSeconds:
+        - 220
+        - 16237
+        scoredTimes:
+        - 2016-05-08T17:07:54Z
+        - 2016-05-08T21:34:51Z
+        scoredWindowSeconds: 16017
   - - - '134'
       - Kinsley Sykes
-    - scoredFixes:
-      - 9
-      - 3473
-      scoredSeconds:
-      - 275
-      - 14297
-      scoredTimes:
-      - 2016-05-08T16:32:28Z
-      - 2016-05-08T20:26:10Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 3473
+        scoredSeconds:
+        - 275
+        - 14297
+        scoredTimes:
+        - 2016-05-08T16:32:28Z
+        - 2016-05-08T20:26:10Z
+        scoredWindowSeconds: 14022
   - - - '125'
       - Larry Bunner
-    - scoredFixes:
-      - 0
-      - 1755
-      scoredSeconds:
-      - 0
-      - 16325
-      scoredTimes:
-      - 2016-05-08T16:56:24Z
-      - 2016-05-08T21:28:29Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1755
+        scoredSeconds:
+        - 0
+        - 16325
+        scoredTimes:
+        - 2016-05-08T16:56:24Z
+        - 2016-05-08T21:28:29Z
+        scoredWindowSeconds: 16325
   - - - '107'
       - Malcolm Brown
-    - scoredFixes:
-      - 48
-      - 18041
-      scoredSeconds:
-      - 48
-      - 18041
-      scoredTimes:
-      - 2016-05-08T17:00:09Z
-      - 2016-05-08T22:00:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 48
+        - 18041
+        scoredSeconds:
+        - 48
+        - 18041
+        scoredTimes:
+        - 2016-05-08T17:00:09Z
+        - 2016-05-08T22:00:02Z
+        scoredWindowSeconds: 17993
   - - - '103'
       - Matt Christensen
-    - scoredFixes:
-      - 7
-      - 7054
-      scoredSeconds:
-      - 210
-      - 21446
-      scoredTimes:
-      - 2016-05-08T16:42:43Z
-      - 2016-05-08T22:36:39Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 7054
+        scoredSeconds:
+        - 210
+        - 21446
+        scoredTimes:
+        - 2016-05-08T16:42:43Z
+        - 2016-05-08T22:36:39Z
+        scoredWindowSeconds: 21236
   - - - '109'
       - Michael Williams
-    - scoredFixes:
-      - 5
-      - 1068
-      scoredSeconds:
-      - 153
-      - 10963
-      scoredTimes:
-      - 2016-05-08T16:49:40Z
-      - 2016-05-08T19:49:50Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 1068
+        scoredSeconds:
+        - 153
+        - 10963
+        scoredTimes:
+        - 2016-05-08T16:49:40Z
+        - 2016-05-08T19:49:50Z
+        scoredWindowSeconds: 10810
   - - - '114'
       - Mick Howard
-    - scoredFixes:
-      - 2
-      - 2561
-      scoredSeconds:
-      - 61
-      - 5287
-      scoredTimes:
-      - 2016-05-08T16:57:29Z
-      - 2016-05-08T18:24:35Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 2561
+        scoredSeconds:
+        - 61
+        - 5287
+        scoredTimes:
+        - 2016-05-08T16:57:29Z
+        - 2016-05-08T18:24:35Z
+        scoredWindowSeconds: 5226
   - - - '120'
       - Mike Glennon
-    - scoredFixes:
-      - 24
-      - 6657
-      scoredSeconds:
-      - 72
-      - 19640
-      scoredTimes:
-      - 2016-05-08T16:48:08Z
-      - 2016-05-08T22:14:16Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 24
+        - 6657
+        scoredSeconds:
+        - 72
+        - 19640
+        scoredTimes:
+        - 2016-05-08T16:48:08Z
+        - 2016-05-08T22:14:16Z
+        scoredWindowSeconds: 19568
   - - - '129'
       - Mike Jefferson
-    - scoredFixes:
-      - 8
-      - 917
-      scoredSeconds:
-      - 245
-      - 9474
-      scoredTimes:
-      - 2016-05-08T16:37:31Z
-      - 2016-05-08T19:11:20Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 8
+        - 917
+        scoredSeconds:
+        - 245
+        - 9474
+        scoredTimes:
+        - 2016-05-08T16:37:31Z
+        - 2016-05-08T19:11:20Z
+        scoredWindowSeconds: 9229
   - - - '135'
       - Misael Rosalez
-    - scoredFixes:
-      - 0
-      - 5162
-      scoredSeconds:
-      - 0
-      - 15763
-      scoredTimes:
-      - 2016-05-08T16:45:34Z
-      - 2016-05-08T21:08:17Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5162
+        scoredSeconds:
+        - 0
+        - 15763
+        scoredTimes:
+        - 2016-05-08T16:45:34Z
+        - 2016-05-08T21:08:17Z
+        scoredWindowSeconds: 15763
   - - - '133'
       - Olav Olsen
-    - scoredFixes:
-      - 16
-      - 2974
-      scoredSeconds:
-      - 49
-      - 8934
-      scoredTimes:
-      - 2016-05-08T16:54:30Z
-      - 2016-05-08T19:22:35Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 16
+        - 2974
+        scoredSeconds:
+        - 49
+        - 8934
+        scoredTimes:
+        - 2016-05-08T16:54:30Z
+        - 2016-05-08T19:22:35Z
+        scoredWindowSeconds: 8885
   - - - '113'
       - Olav Opsanger
-    - scoredFixes:
-      - 0
-      - 3177
-      scoredSeconds:
-      - 0
-      - 15610
-      scoredTimes:
-      - 2016-05-08T17:03:34Z
-      - 2016-05-08T21:23:44Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3177
+        scoredSeconds:
+        - 0
+        - 15610
+        scoredTimes:
+        - 2016-05-08T17:03:34Z
+        - 2016-05-08T21:23:44Z
+        scoredWindowSeconds: 15610
   - - - '121'
       - Oleg Bondarchuk
-    - scoredFixes:
-      - 21
-      - 1645
-      scoredSeconds:
-      - 210
-      - 16449
-      scoredTimes:
-      - 2016-05-08T17:04:34Z
-      - 2016-05-08T21:35:13Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 21
+        - 1645
+        scoredSeconds:
+        - 210
+        - 16449
+        scoredTimes:
+        - 2016-05-08T17:04:34Z
+        - 2016-05-08T21:35:13Z
+        scoredWindowSeconds: 16239
   - - - '141'
       - Patrick Halfhill
-    - scoredFixes:
-      - 0
-      - 4165
-      scoredSeconds:
-      - 0
-      - 12783
-      scoredTimes:
-      - 2016-05-08T17:11:33Z
-      - 2016-05-08T20:44:36Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4165
+        scoredSeconds:
+        - 0
+        - 12783
+        scoredTimes:
+        - 2016-05-08T17:11:33Z
+        - 2016-05-08T20:44:36Z
+        scoredWindowSeconds: 12783
   - - - '111'
       - Patrick Kruse
-    - scoredFixes:
-      - 0
-      - 2284
-      scoredSeconds:
-      - 0
-      - 17873
-      scoredTimes:
-      - 2016-05-08T16:49:49Z
-      - 2016-05-08T21:47:42Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2284
+        scoredSeconds:
+        - 0
+        - 17873
+        scoredTimes:
+        - 2016-05-08T16:49:49Z
+        - 2016-05-08T21:47:42Z
+        scoredWindowSeconds: 17873
   - - - '124'
       - Patrick Pannese
-    - scoredFixes:
-      - 6
-      - 7606
-      scoredSeconds:
-      - 180
-      - 15681
-      scoredTimes:
-      - 2016-05-08T16:47:43Z
-      - 2016-05-08T21:06:04Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 7606
+        scoredSeconds:
+        - 180
+        - 15681
+        scoredTimes:
+        - 2016-05-08T16:47:43Z
+        - 2016-05-08T21:06:04Z
+        scoredWindowSeconds: 15501
   - - - '146'
       - Peter Kelley
-    - scoredFixes:
-      - 25
-      - 3178
-      scoredSeconds:
-      - 75
-      - 9581
-      scoredTimes:
-      - 2016-05-08T17:09:48Z
-      - 2016-05-08T19:48:14Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 3178
+        scoredSeconds:
+        - 75
+        - 9581
+        scoredTimes:
+        - 2016-05-08T17:09:48Z
+        - 2016-05-08T19:48:14Z
+        scoredWindowSeconds: 9506
   - - - '108'
       - Raul Guerra
-    - scoredFixes:
-      - 0
-      - 2123
-      scoredSeconds:
-      - 0
-      - 19173
-      scoredTimes:
-      - 2016-05-08T17:10:35Z
-      - 2016-05-08T22:30:08Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2123
+        scoredSeconds:
+        - 0
+        - 19173
+        scoredTimes:
+        - 2016-05-08T17:10:35Z
+        - 2016-05-08T22:30:08Z
+        scoredWindowSeconds: 19173
   - - - '102'
       - Richard lovelace
-    - scoredFixes:
-      - 9
-      - 1344
-      scoredSeconds:
-      - 275
-      - 13757
-      scoredTimes:
-      - 2016-05-08T16:40:44Z
-      - 2016-05-08T20:25:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 1344
+        scoredSeconds:
+        - 275
+        - 13757
+        scoredTimes:
+        - 2016-05-08T16:40:44Z
+        - 2016-05-08T20:25:26Z
+        scoredWindowSeconds: 13482
   - - - '117'
       - Robert Dallas
-    - scoredFixes:
-      - 0
-      - 7315
-      scoredSeconds:
-      - 0
-      - 14790
-      scoredTimes:
-      - 2016-05-08T17:06:48Z
-      - 2016-05-08T21:13:18Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7315
+        scoredSeconds:
+        - 0
+        - 14790
+        scoredTimes:
+        - 2016-05-08T17:06:48Z
+        - 2016-05-08T21:13:18Z
+        scoredWindowSeconds: 14790
   - - - '131'
       - Robin Hamilton
-    - scoredFixes:
-      - 0
-      - 8506
-      scoredSeconds:
-      - 0
-      - 17085
-      scoredTimes:
-      - 2016-05-08T17:02:54Z
-      - 2016-05-08T21:47:39Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 8506
+        scoredSeconds:
+        - 0
+        - 17085
+        scoredTimes:
+        - 2016-05-08T17:02:54Z
+        - 2016-05-08T21:47:39Z
+        scoredWindowSeconds: 17085
   - - - '145'
       - Roger Irby
-    - scoredFixes:
-      - 0
-      - 2743
-      scoredSeconds:
-      - 0
-      - 14083
-      scoredTimes:
-      - 2016-05-08T17:17:12Z
-      - 2016-05-08T21:11:55Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2743
+        scoredSeconds:
+        - 0
+        - 14083
+        scoredTimes:
+        - 2016-05-08T17:17:12Z
+        - 2016-05-08T21:11:55Z
+        scoredWindowSeconds: 14083
   - - - '112'
       - Sergey Kataev
-    - scoredFixes:
-      - 26
-      - 3356
-      scoredSeconds:
-      - 78
-      - 10144
-      scoredTimes:
-      - 2016-05-08T17:19:51Z
-      - 2016-05-08T20:07:37Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 26
+        - 3356
+        scoredSeconds:
+        - 78
+        - 10144
+        scoredTimes:
+        - 2016-05-08T17:19:51Z
+        - 2016-05-08T20:07:37Z
+        scoredWindowSeconds: 10066
   - - - '144'
       - Tom Lanning
-    - scoredFixes:
-      - 0
-      - 5288
-      scoredSeconds:
-      - 0
-      - 20938
-      scoredTimes:
-      - 2016-05-08T16:35:28Z
-      - 2016-05-08T22:24:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5288
+        scoredSeconds:
+        - 0
+        - 20938
+        scoredTimes:
+        - 2016-05-08T16:35:28Z
+        - 2016-05-08T22:24:26Z
+        scoredWindowSeconds: 20938
   - - - '139'
       - Tullio Gervasoni
-    - scoredFixes:
-      - 7
-      - 1842
-      scoredSeconds:
-      - 211
-      - 16329
-      scoredTimes:
-      - 2016-05-08T17:02:56Z
-      - 2016-05-08T21:31:34Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 1842
+        scoredSeconds:
+        - 211
+        - 16329
+        scoredTimes:
+        - 2016-05-08T17:02:56Z
+        - 2016-05-08T21:31:34Z
+        scoredWindowSeconds: 16118
   - - - '137'
       - Yoko Isomoto
-    - scoredFixes:
-      - 6
-      - 3982
-      scoredSeconds:
-      - 184
-      - 20391
-      scoredTimes:
-      - 2016-05-08T16:39:37Z
-      - 2016-05-08T22:16:24Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 3982
+        scoredSeconds:
+        - 184
+        - 20391
+        scoredTimes:
+        - 2016-05-08T16:39:37Z
+        - 2016-05-08T22:16:24Z
+        scoredWindowSeconds: 20207
   - - - '128'
       - Zac Majors
-    - scoredFixes:
-      - 0
-      - 7427
-      scoredSeconds:
-      - 0
-      - 15314
-      scoredTimes:
-      - 2016-05-08T16:58:42Z
-      - 2016-05-08T21:13:56Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7427
+        scoredSeconds:
+        - 0
+        - 15314
+        scoredTimes:
+        - 2016-05-08T16:58:42Z
+        - 2016-05-08T21:13:56Z
+        scoredWindowSeconds: 15314
 - - - - '115'
       - Andrew Hollidge
-    - scoredFixes:
-      - 0
-      - 2578
-      scoredSeconds:
-      - 0
-      - 12314
-      scoredTimes:
-      - 2016-05-09T17:47:16Z
-      - 2016-05-09T21:12:30Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2578
+        scoredSeconds:
+        - 0
+        - 12314
+        scoredTimes:
+        - 2016-05-09T17:47:16Z
+        - 2016-05-09T21:12:30Z
+        scoredWindowSeconds: 12314
   - - - '143'
       - Anna Eppink
-    - scoredFixes:
-      - 0
-      - 2864
-      scoredSeconds:
-      - 0
-      - 14685
-      scoredTimes:
-      - 2016-05-09T17:55:26Z
-      - 2016-05-09T22:00:11Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2864
+        scoredSeconds:
+        - 0
+        - 14685
+        scoredTimes:
+        - 2016-05-09T17:55:26Z
+        - 2016-05-09T22:00:11Z
+        scoredWindowSeconds: 14685
   - - - '119'
       - Bart Weghorst
-    - scoredFixes:
-      - 0
-      - 2257
-      scoredSeconds:
-      - 0
-      - 11670
-      scoredTimes:
-      - 2016-05-09T17:43:22Z
-      - 2016-05-09T20:57:52Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2257
+        scoredSeconds:
+        - 0
+        - 11670
+        scoredTimes:
+        - 2016-05-09T17:43:22Z
+        - 2016-05-09T20:57:52Z
+        scoredWindowSeconds: 11670
   - - - '140'
       - Bill Vickery
-    - scoredFixes:
-      - 0
-      - 5379
-      scoredSeconds:
-      - 0
-      - 10759
-      scoredTimes:
-      - 2016-05-09T17:30:34Z
-      - 2016-05-09T20:29:53Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5379
+        scoredSeconds:
+        - 0
+        - 10759
+        scoredTimes:
+        - 2016-05-09T17:30:34Z
+        - 2016-05-09T20:29:53Z
+        scoredWindowSeconds: 10759
   - - - '104'
       - Christian Pollet
-    - scoredFixes:
-      - 23
-      - 6847
-      scoredSeconds:
-      - 46
-      - 13712
-      scoredTimes:
-      - 2016-05-09T17:34:03Z
-      - 2016-05-09T21:21:49Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 23
+        - 6847
+        scoredSeconds:
+        - 46
+        - 13712
+        scoredTimes:
+        - 2016-05-09T17:34:03Z
+        - 2016-05-09T21:21:49Z
+        scoredWindowSeconds: 13666
   - - - '150'
       - Claudia Mejia
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '110'
       - Cory Barnwell
-    - scoredFixes:
-      - 8
-      - 2738
-      scoredSeconds:
-      - 246
-      - 8594
-      scoredTimes:
-      - 2016-05-09T18:03:27Z
-      - 2016-05-09T20:22:35Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 8
+        - 2738
+        scoredSeconds:
+        - 246
+        - 8594
+        scoredTimes:
+        - 2016-05-09T18:03:27Z
+        - 2016-05-09T20:22:35Z
+        scoredWindowSeconds: 8348
   - - - '101'
       - Davis Straub
-    - scoredFixes:
-      - 3
-      - 2797
-      scoredSeconds:
-      - 92
-      - 13781
-      scoredTimes:
-      - 2016-05-09T17:33:47Z
-      - 2016-05-09T21:21:56Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 2797
+        scoredSeconds:
+        - 92
+        - 13781
+        scoredTimes:
+        - 2016-05-09T17:33:47Z
+        - 2016-05-09T21:21:56Z
+        scoredWindowSeconds: 13689
   - - - '106'
       - Fabiano Nahoum
-    - scoredFixes:
-      - 0
-      - 1451
-      scoredSeconds:
-      - 0
-      - 12660
-      scoredTimes:
-      - 2016-05-09T17:41:56Z
-      - 2016-05-09T21:12:56Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1451
+        scoredSeconds:
+        - 0
+        - 12660
+        scoredTimes:
+        - 2016-05-09T17:41:56Z
+        - 2016-05-09T21:12:56Z
+        scoredWindowSeconds: 12660
   - - - '127'
       - Gerry Pesavento
-    - scoredFixes:
-      - 0
-      - 2596
-      scoredSeconds:
-      - 0
-      - 12831
-      scoredTimes:
-      - 2016-05-09T17:40:53Z
-      - 2016-05-09T21:14:44Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2596
+        scoredSeconds:
+        - 0
+        - 12831
+        scoredTimes:
+        - 2016-05-09T17:40:53Z
+        - 2016-05-09T21:14:44Z
+        scoredWindowSeconds: 12831
   - - - '118'
       - Ingo Heilmann
-    - scoredFixes:
-      - 20
-      - 12337
-      scoredSeconds:
-      - 20
-      - 12365
-      scoredTimes:
-      - 2016-05-09T18:12:56Z
-      - 2016-05-09T21:38:41Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 20
+        - 12337
+        scoredSeconds:
+        - 20
+        - 12365
+        scoredTimes:
+        - 2016-05-09T18:12:56Z
+        - 2016-05-09T21:38:41Z
+        scoredWindowSeconds: 12345
   - - - '123'
       - JD Guillemette
-    - scoredFixes:
-      - 0
-      - 2337
-      scoredSeconds:
-      - 0
-      - 12218
-      scoredTimes:
-      - 2016-05-09T17:54:52Z
-      - 2016-05-09T21:18:30Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2337
+        scoredSeconds:
+        - 0
+        - 12218
+        scoredTimes:
+        - 2016-05-09T17:54:52Z
+        - 2016-05-09T21:18:30Z
+        scoredWindowSeconds: 12218
   - - - '132'
       - James Stinnett
-    - scoredFixes:
-      - 3
-      - 1357
-      scoredSeconds:
-      - 92
-      - 12506
-      scoredTimes:
-      - 2016-05-09T17:48:01Z
-      - 2016-05-09T21:14:55Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 1357
+        scoredSeconds:
+        - 92
+        - 12506
+        scoredTimes:
+        - 2016-05-09T17:48:01Z
+        - 2016-05-09T21:14:55Z
+        scoredWindowSeconds: 12414
   - - - '126'
       - Jeff Kannard
-    - scoredFixes:
-      - 0
-      - 2155
-      scoredSeconds:
-      - 0
-      - 6597
-      scoredTimes:
-      - 2016-05-09T18:09:04Z
-      - 2016-05-09T19:59:01Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2155
+        scoredSeconds:
+        - 0
+        - 6597
+        scoredTimes:
+        - 2016-05-09T18:09:04Z
+        - 2016-05-09T19:59:01Z
+        scoredWindowSeconds: 6597
   - - - '116'
       - Jeffery Bohl
-    - scoredFixes:
-      - 0
-      - 4528
-      scoredSeconds:
-      - 0
-      - 13843
-      scoredTimes:
-      - 2016-05-09T18:02:12Z
-      - 2016-05-09T21:52:55Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4528
+        scoredSeconds:
+        - 0
+        - 13843
+        scoredTimes:
+        - 2016-05-09T18:02:12Z
+        - 2016-05-09T21:52:55Z
+        scoredWindowSeconds: 13843
   - - - '142'
       - John Simon
-    - scoredFixes:
-      - 57
-      - 4596
-      scoredSeconds:
-      - 285
-      - 13250
-      scoredTimes:
-      - 2016-05-09T17:48:50Z
-      - 2016-05-09T21:24:55Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 57
+        - 4596
+        scoredSeconds:
+        - 285
+        - 13250
+        scoredTimes:
+        - 2016-05-09T17:48:50Z
+        - 2016-05-09T21:24:55Z
+        scoredWindowSeconds: 12965
   - - - '138'
       - Jonny Durand
-    - scoredFixes:
-      - 0
-      - 1290
-      scoredSeconds:
-      - 0
-      - 11837
-      scoredTimes:
-      - 2016-05-09T17:52:09Z
-      - 2016-05-09T21:09:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1290
+        scoredSeconds:
+        - 0
+        - 11837
+        scoredTimes:
+        - 2016-05-09T17:52:09Z
+        - 2016-05-09T21:09:26Z
+        scoredWindowSeconds: 11837
   - - - '134'
       - Kinsley Sykes
-    - scoredFixes:
-      - 9
-      - 2390
-      scoredSeconds:
-      - 275
-      - 9900
-      scoredTimes:
-      - 2016-05-09T18:11:37Z
-      - 2016-05-09T20:52:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 2390
+        scoredSeconds:
+        - 275
+        - 9900
+        scoredTimes:
+        - 2016-05-09T18:11:37Z
+        - 2016-05-09T20:52:02Z
+        scoredWindowSeconds: 9625
   - - - '125'
       - Larry Bunner
-    - scoredFixes:
-      - 3
-      - 1491
-      scoredSeconds:
-      - 92
-      - 13930
-      scoredTimes:
-      - 2016-05-09T17:49:09Z
-      - 2016-05-09T21:39:47Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 1491
+        scoredSeconds:
+        - 92
+        - 13930
+        scoredTimes:
+        - 2016-05-09T17:49:09Z
+        - 2016-05-09T21:39:47Z
+        scoredWindowSeconds: 13838
   - - - '107'
       - Malcolm Brown
-    - scoredFixes:
-      - 5
-      - 1442
-      scoredSeconds:
-      - 153
-      - 13565
-      scoredTimes:
-      - 2016-05-09T17:42:30Z
-      - 2016-05-09T21:26:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 1442
+        scoredSeconds:
+        - 153
+        - 13565
+        scoredTimes:
+        - 2016-05-09T17:42:30Z
+        - 2016-05-09T21:26:02Z
+        scoredWindowSeconds: 13412
   - - - '103'
       - Matt Christensen
-    - scoredFixes:
-      - 1788
-      - 13936
-      scoredSeconds:
-      - 1820
-      - 14176
-      scoredTimes:
-      - 2016-05-09T18:07:13Z
-      - 2016-05-09T21:33:09Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 1788
+        - 13936
+        scoredSeconds:
+        - 1820
+        - 14176
+        scoredTimes:
+        - 2016-05-09T18:07:13Z
+        - 2016-05-09T21:33:09Z
+        scoredWindowSeconds: 12356
   - - - '114'
       - Mick Howard
-    - scoredFixes:
-      - 0
-      - 7627
-      scoredSeconds:
-      - 0
-      - 15717
-      scoredTimes:
-      - 2016-05-09T18:00:40Z
-      - 2016-05-09T22:22:37Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7627
+        scoredSeconds:
+        - 0
+        - 15717
+        scoredTimes:
+        - 2016-05-09T18:00:40Z
+        - 2016-05-09T22:22:37Z
+        scoredWindowSeconds: 15717
   - - - '120'
       - Mike Glennon
-    - scoredFixes:
-      - 2
-      - 4683
-      scoredSeconds:
-      - 6
-      - 13713
-      scoredTimes:
-      - 2016-05-09T17:58:13Z
-      - 2016-05-09T21:46:40Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 4683
+        scoredSeconds:
+        - 6
+        - 13713
+        scoredTimes:
+        - 2016-05-09T17:58:13Z
+        - 2016-05-09T21:46:40Z
+        scoredWindowSeconds: 13707
   - - - '129'
       - Mike Jefferson
-    - scoredFixes:
-      - 4
-      - 1121
-      scoredSeconds:
-      - 122
-      - 11537
-      scoredTimes:
-      - 2016-05-09T17:35:51Z
-      - 2016-05-09T20:46:06Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 1121
+        scoredSeconds:
+        - 122
+        - 11537
+        scoredTimes:
+        - 2016-05-09T17:35:51Z
+        - 2016-05-09T20:46:06Z
+        scoredWindowSeconds: 11415
   - - - '135'
       - Misael Rosalez
-    - scoredFixes:
-      - 0
-      - 4510
-      scoredSeconds:
-      - 0
-      - 13553
-      scoredTimes:
-      - 2016-05-09T17:58:45Z
-      - 2016-05-09T21:44:38Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4510
+        scoredSeconds:
+        - 0
+        - 13553
+        scoredTimes:
+        - 2016-05-09T17:58:45Z
+        - 2016-05-09T21:44:38Z
+        scoredWindowSeconds: 13553
   - - - '133'
       - Olav Olsen
-    - scoredFixes:
-      - 0
-      - 4652
-      scoredSeconds:
-      - 0
-      - 13575
-      scoredTimes:
-      - 2016-05-09T17:59:50Z
-      - 2016-05-09T21:46:05Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4652
+        scoredSeconds:
+        - 0
+        - 13575
+        scoredTimes:
+        - 2016-05-09T17:59:50Z
+        - 2016-05-09T21:46:05Z
+        scoredWindowSeconds: 13575
   - - - '113'
       - Olav Opsanger
-    - scoredFixes:
-      - 8
-      - 2787
-      scoredSeconds:
-      - 240
-      - 13776
-      scoredTimes:
-      - 2016-05-09T17:55:33Z
-      - 2016-05-09T21:41:09Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 8
+        - 2787
+        scoredSeconds:
+        - 240
+        - 13776
+        scoredTimes:
+        - 2016-05-09T17:55:33Z
+        - 2016-05-09T21:41:09Z
+        scoredWindowSeconds: 13536
   - - - '121'
       - Oleg Bondarchuk
-    - scoredFixes:
-      - 22
-      - 1403
-      scoredSeconds:
-      - 220
-      - 14030
-      scoredTimes:
-      - 2016-05-09T17:50:43Z
-      - 2016-05-09T21:40:53Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 22
+        - 1403
+        scoredSeconds:
+        - 220
+        - 14030
+        scoredTimes:
+        - 2016-05-09T17:50:43Z
+        - 2016-05-09T21:40:53Z
+        scoredWindowSeconds: 13810
   - - - '141'
       - Patrick Halfhill
-    - scoredFixes:
-      - 0
-      - 3669
-      scoredSeconds:
-      - 0
-      - 11276
-      scoredTimes:
-      - 2016-05-09T18:06:09Z
-      - 2016-05-09T21:14:05Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3669
+        scoredSeconds:
+        - 0
+        - 11276
+        scoredTimes:
+        - 2016-05-09T18:06:09Z
+        - 2016-05-09T21:14:05Z
+        scoredWindowSeconds: 11276
   - - - '111'
       - Patrick Kruse
-    - scoredFixes:
-      - 0
-      - 1067
-      scoredSeconds:
-      - 0
-      - 10991
-      scoredTimes:
-      - 2016-05-09T17:42:19Z
-      - 2016-05-09T20:45:30Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1067
+        scoredSeconds:
+        - 0
+        - 10991
+        scoredTimes:
+        - 2016-05-09T17:42:19Z
+        - 2016-05-09T20:45:30Z
+        scoredWindowSeconds: 10991
   - - - '124'
       - Patrick Pannese
-    - scoredFixes:
-      - 3
-      - 6993
-      scoredSeconds:
-      - 93
-      - 14412
-      scoredTimes:
-      - 2016-05-09T17:32:47Z
-      - 2016-05-09T21:31:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 6993
+        scoredSeconds:
+        - 93
+        - 14412
+        scoredTimes:
+        - 2016-05-09T17:32:47Z
+        - 2016-05-09T21:31:26Z
+        scoredWindowSeconds: 14319
   - - - '146'
       - Peter Kelley
-    - scoredFixes:
-      - 22
-      - 3402
-      scoredSeconds:
-      - 66
-      - 10220
-      scoredTimes:
-      - 2016-05-09T17:32:13Z
-      - 2016-05-09T20:21:27Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 22
+        - 3402
+        scoredSeconds:
+        - 66
+        - 10220
+        scoredTimes:
+        - 2016-05-09T17:32:13Z
+        - 2016-05-09T20:21:27Z
+        scoredWindowSeconds: 10154
   - - - '108'
       - Raul Guerra
-    - scoredFixes:
-      - 0
-      - 1570
-      scoredSeconds:
-      - 0
-      - 13574
-      scoredTimes:
-      - 2016-05-09T17:28:27Z
-      - 2016-05-09T21:14:41Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1570
+        scoredSeconds:
+        - 0
+        - 13574
+        scoredTimes:
+        - 2016-05-09T17:28:27Z
+        - 2016-05-09T21:14:41Z
+        scoredWindowSeconds: 13574
   - - - '102'
       - Richard lovelace
-    - scoredFixes:
-      - 5
-      - 1728
-      scoredSeconds:
-      - 153
-      - 15070
-      scoredTimes:
-      - 2016-05-09T17:37:49Z
-      - 2016-05-09T21:46:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 1728
+        scoredSeconds:
+        - 153
+        - 15070
+        scoredTimes:
+        - 2016-05-09T17:37:49Z
+        - 2016-05-09T21:46:26Z
+        scoredWindowSeconds: 14917
   - - - '117'
       - Robert Dallas
-    - scoredFixes:
-      - 2
-      - 6245
-      scoredSeconds:
-      - 62
-      - 12913
-      scoredTimes:
-      - 2016-05-09T18:03:00Z
-      - 2016-05-09T21:37:11Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 6245
+        scoredSeconds:
+        - 62
+        - 12913
+        scoredTimes:
+        - 2016-05-09T18:03:00Z
+        - 2016-05-09T21:37:11Z
+        scoredWindowSeconds: 12851
   - - - '131'
       - Robin Hamilton
-    - scoredFixes:
-      - 5
-      - 6028
-      scoredSeconds:
-      - 153
-      - 12276
-      scoredTimes:
-      - 2016-05-09T17:49:36Z
-      - 2016-05-09T21:11:39Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 6028
+        scoredSeconds:
+        - 153
+        - 12276
+        scoredTimes:
+        - 2016-05-09T17:49:36Z
+        - 2016-05-09T21:11:39Z
+        scoredWindowSeconds: 12123
   - - - '145'
       - Roger Irby
-    - scoredFixes:
-      - 0
-      - 2233
-      scoredSeconds:
-      - 0
-      - 11545
-      scoredTimes:
-      - 2016-05-09T18:04:13Z
-      - 2016-05-09T21:16:38Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2233
+        scoredSeconds:
+        - 0
+        - 11545
+        scoredTimes:
+        - 2016-05-09T18:04:13Z
+        - 2016-05-09T21:16:38Z
+        scoredWindowSeconds: 11545
   - - - '112'
       - Sergey Kataev
-    - scoredFixes:
-      - 16
-      - 3865
-      scoredSeconds:
-      - 48
-      - 11680
-      scoredTimes:
-      - 2016-05-09T18:11:41Z
-      - 2016-05-09T21:25:33Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 16
+        - 3865
+        scoredSeconds:
+        - 48
+        - 11680
+        scoredTimes:
+        - 2016-05-09T18:11:41Z
+        - 2016-05-09T21:25:33Z
+        scoredWindowSeconds: 11632
   - - - '144'
       - Tom Lanning
-    - scoredFixes:
-      - 0
-      - 3383
-      scoredSeconds:
-      - 0
-      - 13356
-      scoredTimes:
-      - 2016-05-09T18:03:47Z
-      - 2016-05-09T21:46:23Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3383
+        scoredSeconds:
+        - 0
+        - 13356
+        scoredTimes:
+        - 2016-05-09T18:03:47Z
+        - 2016-05-09T21:46:23Z
+        scoredWindowSeconds: 13356
   - - - '139'
       - Tullio Gervasoni
-    - scoredFixes:
-      - 0
-      - 1288
-      scoredSeconds:
-      - 0
-      - 11996
-      scoredTimes:
-      - 2016-05-09T17:54:03Z
-      - 2016-05-09T21:13:59Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1288
+        scoredSeconds:
+        - 0
+        - 11996
+        scoredTimes:
+        - 2016-05-09T17:54:03Z
+        - 2016-05-09T21:13:59Z
+        scoredWindowSeconds: 11996
   - - - '137'
       - Yoko Isomoto
-    - scoredFixes:
-      - 5
-      - 3235
-      scoredSeconds:
-      - 154
-      - 15763
-      scoredTimes:
-      - 2016-05-09T17:37:34Z
-      - 2016-05-09T21:57:43Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 3235
+        scoredSeconds:
+        - 154
+        - 15763
+        scoredTimes:
+        - 2016-05-09T17:37:34Z
+        - 2016-05-09T21:57:43Z
+        scoredWindowSeconds: 15609
   - - - '128'
       - Zac Majors
-    - scoredFixes:
-      - 2
-      - 6598
-      scoredSeconds:
-      - 61
-      - 13528
-      scoredTimes:
-      - 2016-05-09T17:53:33Z
-      - 2016-05-09T21:38:00Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 6598
+        scoredSeconds:
+        - 61
+        - 13528
+        scoredTimes:
+        - 2016-05-09T17:53:33Z
+        - 2016-05-09T21:38:00Z
+        scoredWindowSeconds: 13467
 - - - - '115'
       - Andrew Hollidge
-    - scoredFixes:
-      - 0
-      - 3470
-      scoredSeconds:
-      - 0
-      - 16553
-      scoredTimes:
-      - 2016-05-10T17:16:36Z
-      - 2016-05-10T21:52:29Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3470
+        scoredSeconds:
+        - 0
+        - 16553
+        scoredTimes:
+        - 2016-05-10T17:16:36Z
+        - 2016-05-10T21:52:29Z
+        scoredWindowSeconds: 16553
   - - - '143'
       - Anna Eppink
-    - scoredFixes:
-      - 7
-      - 1139
-      scoredSeconds:
-      - 215
-      - 6011
-      scoredTimes:
-      - 2016-05-10T17:33:49Z
-      - 2016-05-10T19:10:25Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 1139
+        scoredSeconds:
+        - 215
+        - 6011
+        scoredTimes:
+        - 2016-05-10T17:33:49Z
+        - 2016-05-10T19:10:25Z
+        scoredWindowSeconds: 5796
   - - - '119'
       - Bart Weghorst
-    - scoredFixes:
-      - 0
-      - 1685
-      scoredSeconds:
-      - 0
-      - 8774
-      scoredTimes:
-      - 2016-05-10T17:13:38Z
-      - 2016-05-10T19:39:52Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1685
+        scoredSeconds:
+        - 0
+        - 8774
+        scoredTimes:
+        - 2016-05-10T17:13:38Z
+        - 2016-05-10T19:39:52Z
+        scoredWindowSeconds: 8774
   - - - '140'
       - Bill Vickery
-    - scoredFixes:
-      - 0
-      - 1616
-      scoredSeconds:
-      - 0
-      - 3231
-      scoredTimes:
-      - 2016-05-10T17:57:13Z
-      - 2016-05-10T18:51:04Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1616
+        scoredSeconds:
+        - 0
+        - 3231
+        scoredTimes:
+        - 2016-05-10T17:57:13Z
+        - 2016-05-10T18:51:04Z
+        scoredWindowSeconds: 3231
   - - - '104'
       - Christian Pollet
-    - scoredFixes:
-      - 24
-      - 4031
-      scoredSeconds:
-      - 48
-      - 8127
-      scoredTimes:
-      - 2016-05-10T17:44:29Z
-      - 2016-05-10T19:59:08Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 24
+        - 4031
+        scoredSeconds:
+        - 48
+        - 8127
+        scoredTimes:
+        - 2016-05-10T17:44:29Z
+        - 2016-05-10T19:59:08Z
+        scoredWindowSeconds: 8079
   - - - '150'
       - Claudia Mejia
-    - scoredFixes:
-      - 0
-      - 5838
-      scoredSeconds:
-      - 0
-      - 14486
-      scoredTimes:
-      - 2016-05-10T17:58:16Z
-      - 2016-05-10T21:59:42Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5838
+        scoredSeconds:
+        - 0
+        - 14486
+        scoredTimes:
+        - 2016-05-10T17:58:16Z
+        - 2016-05-10T21:59:42Z
+        scoredWindowSeconds: 14486
   - - - '110'
       - Cory Barnwell
-    - scoredFixes:
-      - 2
-      - 5461
-      scoredSeconds:
-      - 61
-      - 16644
-      scoredTimes:
-      - 2016-05-10T17:10:46Z
-      - 2016-05-10T21:47:09Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 5461
+        scoredSeconds:
+        - 61
+        - 16644
+        scoredTimes:
+        - 2016-05-10T17:10:46Z
+        - 2016-05-10T21:47:09Z
+        scoredWindowSeconds: 16583
   - - - '101'
       - Davis Straub
-    - scoredFixes:
-      - 2
-      - 3385
-      scoredSeconds:
-      - 61
-      - 15794
-      scoredTimes:
-      - 2016-05-10T17:34:10Z
-      - 2016-05-10T21:56:23Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 3385
+        scoredSeconds:
+        - 61
+        - 15794
+        scoredTimes:
+        - 2016-05-10T17:34:10Z
+        - 2016-05-10T21:56:23Z
+        scoredWindowSeconds: 15733
   - - - '106'
       - Fabiano Nahoum
-    - scoredFixes:
-      - 0
-      - 910
-      scoredSeconds:
-      - 0
-      - 9357
-      scoredTimes:
-      - 2016-05-10T17:19:04Z
-      - 2016-05-10T19:55:01Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 910
+        scoredSeconds:
+        - 0
+        - 9357
+        scoredTimes:
+        - 2016-05-10T17:19:04Z
+        - 2016-05-10T19:55:01Z
+        scoredWindowSeconds: 9357
   - - - '127'
       - Gerry Pesavento
-    - scoredFixes:
-      - 0
-      - 2105
-      scoredSeconds:
-      - 0
-      - 10855
-      scoredTimes:
-      - 2016-05-10T17:17:26Z
-      - 2016-05-10T20:18:21Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2105
+        scoredSeconds:
+        - 0
+        - 10855
+        scoredTimes:
+        - 2016-05-10T17:17:26Z
+        - 2016-05-10T20:18:21Z
+        scoredWindowSeconds: 10855
   - - - '118'
       - Ingo Heilmann
-    - scoredFixes:
-      - 16
-      - 11546
-      scoredSeconds:
-      - 16
-      - 11574
-      scoredTimes:
-      - 2016-05-10T17:46:14Z
-      - 2016-05-10T20:58:52Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 16
+        - 11546
+        scoredSeconds:
+        - 16
+        - 11574
+        scoredTimes:
+        - 2016-05-10T17:46:14Z
+        - 2016-05-10T20:58:52Z
+        scoredWindowSeconds: 11558
   - - - '123'
       - JD Guillemette
-    - scoredFixes:
-      - 0
-      - 3097
-      scoredSeconds:
-      - 0
-      - 14802
-      scoredTimes:
-      - 2016-05-10T17:47:53Z
-      - 2016-05-10T21:54:35Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3097
+        scoredSeconds:
+        - 0
+        - 14802
+        scoredTimes:
+        - 2016-05-10T17:47:53Z
+        - 2016-05-10T21:54:35Z
+        scoredWindowSeconds: 14802
   - - - '132'
       - James Stinnett
-    - scoredFixes:
-      - 3
-      - 1050
-      scoredSeconds:
-      - 92
-      - 10782
-      scoredTimes:
-      - 2016-05-10T17:21:07Z
-      - 2016-05-10T20:19:17Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 1050
+        scoredSeconds:
+        - 92
+        - 10782
+        scoredTimes:
+        - 2016-05-10T17:21:07Z
+        - 2016-05-10T20:19:17Z
+        scoredWindowSeconds: 10690
   - - - '126'
       - Jeff Kannard
-    - scoredFixes:
-      - 0
-      - 2155
-      scoredSeconds:
-      - 0
-      - 6597
-      scoredTimes:
-      - 2016-05-09T18:09:04Z
-      - 2016-05-09T19:59:01Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2155
+        scoredSeconds:
+        - 0
+        - 6597
+        scoredTimes:
+        - 2016-05-09T18:09:04Z
+        - 2016-05-09T19:59:01Z
+        scoredWindowSeconds: 6597
   - - - '116'
       - Jeffery Bohl
-    - scoredFixes:
-      - 729
-      - 5120
-      scoredSeconds:
-      - 2258
-      - 15530
-      scoredTimes:
-      - 2016-05-10T18:17:34Z
-      - 2016-05-10T21:58:46Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 729
+        - 5120
+        scoredSeconds:
+        - 2258
+        - 15530
+        scoredTimes:
+        - 2016-05-10T18:17:34Z
+        - 2016-05-10T21:58:46Z
+        scoredWindowSeconds: 13272
   - - - '142'
       - John Simon
-    - scoredFixes:
-      - 3
-      - 3547
-      scoredSeconds:
-      - 15
-      - 10163
-      scoredTimes:
-      - 2016-05-10T17:22:49Z
-      - 2016-05-10T20:11:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 3547
+        scoredSeconds:
+        - 15
+        - 10163
+        scoredTimes:
+        - 2016-05-10T17:22:49Z
+        - 2016-05-10T20:11:57Z
+        scoredWindowSeconds: 10148
   - - - '138'
       - Jonny Durand
-    - scoredFixes:
-      - 16
-      - 1610
-      scoredSeconds:
-      - 160
-      - 14923
-      scoredTimes:
-      - 2016-05-10T17:30:40Z
-      - 2016-05-10T21:36:43Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 16
+        - 1610
+        scoredSeconds:
+        - 160
+        - 14923
+        scoredTimes:
+        - 2016-05-10T17:30:40Z
+        - 2016-05-10T21:36:43Z
+        scoredWindowSeconds: 14763
   - - - '134'
       - Kinsley Sykes
-    - scoredFixes:
-      - 0
-      - 2056
-      scoredSeconds:
-      - 0
-      - 8555
-      scoredTimes:
-      - 2016-05-10T18:04:59Z
-      - 2016-05-10T20:27:34Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2056
+        scoredSeconds:
+        - 0
+        - 8555
+        scoredTimes:
+        - 2016-05-10T18:04:59Z
+        - 2016-05-10T20:27:34Z
+        scoredWindowSeconds: 8555
   - - - '125'
       - Larry Bunner
-    - scoredFixes:
-      - 0
-      - 1620
-      scoredSeconds:
-      - 0
-      - 16520
-      scoredTimes:
-      - 2016-05-10T17:23:05Z
-      - 2016-05-10T21:58:25Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1620
+        scoredSeconds:
+        - 0
+        - 16520
+        scoredTimes:
+        - 2016-05-10T17:23:05Z
+        - 2016-05-10T21:58:25Z
+        scoredWindowSeconds: 16520
   - - - '103'
       - Matt Christensen
-    - scoredFixes:
-      - 10
-      - 2746
-      scoredSeconds:
-      - 300
-      - 8507
-      scoredTimes:
-      - 2016-05-10T17:43:57Z
-      - 2016-05-10T20:00:44Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 2746
+        scoredSeconds:
+        - 300
+        - 8507
+        scoredTimes:
+        - 2016-05-10T17:43:57Z
+        - 2016-05-10T20:00:44Z
+        scoredWindowSeconds: 8207
   - - - '114'
       - Mick Howard
-    - scoredFixes:
-      - 0
-      - 7947
-      scoredSeconds:
-      - 0
-      - 16080
-      scoredTimes:
-      - 2016-05-10T17:40:59Z
-      - 2016-05-10T22:08:59Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7947
+        scoredSeconds:
+        - 0
+        - 16080
+        scoredTimes:
+        - 2016-05-10T17:40:59Z
+        - 2016-05-10T22:08:59Z
+        scoredWindowSeconds: 16080
   - - - '120'
       - Mike Glennon
-    - scoredFixes:
-      - 25
-      - 5574
-      scoredSeconds:
-      - 75
-      - 16787
-      scoredTimes:
-      - 2016-05-10T17:17:33Z
-      - 2016-05-10T21:56:05Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 5574
+        scoredSeconds:
+        - 75
+        - 16787
+        scoredTimes:
+        - 2016-05-10T17:17:33Z
+        - 2016-05-10T21:56:05Z
+        scoredWindowSeconds: 16712
   - - - '129'
       - Mike Jefferson
-    - scoredFixes:
-      - 8
-      - 1226
-      scoredSeconds:
-      - 240
-      - 12539
-      scoredTimes:
-      - 2016-05-10T17:50:04Z
-      - 2016-05-10T21:15:03Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 8
+        - 1226
+        scoredSeconds:
+        - 240
+        - 12539
+        scoredTimes:
+        - 2016-05-10T17:50:04Z
+        - 2016-05-10T21:15:03Z
+        scoredWindowSeconds: 12299
   - - - '135'
       - Misael Rosalez
-    - scoredFixes:
-      - 0
-      - 5216
-      scoredSeconds:
-      - 0
-      - 15945
-      scoredTimes:
-      - 2016-05-10T17:31:48Z
-      - 2016-05-10T21:57:33Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5216
+        scoredSeconds:
+        - 0
+        - 15945
+        scoredTimes:
+        - 2016-05-10T17:31:48Z
+        - 2016-05-10T21:57:33Z
+        scoredWindowSeconds: 15945
   - - - '133'
       - Olav Olsen
-    - scoredFixes:
-      - 25
-      - 2872
-      scoredSeconds:
-      - 75
-      - 8625
-      scoredTimes:
-      - 2016-05-10T17:33:41Z
-      - 2016-05-10T19:56:11Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 2872
+        scoredSeconds:
+        - 75
+        - 8625
+        scoredTimes:
+        - 2016-05-10T17:33:41Z
+        - 2016-05-10T19:56:11Z
+        scoredWindowSeconds: 8550
   - - - '113'
       - Olav Opsanger
-    - scoredFixes:
-      - 0
-      - 3054
-      scoredSeconds:
-      - 0
-      - 15135
-      scoredTimes:
-      - 2016-05-10T17:25:17Z
-      - 2016-05-10T21:37:32Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3054
+        scoredSeconds:
+        - 0
+        - 15135
+        scoredTimes:
+        - 2016-05-10T17:25:17Z
+        - 2016-05-10T21:37:32Z
+        scoredWindowSeconds: 15135
   - - - '121'
       - Oleg Bondarchuk
-    - scoredFixes:
-      - 33
-      - 1085
-      scoredSeconds:
-      - 330
-      - 10850
-      scoredTimes:
-      - 2016-05-10T17:22:57Z
-      - 2016-05-10T20:18:17Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 33
+        - 1085
+        scoredSeconds:
+        - 330
+        - 10850
+        scoredTimes:
+        - 2016-05-10T17:22:57Z
+        - 2016-05-10T20:18:17Z
+        scoredWindowSeconds: 10520
   - - - '141'
       - Patrick Halfhill
-    - scoredFixes:
-      - 0
-      - 4051
-      scoredSeconds:
-      - 0
-      - 12432
-      scoredTimes:
-      - 2016-05-10T17:40:27Z
-      - 2016-05-10T21:07:39Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4051
+        scoredSeconds:
+        - 0
+        - 12432
+        scoredTimes:
+        - 2016-05-10T17:40:27Z
+        - 2016-05-10T21:07:39Z
+        scoredWindowSeconds: 12432
   - - - '111'
       - Patrick Kruse
-    - scoredFixes:
-      - 0
-      - 1456
-      scoredSeconds:
-      - 0
-      - 14889
-      scoredTimes:
-      - 2016-05-10T17:28:38Z
-      - 2016-05-10T21:36:47Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1456
+        scoredSeconds:
+        - 0
+        - 14889
+        scoredTimes:
+        - 2016-05-10T17:28:38Z
+        - 2016-05-10T21:36:47Z
+        scoredWindowSeconds: 14889
   - - - '124'
       - Patrick Pannese
-    - scoredFixes:
-      - 9
-      - 6638
-      scoredSeconds:
-      - 276
-      - 13664
-      scoredTimes:
-      - 2016-05-10T17:55:46Z
-      - 2016-05-10T21:38:54Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 6638
+        scoredSeconds:
+        - 276
+        - 13664
+        scoredTimes:
+        - 2016-05-10T17:55:46Z
+        - 2016-05-10T21:38:54Z
+        scoredWindowSeconds: 13388
   - - - '146'
       - Peter Kelley
-    - scoredFixes:
-      - 0
-      - 1965
-      scoredSeconds:
-      - 0
-      - 5922
-      scoredTimes:
-      - 2016-05-10T17:50:32Z
-      - 2016-05-10T19:29:14Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1965
+        scoredSeconds:
+        - 0
+        - 5922
+        scoredTimes:
+        - 2016-05-10T17:50:32Z
+        - 2016-05-10T19:29:14Z
+        scoredWindowSeconds: 5922
   - - - '108'
       - Raul Guerra
-    - scoredFixes:
-      - 28
-      - 1942
-      scoredSeconds:
-      - 280
-      - 16100
-      scoredTimes:
-      - 2016-05-10T17:35:37Z
-      - 2016-05-10T21:59:17Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 28
+        - 1942
+        scoredSeconds:
+        - 280
+        - 16100
+        scoredTimes:
+        - 2016-05-10T17:35:37Z
+        - 2016-05-10T21:59:17Z
+        scoredWindowSeconds: 15820
   - - - '102'
       - Richard lovelace
-    - scoredFixes:
-      - 9
-      - 1790
-      scoredSeconds:
-      - 275
-      - 15005
-      scoredTimes:
-      - 2016-05-10T17:38:11Z
-      - 2016-05-10T21:43:41Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 1790
+        scoredSeconds:
+        - 275
+        - 15005
+        scoredTimes:
+        - 2016-05-10T17:38:11Z
+        - 2016-05-10T21:43:41Z
+        scoredWindowSeconds: 14730
   - - - '117'
       - Robert Dallas
-    - scoredFixes:
-      - 2
-      - 7483
-      scoredSeconds:
-      - 62
-      - 15223
-      scoredTimes:
-      - 2016-05-10T17:36:56Z
-      - 2016-05-10T21:49:37Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 7483
+        scoredSeconds:
+        - 62
+        - 15223
+        scoredTimes:
+        - 2016-05-10T17:36:56Z
+        - 2016-05-10T21:49:37Z
+        scoredWindowSeconds: 15161
   - - - '131'
       - Robin Hamilton
-    - scoredFixes:
-      - 0
-      - 6709
-      scoredSeconds:
-      - 0
-      - 13528
-      scoredTimes:
-      - 2016-05-10T17:23:45Z
-      - 2016-05-10T21:09:13Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6709
+        scoredSeconds:
+        - 0
+        - 13528
+        scoredTimes:
+        - 2016-05-10T17:23:45Z
+        - 2016-05-10T21:09:13Z
+        scoredWindowSeconds: 13528
   - - - '145'
       - Roger Irby
-    - scoredFixes:
-      - 0
-      - 1400
-      scoredSeconds:
-      - 0
-      - 7325
-      scoredTimes:
-      - 2016-05-10T17:49:42Z
-      - 2016-05-10T19:51:47Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1400
+        scoredSeconds:
+        - 0
+        - 7325
+        scoredTimes:
+        - 2016-05-10T17:49:42Z
+        - 2016-05-10T19:51:47Z
+        scoredWindowSeconds: 7325
   - - - '112'
       - Sergey Kataev
-    - scoredFixes:
-      - 26
-      - 4330
-      scoredSeconds:
-      - 78
-      - 13088
-      scoredTimes:
-      - 2016-05-10T18:10:55Z
-      - 2016-05-10T21:47:45Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 26
+        - 4330
+        scoredSeconds:
+        - 78
+        - 13088
+        scoredTimes:
+        - 2016-05-10T18:10:55Z
+        - 2016-05-10T21:47:45Z
+        scoredWindowSeconds: 13010
   - - - '144'
       - Tom Lanning
-    - scoredFixes:
-      - 0
-      - 3845
-      scoredSeconds:
-      - 0
-      - 15781
-      scoredTimes:
-      - 2016-05-10T17:34:38Z
-      - 2016-05-10T21:57:39Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3845
+        scoredSeconds:
+        - 0
+        - 15781
+        scoredTimes:
+        - 2016-05-10T17:34:38Z
+        - 2016-05-10T21:57:39Z
+        scoredWindowSeconds: 15781
   - - - '139'
       - Tullio Gervasoni
-    - scoredFixes:
-      - 0
-      - 1596
-      scoredSeconds:
-      - 0
-      - 15052
-      scoredTimes:
-      - 2016-05-10T17:26:15Z
-      - 2016-05-10T21:37:07Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1596
+        scoredSeconds:
+        - 0
+        - 15052
+        scoredTimes:
+        - 2016-05-10T17:26:15Z
+        - 2016-05-10T21:37:07Z
+        scoredWindowSeconds: 15052
   - - - '137'
       - Yoko Isomoto
-    - scoredFixes:
-      - 346
-      - 6192
-      scoredSeconds:
-      - 2523
-      - 11413
-      scoredTimes:
-      - 2016-05-10T17:43:35Z
-      - 2016-05-10T20:11:45Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 346
+        - 6192
+        scoredSeconds:
+        - 2523
+        - 11413
+        scoredTimes:
+        - 2016-05-10T17:43:35Z
+        - 2016-05-10T20:11:45Z
+        scoredWindowSeconds: 8890
   - - - '128'
       - Zac Majors
-    - scoredFixes:
-      - 0
-      - 7374
-      scoredSeconds:
-      - 0
-      - 15000
-      scoredTimes:
-      - 2016-05-10T17:26:39Z
-      - 2016-05-10T21:36:39Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7374
+        scoredSeconds:
+        - 0
+        - 15000
+        scoredTimes:
+        - 2016-05-10T17:26:39Z
+        - 2016-05-10T21:36:39Z
+        scoredWindowSeconds: 15000
 - - - - '115'
       - Andrew Hollidge
-    - scoredFixes:
-      - 0
-      - 2753
-      scoredSeconds:
-      - 0
-      - 14010
-      scoredTimes:
-      - 2016-05-11T17:22:52Z
-      - 2016-05-11T21:16:22Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2753
+        scoredSeconds:
+        - 0
+        - 14010
+        scoredTimes:
+        - 2016-05-11T17:22:52Z
+        - 2016-05-11T21:16:22Z
+        scoredWindowSeconds: 14010
   - - - '143'
       - Anna Eppink
-    - scoredFixes:
-      - 10
-      - 2198
-      scoredSeconds:
-      - 308
-      - 11435
-      scoredTimes:
-      - 2016-05-11T18:02:13Z
-      - 2016-05-11T21:07:40Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 2198
+        scoredSeconds:
+        - 308
+        - 11435
+        scoredTimes:
+        - 2016-05-11T18:02:13Z
+        - 2016-05-11T21:07:40Z
+        scoredWindowSeconds: 11127
   - - - '119'
       - Bart Weghorst
-    - scoredFixes:
-      - 4
-      - 2132
-      scoredSeconds:
-      - 123
-      - 11153
-      scoredTimes:
-      - 2016-05-11T17:34:07Z
-      - 2016-05-11T20:37:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 2132
+        scoredSeconds:
+        - 123
+        - 11153
+        scoredTimes:
+        - 2016-05-11T17:34:07Z
+        - 2016-05-11T20:37:57Z
+        scoredWindowSeconds: 11030
   - - - '140'
       - Bill Vickery
-    - scoredFixes:
-      - 0
-      - 4201
-      scoredSeconds:
-      - 0
-      - 8401
-      scoredTimes:
-      - 2016-05-11T17:01:31Z
-      - 2016-05-11T19:21:32Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4201
+        scoredSeconds:
+        - 0
+        - 8401
+        scoredTimes:
+        - 2016-05-11T17:01:31Z
+        - 2016-05-11T19:21:32Z
+        scoredWindowSeconds: 8401
   - - - '104'
       - Christian Pollet
-    - scoredFixes:
-      - 19
-      - 7515
-      scoredSeconds:
-      - 38
-      - 15016
-      scoredTimes:
-      - 2016-05-11T17:50:40Z
-      - 2016-05-11T22:00:18Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 19
+        - 7515
+        scoredSeconds:
+        - 38
+        - 15016
+        scoredTimes:
+        - 2016-05-11T17:50:40Z
+        - 2016-05-11T22:00:18Z
+        scoredWindowSeconds: 14978
   - - - '150'
       - Claudia Mejia
-    - scoredFixes:
-      - 0
-      - 9226
-      scoredSeconds:
-      - 0
-      - 19328
-      scoredTimes:
-      - 2016-05-11T17:02:15Z
-      - 2016-05-11T22:24:23Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 9226
+        scoredSeconds:
+        - 0
+        - 19328
+        scoredTimes:
+        - 2016-05-11T17:02:15Z
+        - 2016-05-11T22:24:23Z
+        scoredWindowSeconds: 19328
   - - - '110'
       - Cory Barnwell
-    - scoredFixes:
-      - 0
-      - 2602
-      scoredSeconds:
-      - 0
-      - 8234
-      scoredTimes:
-      - 2016-05-11T17:00:59Z
-      - 2016-05-11T19:18:13Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2602
+        scoredSeconds:
+        - 0
+        - 8234
+        scoredTimes:
+        - 2016-05-11T17:00:59Z
+        - 2016-05-11T19:18:13Z
+        scoredWindowSeconds: 8234
   - - - '101'
       - Davis Straub
-    - scoredFixes:
-      - 5
-      - 2982
-      scoredSeconds:
-      - 153
-      - 15472
-      scoredTimes:
-      - 2016-05-11T17:34:56Z
-      - 2016-05-11T21:50:15Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 2982
+        scoredSeconds:
+        - 153
+        - 15472
+        scoredTimes:
+        - 2016-05-11T17:34:56Z
+        - 2016-05-11T21:50:15Z
+        scoredWindowSeconds: 15319
   - - - '106'
       - Fabiano Nahoum
-    - scoredFixes:
-      - 0
-      - 1085
-      scoredSeconds:
-      - 0
-      - 11229
-      scoredTimes:
-      - 2016-05-11T17:23:30Z
-      - 2016-05-11T20:30:39Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1085
+        scoredSeconds:
+        - 0
+        - 11229
+        scoredTimes:
+        - 2016-05-11T17:23:30Z
+        - 2016-05-11T20:30:39Z
+        scoredWindowSeconds: 11229
   - - - '127'
       - Gerry Pesavento
-    - scoredFixes:
-      - 0
-      - 3355
-      scoredSeconds:
-      - 0
-      - 16754
-      scoredTimes:
-      - 2016-05-11T17:22:00Z
-      - 2016-05-11T22:01:14Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3355
+        scoredSeconds:
+        - 0
+        - 16754
+        scoredTimes:
+        - 2016-05-11T17:22:00Z
+        - 2016-05-11T22:01:14Z
+        scoredWindowSeconds: 16754
   - - - '118'
       - Ingo Heilmann
-    - scoredFixes:
-      - 18
-      - 5891
-      scoredSeconds:
-      - 18
-      - 5903
-      scoredTimes:
-      - 2016-05-11T17:53:48Z
-      - 2016-05-11T19:31:53Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 18
+        - 5891
+        scoredSeconds:
+        - 18
+        - 5903
+        scoredTimes:
+        - 2016-05-11T17:53:48Z
+        - 2016-05-11T19:31:53Z
+        scoredWindowSeconds: 5885
   - - - '123'
       - JD Guillemette
-    - scoredFixes:
-      - 52
-      - 7000
-      scoredSeconds:
-      - 156
-      - 16528
-      scoredTimes:
-      - 2016-05-11T17:42:16Z
-      - 2016-05-11T22:15:08Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 52
+        - 7000
+        scoredSeconds:
+        - 156
+        - 16528
+        scoredTimes:
+        - 2016-05-11T17:42:16Z
+        - 2016-05-11T22:15:08Z
+        scoredWindowSeconds: 16372
   - - - '132'
       - James Stinnett
-    - scoredFixes:
-      - 0
-      - 1780
-      scoredSeconds:
-      - 0
-      - 16809
-      scoredTimes:
-      - 2016-05-11T17:24:04Z
-      - 2016-05-11T22:04:13Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1780
+        scoredSeconds:
+        - 0
+        - 16809
+        scoredTimes:
+        - 2016-05-11T17:24:04Z
+        - 2016-05-11T22:04:13Z
+        scoredWindowSeconds: 16809
   - - - '126'
       - Jeff Kannard
-    - scoredFixes:
-      - 0
-      - 4120
-      scoredSeconds:
-      - 0
-      - 12884
-      scoredTimes:
-      - 2016-05-11T17:56:19Z
-      - 2016-05-11T21:31:03Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4120
+        scoredSeconds:
+        - 0
+        - 12884
+        scoredTimes:
+        - 2016-05-11T17:56:19Z
+        - 2016-05-11T21:31:03Z
+        scoredWindowSeconds: 12884
   - - - '116'
       - Jeffery Bohl
-    - scoredFixes:
-      - 0
-      - 3577
-      scoredSeconds:
-      - 0
-      - 11167
-      scoredTimes:
-      - 2016-05-11T17:58:46Z
-      - 2016-05-11T21:04:53Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3577
+        scoredSeconds:
+        - 0
+        - 11167
+        scoredTimes:
+        - 2016-05-11T17:58:46Z
+        - 2016-05-11T21:04:53Z
+        scoredWindowSeconds: 11167
   - - - '142'
       - John Simon
-    - scoredFixes:
-      - 4
-      - 6043
-      scoredSeconds:
-      - 20
-      - 17148
-      scoredTimes:
-      - 2016-05-11T17:22:37Z
-      - 2016-05-11T22:08:05Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 6043
+        scoredSeconds:
+        - 20
+        - 17148
+        scoredTimes:
+        - 2016-05-11T17:22:37Z
+        - 2016-05-11T22:08:05Z
+        scoredWindowSeconds: 17128
   - - - '138'
       - Jonny Durand
-    - scoredFixes:
-      - 29
-      - 1372
-      scoredSeconds:
-      - 290
-      - 13072
-      scoredTimes:
-      - 2016-05-11T17:44:57Z
-      - 2016-05-11T21:17:59Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 29
+        - 1372
+        scoredSeconds:
+        - 290
+        - 13072
+        scoredTimes:
+        - 2016-05-11T17:44:57Z
+        - 2016-05-11T21:17:59Z
+        scoredWindowSeconds: 12782
   - - - '134'
       - Kinsley Sykes
-    - scoredFixes:
-      - 9
-      - 1689
-      scoredSeconds:
-      - 275
-      - 7131
-      scoredTimes:
-      - 2016-05-11T17:57:41Z
-      - 2016-05-11T19:51:57Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 1689
+        scoredSeconds:
+        - 275
+        - 7131
+        scoredTimes:
+        - 2016-05-11T17:57:41Z
+        - 2016-05-11T19:51:57Z
+        scoredWindowSeconds: 6856
   - - - '125'
       - Larry Bunner
-    - scoredFixes:
-      - 10
-      - 1345
-      scoredSeconds:
-      - 306
-      - 13869
-      scoredTimes:
-      - 2016-05-11T17:33:18Z
-      - 2016-05-11T21:19:21Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 1345
+        scoredSeconds:
+        - 306
+        - 13869
+        scoredTimes:
+        - 2016-05-11T17:33:18Z
+        - 2016-05-11T21:19:21Z
+        scoredWindowSeconds: 13563
   - - - '103'
       - Matt Christensen
-    - scoredFixes:
-      - 0
-      - 3338
-      scoredSeconds:
-      - 0
-      - 10286
-      scoredTimes:
-      - 2016-05-11T17:50:03Z
-      - 2016-05-11T20:41:29Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3338
+        scoredSeconds:
+        - 0
+        - 10286
+        scoredTimes:
+        - 2016-05-11T17:50:03Z
+        - 2016-05-11T20:41:29Z
+        scoredWindowSeconds: 10286
   - - - '109'
       - Michael Williams
-    - scoredFixes:
-      - 2
-      - 1443
-      scoredSeconds:
-      - 61
-      - 12039
-      scoredTimes:
-      - 2016-05-11T17:52:34Z
-      - 2016-05-11T21:12:12Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 1443
+        scoredSeconds:
+        - 61
+        - 12039
+        scoredTimes:
+        - 2016-05-11T17:52:34Z
+        - 2016-05-11T21:12:12Z
+        scoredWindowSeconds: 11978
   - - - '114'
       - Mick Howard
-    - scoredFixes:
-      - 4
-      - 7863
-      scoredSeconds:
-      - 122
-      - 16323
-      scoredTimes:
-      - 2016-05-11T17:45:30Z
-      - 2016-05-11T22:15:31Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 7863
+        scoredSeconds:
+        - 122
+        - 16323
+        scoredTimes:
+        - 2016-05-11T17:45:30Z
+        - 2016-05-11T22:15:31Z
+        scoredWindowSeconds: 16201
   - - - '120'
       - Mike Glennon
-    - scoredFixes:
-      - 24
-      - 5697
-      scoredSeconds:
-      - 73
-      - 16704
-      scoredTimes:
-      - 2016-05-11T17:22:47Z
-      - 2016-05-11T21:59:58Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 24
+        - 5697
+        scoredSeconds:
+        - 73
+        - 16704
+        scoredTimes:
+        - 2016-05-11T17:22:47Z
+        - 2016-05-11T21:59:58Z
+        scoredWindowSeconds: 16631
   - - - '129'
       - Mike Jefferson
-    - scoredFixes:
-      - 0
-      - 1308
-      scoredSeconds:
-      - 0
-      - 13450
-      scoredTimes:
-      - 2016-05-11T17:58:18Z
-      - 2016-05-11T21:42:28Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1308
+        scoredSeconds:
+        - 0
+        - 13450
+        scoredTimes:
+        - 2016-05-11T17:58:18Z
+        - 2016-05-11T21:42:28Z
+        scoredWindowSeconds: 13450
   - - - '135'
       - Misael Rosalez
-    - scoredFixes:
-      - 0
-      - 6611
-      scoredSeconds:
-      - 0
-      - 19769
-      scoredTimes:
-      - 2016-05-11T16:55:02Z
-      - 2016-05-11T22:24:31Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6611
+        scoredSeconds:
+        - 0
+        - 19769
+        scoredTimes:
+        - 2016-05-11T16:55:02Z
+        - 2016-05-11T22:24:31Z
+        scoredWindowSeconds: 19769
   - - - '133'
       - Olav Olsen
-    - scoredFixes:
-      - 25
-      - 2136
-      scoredSeconds:
-      - 75
-      - 6412
-      scoredTimes:
-      - 2016-05-11T17:40:25Z
-      - 2016-05-11T19:26:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 2136
+        scoredSeconds:
+        - 75
+        - 6412
+        scoredTimes:
+        - 2016-05-11T17:40:25Z
+        - 2016-05-11T19:26:02Z
+        scoredWindowSeconds: 6337
   - - - '113'
       - Olav Opsanger
-    - scoredFixes:
-      - 10
-      - 3350
-      scoredSeconds:
-      - 300
-      - 16713
-      scoredTimes:
-      - 2016-05-11T17:33:36Z
-      - 2016-05-11T22:07:09Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 3350
+        scoredSeconds:
+        - 300
+        - 16713
+        scoredTimes:
+        - 2016-05-11T17:33:36Z
+        - 2016-05-11T22:07:09Z
+        scoredWindowSeconds: 16413
   - - - '121'
       - Oleg Bondarchuk
-    - scoredFixes:
-      - 25
-      - 1446
-      scoredSeconds:
-      - 284
-      - 14491
-      scoredTimes:
-      - 2016-05-11T17:26:40Z
-      - 2016-05-11T21:23:27Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 1446
+        scoredSeconds:
+        - 284
+        - 14491
+        scoredTimes:
+        - 2016-05-11T17:26:40Z
+        - 2016-05-11T21:23:27Z
+        scoredWindowSeconds: 14207
   - - - '141'
       - Patrick Halfhill
-    - scoredFixes:
-      - 6
-      - 3787
-      scoredSeconds:
-      - 180
-      - 11640
-      scoredTimes:
-      - 2016-05-11T17:50:21Z
-      - 2016-05-11T21:01:21Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 3787
+        scoredSeconds:
+        - 180
+        - 11640
+        scoredTimes:
+        - 2016-05-11T17:50:21Z
+        - 2016-05-11T21:01:21Z
+        scoredWindowSeconds: 11460
   - - - '111'
       - Patrick Kruse
-    - scoredFixes:
-      - 0
-      - 1450
-      scoredSeconds:
-      - 0
-      - 14963
-      scoredTimes:
-      - 2016-05-11T17:18:36Z
-      - 2016-05-11T21:27:59Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1450
+        scoredSeconds:
+        - 0
+        - 14963
+        scoredTimes:
+        - 2016-05-11T17:18:36Z
+        - 2016-05-11T21:27:59Z
+        scoredWindowSeconds: 14963
   - - - '124'
       - Patrick Pannese
-    - scoredFixes:
-      - 4
-      - 8727
-      scoredSeconds:
-      - 123
-      - 18079
-      scoredTimes:
-      - 2016-05-11T17:04:24Z
-      - 2016-05-11T22:03:40Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 8727
+        scoredSeconds:
+        - 123
+        - 18079
+        scoredTimes:
+        - 2016-05-11T17:04:24Z
+        - 2016-05-11T22:03:40Z
+        scoredWindowSeconds: 17956
   - - - '146'
       - Peter Kelley
-    - scoredFixes:
-      - 25
-      - 4176
-      scoredSeconds:
-      - 75
-      - 12544
-      scoredTimes:
-      - 2016-05-11T17:04:47Z
-      - 2016-05-11T20:32:36Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 4176
+        scoredSeconds:
+        - 75
+        - 12544
+        scoredTimes:
+        - 2016-05-11T17:04:47Z
+        - 2016-05-11T20:32:36Z
+        scoredWindowSeconds: 12469
   - - - '108'
       - Raul Guerra
-    - scoredFixes:
-      - 21
-      - 2029
-      scoredSeconds:
-      - 211
-      - 17038
-      scoredTimes:
-      - 2016-05-11T17:20:46Z
-      - 2016-05-11T22:01:13Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 21
+        - 2029
+        scoredSeconds:
+        - 211
+        - 17038
+        scoredTimes:
+        - 2016-05-11T17:20:46Z
+        - 2016-05-11T22:01:13Z
+        scoredWindowSeconds: 16827
   - - - '102'
       - Richard lovelace
-    - scoredFixes:
-      - 10
-      - 1745
-      scoredSeconds:
-      - 306
-      - 15365
-      scoredTimes:
-      - 2016-05-11T17:38:57Z
-      - 2016-05-11T21:49:56Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 1745
+        scoredSeconds:
+        - 306
+        - 15365
+        scoredTimes:
+        - 2016-05-11T17:38:57Z
+        - 2016-05-11T21:49:56Z
+        scoredWindowSeconds: 15059
   - - - '117'
       - Robert Dallas
-    - scoredFixes:
-      - 0
-      - 7175
-      scoredSeconds:
-      - 0
-      - 14964
-      scoredTimes:
-      - 2016-05-11T17:38:16Z
-      - 2016-05-11T21:47:40Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 7175
+        scoredSeconds:
+        - 0
+        - 14964
+        scoredTimes:
+        - 2016-05-11T17:38:16Z
+        - 2016-05-11T21:47:40Z
+        scoredWindowSeconds: 14964
   - - - '131'
       - Robin Hamilton
-    - scoredFixes:
-      - 4
-      - 7270
-      scoredSeconds:
-      - 123
-      - 14955
-      scoredTimes:
-      - 2016-05-11T17:41:25Z
-      - 2016-05-11T21:48:37Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 7270
+        scoredSeconds:
+        - 123
+        - 14955
+        scoredTimes:
+        - 2016-05-11T17:41:25Z
+        - 2016-05-11T21:48:37Z
+        scoredWindowSeconds: 14832
   - - - '145'
       - Roger Irby
-    - scoredFixes:
-      - 2055
-      - 15940
-      scoredSeconds:
-      - 2055
-      - 16213
-      scoredTimes:
-      - 2016-05-11T17:52:23Z
-      - 2016-05-11T21:48:21Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2055
+        - 15940
+        scoredSeconds:
+        - 2055
+        - 16213
+        scoredTimes:
+        - 2016-05-11T17:52:23Z
+        - 2016-05-11T21:48:21Z
+        scoredWindowSeconds: 14158
   - - - '112'
       - Sergey Kataev
-    - scoredFixes:
-      - 27
-      - 5190
-      scoredSeconds:
-      - 81
-      - 15683
-      scoredTimes:
-      - 2016-05-11T17:53:04Z
-      - 2016-05-11T22:13:06Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 27
+        - 5190
+        scoredSeconds:
+        - 81
+        - 15683
+        scoredTimes:
+        - 2016-05-11T17:53:04Z
+        - 2016-05-11T22:13:06Z
+        scoredWindowSeconds: 15602
   - - - '144'
       - Tom Lanning
-    - scoredFixes:
-      - 9
-      - 2893
-      scoredSeconds:
-      - 275
-      - 12034
-      scoredTimes:
-      - 2016-05-11T17:45:35Z
-      - 2016-05-11T21:01:34Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 2893
+        scoredSeconds:
+        - 275
+        - 12034
+        scoredTimes:
+        - 2016-05-11T17:45:35Z
+        - 2016-05-11T21:01:34Z
+        scoredWindowSeconds: 11759
   - - - '139'
       - Tullio Gervasoni
-    - scoredFixes:
-      - 5
-      - 1636
-      scoredSeconds:
-      - 150
-      - 15541
-      scoredTimes:
-      - 2016-05-11T17:32:41Z
-      - 2016-05-11T21:49:12Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 5
+        - 1636
+        scoredSeconds:
+        - 150
+        - 15541
+        scoredTimes:
+        - 2016-05-11T17:32:41Z
+        - 2016-05-11T21:49:12Z
+        scoredWindowSeconds: 15391
   - - - '128'
       - Zac Majors
-    - scoredFixes:
-      - 0
-      - 6360
-      scoredSeconds:
-      - 0
-      - 12959
-      scoredTimes:
-      - 2016-05-11T17:31:09Z
-      - 2016-05-11T21:07:08Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6360
+        scoredSeconds:
+        - 0
+        - 12959
+        scoredTimes:
+        - 2016-05-11T17:31:09Z
+        - 2016-05-11T21:07:08Z
+        scoredWindowSeconds: 12959
 - - - - '115'
       - Andrew Hollidge
-    - scoredFixes:
-      - 0
-      - 1427
-      scoredSeconds:
-      - 0
-      - 7377
-      scoredTimes:
-      - 2016-05-12T18:45:37Z
-      - 2016-05-12T20:48:34Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1427
+        scoredSeconds:
+        - 0
+        - 7377
+        scoredTimes:
+        - 2016-05-12T18:45:37Z
+        - 2016-05-12T20:48:34Z
+        scoredWindowSeconds: 7377
   - - - '143'
       - Anna Eppink
-    - scoredFixes:
-      - 7
-      - 805
-      scoredSeconds:
-      - 215
-      - 4369
-      scoredTimes:
-      - 2016-05-12T18:57:04Z
-      - 2016-05-12T20:06:18Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 805
+        scoredSeconds:
+        - 215
+        - 4369
+        scoredTimes:
+        - 2016-05-12T18:57:04Z
+        - 2016-05-12T20:06:18Z
+        scoredWindowSeconds: 4154
   - - - '119'
       - Bart Weghorst
-    - scoredFixes:
-      - 7
-      - 1373
-      scoredSeconds:
-      - 215
-      - 7292
-      scoredTimes:
-      - 2016-05-12T18:51:44Z
-      - 2016-05-12T20:49:41Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 1373
+        scoredSeconds:
+        - 215
+        - 7292
+        scoredTimes:
+        - 2016-05-12T18:51:44Z
+        - 2016-05-12T20:49:41Z
+        scoredWindowSeconds: 7077
   - - - '140'
       - Bill Vickery
-    - scoredFixes:
-      - 0
-      - 1979
-      scoredSeconds:
-      - 0
-      - 3958
-      scoredTimes:
-      - 2016-05-12T19:12:07Z
-      - 2016-05-12T20:18:05Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1979
+        scoredSeconds:
+        - 0
+        - 3958
+        scoredTimes:
+        - 2016-05-12T19:12:07Z
+        - 2016-05-12T20:18:05Z
+        scoredWindowSeconds: 3958
   - - - '104'
       - Christian Pollet
-    - scoredFixes:
-      - 25
-      - 5318
-      scoredSeconds:
-      - 50
-      - 10552
-      scoredTimes:
-      - 2016-05-12T19:02:22Z
-      - 2016-05-12T21:57:24Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 5318
+        scoredSeconds:
+        - 50
+        - 10552
+        scoredTimes:
+        - 2016-05-12T19:02:22Z
+        - 2016-05-12T21:57:24Z
+        scoredWindowSeconds: 10502
   - - - '150'
       - Claudia Mejia
-    - scoredFixes:
-      - 2
-      - 4470
-      scoredSeconds:
-      - 62
-      - 10274
-      scoredTimes:
-      - 2016-05-12T18:49:56Z
-      - 2016-05-12T21:40:08Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 4470
+        scoredSeconds:
+        - 62
+        - 10274
+        scoredTimes:
+        - 2016-05-12T18:49:56Z
+        - 2016-05-12T21:40:08Z
+        scoredWindowSeconds: 10212
   - - - '110'
       - Cory Barnwell
-    - scoredFixes:
-      - 0
-      - 3394
-      scoredSeconds:
-      - 0
-      - 10709
-      scoredTimes:
-      - 2016-05-12T18:59:57Z
-      - 2016-05-12T21:58:26Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3394
+        scoredSeconds:
+        - 0
+        - 10709
+        scoredTimes:
+        - 2016-05-12T18:59:57Z
+        - 2016-05-12T21:58:26Z
+        scoredWindowSeconds: 10709
   - - - '101'
       - Davis Straub
-    - scoredFixes:
-      - 6
-      - 1333
-      scoredSeconds:
-      - 184
-      - 7080
-      scoredTimes:
-      - 2016-05-12T18:45:37Z
-      - 2016-05-12T20:40:33Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 6
+        - 1333
+        scoredSeconds:
+        - 184
+        - 7080
+        scoredTimes:
+        - 2016-05-12T18:45:37Z
+        - 2016-05-12T20:40:33Z
+        scoredWindowSeconds: 6896
   - - - '106'
       - Fabiano Nahoum
-    - scoredFixes:
-      - 0
-      - 787
-      scoredSeconds:
-      - 0
-      - 8241
-      scoredTimes:
-      - 2016-05-12T18:31:12Z
-      - 2016-05-12T20:48:33Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 787
+        scoredSeconds:
+        - 0
+        - 8241
+        scoredTimes:
+        - 2016-05-12T18:31:12Z
+        - 2016-05-12T20:48:33Z
+        scoredWindowSeconds: 8241
   - - - '127'
       - Gerry Pesavento
-    - scoredFixes:
-      - 0
-      - 1786
-      scoredSeconds:
-      - 0
-      - 9371
-      scoredTimes:
-      - 2016-05-12T18:32:22Z
-      - 2016-05-12T21:08:33Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1786
+        scoredSeconds:
+        - 0
+        - 9371
+        scoredTimes:
+        - 2016-05-12T18:32:22Z
+        - 2016-05-12T21:08:33Z
+        scoredWindowSeconds: 9371
   - - - '118'
       - Ingo Heilmann
-    - scoredFixes:
-      - 20
-      - 8923
-      scoredSeconds:
-      - 20
-      - 8939
-      scoredTimes:
-      - 2016-05-12T19:06:37Z
-      - 2016-05-12T21:35:16Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 20
+        - 8923
+        scoredSeconds:
+        - 20
+        - 8939
+        scoredTimes:
+        - 2016-05-12T19:06:37Z
+        - 2016-05-12T21:35:16Z
+        scoredWindowSeconds: 8919
   - - - '123'
       - JD Guillemette
-    - scoredFixes:
-      - 49
-      - 4090
-      scoredSeconds:
-      - 147
-      - 9780
-      scoredTimes:
-      - 2016-05-12T18:46:18Z
-      - 2016-05-12T21:26:51Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 49
+        - 4090
+        scoredSeconds:
+        - 147
+        - 9780
+        scoredTimes:
+        - 2016-05-12T18:46:18Z
+        - 2016-05-12T21:26:51Z
+        scoredWindowSeconds: 9633
   - - - '132'
       - James Stinnett
-    - scoredFixes:
-      - 0
-      - 1297
-      scoredSeconds:
-      - 0
-      - 12369
-      scoredTimes:
-      - 2016-05-12T18:33:37Z
-      - 2016-05-12T21:59:46Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1297
+        scoredSeconds:
+        - 0
+        - 12369
+        scoredTimes:
+        - 2016-05-12T18:33:37Z
+        - 2016-05-12T21:59:46Z
+        scoredWindowSeconds: 12369
   - - - '126'
       - Jeff Kannard
-    - scoredFixes:
-      - 7
-      - 1149
-      scoredSeconds:
-      - 215
-      - 3798
-      scoredTimes:
-      - 2016-05-12T19:11:30Z
-      - 2016-05-12T20:11:13Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 1149
+        scoredSeconds:
+        - 215
+        - 3798
+        scoredTimes:
+        - 2016-05-12T19:11:30Z
+        - 2016-05-12T20:11:13Z
+        scoredWindowSeconds: 3583
   - - - '116'
       - Jeffery Bohl
-    - scoredFixes:
-      - 0
-      - 2857
-      scoredSeconds:
-      - 0
-      - 9033
-      scoredTimes:
-      - 2016-05-12T18:51:59Z
-      - 2016-05-12T21:22:32Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2857
+        scoredSeconds:
+        - 0
+        - 9033
+        scoredTimes:
+        - 2016-05-12T18:51:59Z
+        - 2016-05-12T21:22:32Z
+        scoredWindowSeconds: 9033
   - - - '142'
       - John Simon
-    - scoredFixes:
-      - 49
-      - 3061
-      scoredSeconds:
-      - 245
-      - 8604
-      scoredTimes:
-      - 2016-05-12T18:36:59Z
-      - 2016-05-12T20:56:18Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 49
+        - 3061
+        scoredSeconds:
+        - 245
+        - 8604
+        scoredTimes:
+        - 2016-05-12T18:36:59Z
+        - 2016-05-12T20:56:18Z
+        scoredWindowSeconds: 8359
   - - - '138'
       - Jonny Durand
-    - scoredFixes:
-      - 0
-      - 790
-      scoredSeconds:
-      - 0
-      - 7873
-      scoredTimes:
-      - 2016-05-12T18:47:20Z
-      - 2016-05-12T20:58:33Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 790
+        scoredSeconds:
+        - 0
+        - 7873
+        scoredTimes:
+        - 2016-05-12T18:47:20Z
+        - 2016-05-12T20:58:33Z
+        scoredWindowSeconds: 7873
   - - - '134'
       - Kinsley Sykes
-    - scoredFixes:
-      - 9
-      - 1109
-      scoredSeconds:
-      - 275
-      - 4775
-      scoredTimes:
-      - 2016-05-12T19:11:27Z
-      - 2016-05-12T20:26:27Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 1109
+        scoredSeconds:
+        - 275
+        - 4775
+        scoredTimes:
+        - 2016-05-12T19:11:27Z
+        - 2016-05-12T20:26:27Z
+        scoredWindowSeconds: 4500
   - - - '125'
       - Larry Bunner
-    - scoredFixes:
-      - 0
-      - 1133
-      scoredSeconds:
-      - 0
-      - 11777
-      scoredTimes:
-      - 2016-05-12T18:35:19Z
-      - 2016-05-12T21:51:36Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1133
+        scoredSeconds:
+        - 0
+        - 11777
+        scoredTimes:
+        - 2016-05-12T18:35:19Z
+        - 2016-05-12T21:51:36Z
+        scoredWindowSeconds: 11777
   - - - '103'
       - Matt Christensen
-    - scoredFixes:
-      - 10
-      - 3125
-      scoredSeconds:
-      - 300
-      - 9647
-      scoredTimes:
-      - 2016-05-12T19:00:30Z
-      - 2016-05-12T21:36:17Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 3125
+        scoredSeconds:
+        - 300
+        - 9647
+        scoredTimes:
+        - 2016-05-12T19:00:30Z
+        - 2016-05-12T21:36:17Z
+        scoredWindowSeconds: 9347
   - - - '109'
       - Michael Williams
-    - scoredFixes:
-      - 0
-      - 610
-      scoredSeconds:
-      - 0
-      - 6410
-      scoredTimes:
-      - 2016-05-12T19:05:53Z
-      - 2016-05-12T20:52:43Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 610
+        scoredSeconds:
+        - 0
+        - 6410
+        scoredTimes:
+        - 2016-05-12T19:05:53Z
+        - 2016-05-12T20:52:43Z
+        scoredWindowSeconds: 6410
   - - - '114'
       - Mick Howard
-    - scoredFixes:
-      - 4
-      - 4162
-      scoredSeconds:
-      - 123
-      - 8753
-      scoredTimes:
-      - 2016-05-12T18:57:12Z
-      - 2016-05-12T21:21:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 4162
+        scoredSeconds:
+        - 123
+        - 8753
+        scoredTimes:
+        - 2016-05-12T18:57:12Z
+        - 2016-05-12T21:21:02Z
+        scoredWindowSeconds: 8630
   - - - '120'
       - Mike Glennon
-    - scoredFixes:
-      - 24
-      - 1755
-      scoredSeconds:
-      - 72
-      - 5275
-      scoredTimes:
-      - 2016-05-12T18:34:47Z
-      - 2016-05-12T20:01:30Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 24
+        - 1755
+        scoredSeconds:
+        - 72
+        - 5275
+        scoredTimes:
+        - 2016-05-12T18:34:47Z
+        - 2016-05-12T20:01:30Z
+        scoredWindowSeconds: 5203
   - - - '129'
       - Mike Jefferson
-    - scoredFixes:
-      - 0
-      - 369
-      scoredSeconds:
-      - 0
-      - 3974
-      scoredTimes:
-      - 2016-05-12T19:04:38Z
-      - 2016-05-12T20:10:52Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 369
+        scoredSeconds:
+        - 0
+        - 3974
+        scoredTimes:
+        - 2016-05-12T19:04:38Z
+        - 2016-05-12T20:10:52Z
+        scoredWindowSeconds: 3974
   - - - '135'
       - Misael Rosalez
-    - scoredFixes:
-      - 0
-      - 2379
-      scoredSeconds:
-      - 0
-      - 7407
-      scoredTimes:
-      - 2016-05-12T18:41:22Z
-      - 2016-05-12T20:44:49Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2379
+        scoredSeconds:
+        - 0
+        - 7407
+        scoredTimes:
+        - 2016-05-12T18:41:22Z
+        - 2016-05-12T20:44:49Z
+        scoredWindowSeconds: 7407
   - - - '133'
       - Olav Olsen
-    - scoredFixes:
-      - 26
-      - 2829
-      scoredSeconds:
-      - 78
-      - 8493
-      scoredTimes:
-      - 2016-05-12T18:57:20Z
-      - 2016-05-12T21:17:35Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 26
+        - 2829
+        scoredSeconds:
+        - 78
+        - 8493
+        scoredTimes:
+        - 2016-05-12T18:57:20Z
+        - 2016-05-12T21:17:35Z
+        scoredWindowSeconds: 8415
   - - - '113'
       - Olav Opsanger
-    - scoredFixes:
-      - 0
-      - 2369
-      scoredSeconds:
-      - 0
-      - 12085
-      scoredTimes:
-      - 2016-05-12T18:37:33Z
-      - 2016-05-12T21:58:58Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2369
+        scoredSeconds:
+        - 0
+        - 12085
+        scoredTimes:
+        - 2016-05-12T18:37:33Z
+        - 2016-05-12T21:58:58Z
+        scoredWindowSeconds: 12085
   - - - '121'
       - Oleg Bondarchuk
-    - scoredFixes:
-      - 0
-      - 864
-      scoredSeconds:
-      - 0
-      - 8643
-      scoredTimes:
-      - 2016-05-12T18:33:04Z
-      - 2016-05-12T20:57:07Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 864
+        scoredSeconds:
+        - 0
+        - 8643
+        scoredTimes:
+        - 2016-05-12T18:33:04Z
+        - 2016-05-12T20:57:07Z
+        scoredWindowSeconds: 8643
   - - - '141'
       - Patrick Halfhill
-    - scoredFixes:
-      - 0
-      - 2519
-      scoredSeconds:
-      - 0
-      - 7831
-      scoredTimes:
-      - 2016-05-12T19:01:27Z
-      - 2016-05-12T21:11:58Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2519
+        scoredSeconds:
+        - 0
+        - 7831
+        scoredTimes:
+        - 2016-05-12T19:01:27Z
+        - 2016-05-12T21:11:58Z
+        scoredWindowSeconds: 7831
   - - - '111'
       - Patrick Kruse
-    - scoredFixes:
-      - 0
-      - 1023
-      scoredSeconds:
-      - 0
-      - 10633
-      scoredTimes:
-      - 2016-05-12T18:40:20Z
-      - 2016-05-12T21:37:33Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1023
+        scoredSeconds:
+        - 0
+        - 10633
+        scoredTimes:
+        - 2016-05-12T18:40:20Z
+        - 2016-05-12T21:37:33Z
+        scoredWindowSeconds: 10633
   - - - '124'
       - Patrick Pannese
-    - scoredFixes:
-      - 0
-      - 3942
-      scoredSeconds:
-      - 0
-      - 8338
-      scoredTimes:
-      - 2016-05-12T18:54:30Z
-      - 2016-05-12T21:13:28Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3942
+        scoredSeconds:
+        - 0
+        - 8338
+        scoredTimes:
+        - 2016-05-12T18:54:30Z
+        - 2016-05-12T21:13:28Z
+        scoredWindowSeconds: 8338
   - - - '146'
       - Peter Kelley
-    - scoredFixes:
-      - 23
-      - 1347
-      scoredSeconds:
-      - 69
-      - 4058
-      scoredTimes:
-      - 2016-05-12T19:10:49Z
-      - 2016-05-12T20:17:18Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 23
+        - 1347
+        scoredSeconds:
+        - 69
+        - 4058
+        scoredTimes:
+        - 2016-05-12T19:10:49Z
+        - 2016-05-12T20:17:18Z
+        scoredWindowSeconds: 3989
   - - - '108'
       - Raul Guerra
-    - scoredFixes:
-      - 13
-      - 805
-      scoredSeconds:
-      - 130
-      - 8079
-      scoredTimes:
-      - 2016-05-12T18:30:52Z
-      - 2016-05-12T20:43:21Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 13
+        - 805
+        scoredSeconds:
+        - 130
+        - 8079
+        scoredTimes:
+        - 2016-05-12T18:30:52Z
+        - 2016-05-12T20:43:21Z
+        scoredWindowSeconds: 7949
   - - - '102'
       - Richard lovelace
-    - scoredFixes:
-      - 10
-      - 879
-      scoredSeconds:
-      - 306
-      - 9145
-      scoredTimes:
-      - 2016-05-12T18:32:49Z
-      - 2016-05-12T21:00:08Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 879
+        scoredSeconds:
+        - 306
+        - 9145
+        scoredTimes:
+        - 2016-05-12T18:32:49Z
+        - 2016-05-12T21:00:08Z
+        scoredWindowSeconds: 8839
   - - - '117'
       - Robert Dallas
-    - scoredFixes:
-      - 2
-      - 5401
-      scoredSeconds:
-      - 62
-      - 11374
-      scoredTimes:
-      - 2016-05-12T18:49:56Z
-      - 2016-05-12T21:58:28Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 5401
+        scoredSeconds:
+        - 62
+        - 11374
+        scoredTimes:
+        - 2016-05-12T18:49:56Z
+        - 2016-05-12T21:58:28Z
+        scoredWindowSeconds: 11312
   - - - '131'
       - Robin Hamilton
-    - scoredFixes:
-      - 0
-      - 5649
-      scoredSeconds:
-      - 0
-      - 11768
-      scoredTimes:
-      - 2016-05-12T18:40:14Z
-      - 2016-05-12T21:56:22Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5649
+        scoredSeconds:
+        - 0
+        - 11768
+        scoredTimes:
+        - 2016-05-12T18:40:14Z
+        - 2016-05-12T21:56:22Z
+        scoredWindowSeconds: 11768
   - - - '145'
       - Roger Irby
-    - scoredFixes:
-      - 0
-      - 1095
-      scoredSeconds:
-      - 0
-      - 5852
-      scoredTimes:
-      - 2016-05-12T19:00:44Z
-      - 2016-05-12T20:38:16Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1095
+        scoredSeconds:
+        - 0
+        - 5852
+        scoredTimes:
+        - 2016-05-12T19:00:44Z
+        - 2016-05-12T20:38:16Z
+        scoredWindowSeconds: 5852
   - - - '112'
       - Sergey Kataev
-    - scoredFixes:
-      - 3
-      - 2433
-      scoredSeconds:
-      - 9
-      - 7353
-      scoredTimes:
-      - 2016-05-12T19:02:46Z
-      - 2016-05-12T21:05:10Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 2433
+        scoredSeconds:
+        - 9
+        - 7353
+        scoredTimes:
+        - 2016-05-12T19:02:46Z
+        - 2016-05-12T21:05:10Z
+        scoredWindowSeconds: 7344
   - - - '144'
       - Tom Lanning
-    - scoredFixes:
-      - 0
-      - 1114
-      scoredSeconds:
-      - 0
-      - 4820
-      scoredTimes:
-      - 2016-05-12T18:58:33Z
-      - 2016-05-12T20:18:53Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1114
+        scoredSeconds:
+        - 0
+        - 4820
+        scoredTimes:
+        - 2016-05-12T18:58:33Z
+        - 2016-05-12T20:18:53Z
+        scoredWindowSeconds: 4820
   - - - '139'
       - Tullio Gervasoni
-    - scoredFixes:
-      - 0
-      - 1165
-      scoredSeconds:
-      - 0
-      - 11459
-      scoredTimes:
-      - 2016-05-12T18:47:07Z
-      - 2016-05-12T21:58:06Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1165
+        scoredSeconds:
+        - 0
+        - 11459
+        scoredTimes:
+        - 2016-05-12T18:47:07Z
+        - 2016-05-12T21:58:06Z
+        scoredWindowSeconds: 11459
   - - - '128'
       - Zac Majors
-    - scoredFixes:
-      - 0
-      - 3286
-      scoredSeconds:
-      - 0
-      - 6853
-      scoredTimes:
-      - 2016-05-12T18:57:10Z
-      - 2016-05-12T20:51:23Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3286
+        scoredSeconds:
+        - 0
+        - 6853
+        scoredTimes:
+        - 2016-05-12T18:57:10Z
+        - 2016-05-12T20:51:23Z
+        scoredWindowSeconds: 6853
 - - - - '115'
       - Andrew Hollidge
-    - null
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored: null
   - - - '143'
       - Anna Eppink
-    - scoredFixes:
-      - 7
-      - 1539
-      scoredSeconds:
-      - 215
-      - 8098
-      scoredTimes:
-      - 2016-05-13T17:45:47Z
-      - 2016-05-13T19:57:10Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 1539
+        scoredSeconds:
+        - 215
+        - 8098
+        scoredTimes:
+        - 2016-05-13T17:45:47Z
+        - 2016-05-13T19:57:10Z
+        scoredWindowSeconds: 7883
   - - - '119'
       - Bart Weghorst
-    - scoredFixes:
-      - 8
-      - 2769
-      scoredSeconds:
-      - 247
-      - 12884
-      scoredTimes:
-      - 2016-05-13T17:32:03Z
-      - 2016-05-13T21:02:40Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 8
+        - 2769
+        scoredSeconds:
+        - 247
+        - 12884
+        scoredTimes:
+        - 2016-05-13T17:32:03Z
+        - 2016-05-13T21:02:40Z
+        scoredWindowSeconds: 12637
   - - - '140'
       - Bill Vickery
-    - scoredFixes:
-      - 973
-      - 2171
-      scoredSeconds:
-      - 1946
-      - 4341
-      scoredTimes:
-      - 2016-05-13T18:10:58Z
-      - 2016-05-13T18:50:53Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 973
+        - 2171
+        scoredSeconds:
+        - 1946
+        - 4341
+        scoredTimes:
+        - 2016-05-13T18:10:58Z
+        - 2016-05-13T18:50:53Z
+        scoredWindowSeconds: 2395
   - - - '104'
       - Christian Pollet
-    - scoredFixes:
-      - 23
-      - 4772
-      scoredSeconds:
-      - 46
-      - 9350
-      scoredTimes:
-      - 2016-05-13T17:36:01Z
-      - 2016-05-13T20:11:05Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 23
+        - 4772
+        scoredSeconds:
+        - 46
+        - 9350
+        scoredTimes:
+        - 2016-05-13T17:36:01Z
+        - 2016-05-13T20:11:05Z
+        scoredWindowSeconds: 9304
   - - - '150'
       - Claudia Mejia
-    - scoredFixes:
-      - 0
-      - 4356
-      scoredSeconds:
-      - 0
-      - 13177
-      scoredTimes:
-      - 2016-05-13T17:08:00Z
-      - 2016-05-13T20:47:37Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4356
+        scoredSeconds:
+        - 0
+        - 13177
+        scoredTimes:
+        - 2016-05-13T17:08:00Z
+        - 2016-05-13T20:47:37Z
+        scoredWindowSeconds: 13177
   - - - '110'
       - Cory Barnwell
-    - scoredFixes:
-      - 0
-      - 3324
-      scoredSeconds:
-      - 0
-      - 10231
-      scoredTimes:
-      - 2016-05-13T17:40:49Z
-      - 2016-05-13T20:31:20Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 3324
+        scoredSeconds:
+        - 0
+        - 10231
+        scoredTimes:
+        - 2016-05-13T17:40:49Z
+        - 2016-05-13T20:31:20Z
+        scoredWindowSeconds: 10231
   - - - '101'
       - Davis Straub
-    - scoredFixes:
-      - 0
-      - 1966
-      scoredSeconds:
-      - 0
-      - 9249
-      scoredTimes:
-      - 2016-05-13T17:28:45Z
-      - 2016-05-13T20:02:54Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1966
+        scoredSeconds:
+        - 0
+        - 9249
+        scoredTimes:
+        - 2016-05-13T17:28:45Z
+        - 2016-05-13T20:02:54Z
+        scoredWindowSeconds: 9249
   - - - '106'
       - Fabiano Nahoum
-    - scoredFixes:
-      - 0
-      - 1360
-      scoredSeconds:
-      - 0
-      - 12378
-      scoredTimes:
-      - 2016-05-13T17:11:10Z
-      - 2016-05-13T20:37:28Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1360
+        scoredSeconds:
+        - 0
+        - 12378
+        scoredTimes:
+        - 2016-05-13T17:11:10Z
+        - 2016-05-13T20:37:28Z
+        scoredWindowSeconds: 12378
   - - - '127'
       - Gerry Pesavento
-    - scoredFixes:
-      - 0
-      - 2495
-      scoredSeconds:
-      - 0
-      - 12154
-      scoredTimes:
-      - 2016-05-13T17:13:09Z
-      - 2016-05-13T20:35:43Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2495
+        scoredSeconds:
+        - 0
+        - 12154
+        scoredTimes:
+        - 2016-05-13T17:13:09Z
+        - 2016-05-13T20:35:43Z
+        scoredWindowSeconds: 12154
   - - - '118'
       - Ingo Heilmann
-    - scoredFixes:
-      - 17
-      - 3383
-      scoredSeconds:
-      - 17
-      - 3389
-      scoredTimes:
-      - 2016-05-13T17:48:35Z
-      - 2016-05-13T18:44:47Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 17
+        - 3383
+        scoredSeconds:
+        - 17
+        - 3389
+        scoredTimes:
+        - 2016-05-13T17:48:35Z
+        - 2016-05-13T18:44:47Z
+        scoredWindowSeconds: 3372
   - - - '123'
       - JD Guillemette
-    - scoredFixes:
-      - 0
-      - 6078
-      scoredSeconds:
-      - 0
-      - 14196
-      scoredTimes:
-      - 2016-05-13T17:02:37Z
-      - 2016-05-13T20:59:13Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6078
+        scoredSeconds:
+        - 0
+        - 14196
+        scoredTimes:
+        - 2016-05-13T17:02:37Z
+        - 2016-05-13T20:59:13Z
+        scoredWindowSeconds: 14196
   - - - '132'
       - James Stinnett
-    - scoredFixes:
-      - 3
-      - 1165
-      scoredSeconds:
-      - 92
-      - 10537
-      scoredTimes:
-      - 2016-05-13T17:18:47Z
-      - 2016-05-13T20:12:52Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 3
+        - 1165
+        scoredSeconds:
+        - 92
+        - 10537
+        scoredTimes:
+        - 2016-05-13T17:18:47Z
+        - 2016-05-13T20:12:52Z
+        scoredWindowSeconds: 10445
   - - - '126'
       - Jeff Kannard
-    - scoredFixes:
-      - 0
-      - 1038
-      scoredSeconds:
-      - 0
-      - 3450
-      scoredTimes:
-      - 2016-05-13T17:48:31Z
-      - 2016-05-13T18:46:01Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1038
+        scoredSeconds:
+        - 0
+        - 3450
+        scoredTimes:
+        - 2016-05-13T17:48:31Z
+        - 2016-05-13T18:46:01Z
+        scoredWindowSeconds: 3450
   - - - '116'
       - Jeffery Bohl
-    - scoredFixes:
-      - 0
-      - 993
-      scoredSeconds:
-      - 0
-      - 3290
-      scoredTimes:
-      - 2016-05-13T17:34:05Z
-      - 2016-05-13T18:28:55Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 993
+        scoredSeconds:
+        - 0
+        - 3290
+        scoredTimes:
+        - 2016-05-13T17:34:05Z
+        - 2016-05-13T18:28:55Z
+        scoredWindowSeconds: 3290
   - - - '142'
       - John Simon
-    - scoredFixes:
-      - 13
-      - 1295
-      scoredSeconds:
-      - 104
-      - 10341
-      scoredTimes:
-      - 2016-05-13T17:17:13Z
-      - 2016-05-13T20:07:50Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 13
+        - 1295
+        scoredSeconds:
+        - 104
+        - 10341
+        scoredTimes:
+        - 2016-05-13T17:17:13Z
+        - 2016-05-13T20:07:50Z
+        scoredWindowSeconds: 10237
   - - - '138'
       - Jonny Durand
-    - scoredFixes:
-      - 0
-      - 1021
-      scoredSeconds:
-      - 0
-      - 9282
-      scoredTimes:
-      - 2016-05-13T17:23:43Z
-      - 2016-05-13T19:58:25Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1021
+        scoredSeconds:
+        - 0
+        - 9282
+        scoredTimes:
+        - 2016-05-13T17:23:43Z
+        - 2016-05-13T19:58:25Z
+        scoredWindowSeconds: 9282
   - - - '134'
       - Kinsley Sykes
-    - scoredFixes:
-      - 217
-      - 928
-      scoredSeconds:
-      - 1151
-      - 4049
-      scoredTimes:
-      - 2016-05-13T17:52:16Z
-      - 2016-05-13T18:40:34Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 217
+        - 928
+        scoredSeconds:
+        - 1151
+        - 4049
+        scoredTimes:
+        - 2016-05-13T17:52:16Z
+        - 2016-05-13T18:40:34Z
+        scoredWindowSeconds: 2898
   - - - '125'
       - Larry Bunner
-    - scoredFixes:
-      - 2
-      - 450
-      scoredSeconds:
-      - 61
-      - 4788
-      scoredTimes:
-      - 2016-05-13T17:16:47Z
-      - 2016-05-13T18:35:34Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 450
+        scoredSeconds:
+        - 61
+        - 4788
+        scoredTimes:
+        - 2016-05-13T17:16:47Z
+        - 2016-05-13T18:35:34Z
+        scoredWindowSeconds: 4727
   - - - '103'
       - Matt Christensen
-    - scoredFixes:
-      - 10
-      - 3384
-      scoredSeconds:
-      - 300
-      - 10186
-      scoredTimes:
-      - 2016-05-13T17:40:50Z
-      - 2016-05-13T20:25:36Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 3384
+        scoredSeconds:
+        - 300
+        - 10186
+        scoredTimes:
+        - 2016-05-13T17:40:50Z
+        - 2016-05-13T20:25:36Z
+        scoredWindowSeconds: 9886
   - - - '114'
       - Mick Howard
-    - scoredFixes:
-      - 0
-      - 6407
-      scoredSeconds:
-      - 0
-      - 12538
-      scoredTimes:
-      - 2016-05-13T17:36:19Z
-      - 2016-05-13T21:05:17Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6407
+        scoredSeconds:
+        - 0
+        - 12538
+        scoredTimes:
+        - 2016-05-13T17:36:19Z
+        - 2016-05-13T21:05:17Z
+        scoredWindowSeconds: 12538
   - - - '120'
       - Mike Glennon
-    - scoredFixes:
-      - 26
-      - 3415
-      scoredSeconds:
-      - 78
-      - 9936
-      scoredTimes:
-      - 2016-05-13T17:39:09Z
-      - 2016-05-13T20:23:27Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 26
+        - 3415
+        scoredSeconds:
+        - 78
+        - 9936
+        scoredTimes:
+        - 2016-05-13T17:39:09Z
+        - 2016-05-13T20:23:27Z
+        scoredWindowSeconds: 9858
   - - - '129'
       - Mike Jefferson
-    - scoredFixes:
-      - 0
-      - 840
-      scoredSeconds:
-      - 0
-      - 8788
-      scoredTimes:
-      - 2016-05-13T17:09:50Z
-      - 2016-05-13T19:36:18Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 840
+        scoredSeconds:
+        - 0
+        - 8788
+        scoredTimes:
+        - 2016-05-13T17:09:50Z
+        - 2016-05-13T19:36:18Z
+        scoredWindowSeconds: 8788
   - - - '135'
       - Misael Rosalez
-    - scoredFixes:
-      - 9
-      - 3474
-      scoredSeconds:
-      - 270
-      - 10515
-      scoredTimes:
-      - 2016-05-13T17:31:46Z
-      - 2016-05-13T20:22:31Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 9
+        - 3474
+        scoredSeconds:
+        - 270
+        - 10515
+        scoredTimes:
+        - 2016-05-13T17:31:46Z
+        - 2016-05-13T20:22:31Z
+        scoredWindowSeconds: 10245
   - - - '133'
       - Olav Olsen
-    - scoredFixes:
-      - 25
-      - 4834
-      scoredSeconds:
-      - 75
-      - 14066
-      scoredTimes:
-      - 2016-05-13T17:37:28Z
-      - 2016-05-13T21:30:39Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 25
+        - 4834
+        scoredSeconds:
+        - 75
+        - 14066
+        scoredTimes:
+        - 2016-05-13T17:37:28Z
+        - 2016-05-13T21:30:39Z
+        scoredWindowSeconds: 13991
   - - - '113'
       - Olav Opsanger
-    - scoredFixes:
-      - 0
-      - 2560
-      scoredSeconds:
-      - 0
-      - 12592
-      scoredTimes:
-      - 2016-05-13T17:18:16Z
-      - 2016-05-13T20:48:08Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 2560
+        scoredSeconds:
+        - 0
+        - 12592
+        scoredTimes:
+        - 2016-05-13T17:18:16Z
+        - 2016-05-13T20:48:08Z
+        scoredWindowSeconds: 12592
   - - - '121'
       - Oleg Bondarchuk
-    - scoredFixes:
-      - 0
-      - 1035
-      scoredSeconds:
-      - 0
-      - 10350
-      scoredTimes:
-      - 2016-05-13T17:18:34Z
-      - 2016-05-13T20:11:04Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1035
+        scoredSeconds:
+        - 0
+        - 10350
+        scoredTimes:
+        - 2016-05-13T17:18:34Z
+        - 2016-05-13T20:11:04Z
+        scoredWindowSeconds: 10350
   - - - '141'
       - Patrick Halfhill
-    - scoredFixes:
-      - 0
-      - 611
-      scoredSeconds:
-      - 0
-      - 2104
-      scoredTimes:
-      - 2016-05-13T17:43:24Z
-      - 2016-05-13T18:18:28Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 611
+        scoredSeconds:
+        - 0
+        - 2104
+        scoredTimes:
+        - 2016-05-13T17:43:24Z
+        - 2016-05-13T18:18:28Z
+        scoredWindowSeconds: 2104
   - - - '111'
       - Patrick Kruse
-    - scoredFixes:
-      - 0
-      - 1283
-      scoredSeconds:
-      - 0
-      - 11034
-      scoredTimes:
-      - 2016-05-13T17:10:22Z
-      - 2016-05-13T20:14:16Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 1283
+        scoredSeconds:
+        - 0
+        - 11034
+        scoredTimes:
+        - 2016-05-13T17:10:22Z
+        - 2016-05-13T20:14:16Z
+        scoredWindowSeconds: 11034
   - - - '124'
       - Patrick Pannese
-    - scoredFixes:
-      - 10
-      - 4809
-      scoredSeconds:
-      - 307
-      - 9986
-      scoredTimes:
-      - 2016-05-13T17:42:13Z
-      - 2016-05-13T20:23:32Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 4809
+        scoredSeconds:
+        - 307
+        - 9986
+        scoredTimes:
+        - 2016-05-13T17:42:13Z
+        - 2016-05-13T20:23:32Z
+        scoredWindowSeconds: 9679
   - - - '146'
       - Peter Kelley
-    - scoredFixes:
-      - 23
-      - 1371
-      scoredSeconds:
-      - 69
-      - 4118
-      scoredTimes:
-      - 2016-05-13T18:24:08Z
-      - 2016-05-13T19:31:37Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 23
+        - 1371
+        scoredSeconds:
+        - 69
+        - 4118
+        scoredTimes:
+        - 2016-05-13T18:24:08Z
+        - 2016-05-13T19:31:37Z
+        scoredWindowSeconds: 4049
   - - - '108'
       - Raul Guerra
-    - scoredFixes:
-      - 7
-      - 750
-      scoredSeconds:
-      - 70
-      - 7488
-      scoredTimes:
-      - 2016-05-13T17:27:06Z
-      - 2016-05-13T19:30:44Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 7
+        - 750
+        scoredSeconds:
+        - 70
+        - 7488
+        scoredTimes:
+        - 2016-05-13T17:27:06Z
+        - 2016-05-13T19:30:44Z
+        scoredWindowSeconds: 7418
   - - - '102'
       - Richard lovelace
-    - scoredFixes:
-      - 10
-      - 1414
-      scoredSeconds:
-      - 306
-      - 12998
-      scoredTimes:
-      - 2016-05-13T17:12:16Z
-      - 2016-05-13T20:43:48Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 10
+        - 1414
+        scoredSeconds:
+        - 306
+        - 12998
+        scoredTimes:
+        - 2016-05-13T17:12:16Z
+        - 2016-05-13T20:43:48Z
+        scoredWindowSeconds: 12692
   - - - '117'
       - Robert Dallas
-    - scoredFixes:
-      - 0
-      - 6722
-      scoredSeconds:
-      - 0
-      - 13824
-      scoredTimes:
-      - 2016-05-13T17:23:36Z
-      - 2016-05-13T21:14:00Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 6722
+        scoredSeconds:
+        - 0
+        - 13824
+        scoredTimes:
+        - 2016-05-13T17:23:36Z
+        - 2016-05-13T21:14:00Z
+        scoredWindowSeconds: 13824
   - - - '131'
       - Robin Hamilton
-    - scoredFixes:
-      - 0
-      - 4887
-      scoredSeconds:
-      - 0
-      - 10157
-      scoredTimes:
-      - 2016-05-13T17:21:49Z
-      - 2016-05-13T20:11:06Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 4887
+        scoredSeconds:
+        - 0
+        - 10157
+        scoredTimes:
+        - 2016-05-13T17:21:49Z
+        - 2016-05-13T20:11:06Z
+        scoredWindowSeconds: 10157
   - - - '145'
       - Roger Irby
-    - scoredFixes:
-      - 0
-      - 601
-      scoredSeconds:
-      - 0
-      - 3315
-      scoredTimes:
-      - 2016-05-13T17:44:51Z
-      - 2016-05-13T18:40:06Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 601
+        scoredSeconds:
+        - 0
+        - 3315
+        scoredTimes:
+        - 2016-05-13T17:44:51Z
+        - 2016-05-13T18:40:06Z
+        scoredWindowSeconds: 3315
   - - - '112'
       - Sergey Kataev
-    - scoredFixes:
-      - 27
-      - 3484
-      scoredSeconds:
-      - 81
-      - 10529
-      scoredTimes:
-      - 2016-05-13T17:46:20Z
-      - 2016-05-13T20:40:28Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 27
+        - 3484
+        scoredSeconds:
+        - 81
+        - 10529
+        scoredTimes:
+        - 2016-05-13T17:46:20Z
+        - 2016-05-13T20:40:28Z
+        scoredWindowSeconds: 10448
   - - - '144'
       - Tom Lanning
-    - scoredFixes:
-      - 4
-      - 2031
-      scoredSeconds:
-      - 122
-      - 8571
-      scoredTimes:
-      - 2016-05-13T17:40:35Z
-      - 2016-05-13T20:01:24Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 4
+        - 2031
+        scoredSeconds:
+        - 122
+        - 8571
+        scoredTimes:
+        - 2016-05-13T17:40:35Z
+        - 2016-05-13T20:01:24Z
+        scoredWindowSeconds: 8449
   - - - '139'
       - Tullio Gervasoni
-    - scoredFixes:
-      - 2
-      - 920
-      scoredSeconds:
-      - 60
-      - 9292
-      scoredTimes:
-      - 2016-05-13T17:28:10Z
-      - 2016-05-13T20:02:02Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 2
+        - 920
+        scoredSeconds:
+        - 60
+        - 9292
+        scoredTimes:
+        - 2016-05-13T17:28:10Z
+        - 2016-05-13T20:02:02Z
+        scoredWindowSeconds: 9232
   - - - '128'
       - Zac Majors
-    - scoredFixes:
-      - 0
-      - 5289
-      scoredSeconds:
-      - 0
-      - 10794
-      scoredTimes:
-      - 2016-05-13T17:20:10Z
-      - 2016-05-13T20:20:04Z
+    - stopRacingGate: null
+      stopRacingStart: null
+      stopScored:
+        scoredFixes:
+        - 0
+        - 5289
+        scoredSeconds:
+        - 0
+        - 10794
+        scoredTimes:
+        - 2016-05-13T17:20:10Z
+        - 2016-05-13T20:20:04Z
+        scoredWindowSeconds: 10794
 timing:
 - zonesSum:
   - 41
